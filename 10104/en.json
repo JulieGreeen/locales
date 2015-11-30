@@ -1913,5 +1913,6 @@
   "chrome_push_access": "Please allow me to send you push notifications, or simply close this window",
   "resend":"Resend",
   "maintain_app_for_exp_new": "Rate the app in Google Play and you will get 100000 fame for free!",
-  "for_exp_btn": "Get fame."
+  "for_exp_btn": "Received 100000 fame for rate",
+  "fame_for_rate_received":"Get fame"
 }
