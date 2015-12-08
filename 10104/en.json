@@ -1901,7 +1901,7 @@
   "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
   "privacy_policy_url":"https://docs.google.com/document/d/1pnvHPZa7c5lQ49Ib0e_-cG7VoPgoqyZntBigIHEk_kU/pub",
   "terms_of_use_url":"https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub",
-  "show":"шоу",
+  "show":"show",
   "thanksgiv":"Let's celebrate!",
   "present_turkey_promo":"Congratulations to the United States with the Thanksgiving day! Only today: get the special turkey gift!",
   "thanks_giving":"Happy Thanksgiving!",
@@ -1923,5 +1923,9 @@
   "present_sw_helmet_descr":"Stormtroopers are elite warriors and the personification of Emperor Palpatine's  absolute power. Ruthless and fearless. Put on your Stormtroopers helmet and embark on the protection of the Galactic Empire.",
   "present_sw_promo":"There are legends about what happened. And true to the single. The dark side, the Jedi Order – they exist. The strength appeals to you. Told her. And since coming awakening forces, choose your side.",
   "your_friend_streaming_p": "Your friend {0} has started streaming",
-  "your_favorite_translation_p": "Your favorite host {0} has started streaming"
+  "your_favorite_translation_p": "Your favorite host {0} has started streaming",
+  "friend_birthday_today_p": "Your friend {0} is celebrating his birthday today.",
+  "idol_birthday_today_p": "Your favorite host {0} is celebrating his birthday today.",
+  "friend_banned_act_param": "{0} banned your friend {1}!",
+  "idol_banned_act_param": "{0} banned your favorite host {1}!"
 }
