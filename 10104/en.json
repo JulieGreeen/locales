@@ -1928,9 +1928,20 @@
   "idol_birthday_today_p": "Your favorite host {0} is celebrating his birthday today.",
   "friend_banned_act_param": "{0} banned your friend {1}!",
   "idol_banned_act_param": "{0} banned your favorite host {1}!",
-  "push_remind_msg":"Receive notification of all news chat: gifts, birthdays, airing major. %link%",
-  "push_remind_link":"Allow notifications.",
+  "push_remind_msg":"Do you want to be aware of the major events Vanilla show? %link%",
+  "push_remind_link":"Yes, allow notifications.",
+  "push_remind_msg2":"Receive notification of all news chat: gifts, birthdays, broadcasts. %link%",
+  "push_remind_link2":"Allow notifications.",
+  "push_remind_msg3":"Always stay up to date chat - connect the notice. %link%",
+  "push_remind_link3":"Allow notifications.",
+  "push_remind_msg4":"Turn on notifications received gifts, birthdays, friends and favorite activities leading. %link%",
+  "push_remind_link4":"Allow notifications!",
+  "push_remind_1":"Want to find out first about the next broadcast? %link%",
   "push_remind_2":"Subscribe to %nick% and be aware of his next broadcast! %link%",
   "push_remind_3":"Like %nick%? Subscribe to these broadcasts. %link%",
-  "push_remind_4_link":"Subscribe"
+  "push_remind_4":"Be aware of my next broadcast. %link% to %nick%",
+  "push_remind_1_link":"Конечно.",
+  "push_remind_2_link":"Подписаться",
+  "push_remind_3_link":"Подписаться",
+  "push_remind_4_link":"Подписаться"
 }
