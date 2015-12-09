@@ -1927,5 +1927,10 @@
   "friend_birthday_today_p": "Your friend {0} is celebrating his birthday today.",
   "idol_birthday_today_p": "Your favorite host {0} is celebrating his birthday today.",
   "friend_banned_act_param": "{0} banned your friend {1}!",
-  "idol_banned_act_param": "{0} banned your favorite host {1}!"
+  "idol_banned_act_param": "{0} banned your favorite host {1}!",
+  "push_remind_msg":"Receive notification of all news chat: gifts, birthdays, airing major. %link%",
+  "push_remind_link":"Allow notifications.",
+  "push_remind_2":"Subscribe to %nick% and be aware of his next broadcast! %link%",
+  "push_remind_3":"Like %nick%? Subscribe to these broadcasts. %link%",
+  "push_remind_4_link":"Subscribe"
 }
