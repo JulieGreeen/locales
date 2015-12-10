@@ -1940,8 +1940,8 @@
   "push_remind_2":"Subscribe to %nick% and be aware of his next broadcast! %link%",
   "push_remind_3":"Like %nick%? Subscribe to these broadcasts. %link%",
   "push_remind_4":"Be aware of my next broadcast. %link% to %nick%",
-  "push_remind_1_link":"Конечно.",
-  "push_remind_2_link":"Подписаться",
-  "push_remind_3_link":"Подписаться",
-  "push_remind_4_link":"Подписаться"
+  "push_remind_1_link":"Of course.",
+  "push_remind_2_link":"Subscribe",
+  "push_remind_3_link":"Subscribe",
+  "push_remind_4_link":"Subscribe"
 }
