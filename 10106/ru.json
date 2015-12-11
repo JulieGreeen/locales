@@ -39,6 +39,7 @@
   "common.fines.reasons.check-network-data": "Проверка сетевой активности аккаунта (IP-адреса, ID-устройства)",
   "common.fines.reasons.delete-account": "Ваш аккаунт был удалён после получения от вас соответствующей заявки. Данные удалённого аккаунта хранятся в архиве в течении месяца и в течении этого срока Вы можете заказать и оплатить услугу востановление вашего аккаунта из архива.",
   "common.fines.reasons.delete-account.header": "Аккаунт удалён",
+  "common.fines.reasons.sexual-behavior": "Непристойное сексуальное поведение",
   "common.fines.timeDays": "д.",
   "common.fines.timeHeader": "Вы заблокированы, доступ  приложению будет открыт через",
   "common.fines.timeHours": "ч.",
