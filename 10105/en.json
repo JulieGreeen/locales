@@ -641,6 +641,11 @@
   "every_time_param" : "(every {0})",
   "duration_buff" : "Duration: {0}",
   "buy_pcs" : "Buy {0} pcs",
+  "translate" : "Translate",
+  "copy" : "Copy",
+  "delete" : "Delete",
+  "message" : "Message",
+  "translator" : "Translator",
   "sticker_silenes_warning" : "You cannot write messages while the %sticker1% sticker is in effect. Use the %sticker2% sticker to get rid of it",
   "lacks_energy_warning" : "You don't have enough energy for this action, use the %card% sticker or wait until your energy is restored",
   "you_do_not_have_stickers" : "You don't have any stickers available, you need to buy some"
