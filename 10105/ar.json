@@ -621,6 +621,11 @@
   "every_time_param" : "(كل {0})",
   "duration_buff" : "المدة: {0}",
   "buy_pcs" : "شراء {0} جزء",
+  "translate" : "ترجم",
+  "copy" : "نسخ",
+  "delete" : "حذف",
+  "message" : "الرسالة",
+  "translator" : "مترجم",
   "sticker_silenes_warning" : "لا يمكنك كتابة رسالة أثناء سريان الملصق %sticker1% استخدم الملصق %sticker1% للتخلص منه.",
   "lacks_energy_warning" : "ليس لديك طاقة كافية لهذا الإجراء، استخدام ملصق %card% أو انتظر حتى استعادة طاقتكك",
   "you_do_not_have_stickers" : "ليس لديك أي ملصقات متاحة، يلزمك شراء"
