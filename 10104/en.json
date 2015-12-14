@@ -1949,5 +1949,9 @@
   "push_remind_1_link":"Of course.",
   "push_remind_2_link":"Subscribe",
   "push_remind_3_link":"Subscribe",
-  "push_remind_4_link":"Subscribe"
+  "push_remind_4_link":"Subscribe",
+  "install_app_msg": "Install Reality Chat in Google Play and get 100000 fame!",
+  "install_app_link":"Install!",
+  "install_app_result": "Received 100000 fame for app installation",
+  "play_store_url":"https://play.google.com/store/apps/details?id=air.com.mastertigra.vreale&referrer=utm_source%3Dapp%26utm_medium%3Dlink%26utm_campaign%3Dpromo-install"
 }
