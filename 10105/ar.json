@@ -636,6 +636,8 @@
   "delete" : "حذف",
   "message" : "الرسالة",
   "translator" : "مترجم",
+  "reply" : "رد",
+  "whisper" : "همس",
   "sticker_silenes_warning" : "لا يمكنك كتابة رسالة أثناء سريان الملصق %sticker1% استخدم الملصق %sticker1% للتخلص منه.",
   "lacks_energy_warning" : "ليس لديك طاقة كافية لهذا الإجراء، استخدام ملصق %card% أو انتظر حتى استعادة طاقتكك",
   "you_do_not_have_stickers" : "ليس لديك أي ملصقات متاحة، يلزمك شراء"
