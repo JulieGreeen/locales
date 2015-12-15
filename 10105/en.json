@@ -612,6 +612,8 @@
   "card_5_descr" : "Removes all active stickers from the user",
   "card_6" : "Silences",
   "card_6_descr" : "The victim cannot write anything in chat while this sticker is active",
+  "card_7" : "Tidy",
+  "card_7_descr" : "Deletes all messages in your room",
   "thanx_for_gift": "Give thanks",
   "gift_thanx_day": "Thanksgiving turkey",
   "gift_thanx_day_description": "It's the most popular guest at the banquet table in the United States today. Have nothing to thank for on Thanksgiving? At least rejoice that you are not a turkey.",
