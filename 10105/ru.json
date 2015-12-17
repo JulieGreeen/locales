@@ -687,6 +687,8 @@
   "install_app_for_exp_cron": "Установите наше приложение в %google_play_btn% или %app_store_btn% и получите 1000 славы бесплатно!",
   "google_play_btn" : "Google Play",
   "app_store_btn" : "App Store",
-  "newcomer_bonus_coins_cron" : "Newcomer Bonus: x2 coins for the first purchase! %newcomer_bonus%"
+  "newcomer_bonus_coins_cron" : "Newcomer Bonus: x2 coins for the first purchase! %newcomer_bonus%",
+  "install_app_for_exp_success": "Опыт за установку приложения начислен +1000",
+  "install_app_for_exp_faild": "Вы уже получали опыт за установку приложения"
   
 }
