@@ -685,6 +685,8 @@
   "rules_viewers_deny_0" : "Do not send spam, malicious links and disclose personal data about other users. Or you will automatically receive a fine.",
   "rules_head" : "Rules and recommendations",
   "ios_link" : "iOS",
-  "android_link" : "Android"
+  "android_link" : "Android",
+  "share_for_exp_cron": "Share with your friends and get 1000 experience for free! %share_for_exp_btn%",
+  "instal_app_for_exp_cron": "Install our app from Google Play or from App Store and get 1000 experience for free! %instal_app_for_exp%"
 
 }
