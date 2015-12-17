@@ -687,7 +687,7 @@
   "ios_link" : "iOS",
   "android_link" : "Android",
   "share_for_exp_cron": "Share with your friends and get 1000 experience for free! %share_for_exp_btn%",
-  "install_app_for_exp": "Install our app from %google_play_btn% or from %app_store_btn% and get 1000 experience for free!",
+  "install_app_for_exp_cron": "Install our app from %google_play_btn% or from %app_store_btn% and get 1000 experience for free!",
   "google_play_btn" : "Google Play",
   "app_store_btn" : "App Store",
   "newcomer_bonus_coins_cron" : "Newcomer Bonus: x2 coins for the first purchase! %newcomer_bonus%"
