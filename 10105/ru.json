@@ -686,6 +686,7 @@
   "share_for_exp_cron": "Расскажите о приложении друзьям в соцсети и получите 1000 опыта бесплатно! %share_for_exp_btn%",
   "instal_app_for_exp_cron": "Установите наше приложение в %google_play_btn% или %app_store_btn% и получите 1000 славы бесплатно!",
   "google_play_btn" : "Google Play",
-  "app_store_btn" : "App Store"
+  "app_store_btn" : "App Store",
+  "newcomer_bonus_coins_cron" : "Newcomer Bonus: x2 coins for the first purchase! %newcomer_bonus%"
   
 }
