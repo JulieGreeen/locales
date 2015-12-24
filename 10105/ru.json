@@ -697,6 +697,7 @@
   "app_store_btn" : "App Store",
   "newcomer_bonus_coins_cron" : "Бонус новичка: Удваиваем первую покупку монет! %newcomer_bonus%",
   "install_app_for_exp_success": "Опыт за установку приложения начислен +1000",
-  "install_app_for_exp_faild": "Вы уже получали опыт за установку приложения"
+  "install_app_for_exp_faild": "Вы уже получали опыт за установку приложения",
+  "recent": "История" 
   
 }
