@@ -351,7 +351,7 @@
   "rating": "Pейтинг {0}",
   "rating_lowered": "Ваш рейтинг снижен до {0}",
   "reboot_server": "Сервер перезагружается.",
-  "recent_broadcast": "Последние трансляции",
+  "recent_broadcast": "История",
   "recnnect": "Пытаемся восстановить связь.",
   "reconnection_faild": "Повторное подключение не удалось.",
   "reconnection_head": "Повторное подключение",
@@ -697,7 +697,6 @@
   "app_store_btn" : "App Store",
   "newcomer_bonus_coins_cron" : "Бонус новичка: Удваиваем первую покупку монет! %newcomer_bonus%",
   "install_app_for_exp_success": "Опыт за установку приложения начислен +1000",
-  "install_app_for_exp_faild": "Вы уже получали опыт за установку приложения",
-  "recent_broadcast": "История" 
+  "install_app_for_exp_faild": "Вы уже получали опыт за установку приложения"
   
 }
