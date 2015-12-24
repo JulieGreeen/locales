@@ -699,6 +699,6 @@
   "newcomer_bonus_coins_cron" : "Newcomer Bonus: x2 coins for the first purchase! %newcomer_bonus%",
   "install_app_for_exp_success": "Experience gained: +1000",
   "install_app_for_exp_faild": "You have already received experience points for app installation",
-  "recent": "Recent" 
+  "recent_broadcast": "Recent" 
 
 }
