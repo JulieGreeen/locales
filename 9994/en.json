@@ -1235,10 +1235,21 @@
   "item_531_prep": "Groom Voodoo Doll",
   "item_531_desc": "This doll can charm even the most inveterate bachelor and turn him into your heart's servant. Be careful what you wish, because Halloween Voodoo Doll will enslave any man.",
 
-  "item_531": "Bride Voodoo Doll",
-  "item_531_rod": "Bride Voodoo Doll",
-  "item_531_prep": "Bride Voodoo Doll",
-  "item_531_desc": "Since ancient times, this doll is the main tool of evil witches and wizards. With it, you can cast a spell on any girl. Black magic will help strengthen this infatuation for life.",
+  "item_532": "Bride Voodoo Doll",
+  "item_532_rod": "Bride Voodoo Doll",
+  "item_532_prep": "Bride Voodoo Doll",
+  "item_532_desc": "Since ancient times, this doll is the main tool of evil witches and wizards. With it, you can cast a spell on any girl. Black magic will help strengthen this infatuation for life.",
+
+  "item_533": "Statue of Santa Gnomus",
+  "item_533_rod": "Statue of Santa Gnomus",
+  "item_533_prep": "Statue of Santa Gnomus",
+  "item_533_desc": "Legends tell us about the terrible Santa Gnomus, who went to the factories in the winter. He forced the dwarves to work overtime, and taking away all that they have done in their bottomless bag, muttering something about the children who are well-behaved. Since then, many years have passed, but the dwarves still shiver recalling the grandfather Santa Gnomus. If you install his statue in the city, gnomes factories will start working faster",
+  
+  "item_554": "Christmas Cheburashka",
+  "item_554_rod": "Christmas Cheburashka",
+  "item_554_prep": "Christmas Cheburashka",
+  "item_554_desc": "The good-natured and naive cartoon character. He's kind of like a symbol of 2016 monkey, but a thousand times more kind and loving. Happy New Year!",
+
 
   "item_27": "Storage coins",
   "item_27_rod": "Storage coins",
