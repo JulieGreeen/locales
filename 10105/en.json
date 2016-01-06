@@ -541,7 +541,7 @@
   "sticker_silenes_warning" : "You cannot write messages while the %sticker1% sticker is in effect. Use the %sticker2% sticker to get rid of it",
   "lacks_energy_warning" : "You don't have enough energy for this action, use the %card% sticker or wait until your energy is recovered",
   "sticker_death_warning" : "You cannot use stickers while the %card% effect is active",
-  "sticker_revive_warning" : "You can use this sticker, just for the effect of removal of %card%",
+  "sticker_revive_warning" : "You can only use this sticker to remove the %card% effect",
   "sticker_death_warning_to_user" : "While the %card% effect is applied to this user, no stickers can be applied",
   "sticker_death_warning_in_chat" : "You cannot chat while the %card% effect is active",
   "deadly_param" : "(Deadly)",
