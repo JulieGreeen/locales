@@ -521,7 +521,8 @@
   "whisper" : "همس",
   "sticker_silenes_warning" : "لا يمكنك كتابة رسالة أثناء سريان الملصق %sticker1% استخدم الملصق %sticker1% للتخلص منه.",
   "lacks_energy_warning" : "ليس لديك طاقة كافية لهذا الإجراء، استخدام ملصق %card% أو انتظر حتى استعادة طاقتكك",
-  "sticker_death_warning" : "لا يمكنك استخدام الملصقات أثناء سريان تأثير %card%",
+  "sticker_death_warning" : "لا يمكنك استخدام الملصقات أثناء سريان تأثير %card%"
+  "sticker_revive_warning" : "يمكنك فقط استخدام هذا الملصق لإزالة تأثير %card%",
   "sticker_death_warning_to_user" : "أثناء تطبيق تأثير %card% على هذا المستخدم، لا يمكن تطبيق أي ملصقات",
   "sticker_death_warning_in_chat" : "لا يمكنك الدردشة أثناء سريان تأثير %card%",
   "deadly_param" : "(مميت)",
