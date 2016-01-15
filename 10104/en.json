@@ -1968,6 +1968,6 @@
   "present_champagne_descr":"Legendary and insanely expensive champagne, known worldwide as the «liquid gold». Before clinking of «Crystal» glasses be sure to make a wish. Chin chin!",
   "present_wreath":"New Year’s wreath",
   "present_wreath_descr":"This traditional coniferous decoration creates a festive mood and gives an unforgettable atmosphere of Happy New Year.",
-  "fine_remind": "Attention! {0}, you need to pay a fine for {1} to regain access and provide compensation for the losses that were incurred."
+  "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred."
   
 }
