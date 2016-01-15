@@ -561,7 +561,7 @@
   "kylo_ren_lightsaber": "سيف سيف الشرير الرئيسي",
   "christmas_purple_ball_description": "بالونات الاحتفال الجميلة لا تكون كافية مطلقًا! لذا تأكد من منح أصدقائك هذه البالونات لإضفاء أجواء سحرية. وفي حال أن نجحت في تجميع مجموعة الكرات الكاملة، فإنك سوف تقضي العام القادم في رخاء وعافية.",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
-  "rules_viewers_deny_1": "Do not communicate with underage users. Every fact of indecent behavior is investigated by Special Departments of your country.",
+  "rules_viewers_deny_1": "لا تواصل مع مستخدمين دون السن. يتم التحقيق في كل سلوك بذيء من جانب الأقسام الخاصة في بلدك.",
   "card_10": "البعث",
   "christmas_fur_coat_description": "يعرف الرجل الحقيقي ما تحلم به كل سيدة فهو يلبي رغباتها تمامًا. قدم هذا المعطف المصنوع من الفراء لتثلج به قبل سيدتك. وبعد هذه الهدية سوف ترد عليك في المقابل بلا شك.",
   "share_call_to_action_url": "",
