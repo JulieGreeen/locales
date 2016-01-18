@@ -1928,8 +1928,8 @@
   "present_sw_helmet":"Stormtrooper's helmet",
   "present_sw_helmet_descr":"Stormtroopers are elite warriors and the personification of Emperor Palpatine's  absolute power. Ruthless and fearless. Put on your Stormtroopers helmet and embark on the protection of the Galactic Empire.",
   "present_sw_promo":"There are legends about what happened. And true to the single. The dark side, the Jedi Order – they exist. The strength appeals to you. Told her. And since coming awakening forces, choose your side.",
-  "your_friend_streaming_p": "Your friend {0} has started streaming",
-  "your_favorite_translation_p": "Your favorite host {0} has started streaming",
+  "your_friend_streaming_p": "Your friend {0} has started show «{1}»",
+  "your_favorite_translation_p": "Your favorite host {0} has started show «{1}»",
   "friend_birthday_today_p": "Your friend {0} is celebrating his birthday today.",
   "idol_birthday_today_p": "Your favorite host {0} is celebrating his birthday today.",
   "friend_banned_act_param": "{0} banned your friend {1}!",
@@ -1967,5 +1967,7 @@
   "present_champagne":"Glass of champagne «Cristal»",
   "present_champagne_descr":"Legendary and insanely expensive champagne, known worldwide as the «liquid gold». Before clinking of «Crystal» glasses be sure to make a wish. Chin chin!",
   "present_wreath":"New Year’s wreath",
-  "present_wreath_descr":"This traditional coniferous decoration creates a festive mood and gives an unforgettable atmosphere of Happy New Year."
+  "present_wreath_descr":"This traditional coniferous decoration creates a festive mood and gives an unforgettable atmosphere of Happy New Year.",
+  "friend_new_achieve_p": "Your friend {0} received achievement «{1}» and now accepts gifts and greetings!",
+  "idol_new_achieve_p": "Your favorite host {0} received achievement «{1}» and now accepts gifts and greetings!"
 }
