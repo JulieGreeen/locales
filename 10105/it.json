@@ -11,6 +11,8 @@
   "alert_end_head": "Completo",
   "alert_not_confirmed_head": "Non accettato",
   "alert_refresh_head_mobile": "Aggiorna lapplicazione",
+  "alert_resresh_head": "Aggiorna la pagina",
+  "alert_sell_present": "da vendere per {0}",
   "alert_you_have_old_client": "La versione del tuo client è obsoleta",
   "authorization": "Autenticazione",
   "ban": "Banna",
@@ -78,6 +80,7 @@
   "sell_present": "Regalo venduto {0} {1} da {2} +{3}",
   "send": "invia",
   "send_present": "Invia un regalo",
+  "send_private_msg": "Hai inviato un messaggio privato a {0} + {1} - {2}",
   "someone_send_present_to_another": "{0} ha inviato il regalo {1} per{2}",
   "start_talk": "Vai in diretta!",
   "stickers": "adesivi",
@@ -88,5 +91,8 @@
   "to_fine": "Per multare",
   "update_google_play": "Aggiorna Google Play  per potere acquistare monete.",
   "user_offline": "Utente offline",
-  "write_her": "Scrivi"
+  "whispered": "sussurri",
+  "write": "Scrivi",
+  "write_her": "Scrivi",
+  "write_him": "Scrivi"
 }

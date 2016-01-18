@@ -1,4 +1,4 @@
-{
+{  
   "add_friend": "Añadir como amigo",
   "admin_dell_msg": "El moderador ha alejado si mensaje",
   "alert_ban_from_head": "Baneo de {0}",
@@ -15,6 +15,8 @@
   "alert_end_head": "Terminar",
   "alert_not_confirmed_head": "No está aceptado",
   "alert_refresh_head_mobile": "Refresque la aplicación",
+  "alert_resresh_head": "Recargar la página",
+  "alert_sell_present": "vender por {0}",
   "alert_you_have_old_client": "Usted tiene la versión obsoleta del cliente",
   "another_connection": "Se han conectado a su cuenta desde otro lugar",
   "aplredy_baned": "ya baneado por el moderador",
@@ -89,6 +91,7 @@
   "sell_present": "El regalo \"{0}\" {1} está vendido de {2} +{3}",
   "send": "Enviar",
   "send_present": "Regalar",
+  "send_private_msg": "Usted ha enviado el mensaje privado a {0} +{1} -{2}",
   "simple_draw": "El resultado de este round es empate",
   "someone_send_present_to_another": "{0} ha hecho el regalo {1} para {2}",
   "start_talk": "¡En vivo!",
@@ -102,7 +105,11 @@
   "update_google_play": "Refrescar el Google Play para adquirir la posibilidad de comprar monedas",
   "user_left_the_translation_no_discount": "El usuario ha abandonado la transmisión, el descuento no funciona!",
   "user_offline": "El usuario está desconectado",
+  "user_vs_id_not_found": "No es posible encontrar el usuario con un ID {0}",
+  "whispered": "cuchichea",
+  "write": "Escribir",
   "write_her": "Escribir a ella",
+  "write_him": "Escribirle",
   "you_cant_ban_moderator": "Usted intenta banear al moderador, no es posible!",
   "you_cant_ban_users_when_you_in_ban": "Usted no puede banear a los usuarios mientras que Usted está baneado en este momento"
 }

@@ -15,6 +15,8 @@
   "alert_end_head": "Complété",
   "alert_not_confirmed_head": "Pas accepté",
   "alert_refresh_head_mobile": "Mettre lapplication à jour",
+  "alert_resresh_head": "Rafraîchir la page",
+  "alert_sell_present": "à vendre pour {0}",
   "alert_you_have_old_client": "La version de votre client nest pas à jour",
   "aplredy_baned": "Déjà banni par le modérateur",
   "are_you_here": "Confirmez votre présence pour vous reconnecter",
@@ -93,6 +95,7 @@
   "sell_present": "Le cadeau est vendu {0} {1} de {2} +{3}",
   "send": "envoyer",
   "send_present": "Envoyer un cadeau",
+  "send_private_msg": "Vous avez envoyé un message privé à {0} + {1} - {2}",
   "simple_draw": "Match nul pour cette ronde",
   "someone_send_present_to_another": "{0} a envoyé le cadeau {1} pour {2}",
   "start_talk": "Diffusez!",
@@ -106,6 +109,9 @@
   "to": "pour",
   "to_fine": "À lamende",
   "update_google_play": "Mettre Google Play à jour pour acheter des pièces",
+  "whispered": "chuchotements",
+  "write": "Écrire",
   "write_her": "Écrire",
+  "write_him": "Écrire",
   "you_cant_ban_users_when_you_in_ban": "Vous ne pouvez bannir dutilisateur tant que vous navez pas été banni"
 }

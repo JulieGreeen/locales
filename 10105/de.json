@@ -1,4 +1,4 @@
-{
+{  
   "add_friend": "Freund hinzufügen",
   "alert_ban_from_head": "Verbanne von {0}",
   "alert_ban_on_time": "auf",
@@ -11,6 +11,8 @@
   "alert_end_head": "Komplett",
   "alert_not_confirmed_head": "Nicht akzeptiert",
   "alert_refresh_head_mobile": "Die neuste Version dieser Applikation laden",
+  "alert_resresh_head": "Lade die Seite erneut",
+  "alert_sell_present": "zum verkaufen für {0}",
   "alert_you_have_old_client": "Deine Nutzerversion ist abgelaufen",
   "ban": "Verbanne",
   "ban_chat": "VERBANNE CHAT",
@@ -69,6 +71,7 @@
   "sell_present": "Geschenk ist verkauft {0} {1} von  {2} +{3}",
   "send": "Sende",
   "send_present": "Sende ein Geschenk",
+  "send_private_msg": "Du hast eine private Nachricht an  {0} + {1} - {2} geschickt",
   "someone_send_present_to_another": "{0} sende das Geschenk {1} für {2}",
   "start_talk": "Go Live!",
   "stopped": "gestoppt",
@@ -77,5 +80,8 @@
   "to": "für",
   "update_google_play": "Bringe Google Play auf den neusten Stand um Münzen einzukaufen.",
   "user_offline": "Nutzer ist offline",
-  "write_her": "Schreibe"
+  "whispered": "Flüstern",
+  "write": "Schreibe",
+  "write_her": "Schreibe",
+  "write_him": "Schreibe"
 }

@@ -1,4 +1,4 @@
-{
+{  
   "add_friend": "友達を追加",
   "admin_dell_msg": "モデレーターがあなたのメッセージを削除しました！",
   "alert_ban_from_head": "{0}からの追放",
@@ -15,6 +15,8 @@
   "alert_end_head": "完了",
   "alert_not_confirmed_head": "同意されない",
   "alert_refresh_head_mobile": "アプリケーションをアップデート",
+  "alert_resresh_head": "ページの更新",
+  "alert_sell_present": "{0}のために売ること",
   "alert_you_have_old_client": "あなたのクライアントバージョンは最新ではありません",
   "aplredy_baned": "モデレーターにより既に追放されました",
   "are_you_here": "再接続するため、存在を確認",
@@ -95,6 +97,8 @@
   "sell_present": "ギフトが売られています。{2}+{3}から{0}{1}",
   "send": "送る",
   "send_present": "ギフトを送る",
+  "send_private_msg": "{0}+{1}-{2}にプライベートメッセージを送信しました。",
+  "sign_in_with_fb": "Facebookからログインする",
   "simple_draw": "このラウンドでは得点なしのドローです。",
   "someone_send_present_to_another": "{0}は{2}のためにギフト{1}を送りました",
   "start_talk": "ライブ配信",
@@ -108,7 +112,10 @@
   "to": "のための",
   "to_fine": "罰金を科すこと",
   "update_google_play": "コインを購入するためにGoogle Playをアップデートする",
+  "whispered": "ささやく人たち",
+  "write": "書く",
   "write_her": "書く",
+  "write_him": "書く",
   "your_friend_is_online": "あなたの友人{0}がオンラインになっている",
   "you_cant_ban_users_when_you_in_ban": "自分が追放されるまで、ユーザーを追放できません。"
 }

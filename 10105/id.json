@@ -11,6 +11,8 @@
   "alert_end_head": "Komplit",
   "alert_not_confirmed_head": "Tidak diterima",
   "alert_refresh_head_mobile": "Barui aplikasi",
+  "alert_resresh_head": "Muat ulang halaman",
+  "alert_sell_present": "untuk menjual pada {0}",
   "alert_you_have_old_client": "Versi klien Anda adalah model lama",
   "ban": "Larang",
   "ban_chat": "LARANG CHAT",
@@ -69,6 +71,7 @@
   "sell_present": "Hadiah terjual {0} {1} dari {2} + {3}",
   "send": "kirim",
   "send_present": "Kirim hadiah",
+  "send_private_msg": "Anda mengirim sebuah pesan pribadi ke {0} + {1} - {2}",
   "someone_send_present_to_another": "{0} mengirim hadiah {1} untuk {2}",
   "start_talk": "Pergi langsung!",
   "stopped": "Dihentikan",
@@ -77,5 +80,8 @@
   "to": "untuk",
   "update_google_play": "Barui Google Play untuk membeli koin.",
   "user_offline": "Pengguna sedang offline",
-  "write_her": "Tulis"
+  "whispered": "bisikan",
+  "write": "Tulis",
+  "write_her": "Tulis",
+  "write_him": "Tulis"
 }

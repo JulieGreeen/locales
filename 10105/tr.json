@@ -11,6 +11,8 @@
   "alert_end_head": "Tamamlandı",
   "alert_not_confirmed_head": "Kabul edilmedi",
   "alert_refresh_head_mobile": "Uygulamayı güncelle",
+  "alert_resresh_head": "Sayfayı yenile",
+  "alert_sell_present": "{0} kullanıcısının satması için",
   "alert_you_have_old_client": "Program güncel değil",
   "ban": "Engelle",
   "ban_chat": "CHATİ BANLA",
@@ -71,6 +73,7 @@
   "sell_present": "{1} kullanıcısına satılan hediye {0} {2}+{3}kullanıcısından",
   "send": "yolla",
   "send_present": "Bir hediye yolla",
+  "send_private_msg": "{0}+{1}-{2} kullanıcılarına özel mesaj yolladın",
   "someone_send_present_to_another": "{0} kullanıcısı {1} ve {2} için hediye yolladı ",
   "start_talk": "Canlı git!",
   "stopped": "Durduruldu",
@@ -79,6 +82,9 @@
   "to": "için",
   "update_google_play": "Sikke alabilmek için Google Playi güncelle",
   "user_offline": "Kullanıcı çevrimdışı",
+  "whispered": "fısıldama",
+  "write": "Yaz",
   "write_her": "Yaz",
+  "write_him": "Yaz",
   "your_friend_is_online": "Arkadaşınız {0} online"
 }

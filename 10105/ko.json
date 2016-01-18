@@ -15,6 +15,8 @@
   "alert_end_head": "완료",
   "alert_not_confirmed_head": "허용 안됨",
   "alert_refresh_head_mobile": "어플리케이션 업데이트",
+  "alert_resresh_head": "페이지 새로고침",
+  "alert_sell_present": "{0}에 팔기",
   "alert_you_have_old_client": "클라이언트 버전이 구식입니다\n\n",
   "aplredy_baned": "이미 사회자에 의해 금지되었습니다",
   "are_you_here": "재연결하기 위해서 당신의 유무를 확인해부세요",
@@ -94,6 +96,7 @@
   "sell_present": "{2}+{2}에서 선물이 팔렸습니다{0}{1}",
   "send": "보내기",
   "send_present": "선물 보내기",
+  "send_private_msg": "{0}+{1}-{2}에게 개인 메시지를 보냈습니다",
   "simple_draw": "이 라운드에서의 무득점 그림",
   "someone_send_present_to_another": "{0} 이 {2}에게 {1}를 보냈습니다",
   "start_talk": "생방송하기!",
@@ -107,7 +110,10 @@
   "to": "위해서",
   "to_fine": "벌금",
   "update_google_play": "코인 구매를 위해서는 구글 플레이를 업데이트 해 주세요.",
+  "whispered": "귓속말",
+  "write": "적기",
   "write_her": "글쓰기",
+  "write_him": "적기",
   "your_friend_is_online": "친구가 {0} 온라인",
   "you_cant_ban_users_when_you_in_ban": "당신이 금지될 때 까지 사용자를 금지할 수 없습니다,"
 }

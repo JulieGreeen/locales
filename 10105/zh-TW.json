@@ -1,4 +1,5 @@
-{  "add_friend": "加為好友",
+{  
+  "add_friend": "加為好友",
   "admin_dell_msg": "管理員刪了您的資訊！",
   "alert_ban_from_head": "被{0}遮罩",
   "alert_ban_on_time": "{0}",
@@ -14,6 +15,8 @@
   "alert_end_head": "結束",
   "alert_not_confirmed_head": "未通過確認",
   "alert_refresh_head_mobile": "請更新應用程式",
+  "alert_resresh_head": "請刷新網頁",
+  "alert_sell_present": "賣給{0}",
   "alert_you_have_old_client": "軟體舊本版",
   "another_connection": "您的帳號異地登錄",
   "aplredy_baned": "已被管理員遮罩",
@@ -93,6 +96,7 @@
   "sell_present": "禮物\"{0}\" {1} 賣 {2} +{3}",
   "send": "發",
   "send_present": "發送",
+  "send_private_msg": "您給{0} +{1} -{2}發私人資訊",
   "simple_draw": "這一輪 -- 平局",
   "someone_send_present_to_another": "{0}給 {1}送禮物{2}",
   "start_talk": "實況轉播！",
@@ -107,7 +111,11 @@
   "update_google_play": "為了購買金幣，請更新Google Play",
   "user_left_the_translation_no_discount": "用戶離線了，優惠無效！",
   "user_offline": "用戶離線",
+  "user_vs_id_not_found": "未找到用戶{0}",
+  "whispered": "低聲說",
+  "write": "輸入",
   "write_her": "發送",
+  "write_him": "給他發短信",
   "you_cant_ban_moderator": "無法遮罩管理員",
   "you_cant_ban_users_when_you_in_ban": "您已被遮罩，無法遮罩其他用戶"
 }
