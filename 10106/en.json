@@ -303,7 +303,7 @@
   "jsShower.authFrm.welcomeMsg.simpleTitle": "Please, log in {intoApp}",
   "jsShower.authFrm.welcomeMsg.text": "You can use your login to one of the popular sites.",
   "jsShower.authMsgForGU": "You have used a temporary account. You must login to continue.",
-  "jsShower.btnBackTitle": "Вернуться",
+  "jsShower.btnBackTitle": "Back",
   "jsShower.common.btnBackTitle": "Go back",
   "jsShower.common.btnCancelTitle": "Cancel",
   "jsShower.common.hintError": "You can always contact our support team.",
