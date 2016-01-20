@@ -396,7 +396,7 @@
   "ios_inst": "vcr",
   "ios_inst_23.14.19": "vcr",
   "ios_inst_33.14.19": "vcr",
-  "min_shower_version_ios": "23.14.18",
+  "min_shower_version_ios": "33.14.19",
   "min_shower_version_android": "21.14.18",
   "change_profile_photo_head": "Edit",
   "take_photo": "Take a shot",
