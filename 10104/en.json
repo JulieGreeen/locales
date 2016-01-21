@@ -1970,5 +1970,6 @@
   "present_wreath_descr":"This traditional coniferous decoration creates a festive mood and gives an unforgettable atmosphere of Happy New Year.",
   "friend_new_achieve_p": "Your friend {0} received achievement «{1}» and now accepts gifts and greetings!",
   "idol_new_achieve_p": "Your favorite host {0} received achievement «{1}» and now accepts gifts and greetings!",
-  "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred."
+  "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred.",
+  "enter_room":"Enter room"
 }
