@@ -1971,5 +1971,6 @@
   "friend_new_achieve_p": "Your friend {0} received achievement «{1}» and now accepts gifts and greetings!",
   "idol_new_achieve_p": "Your favorite host {0} received achievement «{1}» and now accepts gifts and greetings!",
   "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred.",
-  "enter_room":"Enter room"
+  "enter_room":"Enter room",
+  "you_cant_play_when_you_banned": "You can't play games while you banned"
 }
