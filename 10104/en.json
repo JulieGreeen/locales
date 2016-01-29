@@ -1972,5 +1972,6 @@
   "idol_new_achieve_p": "Your favorite host {0} received achievement «{1}» and now accepts gifts and greetings!",
   "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred.",
   "enter_room":"Enter room",
-  "you_cant_play_when_you_banned": "You can't play games while you banned"
+  "you_cant_play_when_you_banned": "You can't play games while you banned",
+  "fine_discount": "Dear {0}, In order to regain access, you will have to pay a fine of \"{1}\". You can do it right now for 50% off!"
 }
