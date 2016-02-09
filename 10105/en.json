@@ -592,5 +592,6 @@
   "christmas_sock": "Christmas stocking",
   "christmas_sock_description": "Here there are two times more surprises than in Santa Claus bag. And by the way you can wear this sock even after the New Year celebration. So, in case you want to give this gift then it's better to buy two at once .",
   "current_room" : "Broadcast",
-  "vb_title": "Flirtymania"
+  "vb_title": "Flirtymania",
+  "subscription_limit": "Limit subscriptions available at your level {0} subscriptions are used {1}"
 }
