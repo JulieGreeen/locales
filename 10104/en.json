@@ -1973,5 +1973,14 @@
   "fine_remind": "Attention! {0}, you need to pay a fine for \"{1}\" to regain access and provide compensation for the losses that were incurred.",
   "enter_room":"Enter room",
   "you_cant_play_when_you_banned": "You can't play games while you banned",
-  "fine_discount": "Dear {0}, In order to regain access, you will have to pay a fine of \"{1}\". You can do it right now for 50% off!"
+  "fine_discount": "Dear {0}, In order to regain access, you will have to pay a fine of \"{1}\". You can do it right now for 50% off!",
+  "present_valentine_love":"Winged Heart",
+  "present_valentine_love_descr":"With a pinch of romance, a bit of charisma, and this angel V-gift, you'll be winning your lover's heart in no time.",
+  "present_valentine_hate":"Evil Heart",
+  "present_valentine_hate_descr":"Whether you're being eaten alive by angst, or you simply want to show your inner drama queen, this evil anti-Valentine’s gift is for you.",
+  "present_valentine_king":"«Be my Valentine»",
+  "present_valentine_king_descr":"Wow your sweetheart with this love-declaration gift and show that special someone exactly how you feel. Mutual warm feelings guaranteed.",
+  "present_valentine_promo":"Valentine's Day is all about expressing your innermost feelings to your special someone. Be sure to let your sweetheart know you really care. Valentine’s gift collection is at your disposal.",
+  "present_valentine_promo_shop":"Hi sweetheart! Here is double coins offer for all purchases. Happy V-day!",
+  "present_valentine_popup":"Double coins for all purchases and Valentine's Day gifts are in the chat. Get now!"
 }
