@@ -501,6 +501,7 @@
   "card_9_descr" : "A very efficient method of dealing with your opponent",
   "card_10" : "Resurrect",
   "card_10_descr" : "It removes the effect of the death and restores energy",
+  "for_user" : "for ",
   "respond_gift": "Thank-you gift",
   "send_another_gift": "Send another gift",
   "send_it_to_yourself": "Send it to yourself",
