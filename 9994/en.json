@@ -1250,6 +1250,15 @@
   "item_554_prep": "Christmas Cheburashka",
   "item_554_desc": "The good-natured and naive cartoon character. He's kind of like a symbol of 2016 monkey, but a thousand times more kind and loving. Happy New Year!",
 
+  "item_555": "Marry me",
+  "item_555_rod": "Marry me",
+  "item_555_prep": "Marry me",
+  "item_555_desc": "Make up your mind and make a marriage proposal. And don't worry! During Valentine's holidays you will definitely get only 'Yes' answer.",
+
+  "item_556": "Forever Love",
+  "item_556_rod": "Forever Love",
+  "item_556_prep": "Forever Love",
+  "item_556_desc": "Wow your sweetheart with this love-declaration gift and show that special someone exactly how you feel. Mutual warm feelings guaranteed.",
 
   "item_27": "Storage coins",
   "item_27_rod": "Storage coins",
@@ -2594,9 +2603,9 @@
   "you_will_get_10_percents_coins": "You will get +10% of bought coins",
   "popup_sale_x2_fame_title": "Upgrade your Level!",
   "popup_sale_x2_fame_descr": "Last chance to get twice Fame and higher Level. Offer expire in few hours.",
-  "great_news": "Last chance:",
-  "today_everyone_purchased_rubies_doubled": "New Year starts, Special Offer ends. Just two hours more to get enough coins for 2016.",
-  "popup_shop_promo_label": "New Year's Eve Offer ends in 2 hours. No more Offers are planning soon, so get the last chance to double purchases.",
+  "great_news": "Good news!",
+  "today_everyone_purchased_rubies_doubled": "Double rubies for all purchases and Valentine's Day gifts are in the game. Get now!",
+  "popup_shop_promo_label": "Hi sweetheart! Here is double rubies offer for all purchases. Happy V-day!",
   "popup_penalty_promo_label": "Do not miss the chance to punish your enemies! Only today Punishments take 2 times more user Fame.",
   "bonus_mob_attack": "Attack of monsters",
   "bonus_mob_repair": "Repair of monsters",
