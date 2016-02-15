@@ -630,6 +630,6 @@
   "winged_heart_description": "With a pinch of romance, a bit of charisma, and this angel V-gift, you'll be winning your lover's heart in no time.",
   "be_my_valentine": "«Be my Valentine»",
   "be_my_valentine_description": "Wow your sweetheart with this love-declaration gift and show that special someone exactly how you feel. Mutual warm feelings guaranteed.",
-  "novice_promo": "{0} begins his first broadcast. Please support!"
- 
+  "novice_promo": "%user% begins his first broadcast. Please support! %link%",
+  "watch":"watch"
 }
