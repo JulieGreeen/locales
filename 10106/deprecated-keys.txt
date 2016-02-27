@@ -1,6 +1,7 @@
 common.payments.inviteMsgSupportChat - проверить использование
 
-
-
+Удалить после обновления экранов fines/*
+common.fines.header
+common.fines.headerPaidService
 
 
