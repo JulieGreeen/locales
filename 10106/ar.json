@@ -52,6 +52,7 @@
   "common.fines.timeHeader": "الوصول إلى التطبيق سيتم تلقائيا فتح بعد:",
   "common.fines.timeHours": ".س",
   "common.fines.timeMinute": ".د",
+  "common.fines.timeWaiting": "الوصول إلى التطبيق سيتم تلقائيا فتح {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Master Tigra Projects",
   "common.links.agreement": "http://mastertigra.com/en/agreement/",
   "common.links.chatroulette": "/mainpage/page/videobeseda",

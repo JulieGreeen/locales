@@ -53,6 +53,7 @@
   "common.fines.timeHeader": "Доступ к приложению будет автоматически открыт через:",
   "common.fines.timeHours": "ч.",
   "common.fines.timeMinute": "мин.",
+  "common.fines.timeWaiting": "Доступ к приложению будет автоматически открыт {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Проекты Мастера Тигры",
   "common.links.agreement": "http://mastertigra.com/agreement/",
   "common.links.chatroulette": "/mainpage/page/videobeseda",

@@ -6,11 +6,14 @@ common.fines.headerPaidService
 common.fines.timeDays
 common.fines.timeHours
 common.fines.timeMinute
-
-# Обновить после обновления экранов fines/*
 common.fines.timeHeader
 
 # Плохой перевод в locale=ar для ключей:
 common.fines.evidence.*
 common.fines.types.*
-common.fines.timeHeader
+common.fines.timeWaiting
+
+
+# Комментарий к common.fines.timeHeader
+Примеры значенией {afterTimePeriod}:
+через 5 дней

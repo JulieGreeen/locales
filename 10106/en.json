@@ -52,6 +52,7 @@
   "common.fines.timeHeader": "Access to the application will be automatically opened after:",
   "common.fines.timeHours": "h",
   "common.fines.timeMinute": "m",
+  "common.fines.timeWaiting": "Access to the application will be automatically opened {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Master Tigra Projects",
   "common.links.agreement": "http://mastertigra.com/en/agreement/",
   "common.links.chatroulette": "/mainpage/page/videobeseda",
