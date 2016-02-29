@@ -117,5 +117,20 @@
   "write_her": "書く",
   "write_him": "書く",
   "your_friend_is_online": "あなたの友人{0}がオンラインになっている",
-  "you_cant_ban_users_when_you_in_ban": "自分が追放されるまで、ユーザーを追放できません。"
+  "you_cant_ban_users_when_you_in_ban": "自分が追放されるまで、ユーザーを追放できません。",
+  "maintain_app_for_exp": "Google Playでアプリを評価して体験ポイント1000点を無料でゲットしよう！ [体験をゲットしよう。]",
+  "maintain_app_for_exp_success": "得られた体験ポイント： +1000",
+  "maintain_app_for_exp_faild": "あなたは、投票のための体験ポイントをすでに受け取りました。",
+  "share_for_exp": "友だちとシェアして、体験ポイント1000点を無料でゲットしよう！[体験をゲットしよう。]",
+  "share_for_exp_success": "得られた体験ポイント： +1000",
+  "share_for_exp_faild": "あなたは、このアクションのための体験ポイントをすでに受け取りました。",
+  "share_for_exp_cancel": "あなたは、シェアアクションをキャンセルしました。",
+  "maintain_app_for_exp_new": "Google Playでアプリを評価して体験ポイント1000点を無料でゲットしよう！ %for_exp_btn%",
+  "maintain_app_for_exp_ios_new": "App Storeでアプリを評価して体験ポイント1000点を無料でゲットしよう！ %for_exp_btn%",
+  "share_for_exp_cron": "友だちとシェアして、体験ポイント1000点を無料でゲットしよう！ %share_for_exp_btn%",
+  "install_app_for_exp_cron": "インストール%google_play_btn%または%app_store_btn%アプリや無料体験の1000年を入手！",
+  "install_app_for_exp_success": "得られた体験ポイント： +1000",
+  "install_app_for_exp_faild": "あなたは、このアクションのための体験ポイントをすでに受け取りました。",
+  "maintain_app_for_exp_ios": "App Storeでアプリを評価して体験ポイント1000点を無料でゲットしよう！ [体験をゲットしよう。]",
+  "for_exp_btn": "体験をゲットしよう。"
 }
