@@ -94,5 +94,20 @@
   "whispered": "sussurri",
   "write": "Scrivi",
   "write_her": "Scrivi",
-  "write_him": "Scrivi"
+  "write_him": "Scrivi",
+  "maintain_app_for_exp": "Votate l'applicazione in Google Play ed acquisirete 1000 punti di esperienza gratis! [Acquisire esperienza.]",
+  "maintain_app_for_exp_success": "Esperienza acquisita: +1000 punti",
+  "maintain_app_for_exp_faild": "Avete già ricevuto punti esperienza per aver votato.",
+  "share_for_exp": "Condividete con i vostri amici e ottenete 1000  punti di esperienza gratis! [Acquisire esperienza.]",
+  "share_for_exp_success": "Esperienza acquisita: +1000 punti",
+  "share_for_exp_faild": "Avete già acquisito esperienza per questa azione.",
+  "share_for_exp_cancel": "Avete annullato l'azione di condivisione.",
+  "maintain_app_for_exp_new": "Votate l'applicazione in Google Play ed acquisirete 1000 punti di esperienza gratis! %for_exp_btn%",
+  "maintain_app_for_exp_ios_new": "Votate l'applicazione in App Store ed acquisirete 1000 punti di esperienza gratis! %for_exp_btn%",
+  "share_for_exp_cron": "Condividete con i vostri amici e ottenete 1000  punti di esperienza gratis! %share_for_exp_btn%",
+  "install_app_for_exp_cron": "Installare %google_play_btn% o %app_store_btn% app ed acquisirete 1000 punti di esperienza gratis!",
+  "install_app_for_exp_success": "Esperienza acquisita: +1000 punti",
+  "install_app_for_exp_faild": "Avete già acquisito esperienza per questa azione.",
+  "maintain_app_for_exp_ios": "Votate l'applicazione in App Store ed acquisirete 1000 punti di esperienza gratis! [Acquisire esperienza.]",
+  "for_exp_btn": "Acquisire esperienza."
 }
