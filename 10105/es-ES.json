@@ -111,5 +111,20 @@
   "write_her": "Escribir a ella",
   "write_him": "Escribirle",
   "you_cant_ban_moderator": "Usted intenta banear al moderador, no es posible!",
-  "you_cant_ban_users_when_you_in_ban": "Usted no puede banear a los usuarios mientras que Usted está baneado en este momento"
+  "you_cant_ban_users_when_you_in_ban": "Usted no puede banear a los usuarios mientras que Usted está baneado en este momento",
+  "maintain_app_for_exp": "¡Califica la aplicación en Google Play y obtendrás 1000 puntos de experiencia gratis! [Recibir experiencia.]",
+  "maintain_app_for_exp_success": "Experiencia ganada: +1000",
+  "maintain_app_for_exp_faild": "Ya recibiste los puntos de experiencia por votar.",
+  "share_for_exp": "¡Comparte con tus amigos y recibe 1000 puntos de experiencia gratis! [Recibir experiencia.]",
+  "share_for_exp_success": "Experiencia ganada: +1000",
+  "share_for_exp_faild": "Ya recibiste los puntos de experiencia por esta acción.",
+  "share_for_exp_cancel": "Cancelaste la acción de compartir.",
+  "maintain_app_for_exp_new": "¡Califica la aplicación en Google Play y obtendrás 1000 puntos de experiencia gratis! %for_exp_btn%",
+  "maintain_app_for_exp_ios_new": "¡Califica la aplicación en App Store y obtendrás 1000 puntos de experiencia gratis! %for_exp_btn%",
+  "share_for_exp_cron": "¡Comparte con tus amigos y recibe 1000 puntos de experiencia gratis! %share_for_exp_btn%",
+  "install_app_for_exp_cron": "Instalar %google_play_btn% or %app_store_btn% aplicación y obtendrás 1000 puntos de experiencia gratis!",
+  "install_app_for_exp_success": "Experiencia ganada: +1000",
+  "install_app_for_exp_faild": "Ya recibiste los puntos de experiencia por esta acción.",
+  "maintain_app_for_exp_ios": "¡Califica la aplicación en App Store y obtendrás 1000 puntos de experiencia gratis! [Recibir experiencia.]",
+  "for_exp_btn": "Recibir experiencia."
 }
