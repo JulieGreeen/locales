@@ -4,7 +4,7 @@
   "common.fines.accessRestricted": "Доступ ограничен",
   "common.fines.evidence.header": "Файл изображения, подтверждающий нарушение",
   "common.fines.evidence.text": "Внимание! Данный файл может содержать материал шокирующего содержания.",
-  "common.fines.evidence.textAndCheck18y": "Внимание! Для просмотра изображения нарушения, вам требуется подтвердить своё совершеннолетие, т. к. оно может содержать материал шокирующего содержания.",
+  "common.fines.evidence.textAndCheck18y": "Внимание! Для просмотра данного файла, вам требуется подтвердить своё совершеннолетие, т. к. оно может содержать материал шокирующего содержания.",
   "common.fines.evidence.toShow": "Просмотреть",
   "common.fines.evidence.toShowAndCheck18y": "Мне есть 18",
   "common.fines.fineLabel": "${0}",
