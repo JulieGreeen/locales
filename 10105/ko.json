@@ -115,5 +115,20 @@
   "write_her": "글쓰기",
   "write_him": "적기",
   "your_friend_is_online": "친구가 {0} 온라인",
-  "you_cant_ban_users_when_you_in_ban": "당신이 금지될 때 까지 사용자를 금지할 수 없습니다,"
+  "you_cant_ban_users_when_you_in_ban": "당신이 금지될 때 까지 사용자를 금지할 수 없습니다,",
+  "maintain_app_for_exp": "Google Play에서 앱을 평가하고 무료로 경험 1000을 얻으세요! [경험을 얻으세요.]",
+  "maintain_app_for_exp_success": "얻은 경험: +1000",
+  "maintain_app_for_exp_faild": "투표에 대한 경험 포인트를 이미 받았습니다.",
+  "share_for_exp": "친구들과 공유하고 무료로 경험 1000을 얻으세요! [경험을 얻으세요.]",
+  "share_for_exp_success": "얻은 경험: +1000",
+  "share_for_exp_faild": "이 작업에 대한 경험을 이미 얻었습니다.",
+  "share_for_exp_cancel": "공유 작업을 취소했습니다.",
+  "maintain_app_for_exp_new": "Google Play에서 앱을 평가하고 무료로 경험 1000을 얻으세요! %for_exp_btn%",
+  "maintain_app_for_exp_ios_new": "App Store에서 앱을 평가하고 무료로 경험 1000을 얻으세요! %for_exp_btn%",
+  "share_for_exp_cron": "친구들과 공유하고 무료로 경험 1000을 얻으세요! %share_for_exp_btn%",
+  "install_app_for_exp_cron": "설치 %google_play_btn% 또는 %app_store_btn% 앱을 무료로 경험을 1000 얻을!",
+  "install_app_for_exp_success": "얻은 경험: +1000",
+  "install_app_for_exp_faild": "이 작업에 대한 경험을 이미 얻었습니다.",
+  "maintain_app_for_exp_ios": "App Store에서 앱을 평가하고 무료로 경험 1000을 얻으세요! [경험을 얻으세요.]",
+  "for_exp_btn": "경험을 얻으세요."
 }
