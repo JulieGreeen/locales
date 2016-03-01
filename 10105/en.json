@@ -635,5 +635,8 @@
   "be_my_valentine_description": "Wow your sweetheart with this love-declaration gift and show that special someone exactly how you feel. Mutual warm feelings guaranteed.",
   "novice_promo": "%user% begins his first broadcast. Please support! %link%",
   "watch":"watch",
-  "send_sticker":"Send sticker"
+  "send_sticker":"Send sticker",
+  "how_to_lvlup":"How to level up",
+  "lvl2_needed":"You have to reach 2nd level to make calls",
+  "or_buy_pro":"or buy VIP status"
 }
