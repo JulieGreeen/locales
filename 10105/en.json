@@ -637,6 +637,5 @@
   "watch":"watch",
   "send_sticker":"Send sticker",
   "how_to_lvlup":"How to level up",
-  "lvl2_needed":"You have to reach 3nd level to make calls",
-  "or_buy_pro":"or buy VIP status"
+  "lvl2_needed":"You have to reach 3nd level to make calls\n\nor buy VIP status"
 }
