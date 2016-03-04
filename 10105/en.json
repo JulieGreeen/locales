@@ -506,8 +506,6 @@
   "card_12_descr": ". Today is the best day for this important step. Make up your mind!",
   "card_13": "Declaration of Love",
   "card_13_descr": "Let your sweetheart know about your feelings. It's so easy!",
-  "card_14" : "Бронежилет",
-  "card_14_descr" : "Снижает потери энергии при ударах",
   "for_user" : "for ",
   "from_user": "from ",
   "wish_for": "What do want to wish for?",
@@ -639,5 +637,6 @@
   "watch":"watch",
   "send_sticker":"Send sticker",
   "how_to_lvlup":"How to level up",
-  "lvl2_needed":"You have to reach 2nd level to make calls\n\nor buy VIP status"
+  "lvl2_needed":"You have to reach 2nd level to make calls\n\nor buy VIP status",
+  "no_gifts_in_showcase":"no gifts"
 }
