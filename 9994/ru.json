@@ -2536,7 +2536,7 @@
   "you_are_not_admin_or_sheriff": "Вы не админ и не шериф",
   "you_are_not_a_studio_owner": "Вы не главарь банды",
   "you_are_not_enchanted": "Вы не заколдованы",
-  "you_are_not_in_studio": "Вы не состоите в банде",
+  "you_are_not_in_studio": "Для постройки этого здания вам нужно вступить в банду",
   "you_are_not_owner_of_bulding": "Вы не владелец этого здания",
   "you_are_not_owner_of_this_building": "Вы не владеете этим зданием",
   "you_are_not_policeman": "Вы не полицейский",
