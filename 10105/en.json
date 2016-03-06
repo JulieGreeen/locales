@@ -265,10 +265,10 @@
   "privete_translation": "Broadcast in the private mode",
   "profile": "Profile",
   "profile_id": "ID",
-  "special_offer": "Hurry up!",
-  "buy_coins_special_offer": "Special St. Valentine’s Offer ends. Just few hours more to get double coins for all purchases.",
-  "buy_coins_special_offer_store": "Special St. Valentine’s Offer ends in few hours. Get the last chance to double all purchases.",
-  "promo_main_text_victory": "Valentine's Day is all about expressing your innermost feelings to your special someone. Be sure to let your sweetheart know you really care. Valentine’s gift collection is at your disposal.",
+  "special_offer": "Happy International Women’s Day!",
+  "buy_coins_special_offer": "Congratulations to the ladies. Special offer for all!",
+  "buy_coins_special_offer_store": "Short, but so beloved double coins Offer. Hurry up to get!",
+  "promo_main_text_victory": "Happy International Women's Day! Here are new surprises for our ladies:«Basket of tulips» and cocktail «Cosmopolitan». Join the congratulations, give more gifts and do not skimp today on compliments!",
   "promo_main_text": "Russian Easter surprise from the Faberge jewelry collection. Eggs rise in price weekly and disappear from the Shop when the next Faberge egg arrives. This jewelry is an ideal gift for collectors or investors.",
   "public_talk": "Public call",
   "recent_broadcast": "Recent",
@@ -644,5 +644,10 @@
   "send_sticker":"Send sticker",
   "how_to_lvlup":"How to level up",
   "lvl2_needed":"You have to reach 2nd level to make calls\n\nor buy VIP status",
-  "no_gifts_in_showcase":"no gifts"
+  "no_gifts_in_showcase":"no gifts",
+  "cosmo": "Cocktail «Cosmopolitan»",
+  "cosmo_description": "One of the most recognizable alcoholic cocktails in the world. It is drunk by men and adored by women. This compliment is always served with small slices of lime and the lion's share of coquetry.",
+  "tulip": "Basket of tulips",
+  "tulip_description": "Gentle spring bouquet will add a festive mood and surprise every woman. Give flowers and compliments to your girl and find out how she wreathed in smiles. Lovely moment!"
+  
 }
