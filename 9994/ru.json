@@ -2627,5 +2627,22 @@
   "requires_city_center_10_descr": "Для использования крутых стикеров, вам нужно иметь городской центр 10 уровня или старше",
   "requires_lantern_jack": "Требуется Фонарь Джека",
   "requires_lantern_jack_descr": "Для использования магических стикеров, вам нужно построить Фонарь Джека",
-  "zoom_out": "Отдалить"
+  "zoom_out": "Отдалить",
+  "support_error_email_format": "Неверно указан email, он должен быть в формате username@domain.xx",
+  "support_error_email_empty": "Укажите email для связи, иначе мы не сможем отправить вам ответ",
+  "support_error_desc_empty": "Вы забыли описать проблему. Без подробного описания мы не сможем вам помочь",
+  "support_payment_number": "Номер платежа: {0}",
+  "support_form_not_work": "К сожалению, сейчас не работает приём обращений через эту форму. Пожалуйста напишите нам на support@flirtymania.com",
+  "support_popup_title": "Описание проблемы",
+  "support_problem_other": "Другое",
+  "support_problem_moderation": "Жалоба на модерацию",
+  "support_problem_errorApp": "Ошибка в приложении",
+  "support_problem_billing": "Проблема с платежом",
+  "support_select_title": "На что жалуйтесь?",
+  "support_select_desc": "Выбор правильного типа жалобы, значительно ускорит ответ на неё",
+  "support_payment_number_promt": "Введите номер платежа",
+  "support_desc_promt": "Подробно опишите проблему.\nПри необходимости приложите поясняющее изображение (не более трех)",
+  "support_email_promt": "Укажите email для получения ответа",
+  "attach_image": "Приложить изображение",
+  "write_to_support": "Написать в техподдержку"
 }

@@ -2626,5 +2626,22 @@
   "requires_city_center_10_descr": "To use cool stickers, you need to have «Town Hall» level 10 or older.",
   "requires_lantern_jack": "Requires Lantern Jack",
   "requires_lantern_jack_descr": "To use magic sticker, you need to build Lantern Jack",
-  "zoom_out": "Zoom out"
+  "zoom_out": "Zoom out",
+  "support_error_email_format": "Invalid email address. The address must be in the format username@domain.xx",
+  "support_error_email_empty": "Enter an email address. Otherwise we won't be able to send you a response",
+  "support_error_desc_empty": "You forgot to describe the problem. We can't help you without a detailed description",
+  "support_payment_number": "Payment number: {0}",
+  "support_form_not_work": "Unfortunately, we cannot be contacted in this way at this time. Please write to us at support@flirtymania.com",
+  "support_popup_title": "Problem description",
+  "support_problem_other": "Other",
+  "support_problem_moderation": "Complaint about moderation",
+  "support_problem_errorApp": "Error in the application",
+  "support_problem_billing": "Problem with a payment",
+  "support_select_title": "What is the subject of your complaint?",
+  "support_select_desc": "Selecting the correct type of complaint with allow us to respond to it much more quickly",
+  "support_payment_number_promt": "Enter payment number",
+  "support_desc_promt": "Describe the problem in detail, attaching up to three explanatory images if necessary",
+  "support_email_promt": "Enter the email address to which the response should be sent",
+  "attach_image": "Attach image",
+  "write_to_support": "Write to tech support"
 }
