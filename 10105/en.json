@@ -629,7 +629,7 @@
   "support_desc_promt": "Describe the problem in detail, attaching up to three explanatory images if necessary",
   "support_email_promt": "Enter the email address to which the response should be sent",
   "attach_image": "Attach image",
-  "write_to_support": "Write to tech support",
+  "write_to_support": "Write to support",
   "сhange_language": "Change language",
   "edit_profile": "Edit profile",
   "show_more_button": "Show more",
@@ -640,14 +640,13 @@
   "be_my_valentine": "«Be my Valentine»",
   "be_my_valentine_description": "Wow your sweetheart with this love-declaration gift and show that special someone exactly how you feel. Mutual warm feelings guaranteed.",
   "novice_promo": "%user% begins his first broadcast. Please support! %link%",
-  "watch":"watch",
-  "send_sticker":"Send sticker",
-  "how_to_lvlup":"How to level up",
-  "lvl2_needed":"You have to reach 2nd level to make calls\n\nor buy VIP status",
-  "no_gifts_in_showcase":"no gifts",
+  "watch": "Watch broadcast!",
+  "send_sticker": "Send sticker",
+  "how_to_lvlup": "How to level up?",
+  "lvl2_needed": "You have to reach 2nd level to make calls\n\nor buy VIP status",
+  "no_gifts_in_showcase": "There are no gifts yet. Let your gift be the first one!",
   "cosmo": "Cocktail «Cosmopolitan»",
   "cosmo_description": "One of the most recognizable alcoholic cocktails in the world. It is drunk by men and adored by women. This compliment is always served with small slices of lime and the lion's share of coquetry.",
   "tulip": "Basket of tulips",
   "tulip_description": "Gentle spring bouquet will add a festive mood and surprise every woman. Give flowers and compliments to your girl and find out how she wreathed in smiles. Lovely moment!"
-  
 }
