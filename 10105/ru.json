@@ -617,7 +617,7 @@
   "support_problem_moderation": "Жалоба на модерацию",
   "support_problem_errorApp": "Ошибка в приложении",
   "support_problem_billing": "Проблема с платежом",
-  "support_select_title": "На что жалуйтесь?",
+  "support_select_title": "На что жалуетесь?",
   "support_select_desc": "Выбор правильного типа жалобы, значительно ускорит ответ на неё",
   "support_payment_number_promt": "Введите номер платежа",
   "support_desc_promt": "Подробно опишите проблему.\nПри необходимости приложите поясняющее изображение (не более трех)",
