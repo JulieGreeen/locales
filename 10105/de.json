@@ -260,7 +260,7 @@
   "price_mm": "{0} Nachricht(en)",
   "price_vk": "{0} Stimme(n)",
   "private": "Privat",
-  "private_talk": "Privatgespräch",
+  "private_talk": "Privat\ngespräch",
   "privete_translation": "Im privaten Modus senden",
   "profile": "Profil",
   "profile_id": "ID",
