@@ -642,11 +642,11 @@
   "watch": "Sendung ansehen!",
   "send_sticker": "Sticker senden",
   "how_to_lvlup": "Wie erreiche ich das nächste Level?",
-  "lvl2_needed": "Sie müssen Level 2 erreichen, um Anrufe zu tätigen\n\n. Oder Sie kaufen einen VIP-Status",
-  "no_gifts_in_showcase": "Noch keine Geschenke. Lassen Sie Ihr Geschenk das erste sein!",
+  "lvl2_needed": "Sie müssen Level 2 erreichen, um Anrufe zu tätigen\n\nOder Sie kaufen einen VIP-Status",
+  "no_gifts_in_showcase": "Noch keine Geschenke.\nLassen Sie Ihr Geschenk das erste sein!",
   "cosmo": "Cocktail «Cosmopolitan»",
   "cosmo_description": "Eines der bekanntesten alkoholischen Getränke der Welt. Er wird von Männern getrunken und von Frauen vergöttert. Dieser Gruß von der Theke wird mit kleinen Limettenscheiben und jeder Menge Charme serviert.",
   "tulip": "Tulpenkorb",
   "tulip_description": "Überraschen Sie die Damenwelt mit diesem sanften und festlichen Frühlingsgruß. Baden Sie Ihre Lady in Blumen und Komplimenten und sehen Sie ein Lächeln in ihrem Gesicht aufziehen. Was für ein Augenblick!",
-  "gifts_count":"{0}  weitere Geschenke"
+  "gifts_count":"{0} weitere Geschenke"
 }
