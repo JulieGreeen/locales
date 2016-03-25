@@ -1,12 +1,6 @@
-common.payments.inviteMsgSupportChat - проверить использование
+# Проверить использование
+common.payments.inviteMsgSupportChat
 
-# Удалить после обновления экранов fines/*
-common.fines.header
-common.fines.headerPaidService
-common.fines.timeDays
-common.fines.timeHours
-common.fines.timeMinute
-common.fines.timeHeader
 
 # Плохой перевод в locale=ar для ключей:
 common.fines.evidence.*
@@ -17,3 +11,6 @@ common.fines.timeWaiting
 # Комментарий к common.fines.timeHeader
 Примеры значенией {afterTimePeriod}:
 через 5 дней
+in 5 days
+بعد ٥ أيام
+через 32 минуты
