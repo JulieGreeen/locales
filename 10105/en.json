@@ -649,5 +649,6 @@
   "tulip": "Basket of tulips",
   "tulip_description": "Gentle spring bouquet will add a festive mood and surprise every woman. Give flowers and compliments to your girl and find out how she wreathed in smiles. Lovely moment!",
   "gifts_count":"{0} more gifts",
-  "authorization_error": "Authorization error, please try again."
+  "authorization_error": "Authorization error, please try again.",
+  "vb_settings_ios_inst_35": "vcr"
 }
