@@ -509,6 +509,8 @@
   "card_14_descr" : "Verringert den Energieverlust nach einer Attacke",
   "card_15" : "Regenschirm",
   "card_15_descr" : "Schützt vor dem Sticker %5% und verhindert, dass aktive Effekte entfernt werden",
+  "card_16" : "Spiegelschild",
+  "card_16_descr" : "Lenkt den gegen Sie gerichteten Sticker mit einer Wahrscheinlichkeit von 50 % auf den Absender um",
   "for_user" : "für ",
   "from_user": "von ",
   "wish_for": "Wovon träumen Sie?",

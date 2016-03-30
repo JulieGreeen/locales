@@ -510,6 +510,8 @@
   "card_14_descr" : "Lowers energy losses after hits",
   "card_15" : "Umbrella",
   "card_15_descr" : "Protects from sticker %5% and doesn't let applied effects to be erased",
+  "card_16" : "Mirror Shield",
+  "card_16_descr" : "Has a 50% chance to deflect stickers used on it back at the user",
   "for_user" : "for ",
   "from_user": "from ",
   "wish_for": "What do want to wish for?",
