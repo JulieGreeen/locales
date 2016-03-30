@@ -668,5 +668,11 @@
   "log_magic_draw_receive":"Received Magical touch",
   "log_death_receive":"Received sticker 'Death'",
   "log_buy_coins": "Coins bought",
-  "no_logs":"No actions"
+  "no_logs":"No actions",
+  "log_e_diamonds": "Diamond shower",
+  "log_e_kiss": "Kiss",
+  "log_e_light_off": "Lights off",
+  "log_e_petals": "Rose petals shower",
+  "log_e_snow_ball": "Snowball",
+  "log_e_tomato": "Rotten tomato"
 }
