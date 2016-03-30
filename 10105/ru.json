@@ -650,7 +650,7 @@
   "log_unban": "Досрочное освобожение",
   "log_buy_stickers": "Куплены стикеры %sticker%",
   "log_private_msg": "Отправлено приватное сообщение",
-  "log_sell_present": "Продан подарок \"%gift%\" от %from%",
+  "log_sell_present": "Продан подарок %gift% от %from%",
   "log_magic_draw": "Отправлено Прикосновение",
   "log_magic_draw_receive":"Получено Прикосновение",
   "log_death_receive":"Получен стикер 'Смерть'",

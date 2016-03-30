@@ -663,7 +663,7 @@
   "log_unban": "Premature release",
   "log_buy_stickers": "Bought stickers %sticker%",
   "log_private_msg": "Sent a private message",
-  "log_sell_present": "Gift is sold \"%gift%\" from %from%",
+  "log_sell_present": "Gift is sold %gift% from %from%",
   "log_magic_draw": "Sent Magical touch",
   "log_magic_draw_receive":"Received Magical touch",
   "log_death_receive":"Received sticker 'Death'",
