@@ -665,5 +665,6 @@
   "log_sell_present": "Gift is sold \"%gift%\" from %from%",
   "log_magic_draw": "Sent Magical touch",
   "log_magic_draw_receive":"Received Magical touch",
-  "log_death_receive":"Received sticker 'Death'"
+  "log_death_receive":"Received sticker 'Death'",
+  "log_buy_coins": "Coins bought"
 }
