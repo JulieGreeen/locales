@@ -656,6 +656,7 @@
   "vb_settings_ios_inst_35": "vcr",
   "vb_settings_ios_min_shower_gen": "35",
   "vb_settings_android_min_shower_gen": "35",
+  "vb_settings_android_app_id": "air.com.mrtigra.gnomenations",
   "log_send_effect": "Sent an effect %effect% to %to%",
   "log_send_present": "Sent a gift %gift% to %to%",
   "log_ban": "Ban for %to%",
