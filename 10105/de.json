@@ -650,5 +650,11 @@
   "cosmo_description": "Eines der bekanntesten alkoholischen Getränke der Welt. Er wird von Männern getrunken und von Frauen vergöttert. Dieser Gruß von der Theke wird mit kleinen Limettenscheiben und jeder Menge Charme serviert.",
   "tulip": "Tulpenkorb",
   "tulip_description": "Überraschen Sie die Damenwelt mit diesem sanften und festlichen Frühlingsgruß. Baden Sie Ihre Lady in Blumen und Komplimenten und sehen Sie ein Lächeln in ihrem Gesicht aufziehen. Was für ein Augenblick!",
-  "gifts_count":"{0} weitere Geschenke"
+  "gifts_count":"{0} weitere Geschenke",
+  "selfie_screen_warning": "Diese Titelseite können wir nicht veröffentlichen",
+  "selfie_screen_call": "Anruf",
+  "selfie_screen_cant_find_camera": "Keine Kamera erkannt",
+  "selfie_screen_bad_selfie": "Keine gute Titelseite! Das Gesicht ist nicht zu sehen",
+  "selfie_screen_good_selfie": "Tolle Titelseite!",
+  "selfie_screen_smile_for_selfie": "Lächeln Sie für die Titelseite!"
 }
