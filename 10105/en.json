@@ -307,7 +307,6 @@
   "stopped": "Stopped",
   "subscribe": "Follow",
   "subscription": "Following",
-  "subscription_motivation": "You have no subscriptions yet. Press  near the user’s nickname to subscribe.",
   "successfully_banned": "Succesfully banned! -{0} coins +{1} exp.",
   "successfully_charge_unban": "Premature release for {0} min. -{1} coins +{2} exp.",
   "successful_pay": "Successful purchase: + {0} coins",
