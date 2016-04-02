@@ -509,6 +509,8 @@
   "card_14_descr" : "Réduit la perte d'énergie engendrée par les coups",
   "card_15" : "Parapluie",
   "card_15_descr" : "Protège de l'autocollant %5% et ne permet pas l'application de suppression",
+  "card_16" : "Bouclier miroir",
+  "card_16_descr" : "Avec une probabilité de 50% renvoie le sticker appliqué contre vous à l'expéditeur.",
   "for_user" : "pour ",
   "from_user": "de ",
   "wish_for": "Que souhaitez-vous ?",
