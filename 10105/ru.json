@@ -323,6 +323,8 @@
   "temp_ban_head": "Временный бан",
   "to": "для",
   "to_fine": "К штрафу",
+  "to_fullscreen_mode": "На весь экран",
+  "to_normal_mode": "Обычный вид",
   "universal_price": "${0}",
   "unsubscribe": "Отписаться",
   "unsubscribed_from": "Вы отписались от {0}",
