@@ -496,7 +496,7 @@
   "card_7" : "Reinlich",
   "card_7_descr" : "Löscht alle Nachrichten im Chatroom",
   "card_8" : "Tod",
-  "card_8_descr" : "Der Tod tritt ein, wenn Sie mit einem tödlichen Sticker angegriffen werden und nicht genügend Energie haben. Dies führt zum Abzug von 500 Erfahrungspunkten. Während dieser Effekt aktiv ist, können Sie nicht chatten, Sticker haben keine Wirkung auf Sie und Sie können selbst auch keine Sticker benutzen",
+  "card_8_descr" : "Der Tod tritt ein, wenn Sie von einem lebensgefährlichen Sticker angegriffen werden und keine Energie mehr haben. Sie verlieren dabei 0,1 % der gesammelten Erfahrung, jedoch mindestens 500 Einheiten. Wenn dieser Effekt bei Ihnen wirkt, können Sie nicht im Chat schreiben, es wirken keine Sticker auf Sie und Sie können keine Sticker anwenden.",
   "card_9" : "Teeren",
   "card_9_descr" : "Eine sehr komplizierte Methode, sich mit Gegnern auseinanderzusetzen",
   "card_10" : "Wiedrauferstehen",
