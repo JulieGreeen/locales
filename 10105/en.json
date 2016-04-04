@@ -307,7 +307,6 @@
   "stopped": "Stopped",
   "subscribe": "Follow",
   "subscription": "Following",
-  "subscription_motivation": "You have no subscriptions yet. Press  near the user’s nickname to subscribe.",
   "successfully_banned": "Succesfully banned! -{0} coins +{1} exp.",
   "successfully_charge_unban": "Premature release for {0} min. -{1} coins +{2} exp.",
   "successful_pay": "Successful purchase: + {0} coins",
@@ -656,7 +655,7 @@
   "vb_settings_ios_inst_35": "vcr",
   "vb_settings_ios_min_shower_gen": "35",
   "vb_settings_android_min_shower_gen": "35",
-  "vb_settings_android_app_id": "air.com.mrtigra.gnomenations",
+  "vb_settings_android_app_id": "air.flirtymania.videochat",
   "log_send_effect": "Sent an effect '%effect%' to %to%",
   "log_send_present": "Sent a gift %gift% to %to%",
   "log_ban": "Ban for %to%",
@@ -675,5 +674,11 @@
   "log_e_petals": "Rose petals shower",
   "log_e_snow_ball": "Snowball",
   "log_e_tomato": "Rotten tomato",
-  "logs_but":"Actions"
+  "logs_but":"Actions",
+  "selfie_screen_warning": "This cover cannot fit on a poster",
+  "selfie_screen_call": "Call",
+  "selfie_screen_cant_find_camera": "Camera not found",
+  "selfie_screen_bad_selfie": "Bad cover! We can't see your face!",
+  "selfie_screen_good_selfie": "Nice cover!",
+  "selfie_screen_smile_for_selfie": "Smile for the cover!"
 }
