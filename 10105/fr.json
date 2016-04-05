@@ -496,7 +496,7 @@
   "card_7" : "Rangement",
   "card_7_descr" : "Supprime tous les messages de la salle de discussion",
   "card_8" : "Mort",
-  "card_8_descr" : "La mort arrive quand vous êtes attaqué par un autocollant mortel et que vous n'avez plus d'énergie. Elle provoque une perte de 500 points d'expérience. Pendant que cet effet est appliqué, vous ne pouvez plus utiliser le chat, les stickers n'ont plus d'effet sur vous et vous ne pouvez plus en utiliser.",
+  "card_8_descr" : "La mort survient lorsque vous êtes attaqué avec un sticker potentiellement mortel et que vous n’avez pas d'énergie. Dans ce cas, vous perdez 0,1% de l'expérience accumulée, mais au minimum 500 unités. Tant que vous restez sous l’effet du sticker mortel, vous ne pouvez pas écrire dans le chat, les autres stickers n’ont pas d’effet sur vous et vous ne pouvez pas les utiliser non plus.",
   "card_9" : "Rouler dans l'asphalte",
   "card_9_descr" : "Une bonne manière de régler son compte à un adversaire.",
   "card_10" : "Résurrection",
