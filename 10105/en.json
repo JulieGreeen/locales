@@ -680,5 +680,7 @@
   "selfie_screen_cant_find_camera": "Camera not found",
   "selfie_screen_bad_selfie": "Bad cover! We can't see your face!",
   "selfie_screen_good_selfie": "Nice cover!",
-  "selfie_screen_smile_for_selfie": "Smile for the cover!"
+  "selfie_screen_smile_for_selfie": "Smile for the cover!",
+  "gifts_count_p":"{0} more %plural_gift%",
+  "plural_gift":"gift|gifts"
 }

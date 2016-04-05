@@ -672,5 +672,7 @@
   "selfie_screen_cant_find_camera": "Камера не обнаружена",
   "selfie_screen_bad_selfie": "Плохая обложка! Не видно лица",
   "selfie_screen_good_selfie": "Отличная обложка!",
-  "selfie_screen_smile_for_selfie": "Улыбнитесь для обложки!"
+  "selfie_screen_smile_for_selfie": "Улыбнитесь для обложки!",
+  "gifts_count_p":"Eще {0} %plural_gift%",
+  "plural_gift":"подарок|подарка|подарков"
 }
