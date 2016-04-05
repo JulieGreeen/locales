@@ -650,5 +650,11 @@
   "cosmo_description": "Un des cocktails alcoolisés les plus reconnaissables du monde. Il est bu par les hommes, et adoré par les femmes. Ce compliment est toujours servi avec de petites tranches de citron vert et se taille la part du lion de la coquetterie.",
   "tulip": "Panier de tulipes",
   "tulip_description": "Un gentil bouquet printanier qui apportera un esprit et une surprise festives à toute femme. Offrez fleurs et compliments à votre copine et recevez des sourires en retour. Un adorable moment !",
-  "gifts_count":"{0} présente une autre"
+  "gifts_count":"{0} présente une autre",
+  "selfie_screen_warning": "Nous ne pouvons pas placer une telle couverture sur l’affiche",
+  "selfie_screen_call": "Appel",
+  "selfie_screen_cant_find_camera": "Caméra introuvable",
+  "selfie_screen_bad_selfie": "Mauvaise couverture! On ne voit pas le visage",
+  "selfie_screen_good_selfie": "Très belle couverture!",
+  "selfie_screen_smile_for_selfie": "Souriez pour la couverture!"
 }
