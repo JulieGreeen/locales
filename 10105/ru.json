@@ -674,5 +674,10 @@
   "selfie_screen_good_selfie": "Отличная обложка!",
   "selfie_screen_smile_for_selfie": "Улыбнитесь для обложки!",
   "gifts_count_p":"Eще {0} %plural_gift%",
-  "plural_gift":"подарок|подарка|подарков"
+  "plural_gift":"подарок|подарка|подарков",
+  "claims_claim_on_video": "Жалоба на видео %user% отправлена, сила модерации понижена до {0}",
+  "claims_already_send_claim": "Жалоба уже была отправлена",
+  "claims_already_banned": "Пользователь уже забанен",
+  "claims_invalid_uid": "Не верный идентифицатор пользователя",
+  "claims_claim_approved_by_admin": "Жалоба на пользователя %user% подтверждена модератором, сила модерации повышена до {0}"
 }
