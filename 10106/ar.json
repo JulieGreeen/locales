@@ -38,6 +38,7 @@
   "common.fines.reasons.strong": "اللغة القوية",
   "common.fines.reasons.suicide": "بث مشاهد عن الانتحار والدعوة له",
   "common.fines.reasons.threat": "تهديد حياة المستخدم وأواصل ",
+  "common.fines.reasons.lostaccount": "Due to the loss of the account the fault of user ",
   "common.fines.reasons.migrate-account-data": "نقل حساب بيانات (الشهرة، السمعة) إلى حساب آخر",
   "common.fines.reasons.migrate-account-resources": "نقل عملة اللعبة أو الموارد إلى حساب/ملقم آخر",
   "common.fines.reasons.edit-blocking": "إلغاء (حظر) الحسابات، إلغاء النُسخ",

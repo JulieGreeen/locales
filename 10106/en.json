@@ -38,6 +38,7 @@
   "common.fines.reasons.strong": "Strong Language",
   "common.fines.reasons.suicide": "Broadcast scenes of suicide and calls for it",
   "common.fines.reasons.threat": "Threat to life and limb of the user",
+  "common.fines.reasons.lostaccount": "Due to the loss of the account the fault of user ",
   "common.fines.reasons.migrate-account-data": "Migrating data account (glory, reputation) to another account",
   "common.fines.reasons.migrate-account-resources": "Migrating game currency or resources to another account / server",
   "common.fines.reasons.edit-blocking": "Remove (block) accounts, uncloning",
