@@ -679,5 +679,6 @@
   "claims_already_send_claim": "Жалоба уже была отправлена",
   "claims_already_banned": "Пользователь уже забанен",
   "claims_invalid_uid": "Не верный идентифицатор пользователя",
+  "claims_claim_power": "Сила модерации",
   "claims_claim_approved_by_admin": "Жалоба на пользователя %user% подтверждена модератором, сила модерации повышена до {0}"
 }
