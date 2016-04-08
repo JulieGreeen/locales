@@ -1,4 +1,4 @@
-{
+﻿{
   "1_day": "For a day",
   "1_hour": "For an hour",
   "20_minutes": "For 20 minutes",
@@ -2643,5 +2643,6 @@
   "support_desc_promt": "Describe the problem in detail, attaching up to three explanatory images if necessary",
   "support_email_promt": "Enter the email address to which the response should be sent",
   "attach_image": "Attach image",
-  "write_to_support": "Write to tech support"
+  "write_to_support": "Write to tech support",
+  "mc_title": "Gnomenations"
 }
