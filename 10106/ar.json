@@ -335,5 +335,6 @@
   "jsShower.sendInviteAlert.header": "تم إرسال الدعوة",
   "jsShower.sendInviteAlert.message": "تم إرسال دعوة على البريد الإلكتروني لك  {email} من Master Tigra. اقرأها",
   "jsShower.sendPassAlert.header": "كلمة المرور غير صحيحة",
-  "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟"
+  "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟",
+  "fine_discount": "خصم 50% من الغرامة! مرحبًا {0}، يمكنك اليوم دفع الغرامة الخاصة بك بنصف السعر والرجوع إلى دردشة. أصدقاؤك في انتظارك!"
 }
