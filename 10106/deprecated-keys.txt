@@ -8,6 +8,7 @@ common.fines.types.*
 common.fines.timeWaiting
 # Плохой перевод в locale=ar|en для ключей:
 common.fines.reasons.lostaccount
+support.*
 
 
 # Комментарий к common.fines.timeHeader
