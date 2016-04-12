@@ -682,5 +682,14 @@
   "selfie_screen_good_selfie": "Nice cover!",
   "selfie_screen_smile_for_selfie": "Smile for the cover!",
   "gifts_count_p":"{0} more %plural_gift%",
-  "plural_gift":"gift|gifts"
+  "plural_gift":"gift|gifts",
+  "claims_claim_on_video": "A complaint on broadcast has been submitted regarding %to%. Your reputation has been reduced to %rating%.",
+  "claims_already_send_claim": "A complaint has already been submitted.",
+  "claims_already_banned": "This user has already been banned.",
+  "claims_invalid_uid": "Invalid user ID",
+  "claims_claim_power": "Reputation",
+  "claims_claim_approved_by_admin": "A complaint against %to% has been confirmed by the moderator. Your reputation has been increased to %rating%.",
+  "claims_claim_on_avatar": "A complaint has been submitted regarding %user% avatar. Your reputation has not changed.",
+  "claims_someone_claimed_on_you": "Users have submitted complaints about you. Think about what might have led to these complaints and try to correct this behavior."
+
 }
