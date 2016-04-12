@@ -675,12 +675,12 @@
   "selfie_screen_smile_for_selfie": "Улыбнитесь для обложки!",
   "gifts_count_p":"Eще {0} %plural_gift%",
   "plural_gift":"подарок|подарка|подарков",
-  "claims_claim_on_video": "Жалоба на видео %user% отправлена, сила модерации понижена до {0}",
+  "claims_claim_on_video": "Жалоба на видео %user% отправлена, репутация понижена до {0}",
   "claims_already_send_claim": "Жалоба уже была отправлена",
   "claims_already_banned": "Пользователь уже забанен",
   "claims_invalid_uid": "Не верный идентификатор пользователя",
-  "claims_claim_power": "Сила модерации",
-  "claims_claim_approved_by_admin": "Жалоба на пользователя %user% подтверждена модератором, сила модерации повышена до {0}",
-  "claims_claim_on_avatar": "Жалоба на аватар %user% отправлена, сила модерации не изменилась",
+  "claims_claim_power": "Репутация",
+  "claims_claim_approved_by_admin": "Жалоба на пользователя %user% подтверждена модератором, репутация повышена до {0}",
+  "claims_claim_on_avatar": "Жалоба на аватар %user% отправлена, репутация не изменилась",
   "claims_someone_claimed_on_you": "На вас поступили жалобы от пользователей, подумайте чем они могут быть вызваны и постарайтесь исправиться."
 }
