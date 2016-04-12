@@ -64,6 +64,7 @@
   "support.form.file.footnote": "Выберите не более трёх изображений",
   "support.form.paymentId": "Номер платежа",
   "support.form.submit": "Отправить",
+  "support.sendMsg.paymentId": "Номер платежа: {paymentId}.",
   "support.sendConfirm.fail": "{h1}Ой, ой! Что-то пошло не так!{/h1}{p}Попробуйте повторить попытку позднее.{/p}",
   "support.sendConfirm.success": "{h1}Запрос успешно отправлен!{/h1}{p}Мы получили ваш запрос и создали по нему заявку в техподдержку! Скоро вы получите письмо с ответом. Спасибо за ваше терпение. Вы классный.{/p}",
   "support.sendConfirm.toBack": "Вернуться назад",

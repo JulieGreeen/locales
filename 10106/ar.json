@@ -64,6 +64,7 @@
   "support.form.file.footnote": "Select up to three images",
   "support.form.paymentId": "Payment number",
   "support.form.submit": "Send",
+  "support.sendMsg.paymentId": "Payment number: {paymentId}.",
   "support.sendConfirm.fail": "{h1}Oops! Something went wrong!{/h1}{p}Please try again later.{/p}",
   "support.sendConfirm.success": "{h1}Request submitted successfully!{/h1}{p}We have received your request and created the ticket for the technical support! Soon you will receive an email with the answer. Thank you for your patience. You're cool.{/p}",
   "support.sendConfirm.toBack": "Back",
