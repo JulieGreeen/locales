@@ -54,7 +54,7 @@
   "support.header.text": "We have received your request and created the ticket for the technical support! Soon you will receive an email with the answer. Thank you for your patience. You're cool.",
   "support.form.theme": "Message subject",
   "support.form.theme.footnote": "Select the appropriate subject",
-  "support.form.theme.footnote.short": "Select",
+  "support.form.theme.footnote.short": "Select subject",
   "support.form.theme.billing": "Problem with a payment",
   "support.form.theme.appError": "Error in the application",
   "support.form.theme.moderation": "Complaint about moderation",
