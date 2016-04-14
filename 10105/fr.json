@@ -661,5 +661,14 @@
   "selfie_screen_cant_find_camera": "Caméra introuvable",
   "selfie_screen_bad_selfie": "Mauvaise couverture! On ne voit pas le visage",
   "selfie_screen_good_selfie": "Très belle couverture!",
-  "selfie_screen_smile_for_selfie": "Souriez pour la couverture!"
+  "selfie_screen_smile_for_selfie": "Souriez pour la couverture!",
+  "claims_claim_on_video": "La plainte sur la vidéo %to% a été envoyée, la réputation a diminué à %rating%",
+  "claims_already_send_claim": "Une plainte a déjà été envoyée",
+  "claims_already_banned": "L'utilisateur a déjà été banni",
+  "claims_invalid_uid": "Identifiant d'utilisateur incorrect",
+  "claims_claim_power": "Réputation",
+  "claims_claim_approved_by_admin": "La plainte sur l'utilisateur %to% a été confirmée par le modérateur, la réputation a augmenté à %rating%",
+  "claims_claim_on_avatar": "La plaine sur l'avatar %user% a été envoyée, la réputation n'a pas changé",
+  "claims_someone_claimed_on_you": "Des utilisateurs ont envoyé des plaintes à votre sujet, veuillez considérer à quoi elles pourraient être liées et essayez d'y remédier."
+
 }
