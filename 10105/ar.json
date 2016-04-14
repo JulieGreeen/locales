@@ -658,6 +658,14 @@
 	"selfie_screen_cant_find_camera": "الكاميرا غير موجودة",
 	"selfie_screen_bad_selfie": "غلاف سيء! لا يمكننا رؤية وجهك!",
 	"selfie_screen_good_selfie": "غلاف رائع!",
-	"selfie_screen_smile_for_selfie": "ابتسم لصورة الغلاف!"
-	
+	"selfie_screen_smile_for_selfie": "ابتسم لصورة الغلاف!",
+	"claims_claim_on_video": "تم تقديم شكوى متعلقة بالنشر بشأن %to%. وقد تقلصت سمعتك إلى %rating%",
+	"claims_already_send_claim": "تم تقديم شكوى بالفعل",
+	"claims_already_banned": "تم حظر هذا المستخدم بالفعل",
+	"claims_invalid_uid": "معرف المستخدم غير صالح",
+	"claims_claim_power": "السُمعة",
+	"claims_claim_approved_by_admin": "أكد الوسيط شكوى ضد %to%. وقد ازدادت سمعتك إلى %rating%",
+	"claims_claim_on_avatar": "تم تقديم شكوى بشأن أفتار %user%. ولم تتغير سمعتك",
+	"claims_someone_claimed_on_you": "قدم المستخدمون شكوى ضدك. فكر في ما قادهم إلى هذه الشكاوى وحاول تصحيح هذا السلوك"
+
 }
