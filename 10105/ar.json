@@ -1,10 +1,15 @@
-{
+{  
 	"about_me": "معلومات",
 	"porn": "إباحية",
 	"children": "الأطفال",
 	"drugs": "المخدرات",
 	"extremism": "التطرف",
 	"suicide": "انتحار",
+	"claim_type_porn": "إباحية",
+	"claim_type_children": "الأطفال",
+	"claim_type_drugs": "المخدرات",
+	"claim_type_extremism": "التطرف",
+	"claim_type_suicide": "انتحا	
 	"added_subscription": "إضافة اشتراك {0} ",
 	"added_to_the_ignore": "تمت إضافة {0} إلى قائمة التجاهل",
 	"add_friend": "إضافة صديق",
