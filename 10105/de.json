@@ -1,5 +1,10 @@
 {  
   "about_me": "Information",
+  "claim_type_porn": "Porno",
+  "claim_type_children": "Kinder",
+  "claim_type_drugs": "Drogen",
+  "claim_type_extremism": "Extremismus",
+  "claim_type_suicide": "Selbstmord",
   "porn": "Porno",
   "children": "Kinder",
   "drugs": "Drogen",
