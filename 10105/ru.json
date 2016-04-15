@@ -1,5 +1,10 @@
 {
   "about_me": "Информация",
+  "claim_type_porn": "Порно",
+  "claim_type_children": "Дети",
+  "claim_type_drugs": "Наркотики",
+  "claim_type_extremism": "Экстремизм",
+  "claim_type_suicide": "Суицид",  
   "porn": "Порно",
   "children": "Дети",
   "drugs": "Наркотики",
