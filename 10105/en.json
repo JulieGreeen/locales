@@ -516,6 +516,8 @@
   "card_14_descr" : "Lowers energy losses after hits",
   "card_15" : "Umbrella",
   "card_15_descr" : "Protects from sticker %5% and doesn't let applied effects to be erased",
+  "card_16" : "Burnt sticker",
+  "card_16_descr" : "The sticker burns up when an attempt is made to apply it to a user whose level is higher than the maximum level at which the sticker can work",
   "for_user" : "for ",
   "from_user": "from ",
   "wish_for": "What do want to wish for?",
@@ -695,6 +697,6 @@
   "claims_claim_power": "Reputation",
   "claims_claim_approved_by_admin": "A complaint against %to% has been confirmed by the moderator. Your reputation has been increased to %rating%.",
   "claims_claim_on_avatar": "A complaint has been submitted regarding %user% avatar. Your reputation has not changed.",
-  "claims_someone_claimed_on_you": "Users have submitted complaints about you. Think about what might have led to these complaints and try to correct this behavior."
-
+  "claims_someone_claimed_on_you": "Users have submitted complaints about you. Think about what might have led to these complaints and try to correct this behavior.",
+  "affects_players_to_level": "Works on players up to level {0}"
 }

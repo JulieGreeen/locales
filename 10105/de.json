@@ -516,6 +516,8 @@
   "card_14_descr" : "Verringert den Energieverlust nach einer Attacke",
   "card_15" : "Regenschirm",
   "card_15_descr" : "Schützt vor dem Sticker %5% und verhindert, dass aktive Effekte entfernt werden",
+  "card_16" : "Brennender Sticker",
+  "card_16_descr" : "Der Sticker brennt beim Versuch, ihn gegen einen Benutzer einzusetzen, dessen Level so hoch ist, dass der Sticker nicht mehr wirkt",
   "for_user" : "für ",
   "from_user": "von ",
   "wish_for": "Wovon träumen Sie?",
@@ -669,6 +671,6 @@
   "claims_claim_power": "Rating",
   "claims_claim_approved_by_admin": "Die Beschwerde über %to% wurde vom Moderator bestätigt, Rating erhöht auf %rating%",
   "claims_claim_on_avatar": "Beschwerde über Avatar %user%, Rating hat sich nicht geändert",
-  "claims_someone_claimed_on_you": "Es sind Beschwerden der Benutzer über Sie eingegangen. Berücksichtigen Sie die Gründe der Beschwerden und bemühen Sie sich um Besserung."
-
+  "claims_someone_claimed_on_you": "Es sind Beschwerden der Benutzer über Sie eingegangen. Berücksichtigen Sie die Gründe der Beschwerden und bemühen Sie sich um Besserung.",
+  "affects_players_to_level": "Wirkt auf einen Spieler bis Level {0}"
 }
