@@ -521,6 +521,8 @@
   "card_14_descr" : "Réduit la perte d'énergie engendrée par les coups",
   "card_15" : "Parapluie",
   "card_15_descr" : "Protège de l'autocollant %5% et ne permet pas l'application de suppression",
+  "card_16" : "Sticker brûlé",
+  "card_16_descr" : "Le sticker brûle lorsqu’on essaie de l'appliquer à un utilisateur dont le niveau est supérieur au niveau d’atteinte maximal du sticker",
   "for_user" : "pour ",
   "from_user": "de ",
   "wish_for": "Que souhaitez-vous ?",
@@ -674,6 +676,7 @@
   "claims_claim_power": "Réputation",
   "claims_claim_approved_by_admin": "La plainte sur l'utilisateur %to% a été confirmée par le modérateur, la réputation a augmenté à %rating%",
   "claims_claim_on_avatar": "La plaine sur l'avatar %user% a été envoyée, la réputation n'a pas changé",
-  "claims_someone_claimed_on_you": "Des utilisateurs ont envoyé des plaintes à votre sujet, veuillez considérer à quoi elles pourraient être liées et essayez d'y remédier."
+  "claims_someone_claimed_on_you": "Des utilisateurs ont envoyé des plaintes à votre sujet, veuillez considérer à quoi elles pourraient être liées et essayez d'y remédier.",
+  "affects_players_to_level": "Peut être appliqué aux joueurs jusqu’au niveau {0}"
 
 }
