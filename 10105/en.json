@@ -706,5 +706,6 @@
   "claims_claim_approved_by_admin": "A complaint against %to% has been confirmed by the moderator. Your reputation has been increased to %rating%.",
   "claims_claim_on_avatar": "A complaint has been submitted regarding %user% avatar. Your reputation has been reduced to %rating%.",
   "claims_someone_claimed_on_you": "Users have submitted complaints about you. Think about what might have led to these complaints and try to correct this behavior.",
+  "claims_invalid_avatar": "Avatar not found. The complaint could not be completed.",
   "affects_players_to_level": "Works on players up to level {0}"
 }
