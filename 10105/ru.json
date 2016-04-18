@@ -674,6 +674,7 @@
   "log_magic_draw_receive":"Получено Прикосновение",
   "log_death_receive":"Получен стикер 'Смерть'",
   "log_buy_coins": "Куплены монеты",
+  "log_buy_gift_set":"Куплен набор подарков '%set%' для %to%",
   "no_logs":"Нет действий",
   "log_e_diamonds": "Алмазы",
   "log_e_kiss": "Поцелуй",

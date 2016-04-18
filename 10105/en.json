@@ -682,6 +682,7 @@
   "log_magic_draw_receive":"Received Magical touch",
   "log_death_receive":"Received sticker 'Death'",
   "log_buy_coins": "Coins bought",
+  "log_buy_gift_set":"Gift set '%set%' sent to %to%",
   "no_logs":"No actions",
   "log_e_diamonds": "Diamond shower",
   "log_e_kiss": "Kiss",
