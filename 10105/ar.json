@@ -677,7 +677,7 @@
 	"claims_invalid_uid": "معرف المستخدم غير صالح",
 	"claims_claim_power": "السُمعة",
 	"claims_claim_approved_by_admin": "أكد الوسيط شكوى ضد %to%. وقد ازدادت سمعتك إلى %rating%",
-	"claims_claim_on_avatar": "تم تقديم شكوى بشأن أفتار %user%. ولم تتغير سمعتك",
+	"claims_claim_on_avatar": "تم تقديم شكوى بشأن أفتار %user%. وقد تقلصت سمعتك إلى %rating%",
 	"claims_someone_claimed_on_you": "قدم المستخدمون شكوى ضدك. فكر في ما قادهم إلى هذه الشكاوى وحاول تصحيح هذا السلوك",
     "affects_players_to_level": "يتم تفعيله على اللاعبين حتى مستوى {0}"
 
