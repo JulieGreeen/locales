@@ -677,6 +677,7 @@
   "claims_claim_approved_by_admin": "La plainte sur l'utilisateur %to% a été confirmée par le modérateur, la réputation a augmenté à %rating%",
   "claims_claim_on_avatar": "La plaine sur l'avatar %user% a été envoyée, la réputation a diminué à %rating%",
   "claims_someone_claimed_on_you": "Des utilisateurs ont envoyé des plaintes à votre sujet, veuillez considérer à quoi elles pourraient être liées et essayez d'y remédier.",
+  "claims_invalid_avatar": "Pas d'avatar, impossible de faire une plainte",
   "affects_players_to_level": "Peut être appliqué aux joueurs jusqu’au niveau {0}"
 
 }
