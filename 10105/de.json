@@ -680,5 +680,6 @@
   "claims_claim_approved_by_admin": "Die Beschwerde über %to% wurde vom Moderator bestätigt, Rating erhöht auf %rating%",
   "claims_claim_on_avatar": "Beschwerde über Avatar %user%, Rating auf %rating% gesunken",
   "claims_someone_claimed_on_you": "Es sind Beschwerden der Benutzer über Sie eingegangen. Berücksichtigen Sie die Gründe der Beschwerden und bemühen Sie sich um Besserung.",
+  "claims_invalid_avatar": "Kein Avatar, Beschwerde nicht möglich",
   "affects_players_to_level": "Wirkt auf einen Spieler bis Level {0}"
 }
