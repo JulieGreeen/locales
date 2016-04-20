@@ -709,5 +709,5 @@
   "claims_someone_claimed_on_you": "Users have submitted complaints about you. Think about what might have led to these complaints and try to correct this behavior.",
   "claims_invalid_avatar": "Avatar not found. The complaint could not be completed.",
   "affects_players_to_level": "Works on players up to level {0}",
-  "wwf_set_buttons":"[{\"gift\":\"turtle\", \"color\":\"0x00BAD1\", \"x\":104, \"y\":769},{\"gift\":\"gorilla\", \"color\":\"0x5BA743\", \"x\":375, \"y\":1193},{\"gift\":\"panda\", \"color\":\"0x15A872\", \"x\":104, \"y\":1562},{\"gift\":\"whale\", \"color\":\"0x0089D1\", \"x\":375, \"y\":1907},{\"price\":\"90 000\", \"color\":\"0x198CC5\", \"x\":100, \"y\":2301}]"
+  "wwf_set_buttons":"[{\"gift\":\"turtle\", \"color\":\"0x00BAD1\", \"x\":104, \"y\":769},{\"gift\":\"gorilla\", \"color\":\"0x5BA743\", \"x\":325, \"y\":1193},{\"gift\":\"panda\", \"color\":\"0x15A872\", \"x\":104, \"y\":1562},{\"gift\":\"whale\", \"color\":\"0x0089D1\", \"x\":325, \"y\":1907},{\"price\":\"90 000\", \"color\":\"0x198CC5\", \"x\":100, \"y\":2301}]"
 }
