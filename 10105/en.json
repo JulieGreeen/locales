@@ -1,10 +1,8 @@
 {  
   "about_me": "Information",
-  "porn": "Actions of a sexual nature",
-  "children": "Children",
-  "drugs": "Drugs",
-  "extremism": "Extremism",
-  "suicide": "Suicide",
+  "claim_type_profanity": "Profanity",
+  "claim_type_threat": "Threatening the life or well-being of another user",
+  "claim_type_spam": "Spam",  
   "claim_type_porn": "Porn",
   "claim_type_children": "Unsupervised children",
   "claim_type_drugs": "Drug use",
