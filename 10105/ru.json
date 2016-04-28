@@ -1,5 +1,8 @@
 {
   "about_me": "Информация",
+  "claim_type_profanity": "Нецензурная брань",
+  "claim_type_threat": "Угроза жизни и здоровью пользователя",
+  "claim_type_spam": "Спам",
   "claim_type_porn": "Действия сексуального характера",
   "claim_type_children": "Дети без присмотра",
   "claim_type_drugs": "Пропаганда наркотиков",
