@@ -311,6 +311,7 @@
   "jsShower.authFrm.btnToAuthNewPass": "سجل الدخول باستخدام كلمة المرور الجديدة",
   "jsShower.authFrm.btnToRestore": "هل نسيت كلمة المرور؟",
   "jsShower.authFrm.header.login": "تسجيل الدخول",
+  "jsShower.authFrm.header.signup": "تسجيل",
   "jsShower.authFrm.header.restore": "استعادة الوصول",
   "jsShower.authFrm.headerExternal": "للدخول عبر",
   "jsShower.authFrm.hintEmailIvalid": "يرجى إدخال عنوان بريد إلكتروني صالح.",

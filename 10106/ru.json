@@ -301,6 +301,7 @@
   "jsShower.authFrm.btnToAuthNewPass": "Войти с новым паролем",
   "jsShower.authFrm.btnToRestore": "Забыли пароль?",
   "jsShower.authFrm.header.login": "Вход",
+  "jsShower.authFrm.header.signup": "Регистрация",
   "jsShower.authFrm.header.restore": "Восстановление доступа",
   "jsShower.authFrm.headerExternal": "Войти через",
   "jsShower.authFrm.hintEmailIvalid": "Пожалуйста, введите действительный адрес электронной почты.",

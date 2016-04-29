@@ -311,6 +311,7 @@
   "jsShower.authFrm.btnToAuthNewPass": "Log in with the new password",
   "jsShower.authFrm.btnToRestore": "Forgot password?",
   "jsShower.authFrm.header.login": "Log in",
+  "jsShower.authFrm.header.signup": "Sign up",
   "jsShower.authFrm.header.restore": "Restore access",
   "jsShower.authFrm.headerExternal": "Log in with",
   "jsShower.authFrm.hintEmailIvalid": "Please enter a valid E-mail address.",
