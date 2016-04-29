@@ -1,5 +1,7 @@
 {  
   "about_me": "Information",
+  "claim_type_profanity": "Langage obscène",
+  "claim_type_threat": "Danger pour la vie et la santé de l'utilisateur",  
   "claim_type_porn": "Actions à caractère sexuel",
   "claim_type_children": "Enfants sans surveillance",
   "claim_type_drugs": "Promotion de la drogue",
