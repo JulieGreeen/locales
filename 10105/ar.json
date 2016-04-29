@@ -1,5 +1,7 @@
 {  
 	"about_me": "معلومات",
+	"claim_type_profanity": "التدنيس",
+  	"claim_type_threat": "تهديد حياة وسلامة مستخدم آخر",
 	"claim_type_porn": "إباحية",
 	"claim_type_children": "الأطفال غير المراقبينا",
 	"claim_type_drugs": "تعاطي المخدرات",
