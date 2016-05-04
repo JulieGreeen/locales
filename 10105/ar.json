@@ -1,5 +1,6 @@
 {  
 	"about_me": "معلومات",
+	"claim_type_spam": "بريد مؤذي",
 	"claim_type_profanity": "التدنيس",
   	"claim_type_threat": "تهديد حياة وسلامة مستخدم آخر",
 	"claim_type_porn": "إباحية",
