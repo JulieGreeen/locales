@@ -9,6 +9,7 @@
   "common.fines.evidence.toShowAndCheck18y": " لقد بلغت من العمر 18 عامًا",
   "common.fines.fineLabel": "${0}",
   "common.fines.toPay": "دفع {sum}",
+  "common.fines.toPay.discount": "Pay for only {discountSum} instead of {sum}",
   "common.fines.mrtigracomment": "تُوجه جميع العوائد لدعم التطبيق وتطويره! شكرًا لمشاركتك!",
   "common.fines.notes.toSupport": "في حالة فرض الغرامة بالخطأ، عندئذ لا تدفعها – قم بإعلام {a}الدعم التقني{/a}.",
   "common.fines.notes.toSupportNoPay": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بـ {a}الدعم التقني {/a}.",

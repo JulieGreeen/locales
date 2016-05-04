@@ -9,6 +9,7 @@
   "common.fines.evidence.toShowAndCheck18y": "Мне есть 18",
   "common.fines.fineLabel": "${0}",
   "common.fines.toPay": "Оплатить {sum}",
+  "common.fines.toPay.discount": "Оплатить за {discountSum} вместо {sum}",
   "common.fines.mrtigracomment": "Все собранные средства идут на поддержку и развитие приложения! Спасибо за участие!",
   "common.fines.notes.toSupport": "Если штраф наложен ошибочно, не оплачивайте его, а обратитесь в {a}техподдержку{/a}.",
   "common.fines.notes.toSupportNoPay": "Если вы считаете, что это ошибка, обратитесь в {a}техподдержку{/a}.",
