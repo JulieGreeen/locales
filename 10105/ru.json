@@ -705,7 +705,16 @@
   "claims_someone_claimed_on_you": "На вас поступили жалобы от пользователей, подумайте чем они могут быть вызваны и постарайтесь исправиться.",
   "claims_invalid_avatar": "Аватар отсутствует, жалоба невозможна",
   "affects_players_to_level": "Действует на игроков до {0} уровня",
-  "wwf_set_buttons":[{"gift":"turtle", "color":"0x00BAD1", "x":104, "y":769},{"gift":"gorilla", "color":"0x5BA743", "x":325, "y":1193},{"gift":"panda", "color":"0x15A872", "x":104, "y":1562},{"gift":"whale", "color":"0x0089D1", "x":325, "y":1907},{"price":"90 000", "color":"0x198CC5", "x":100, "y":2301}],
-  "romantic_set_buttons":[{"gift":"wedding_rings", "stroke":"0xAD1067", "x":187, "y":1090},{"gift":"present_heart_of_the_ocean", "stroke":"0xAD1067", "x":184, "y":1826},{"gift":"roses", "stroke":"0xAD1067", "x":184, "y":2528},{"gift":"cosmo", "stroke":"0xAD1067", "x":184, "y":3215},{"gift":"present_exclusive_love_teddy", "stroke":"0xAD1067", "x":184, "y":3946},{"price":"90 000", "stroke":"0xAD1067", "x":33, "y":4624}],
+  "wwf_set_buttons":[{"gift":"turtle", "x":104, "y":769, "backgroundColor":"0x00BAD1",},
+                     {"gift":"gorilla", "x":325, "y":1193, "backgroundColor":"0x5BA743"},
+                     {"gift":"panda", "x":104, "y":1562, "backgroundColor":"0x15A872"},
+                     {"gift":"whale", "x":325, "y":1907, "backgroundColor":"0x0089D1"},
+                     {"price":"90 000", "x":100, "y":2301, "backgroundColor":"0x198CC5"}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "x":187, "y":1090, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50},
+                          {"gift":"present_heart_of_the_ocean", "x":184, "y":1826, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50},
+                          {"gift":"roses", "x":184, "y":2528, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50},
+                          {"gift":"cosmo", "x":184, "y":3215, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50},
+                          {"gift":"present_exclusive_love_teddy", "stroke":"0xAD1067", "x":184, "y":3946, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50},
+                          {"price":"90 000", "x":33, "y":4624, "backgroundAlpha":0, "stroke":"0xAD1067", "color":"0xAD1067", "width":160, "heigth":50}],
   "to_next_place":"подарите еще на {0} монет, чтобы подняться на {1} место"
 }
