@@ -716,5 +716,7 @@
                           {"gift":"cosmo", "x":208, "y":2276, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"present_exclusive_love_teddy", "x":208, "y":2778, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"price":"90 000", "x":99, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
+  "wwf_set_top":{"nickColor":"0xffffff"},
+  "romantic_set_top":{"nickColor":"0x000000"},
   "to_next_place":"подарите еще на {0} монет, чтобы подняться на {1} место"
 }
