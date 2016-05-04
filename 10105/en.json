@@ -711,6 +711,6 @@
   "claims_invalid_avatar": "Avatar not found. The complaint could not be completed.",
   "affects_players_to_level": "Works on players up to level {0}",
   "wwf_set_buttons":[{"gift":"turtle", "color":"0x00BAD1", "x":104, "y":769},{"gift":"gorilla", "color":"0x5BA743", "x":325, "y":1193},{"gift":"panda", "color":"0x15A872", "x":104, "y":1562},{"gift":"whale", "color":"0x0089D1", "x":325, "y":1907},{"price":"90 000", "color":"0x198CC5", "x":100, "y":2301}],
-  "romantic_set_buttons":[{"gift":"wedding_rings", "color":"0x00BAD1", "x":187, "y":1090},{"gift":"present_heart_of_the_ocean", "color":"0x5BA743", "x":184, "y":1826},{"gift":"roses", "color":"0x15A872", "x":184, "y":2528},{"gift":"cosmo", "color":"0x0089D1", "x":184, "y":3215},{"gift":"present_exclusive_love_teddy", "color":"0x0089D1", "x":184, "y":3946},{"price":"90 000", "color":"0x198CC5", "x":33, "y":4624}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "stroke":"0xAD1067", "x":187, "y":1090},{"gift":"present_heart_of_the_ocean", "stroke":"0xAD1067", "x":184, "y":1826},{"gift":"roses", "stroke":"0xAD1067", "x":184, "y":2528},{"gift":"cosmo", "stroke":"0xAD1067", "x":184, "y":3215},{"gift":"present_exclusive_love_teddy", "stroke":"0xAD1067", "x":184, "y":3946},{"price":"90 000", "stroke":"0xAD1067", "x":33, "y":4624}],
   "to_next_place":"buy gifts for {0} coins, to get on {1} place"
 }
