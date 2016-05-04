@@ -715,11 +715,11 @@
                      {"gift":"panda", "x":104, "y":1562, "backgroundColor":"0x15A872", "width":104, "height":38},
                      {"gift":"whale", "x":325, "y":1907, "backgroundColor":"0x0089D1", "width":104, "height":38},
                      {"price":"90 000", "x":100, "y":2301, "backgroundColor":"0x198CC5", "width":104, "height":38}],
-  "romantic_set_buttons":[{"gift":"wedding_rings", "x":187, "y":1092, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22},
-                          {"gift":"present_heart_of_the_ocean", "x":184, "y":1828, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22},
-                          {"gift":"roses", "x":184, "y":2530, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22},
-                          {"gift":"cosmo", "x":184, "y":3217, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22},
-                          {"gift":"present_exclusive_love_teddy", "x":184, "y":3948, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22},
-                          {"price":"90 000", "x":33, "y":4626, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":160, "height":50, "fontSize":22}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "x":208, "y":758, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_heart_of_the_ocean", "x":208, "y":1274, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"roses", "x":208, "y":1786, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"cosmo", "x":208, "y":2276, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_exclusive_love_teddy", "x":208, "y":2778, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"price":"90 000", "x":99, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "to_next_place":"buy gifts for {0} coins, to get on {1} place"
 }
