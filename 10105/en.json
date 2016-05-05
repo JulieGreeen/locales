@@ -723,5 +723,7 @@
                           {"price":"90 000", "x":99, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "wwf_set_top":{"nickColor":"0xffffff"},
   "romantic_set_top":{"nickColor":"0x000000"},
+  "wwf_set":"Rare animals",
+  "romantic_set":"Romantic and love",
   "to_next_place":"buy gifts for {0} coins, to get on {1} place"
 }
