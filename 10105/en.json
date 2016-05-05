@@ -725,6 +725,8 @@
   "romantic_set_top":{"nickColor":"0x000000"},
   "wwf_set":"Rare animals",
   "romantic_set":"Romantic and love",
+  "user_send_set_to_user": "%from% sended gifts to %to%\r\n",
+  "user_send_set_to_himself": "%from% received gifts\r\n",
   "to_next_place":"buy gifts for {0} coins, to get on {1} place",
   "spectators_motivation": "You do not have any viewers yet. If you are pleasant and interesting, you will definitely attract viewers.",
   "viewers": "viewer|viewers",
