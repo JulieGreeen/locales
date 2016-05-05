@@ -723,5 +723,10 @@
                           {"price":"90 000", "x":99, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "wwf_set_top":{"nickColor":"0xffffff"},
   "romantic_set_top":{"nickColor":"0x000000"},
-  "to_next_place":"buy gifts for {0} coins, to get on {1} place"
+  "to_next_place":"buy gifts for {0} coins, to get on {1} place",
+  "spectators_motivation": "You do not have any viewers yet. If you are pleasant and interesting, you will definitely attract viewers.",
+  "viewers": "viewer|viewers",
+  "subscription_motivation": "You do not subscribe to any broadcasts right now. To subscribe to another user's broadcast, select the icon next to their name.",
+  "to_normal_mode": "Standard",
+  "to_fullscreen_mode": "Fullscreen"
 }
