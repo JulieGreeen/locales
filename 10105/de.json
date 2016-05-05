@@ -680,5 +680,10 @@
   "claims_claim_on_avatar": "Beschwerde über Avatar %user%, Rating auf %rating% gesunken",
   "claims_someone_claimed_on_you": "Es sind Beschwerden der Benutzer über Sie eingegangen. Berücksichtigen Sie die Gründe der Beschwerden und bemühen Sie sich um Besserung.",
   "claims_invalid_avatar": "Kein Avatar, Beschwerde nicht möglich",
-  "affects_players_to_level": "Wirkt auf einen Spieler bis Level {0}"
+  "affects_players_to_level": "Wirkt auf einen Spieler bis Level {0}",
+  "spectators_motivation": "Sie haben noch keine Zuschauer. Seien Sie nett und interessant bei der Unterhaltung und die Zuschauer werden kommen.",
+  "viewers": "Zuschauer",
+  "subscription_motivation": "Im Moment läuft keine Ihrer abonnierten Übertragungen. Klicken Sie auf das entsprechende Symbol mit dem Namen des Benutzers, wenn Sie seine Übertragung abonnieren möchten.",
+  "to_normal_mode": "Normale Ansicht",
+  "to_fullscreen_mode": "Vollbild"
 }
