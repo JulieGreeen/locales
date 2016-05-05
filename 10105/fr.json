@@ -679,6 +679,10 @@
   "claims_claim_on_avatar": "La plaine sur l'avatar %user% a été envoyée, la réputation a diminué à %rating%",
   "claims_someone_claimed_on_you": "Des utilisateurs ont envoyé des plaintes à votre sujet, veuillez considérer à quoi elles pourraient être liées et essayez d'y remédier.",
   "claims_invalid_avatar": "Pas d'avatar, impossible de faire une plainte",
-  "affects_players_to_level": "Peut être appliqué aux joueurs jusqu’au niveau {0}"
-
+  "affects_players_to_level": "Peut être appliqué aux joueurs jusqu’au niveau {0}",
+  "spectators_motivation": "Aucun spectateur pour le moment. Soyez un interlocuteur intéressant et agréable et les spectateurs ne vont pas tarder à venir.",
+  "viewers": "spectateur|spectateurs",
+  "subscription_motivation": "Actuellement vous n’êtes inscrit à aucune transmission. Pour vous inscrire aux transmissions d’un utilisateur, cliquez sur le picto correspondant à côté de son nom.",
+  "to_normal_mode": "Affichage classique",
+  "to_fullscreen_mode": "Plein écran"
 }
