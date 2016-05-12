@@ -2,6 +2,7 @@
 common.payments.inviteMsgSupportChat
 jsShower.authMsgForGU
 jsShower.sendPassAlert.*
+fine_discount
 
 
 # Плохой перевод в locale=ar для ключей:
