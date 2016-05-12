@@ -309,6 +309,8 @@
   "sign_in_with_vk_button": "Connexion via VK",
   "simple_draw": "Égalité pour ce round",
   "someone_send_present_to_another": "{0} a envoyé le cadeau {1} à {2}",
+  "user_send_present_to_user": "%from% a offert à %to%\r\n%present%",
+  "user_send_present_to_himself": "%from% a reçu un cadeau\r\n%present%",
   "spectators": "Spectateurs",
   "start_talk": "Passer en direct !",
   "stickers": "autocollants",
