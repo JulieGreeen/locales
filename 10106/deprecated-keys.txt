@@ -1,5 +1,7 @@
 # Проверить использование
 common.payments.inviteMsgSupportChat
+jsShower.authMsgForGU
+jsShower.sendPassAlert.*
 
 
 # Плохой перевод в locale=ar для ключей:
@@ -9,6 +11,8 @@ common.fines.timeWaiting
 # Плохой перевод в locale=ar|en для ключей:
 common.fines.reasons.lostaccount
 support.*
+account.*
+changePsw.*
 
 
 # Комментарий к common.fines.timeHeader
