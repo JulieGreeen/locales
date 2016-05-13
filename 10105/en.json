@@ -526,6 +526,8 @@
   "card_16_descr" : "The sticker burns up when an attempt is made to apply it to a user whose level is higher than the maximum level at which the sticker can work",
   "card_19" : "Nature defender",
   "card_19_descr" : "Protection against negative effects.",
+  "card_20" : "Stone around the neck",
+  "card_20_descr" : "Energy consumption x5.",
   "for_user" : "for ",
   "from_user": "from ",
   "wish_for": "What do want to wish for?",
