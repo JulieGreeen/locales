@@ -311,6 +311,8 @@
   "sign_in_with_vk_button": "VK로 로그인",
   "simple_draw": "이 라운드는 무승부입니다",
   "someone_send_present_to_another": "{0} 님이 {2} 님에게 {1} 선물을 보냈습니다 ",
+  "user_send_present_to_user": "%from% %to% 제공합니다\r\n%present%",
+  "user_send_present_to_himself": "%from% 님이 선물\r\n%present%",
   "spectators": "관전자",
   "start_talk": "생방송 시작하기",
   "stickers": "스티커",
