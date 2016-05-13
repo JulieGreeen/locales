@@ -310,6 +310,8 @@
   "sign_in_with_vk_button": "Über VK anmelden",
   "simple_draw": "Zeichenspiel in dieser Runde",
   "someone_send_present_to_another": "{0} hat das Geschenk {1} an {2} gesendet",
+  "user_send_present_to_user": "%from% schenkte %to%\r\n%present%",
+  "user_send_present_to_himself": "%from% erhielt ein Geschenk\r\n%present%",
   "spectators": "Zuschauer",
   "start_talk": "Live senden!",
   "stickers": "Sticker",
