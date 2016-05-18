@@ -725,5 +725,6 @@
   "user_send_set_to_user": "%from% подарил %to%\r\n",
   "user_send_set_to_himself": "%from% получил подарки\r\n",
   "to_next_place":"подарите еще на {0} монет, чтобы \nподняться на {1} место",
-  "cock_says":"Кукареку!"
+  "cock_says":"Кукареку!",
+  "not_in_top":"Купите подарок, чтобы попасть в рейтинг"
 }
