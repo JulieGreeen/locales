@@ -119,7 +119,7 @@
   "common.payments.subscriptionPromoLabel": "6 месяцев бесплатно!",
   "common.payments.success.*.text": "{h1}Поздравляем вас с успешной оплатой! Ура!{/h1}",
   "common.payments.success.cr.text": "{h1}Поздравляем вас с успешной оплатой! Ура!{/h1}{p}Вы совершили покупку за счёт средств предоставленного Вам Обещанного платежа на сумму {sum}. Напоминаем, что погасить Обещанный платеж необходимо в течение {limitDays} дней.{/p}",
-  "common.payments.mrtigraTitle": "Магазин Мастера Тигры",
+  "common.payments.mrtigraTitle": "2016 Мастер Тигра",
   "common.payments.info.title": "Ваша покупка",
   "common.payments.info.desc": "{productTypeDesc} за {sum}",
   "common.payments.info.descToFriend": "{productTypeDesc} за {sum} для друга #{toId}",
