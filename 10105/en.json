@@ -749,5 +749,6 @@
   "to_normal_mode": "Standard",
   "to_fullscreen_mode": "Fullscreen",
   "cock_says":"Cock-a-doodle-doo!",
-  "not_in_top":"Buy a gift and get to the top"
+  "not_in_top":"Buy a gift and get to the top",
+  "age":"{0} year old|{0} years old"
 }

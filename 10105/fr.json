@@ -686,5 +686,6 @@
   "viewers": "spectateur|spectateurs",
   "subscription_motivation": "Actuellement vous n’êtes inscrit à aucune transmission. Pour vous inscrire aux transmissions d’un utilisateur, cliquez sur le picto correspondant à côté de son nom.",
   "to_normal_mode": "Affichage classique",
-  "to_fullscreen_mode": "Plein écran"
+  "to_fullscreen_mode": "Plein écran",
+  "age":"{0} an|{0} ans"
 }

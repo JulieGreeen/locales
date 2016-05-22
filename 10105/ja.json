@@ -710,5 +710,6 @@
   "claims_claim_on_avatar": "%user% アバターに関する苦情はすでに提出されています。 あなたの評判は、%rating%に低下しました。",
   "claims_someone_claimed_on_you": "ユーザーが、あなたに対する苦情を提出しました。 この苦情の原因を考え、行動を正しましょう。",
   "claims_invalid_avatar": "アバターが見つかりませんでした。 苦情の申し立ては完了できませんでした。",
-  "affects_players_to_level": "レベル {0} までのプレーヤーに使えます"
+  "affects_players_to_level": "レベル {0} までのプレーヤーに使えます",
+  "age":"{0} 年"
 }
