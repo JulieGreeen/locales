@@ -750,5 +750,7 @@
   "to_fullscreen_mode": "Fullscreen",
   "cock_says":"Cock-a-doodle-doo!",
   "not_in_top":"Buy a gift and get to the top",
-  "age":"{0} year old|{0} years old"
+  "age":"{0} year old|{0} years old",
+  "log_doublecoins":"Coins x2 turned on",
+  "log_doublecoins_off":"Coins x2 turned off"
 }
