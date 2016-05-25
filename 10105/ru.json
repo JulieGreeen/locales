@@ -729,7 +729,7 @@
                           {"gift":"roses", "x":208, "y":1786, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"cosmo", "x":208, "y":2276, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"present_exclusive_love_teddy", "x":208, "y":2778, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
-                          {"price":"90 000", "x":110, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
+                          {"price":"80 000", "x":110, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "wwf_set_top":{"nickColor":"0xffffff"},
   "romantic_set_top":{"nickColor":"0x000000"},
   "wwf_set":"Редкие животные",
