@@ -744,5 +744,5 @@
   "log_doublecoins_off":"Выключено удвоение монет",
   "sum_set_price":"Стоимость по отдельности:",
   "total_set_price":"Вы заплатите:",
-  "sell_present_new": "Продан подарок от {0} за +{1} монет"
+  "sell_present_new": "Продан подарок от %from% +{0} монет\r\n%present%"
 }
