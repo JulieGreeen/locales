@@ -688,5 +688,6 @@
   "subscription_motivation": "Im Moment läuft keine Ihrer abonnierten Übertragungen. Klicken Sie auf das entsprechende Symbol mit dem Namen des Benutzers, wenn Sie seine Übertragung abonnieren möchten.",
   "to_normal_mode": "Normale Ansicht",
   "to_fullscreen_mode": "Vollbild",
-  "age":"{0} Jahr alt|{0} Jahre alt"
+  "age":"{0} Jahr alt|{0} Jahre alt",
+  "sell_present_new": "Geschenk %from% wurde verkauft +{0} Münzen\r\n%present%"
 }
