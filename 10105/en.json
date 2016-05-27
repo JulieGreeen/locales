@@ -756,5 +756,6 @@
   "log_doublecoins":"Coins x2 turned on",
   "log_doublecoins_off":"Coins x2 turned off",
   "sum_set_price":"Separately cost:",
-  "total_set_price":"Together cost:"
+  "total_set_price":"Together cost:",
+  "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%"
 }
