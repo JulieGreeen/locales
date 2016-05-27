@@ -757,5 +757,5 @@
   "log_doublecoins_off":"Coins x2 turned off",
   "sum_set_price":"Separately cost:",
   "total_set_price":"Together cost:",
-  "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%"
+  "sell_present_new": "%from%의 선물이 +{0}개 코인에 판매됨\r\n%present%"
 }
