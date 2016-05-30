@@ -711,5 +711,16 @@
   "claims_someone_claimed_on_you": "ユーザーが、あなたに対する苦情を提出しました。 この苦情の原因を考え、行動を正しましょう。",
   "claims_invalid_avatar": "アバターが見つかりませんでした。 苦情の申し立ては完了できませんでした。",
   "affects_players_to_level": "レベル {0} までのプレーヤーに使えます",
+  "wwf_set_buttons":[{"gift":"turtle", "x":122, "y":775, "backgroundColor":"0x00BAD1", "width":114, "height":38},
+                     {"gift":"gorilla", "x":289, "y":1155, "backgroundColor":"0x5BA743", "width":114, "height":38},
+                     {"gift":"panda", "x":122, "y":1533, "backgroundColor":"0x15A872", "width":114, "height":38},
+                     {"gift":"whale", "x":289, "y":1893, "backgroundColor":"0x0089D1", "width":114, "height":38},
+                     {"price":"90 000", "x":122, "y":2207, "backgroundColor":"0x198CC5", "width":114, "height":38}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "x":206, "y":787, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_heart_of_the_ocean", "x":206, "y":1300, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"roses", "x":206, "y":1771, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"cosmo", "x":206, "y":2264, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_exclusive_love_teddy", "x":206, "y":2766, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"price":"80 000", "x":122, "y":3213, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "age":"{0} 年"
 }

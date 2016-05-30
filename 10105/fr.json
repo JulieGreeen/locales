@@ -688,5 +688,16 @@
   "to_normal_mode": "Affichage classique",
   "to_fullscreen_mode": "Plein écran",
   "age":"{0} an|{0} ans",
+  "wwf_set_buttons":[{"gift":"turtle", "x":122, "y":812, "backgroundColor":"0x00BAD1", "width":114, "height":38},
+                     {"gift":"gorilla", "x":289, "y":1204, "backgroundColor":"0x5BA743", "width":114, "height":38},
+                     {"gift":"panda", "x":122, "y":1549, "backgroundColor":"0x15A872", "width":114, "height":38},
+                     {"gift":"whale", "x":289, "y":1912, "backgroundColor":"0x0089D1", "width":114, "height":38},
+                     {"price":"90 000", "x":122, "y":2240, "backgroundColor":"0x198CC5", "width":114, "height":38}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "x":206, "y":787, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_heart_of_the_ocean", "x":206, "y":1300, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"roses", "x":206, "y":1821, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"cosmo", "x":206, "y":2354, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_exclusive_love_teddy", "x":206, "y":2806, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"price":"80 000", "x":122, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "sell_present_new": "Cadeau de %from% vendu +{0} pièces\r\n%present%"
 }

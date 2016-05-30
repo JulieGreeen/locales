@@ -712,6 +712,17 @@
   "claims_invalid_avatar": "캐릭터를 찾을 수 없습니다. 불만사항을 처리할 수 없습니다.",
   "affects_players_to_level": "레벨 {0}까지의 플레이어에 작용합니다",
   "age":"{0} 년",
+  "wwf_set_buttons":[{"gift":"turtle", "x":122, "y":796, "backgroundColor":"0x00BAD1", "width":114, "height":38},
+                     {"gift":"gorilla", "x":289, "y":1148, "backgroundColor":"0x5BA743", "width":114, "height":38},
+                     {"gift":"panda", "x":122, "y":1487, "backgroundColor":"0x15A872", "width":114, "height":38},
+                     {"gift":"whale", "x":289, "y":1801, "backgroundColor":"0x0089D1", "width":114, "height":38},
+                     {"price":"90 000", "x":122, "y":2114, "backgroundColor":"0x198CC5", "width":114, "height":38}],
+  "romantic_set_buttons":[{"gift":"wedding_rings", "x":206, "y":747, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_heart_of_the_ocean", "x":206, "y":1240, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"roses", "x":206, "y":1731, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"cosmo", "x":206, "y":2224, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"gift":"present_exclusive_love_teddy", "x":206, "y":2676, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
+                          {"price":"80 000", "x":122, "y":3153, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "sell_present_new": "%from%의 선물이 +{0}개 코인에 판매됨\r\n%present%"
   
 }
