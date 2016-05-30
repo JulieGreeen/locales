@@ -759,5 +759,6 @@
   "total_set_price":"Together cost:",
   "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%",
   "my_city": "My city",
-  "city_level": "City\r\n{0} level"
+  "city_level": "City\r\n{0} level",
+  "double_coins_buff_shop":"Purchased coins doubled"
 }
