@@ -757,5 +757,7 @@
   "log_doublecoins_off":"Coins x2 turned off",
   "sum_set_price":"Separately cost:",
   "total_set_price":"Together cost:",
-  "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%"
+  "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%",
+  "my_city": "My city",
+  "city_level": "City\r\n{0} level"
 }
