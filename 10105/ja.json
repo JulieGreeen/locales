@@ -711,5 +711,7 @@
   "claims_someone_claimed_on_you": "ユーザーが、あなたに対する苦情を提出しました。 この苦情の原因を考え、行動を正しましょう。",
   "claims_invalid_avatar": "アバターが見つかりませんでした。 苦情の申し立ては完了できませんでした。",
   "affects_players_to_level": "レベル {0} までのプレーヤーに使えます",
-  "age":"{0} 年"
+  "age":"{0} 年",
+  "my_city": "自分の街",
+  "city_level": "レベル\r\n{0} の街"
 }

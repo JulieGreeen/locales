@@ -688,5 +688,7 @@
   "to_normal_mode": "Affichage classique",
   "to_fullscreen_mode": "Plein écran",
   "age":"{0} an|{0} ans",
-  "sell_present_new": "Cadeau de %from% vendu +{0} pièces\r\n%present%"
+  "sell_present_new": "Cadeau de %from% vendu +{0} pièces\r\n%present%",
+  "my_city": "My city",
+  "city_level": "City\r\n{0} level"
 }
