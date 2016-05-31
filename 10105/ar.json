@@ -717,5 +717,6 @@
                           {"price":"80 000", "x":290, "y":3153, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "age":"{0} سنة | {0} سنة | {0} سنة | {0} سنوات | {0} سنة | {0} سنة",
   "my_city": "My city",
-  "city_level": "City\r\n{0} level"
+  "city_level": "City\r\n{0} level",
+  "sell_present_new": "تم بيع هدية من %from% ‏+ {0} من العملات المعدنية\r\n%present%"
 }
