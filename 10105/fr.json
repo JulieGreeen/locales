@@ -714,6 +714,6 @@
                           {"gift":"present_exclusive_love_teddy", "x":206, "y":2806, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"price":"romantic", "x":122, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "sell_present_new": "Cadeau de %from% vendu +{0} pièces\r\n%present%",
-  "my_city": "My city",
-  "city_level": "City\r\n{0} level"
+  "my_city": "Ma ville",
+  "city_level": "Ville\r\nniveau {0}"
 }
