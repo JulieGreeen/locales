@@ -738,5 +738,6 @@
                           {"price":"80 000", "x":122, "y":3213, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "age":"{0} 年",
   "my_city": "自分の街",
-  "city_level": "レベル\r\n{0} の街"
+  "city_level": "レベル\r\n{0} の街",
+  "sell_present_new": "%from% からのギフトが売れました +{0} コイン\r\n%present%"
 }
