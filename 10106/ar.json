@@ -83,6 +83,7 @@
   "support.sendConfirm.success": "{h1}Request submitted successfully!{/h1}{p}We have received your request and created the ticket for the technical support! Soon you will receive an email with the answer. Thank you for your patience. You're cool.{/p}",
   "support.sendConfirm.toBack": "Back",
   "support.sendConfirm.toRepeat": "Retry",
+  "support.sendConfirm.toPay": "VIP-support for {sum}",
   "common.links.agreement": "http://mastertigra.com/en/agreement/",
   "common.links.chatroulette": "/mainpage/page/videobeseda",
   "common.links.chatrouletteLabel": "Chat Roulette",
