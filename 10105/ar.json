@@ -722,7 +722,7 @@
                           {"gift":"roses", "x":213, "y":1731, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"cosmo", "x":213, "y":2224, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"present_exclusive_love_teddy", "x":213, "y":2676, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
-                          {"price":"romantic", "x":200, "y":3153, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
+                          {"price":"romantic", "x":122, "y":3153, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "age":"{0} سنة | {0} سنة | {0} سنة | {0} سنوات | {0} سنة | {0} سنة",
   "my_city": "مدينتي",
   "city_level": "المدينة\r\nالمستوى {0}",
