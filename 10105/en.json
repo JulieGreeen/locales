@@ -768,5 +768,7 @@
   "sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%",
   "my_city": "My city",
   "city_level": "City\r\n{0} level",
+  "energy_cost":"Energy consumption x{0}",
+  "energy_cost_descr":"Some cards(like %20%) increase energy consumption. Other cards(for example %24%) allow to spend less energy.",
   "double_coins_buff_shop":"Purchased coins doubled"
 }
