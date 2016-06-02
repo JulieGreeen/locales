@@ -724,5 +724,7 @@
   "sell_present_new": "Cadeau de %from% vendu +{0} pièces\r\n%present%",
   "sum_set_price":"Prix en les achetant séparément:",
   "my_city": "Ma ville",
+  "energy_cost":"Consommation d'énergie x{0}",
+  "energy_cost_descr":"Certaines cartes (telles que %20%) augmentent la consommation d'énergie. D'autres cartes (par exemple %24%) permettent de dépenser moins d'énergie.",
   "city_level": "Ville\r\nniveau {0}"
 }

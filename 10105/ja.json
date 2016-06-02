@@ -746,6 +746,8 @@
                           {"price":"romantic", "x":122, "y":3213, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "age":"{0} 年",
   "my_city": "自分の街",
+  "energy_cost":"エネルギー消費x{0}",
+  "energy_cost_descr":"特定のカード（%20%など）はエネルギー消費量が増えます。また(たとえば %24%など)はエネルギー消費が少なくて済むカードもあります。",
   "city_level": "レベル\r\n{0} の街",
   "sum_set_price":"個別に購入した場合の総額：",
   "sell_present_new": "%from% からのギフトが売れました +{0} コイン\r\n%present%"

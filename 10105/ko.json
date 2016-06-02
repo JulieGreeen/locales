@@ -748,5 +748,7 @@
   "sell_present_new": "%from%의 선물이 +{0}개 코인에 판매됨\r\n%present%",
   "sum_set_price":"개별적으로 구매 시 총 비용:",
   "my_city": "내 도시",
+  "energy_cost":"에너지 소비 x{0}",
+  "energy_cost_descr":"일부 카드(예: %20%)는 에너지 소비를 늘립니다. 기타 카드(예: %24%)는 에너지를 적게 소비하게 합니다.",
   "city_level": "도시, 수준 {0}"
 }
