@@ -746,6 +746,7 @@
                           {"gift":"present_exclusive_love_teddy", "x":206, "y":2676, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"price":"romantic", "x":122, "y":3153, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "sell_present_new": "%from%의 선물이 +{0}개 코인에 판매됨\r\n%present%",
+  "sum_set_price":"개별적으로 구매 시 총 비용:",
   "my_city": "내 도시",
   "city_level": "도시, 수준 {0}"
 }

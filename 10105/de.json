@@ -710,5 +710,6 @@
                           {"price":"romantic", "x":122, "y":3283, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
   "sell_present_new": "Geschenk %from% wurde verkauft +{0} Münzen\r\n%present%",
   "my_city": "Meine Stadt",
+  "sum_set_price":"Preise im Einzelnen:",
   "city_level": "Stadt\r\nLevel {0}"
 }
