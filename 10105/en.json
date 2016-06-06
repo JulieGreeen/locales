@@ -770,5 +770,6 @@
   "city_level": "City\r\n{0} level",
   "energy_cost":"Energy consumption x{0}",
   "energy_cost_descr":"Some cards(like %20%) increase energy consumption. Other cards(for example %24%) allow to spend less energy.",
-  "double_coins_buff_shop":"Purchased coins doubled"
+  "double_coins_buff_shop":"Purchased coins doubled",
+  "time_left":"{0} left"
 }
