@@ -713,5 +713,6 @@
   "energy_cost":"Energieverbrauch x{0}",
   "energy_cost_descr":"Einige Karten (wie %20%) erhöhen den Energieverbrauch, andere Karten(zum Beispiel %24%) verringern den Energieverbrauch.",
   "sum_set_price":"Preise im Einzelnen:",
-  "city_level": "Stadt\r\nLevel {0}"
+  "city_level": "Stadt\r\nLevel {0}",
+  "time_left":"Noch {0}"
 }
