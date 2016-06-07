@@ -744,6 +744,8 @@
                           {"gift":"cosmo", "x":206, "y":2264, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"gift":"present_exclusive_love_teddy", "x":206, "y":2766, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36},
                           {"price":"romantic", "x":122, "y":3213, "backgroundAlpha":0, "stroke":"0xD50D77", "color":"0xD50D77", "width":113, "height":36}],
+  "wwf_set_top":{"nickColor":"0xffffff", "backColor":"0x000000", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"121", "timerY":"110", "timerSetX":"121", "timerSetY":"216"},
+  "romantic_set_top":{"nickColor":"0x000000", "backColor":"0xfdedf0", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
   "age":"{0} 年",
   "my_city": "自分の街",
   "energy_cost":"エネルギー消費x{0}",
