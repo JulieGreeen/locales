@@ -759,6 +759,6 @@
   "energy_cost_descr":"Некоторые карточки(например %20%) увеличивают затраты энергии. Другие (например %24%) позволяют тратить меньше энергии.",
   "double_coins_buff_shop":"Работает удвоение монет",
   "time_left":"{0} осталось",
-  "promised_payment_available_promo_link":"Доверяем еще больше. Теперь для вас доступен Обещанный платеж до ${0}.",
-  "promised_payment_available_promo":"%promised_payment_available_promo_link%"
+  "promised_payment_available_promo":"Доверяем еще больше. Теперь для вас доступен Обещанный платеж до ${0}. %get_coins_link%",
+  "get_coins_link":"Получить монеты"
 }
