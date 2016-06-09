@@ -732,6 +732,8 @@
   "energy_cost_descr":"بعض البطاقات (مثل %20%) تزيد من استهلاك الطاقة. فيما تتيح البطاقات الأخرى (مثل %24%) استنذاف طاقة أقل.",
   "city_level": "المدينة\r\nالمستوى {0}",
   "sell_present_new": "تم بيع هدية من %from% ‏+ {0} من العملات المعدنية\r\n%present%",
-  "time_left":"{0} متبقي"
+  "time_left":"{0} متبقي",
+  "promised_payment_available_promo":"الآن نحن نثق بك بشكل أكبر. ويتوافر لك سلفة المبلغ المتعهد به حتى ${0}. %get_coins_link%",
+  "get_coins_link":"Get coins"
   
 }
