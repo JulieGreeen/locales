@@ -771,5 +771,7 @@
   "energy_cost":"Energy consumption x{0}",
   "energy_cost_descr":"Some cards(like %20%) increase energy consumption. Other cards(for example %24%) allow to spend less energy.",
   "double_coins_buff_shop":"Purchased coins doubled",
-  "time_left":"{0} left"
+  "time_left":"{0} left",
+  "promised_payment_available_promo":"Now we will trust you even more. Available to you Promised payment up ${0}. %get_coins_link%",
+  "get_coins_link":"Get coins"
 }
