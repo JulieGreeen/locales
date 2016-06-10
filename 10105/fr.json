@@ -727,5 +727,7 @@
   "energy_cost":"Consommation d'énergie x{0}",
   "energy_cost_descr":"Certaines cartes (telles que %20%) augmentent la consommation d'énergie. D'autres cartes (par exemple %24%) permettent de dépenser moins d'énergie.",
   "city_level": "Ville\r\nniveau {0}",
-  "time_left":"{0} restant"
+  "time_left":"{0} restant",
+  "promised_payment_available_promo":"Encore plus de confiance. Maintenant, vous avez accès au Paiement promis jusqu'à {0} $. %get_coins_link%",
+  "get_coins_link":"Obtenir des pièces"
 }
