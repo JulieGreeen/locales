@@ -753,5 +753,7 @@
   "city_level": "レベル\r\n{0} の街",
   "sum_set_price":"個別に購入した場合の総額：",
   "sell_present_new": "%from% からのギフトが売れました +{0} コイン\r\n%present%",
-  "time_left":"残り {0}"
+  "time_left":"残り {0}",
+  "promised_payment_available_promo":"もう少し信頼します。${0} まで後払いできるようになりました。 %get_coins_link%",
+  "get_coins_link":"コインを受け取る"
 }
