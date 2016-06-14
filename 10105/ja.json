@@ -755,5 +755,6 @@
   "sell_present_new": "%from% からのギフトが売れました +{0} コイン\r\n%present%",
   "time_left":"残り {0}",
   "promised_payment_available_promo":"もう少し信頼します。${0} まで後払いできるようになりました。 %get_coins_link%",
+  "promised_payment_available_shop_promo":"もう少し信頼します。${0} まで後払いできるようになりました。",
   "get_coins_link":"コインを受け取る"
 }
