@@ -773,5 +773,6 @@
   "double_coins_buff_shop":"Purchased coins doubled",
   "time_left":"{0} left",
   "promised_payment_available_promo":"Now we will trust you even more. Available to you Promised payment up ${0}. %get_coins_link%",
+  "promised_payment_available_shop_promo":"Now we will trust you even more. Available to you Promised payment up ${0}.",
   "get_coins_link":"Get coins"
 }
