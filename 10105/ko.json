@@ -755,5 +755,6 @@
   "city_level": "도시, 수준 {0}",
   "time_left":"{0} 남음",
   "promised_payment_available_promo":"이제 여러분을 더 신뢰할 것입니다. 약속한 지급액 ${0}를 사용할 수 있습니다. %get_coins_link%",
+  "promised_payment_available_shop_promo":"이제 여러분을 더 신뢰할 것입니다. 약속한 지급액 ${0}를 사용할 수 있습니다.",
   "get_coins_link":"코인 얻기"
 }
