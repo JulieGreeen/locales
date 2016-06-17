@@ -777,5 +777,5 @@
   "promised_payment_available_promo":"Now we will trust you even more. Available to you Promised payment up ${0}. %get_coins_link%",
   "promised_payment_available_shop_promo":"Now we will trust you even more. Available to you Promised payment up ${0}.",
   "get_coins_link":"Get coins",
-  "log_send_present": "Add ticket %ticketID% to VIP Support"
+  "log_add_to_vip_support": "Add ticket %ticketID% to VIP Support"
 }
