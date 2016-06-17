@@ -389,6 +389,7 @@
   "gnome_nations_create_link": "http://www.gnomograd.com?utm_source=videobeseda&utm_medium=promo&utm_campaign=gnomograd_create_city",
   "gnome_nations_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd",
   "gnome_nations_create": "Создать город",
+  "message_ask_gift": "{0} просит Вас подарить ему {1}! Кажется, наступил отличный момент для маленького знака внимания:)",
  "maintain_app_for_exp": "Оцените наше приложение в Google Play и получите 1000 опыта бесплатно! [Получить опыт]",
  "maintain_app_for_exp_success": "Опыт за оценку начислен +1000",
  "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование",
