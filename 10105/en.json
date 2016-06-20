@@ -41,6 +41,7 @@
   "another_connection": "Someone from another location has connected to your account",
   "aplredy_baned": "Already banned by the moderator",
   "are_you_here": "Confirm your presence to reconnect",
+  "ask_gift": "Ask friends",
   "ask_rating_button_dislike_0": "Add a recommendation",
   "ask_rating_button_dislike_1": "Send feedback",
   "ask_rating_button_dislike_2": "Comment",
@@ -190,6 +191,7 @@
   "min_universal": "{0} min.",
   "moderador_delete_this_msg": "message is deleted by the moderator",
   "my_translation": "Go live",
+  "message_ask_gift" : "{0} asks you for {1}! It seems to be an excellent moment for little sign of attention:)",
   "need_access_to_camera": "To make your broacast available to other users, we need access to your camera and microphone",
   "need_google_or_faceboock_account": "Login with a Facebook or Google account to use all the features of the application",
   "need_headphones_head": "Plug in your headphones",
@@ -776,5 +778,6 @@
   "promised_payment_available_shop_promo":"Now we will trust you even more. Available to you Promised payment up ${0}.",
   "get_coins_link":"Get coins",
   "today_at":"Today at {0}",
-  "yesterday_at":"Yesterday at {0}"
+  "yesterday_at":"Yesterday at {0}",
+  "log_add_to_vip_support": "Add ticket %ticketID% to VIP Support"
 }

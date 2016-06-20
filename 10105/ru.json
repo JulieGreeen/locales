@@ -41,6 +41,7 @@
   "another_connection": "С вашей учетной записи подключились из другого места",
   "aplredy_baned": "Уже забанен модераором",
   "are_you_here": "Для переподключения подтвердите свое присутствие.",
+  "ask_gift": "Попросить у друзей",
   "ask_rating_button_dislike_0": "У меня есть замечание ",
   "ask_rating_button_dislike_1": "Оставить замечание",
   "ask_rating_button_dislike_2": "Не нравится. Есть замечания",
@@ -388,6 +389,7 @@
   "gnome_nations_create_link": "http://www.gnomograd.com?utm_source=videobeseda&utm_medium=promo&utm_campaign=gnomograd_create_city",
   "gnome_nations_android_link": "https://play.google.com/store/apps/details?id=air.com.mrtigra.gnomenations&referrer=utm_source%3Dvideobeseda%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd",
   "gnome_nations_create": "Создать город",
+  "message_ask_gift": "{0} просит Вас подарить ему {1}! Кажется, наступил отличный момент для маленького знака внимания:)",
  "maintain_app_for_exp": "Оцените наше приложение в Google Play и получите 1000 опыта бесплатно! [Получить опыт]",
  "maintain_app_for_exp_success": "Опыт за оценку начислен +1000",
  "maintain_app_for_exp_faild": "Вы уже получали опыт за голосование",
@@ -763,5 +765,6 @@
   "promised_payment_available_shop_promo":"Доверяем еще больше. Теперь для вас доступен Обещанный платеж до ${0}.",
   "get_coins_link":"Получить монеты",
   "today_at":"Сегодня в {0}",
-  "yesterday_at":"Вчера в {0}"
+  "yesterday_at":"Вчера в {0}",
+  "log_add_to_vip_support": "Заявка %ticketID% переведена в VIP техподдержку"
 }
