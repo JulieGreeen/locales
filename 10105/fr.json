@@ -730,5 +730,7 @@
   "time_left":"{0} restant",
   "promised_payment_available_promo":"Encore plus de confiance. Maintenant, vous avez accès au Paiement promis jusqu'à {0} $. %get_coins_link%",
   "promised_payment_available_shop_promo":"Encore plus de confiance. Maintenant, vous avez accès au Paiement promis jusqu'à {0} $.",
-  "get_coins_link":"Obtenir des pièces"
+  "get_coins_link":"Obtenir des pièces",
+  "today_at":"Aujourd'hui à {0}",
+  "yesterday_at":"Hier à {0}"
 }

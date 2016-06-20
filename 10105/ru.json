@@ -761,5 +761,7 @@
   "time_left":"{0} осталось",
   "promised_payment_available_promo":"Доверяем еще больше. Теперь для вас доступен Обещанный платеж до ${0}. %get_coins_link%",
   "promised_payment_available_shop_promo":"Доверяем еще больше. Теперь для вас доступен Обещанный платеж до ${0}.",
-  "get_coins_link":"Получить монеты"
+  "get_coins_link":"Получить монеты",
+  "today_at":"Сегодня в {0}",
+  "yesterday_at":"Вчера в {0}"
 }

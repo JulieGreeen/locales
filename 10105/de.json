@@ -719,5 +719,7 @@
   "time_left":"Noch {0}",
   "promised_payment_available_promo":"Noch mehr Vertrauen. Jetzt ist für Sie die Versprochene Bezahlung bis {0} $ verfügbar. %get_coins_link%",
   "promised_payment_available_shop_promo":"Noch mehr Vertrauen. Jetzt ist für Sie die Versprochene Bezahlung bis {0} $ verfügbar.",
-  "get_coins_link":"Münzen erhalten"
+  "get_coins_link":"Münzen erhalten",
+  "today_at":"Heute um {0}",
+  "yesterday_at":"Gestern um {0}"
 }

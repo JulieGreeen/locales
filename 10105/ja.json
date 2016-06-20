@@ -756,5 +756,7 @@
   "time_left":"残り {0}",
   "promised_payment_available_promo":"もう少し信頼します。${0} まで後払いできるようになりました。 %get_coins_link%",
   "promised_payment_available_shop_promo":"もう少し信頼します。${0} まで後払いできるようになりました。",
-  "get_coins_link":"コインを受け取る"
+  "get_coins_link":"コインを受け取る",
+  "today_at":"今日 {0}",
+  "yesterday_at":"昨日 {0}"
 }

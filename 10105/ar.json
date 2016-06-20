@@ -735,6 +735,8 @@
   "time_left":"{0} متبقي",
   "promised_payment_available_promo":"الآن نحن نثق بك بشكل أكبر. ويتوافر لك سلفة المبلغ المتعهد به حتى ${0}. %get_coins_link%",
   "promised_payment_available_shop_promo":"الآن نحن نثق بك بشكل أكبر. ويتوافر لك سلفة المبلغ المتعهد به حتى ${0}.",
-  "get_coins_link":"احصل على عملات"
+  "get_coins_link":"احصل على عملات",
+  "today_at":"{0} اليوم الساعة ",
+  "yesterday_at":"{0} أمس الساعة "
   
 }
