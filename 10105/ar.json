@@ -198,6 +198,7 @@
 	"need_to_buy_stickers_body": "انتهى \"{0}\"",
 	"newcomer": "مستجد",
 	"notification_go_live": "قام {0} {1} بإنشاء محادثة",
+	"not_for_sale": "غير مخصص للبيع",
 	"not_enough_coins_for_ban": "لا توجد عملات كافية للحظر",
 	"not_enough_coins_for_charge_unban": "لا توجد عملات كافية للتحرير المبكر لـ {0} دقيقة باستخدام {1} من العملات",
 	"not_enough_coins_for_effect": "لا توجد عملات كافية لإرسال تأثير",
