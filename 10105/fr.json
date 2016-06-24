@@ -736,5 +736,11 @@
   "promised_payment_available_shop_promo":"Encore plus de confiance. Maintenant, vous avez accès au Paiement promis jusqu'à {0} $.",
   "get_coins_link":"Obtenir des pièces",
   "today_at":"Aujourd'hui à {0}",
-  "yesterday_at":"Hier à {0}"
+  "yesterday_at":"Hier à {0}",
+  "log_add_to_vip_support": "La demande %ticketID% a été transférée au support technique VIP",
+  "vip_support_header": "Merci pour votre demande!",
+  "vip_support_suggestion": "Nous vous répondrons sur la base du principe premier arrivé, premier servi. Si vous désirez  accélérer le temps de traitement de votre demande, attribuez-lui le statut VIP.",
+  "vip_support_yes_button": "Attribuer le statut VIP pour {0} pièces",
+  "vip_support_no_button": "Merci, je préfère attendre",
+  "vip_support_description": "Les demandes avec le statut VIP sont traitées 10 fois plus vite que les demandes normales."
 }
