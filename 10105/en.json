@@ -781,5 +781,10 @@
   "get_coins_link":"Get coins",
   "today_at":"Today at {0}",
   "yesterday_at":"Yesterday at {0}",
-  "log_add_to_vip_support": "Add ticket %ticketID% to VIP Support"
+  "log_add_to_vip_support": "Request %ticketID% has been transferred to VIP support",
+  "vip_support_header": "Thank you for your request!",
+  "vip_support_suggestion": "We will respond on a first come, first served basis. If you want to reduce the waiting time, please change your request status to VIP.",
+  "vip_support_yes_button": "Change to VIP for {0} coins",
+  "vip_support_no_button": "Thank you, but I'll wait",
+  "vip_support_description": "VIP requests are processed 10 times faster than normal ones"
 }
