@@ -742,6 +742,12 @@
   "promised_payment_available_shop_promo":"الآن نحن نثق بك بشكل أكبر. ويتوافر لك سلفة المبلغ المتعهد به حتى ${0}.",
   "get_coins_link":"احصل على عملات",
   "today_at":"{0} اليوم الساعة ",
-  "yesterday_at":"{0} أمس الساعة "
+  "yesterday_at":"{0} أمس الساعة ",
+  "log_add_to_vip_support": "تم نقل الطلب %ticketID% إلى دعم الشخصيات الهامة (VIP)",
+  "vip_support_header": "نشكرك على طلبك!",
+  "vip_support_suggestion": "سوف نقوم بالرد وفقًا لمبدأ الأولوية للأقدم. إذا أردت تقليل وقت الانتظار، الرجاء تغيير حالة الطلب إلى VIP",
+  "vip_support_yes_button": "قم بالتغيير إلى VIP مقابل {0} عملة",
+  "vip_support_no_button": "نشكرك، لكني سوف أنتظر ",
+  "vip_support_description": "تتم معالجة طلبات VIP بشكل أسرع بمقدار 10 مرات من الطلبات العادية"
   
 }
