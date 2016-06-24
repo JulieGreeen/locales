@@ -758,5 +758,11 @@
   "promised_payment_available_shop_promo":"이제 여러분을 더 신뢰할 것입니다. 약속한 지급액 ${0}를 사용할 수 있습니다.",
   "get_coins_link":"코인 얻기",
   "today_at":"오늘 {0}",
-  "yesterday_at":"어제 {0}"
+  "yesterday_at":"어제 {0}",
+  "log_add_to_vip_support": "요청 %ticketID%가 VIP 지원으로 전송되었습니다.",
+  "vip_support_header": "요정해 주셔서 감사합니다!",
+  "vip_support_suggestion": "요청하신 순서대로 처리해 드립니다. 대기 시간을 줄이고 싶은 경우 요청 상태를 VIP로 변경하세요.",
+  "vip_support_yes_button": "{0}개 코인으로 VIP로 변경",
+  "vip_support_no_button": "감사합니다만, 기다리겠습니다.",
+  "vip_support_description": "VIP 요청은 일반 요청보다 10배 더 빨리 처리됩니다."
 }
