@@ -536,6 +536,8 @@
   "card_15_descr" : "Schützt vor dem Sticker %5% und verhindert, dass aktive Effekte entfernt werden",
   "card_16" : "Brennender Sticker",
   "card_16_descr" : "Der Sticker brennt beim Versuch, ihn gegen einen Benutzer einzusetzen, dessen Level so hoch ist, dass der Sticker nicht mehr wirkt",
+  "card_27" : "Rausch",
+  "card_27_descr" : "Alle 30 Sekunden rasant Energie auftanken.",
   "for_user" : "für ",
   "from_user": "von ",
   "wish_for": "Wovon träumen Sie?",
@@ -737,5 +739,10 @@
   "vip_support_suggestion": "Ihre Anfrage wurde in die Warteliste aufgenommen. Wenn Sie schneller eine Antwort möchten, können Sie eine VIP-Anfrage stellen.",
   "vip_support_yes_button": "Für {0} Münzen VIP-Anfrage stellen",
   "vip_support_no_button": "Nein, danke. Ich warte",
-  "vip_support_description": "VIP-Anfragen werden 10 Mal schneller beantwortet als gewöhnliche Anfragen."
+  "vip_support_description": "VIP-Anfragen werden 10 Mal schneller beantwortet als gewöhnliche Anfragen.",
+  "margarita": "Cocktail «Margarita»",
+  "margarita_description": "Einst verlieh eine Prominente dem Cocktail ihren Namen. Das verhieß dem Cocktail eine brillante Zukunft als bester Aperitif des 20. Jahrhunderts. Der erste Cocktail mit Tequila feiert bis heute schwindelerregende Erfolge!",
+  "wine": "Wein «Château Lafite»",
+  "wine_description": "Das exquisite Getränk schmeckt nach Luxus und Prestige. Die Weintrauben für diesen Wein stammen von hundertjährigen Weinstöcken. Der Geschmack der Jahrhunderte in Ihrem Weinglas!",
+  "party_set":"Party-König"
 }
