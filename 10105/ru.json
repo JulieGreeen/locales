@@ -755,7 +755,7 @@
   "party_set_top":{"nickColor":"0xffffff", "backColor":"0x000000", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
   "wwf_set":"Редкие животные",
   "romantic_set":"Романтика и Любовь",
-  "party_set":"Стань королем вечеринок",
+  "party_set":"Король вечеринок",
   "user_send_set_to_user": "%from% подарил %to%\r\n",
   "user_send_set_to_himself": "%from% получил подарки\r\n",
   "to_next_place":"подарите еще на {0} монет, чтобы \nподняться на {1} место",
