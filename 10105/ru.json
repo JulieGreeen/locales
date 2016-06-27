@@ -747,7 +747,7 @@
                      {"gift":"wine", "x":248, "y":1438, "width":114, "height":36},
                      {"gift":"beer", "x":248, "y":1798, "width":114, "height":36},
                      {"gift":"champagne", "x":248, "y":2138, "width":114, "height":36},
-                     {"price":"party", "x":248, "y":2564, "width":114, "height":36}],
+                     {"price":"party", "x":122, "y":2564, "width":114, "height":36}],
   "wwf_set_top":{"nickColor":"0xffffff", "backColor":"0x000000", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
   "romantic_set_top":{"nickColor":"0x000000", "backColor":"0xfdedf0", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
   "party_set_top":{"nickColor":"0xffffff", "backColor":"0x000000", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
