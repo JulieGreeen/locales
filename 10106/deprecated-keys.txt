@@ -3,6 +3,7 @@ common.payments.inviteMsgSupportChat
 jsShower.authMsgForGU
 jsShower.sendPassAlert.*
 fine_discount
+*.mrtigraTitle
 
 
 # Плохой перевод в locale=ar для ключей:
@@ -22,3 +23,7 @@ changePsw.*
 in 5 days
 بعد ٥ أيام
 через 32 минуты
+
+
+# Устаревшие
+common.payments.mrtigraTitle
