@@ -131,6 +131,7 @@
   "common.paymentsList.mainHeader": "Choose a payment system",
   "common.paymentsList.toMore.tooltip": "Other methods of payment",
   "common.paymentsList.toMore.title": "Show all",
+  "common.paymentsList.toMore.titleMin": "More",
   "common.paymentsList.toAbout": "About",
   "common.paymentsList.more.title": "Didn't find a suitable payment method?",
   "common.paymentsList.more.text": "Here are payment systems we are working with. Just find the most convenient payment way for you.",

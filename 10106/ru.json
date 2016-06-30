@@ -131,6 +131,7 @@
   "common.paymentsList.mainHeader": "Выберите способ оплаты",
   "common.paymentsList.toMore.tooltip": "Другие способы оплаты",
   "common.paymentsList.toMore.title": "Показать все",
+  "common.paymentsList.toMore.titleMin": "Ещё",
   "common.paymentsList.toAbout": "Об услуге",
   "common.paymentsList.more.title": "Не нашли подходящий вам способ оплаты?",
   "common.paymentsList.more.text": "Мы работаем с несколькими платёжными системами, чтобы вы могли выбрать удобный для вас способ оплаты",

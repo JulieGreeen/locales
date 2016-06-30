@@ -131,6 +131,7 @@
   "common.paymentsList.mainHeader": "اختر نظام دفع",
   "common.paymentsList.toMore.tooltip": "طرق الدفع الأخرى",
   "common.paymentsList.toMore.title": "إظهار الكل",
+  "common.paymentsList.toMore.titleMin": "أكثر",
   "common.paymentsList.toAbout": "حول ",
   "common.paymentsList.more.title": "هل لم تعثر على طريقة دفع مناسبة؟",
   "common.paymentsList.more.text": "نحن نستعين بالعديد من أنظمة الدفع، لذا يمكنك اختيار طريقة دفع مناسبة لك",
