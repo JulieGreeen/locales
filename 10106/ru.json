@@ -76,6 +76,7 @@
   "support.form.email": "Email, на который направить ответ",
   "support.form.file": "Изображения",
   "support.form.file.footnote": "Выберите не более трёх изображений",
+  "support.form.file.errorLimit": "Выбрано больше 3 файлов",
   "support.form.paymentId": "Номер платежа",
   "support.form.submit": "Отправить",
   "support.sendMsg.paymentId": "Номер платежа: {paymentId}.",

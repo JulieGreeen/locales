@@ -76,6 +76,7 @@
   "support.form.email": "Email for response",
   "support.form.file": "Images",
   "support.form.file.footnote": "Select up to three images",
+  "support.form.file.errorLimit": "Selected more than three files",
   "support.form.paymentId": "Payment number",
   "support.form.submit": "Send",
   "support.sendMsg.paymentId": "Payment number: {paymentId}.",
