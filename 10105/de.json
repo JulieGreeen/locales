@@ -744,5 +744,8 @@
   "margarita_description": "Einst verlieh eine Prominente dem Cocktail ihren Namen. Das verhieß dem Cocktail eine brillante Zukunft als bester Aperitif des 20. Jahrhunderts. Der erste Cocktail mit Tequila feiert bis heute schwindelerregende Erfolge!",
   "wine": "Wein «Château Lafite»",
   "wine_description": "Das exquisite Getränk schmeckt nach Luxus und Prestige. Die Weintrauben für diesen Wein stammen von hundertjährigen Weinstöcken. Der Geschmack der Jahrhunderte in Ihrem Weinglas!",
-  "party_set":"Party-König"
+  "party_set":"Party-König",
+  "web_push_subscribe1":"Um Informationen über neue Events oder Nachrichten von deinen Freunden zu erhalten, lasse bitte Benachrichtigungen von uns zu. %web_push_allow_link%",
+  "web_push_subscribe2":"Falls Sie von {0} Benachrichtigungen erhalten möchten, erlauben Sie uns bitte, Ihnen diese zu schicken. %web_push_allow_link%",
+  "web_push_allow_link":"Zulassen"
 }
