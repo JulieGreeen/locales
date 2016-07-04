@@ -764,5 +764,6 @@
   "party_set":"ملك الحفلات",
   "web_push_subscribe1":"حتى تتلقى معلومات عن الفعاليات أو الرسائل الجديدة من أصدقائك، اسمح لنا بإرسال الإخطارات إليك. %web_push_allow_link%",
   "web_push_subscribe2":"إذا كنت تريد أن تتلقى إشعارات من {0}، قُم بالسماح لنا أن نرسلها إليك. %web_push_allow_link%",
-  "web_push_allow_link":"سماح"
+  "web_push_allow_link":"سماح",
+  "dialogs":"حوارات"
 }

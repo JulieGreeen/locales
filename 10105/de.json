@@ -747,5 +747,6 @@
   "party_set":"Party-König",
   "web_push_subscribe1":"Um Informationen über neue Events oder Nachrichten von deinen Freunden zu erhalten, lasse bitte Benachrichtigungen von uns zu. %web_push_allow_link%",
   "web_push_subscribe2":"Falls Sie von {0} Benachrichtigungen erhalten möchten, erlauben Sie uns bitte, Ihnen diese zu schicken. %web_push_allow_link%",
-  "web_push_allow_link":"Zulassen"
+  "web_push_allow_link":"Zulassen",
+  "dialogs":"Dialoge"
 }

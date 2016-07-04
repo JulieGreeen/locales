@@ -783,5 +783,6 @@
   "party_set":"饗宴の王",
   "web_push_subscribe1":"新しいイベントの情報や友人からのメッセージを受け取るには、通知の送信を許可して下さい。 %web_push_allow_link%",
   "web_push_subscribe2":"{0} から通知を受け取りたい場合は、受信を許可してください。 %web_push_allow_link%",
-  "web_push_allow_link":"同じる"
+  "web_push_allow_link":"同じる",
+  "dialogs":"ダイアログ"
 }
