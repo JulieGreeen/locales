@@ -804,5 +804,6 @@
   "wine_description": "Exquisite drink embodies luxury and prestige. To make it, the grapes are harvested from century-old vines - the taste of centuries in your glass!",
   "web_push_subscribe1":"In order to receive information about new events or messages from your friends, allow us to send you notifications. %web_push_allow_link%",
   "web_push_subscribe2":"If you want to receive notifications from {0}, allow us to send them to you. %web_push_allow_link%",
-  "web_push_allow_link":"Allow"
+  "web_push_allow_link":"Allow",
+  "dialogs":"Dialogs"
 }
