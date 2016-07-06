@@ -806,5 +806,6 @@
   "web_push_subscribe2":"If you want to receive notifications from {0}, allow us to send them to you. %web_push_allow_link%",
   "web_push_allow_link":"Allow",
   "dialogs":"Dialogs",
-  "you_msg":"You: {0}"
+  "you_msg":"You: {0}",
+  "private_dialog":"Private dialog"
 }
