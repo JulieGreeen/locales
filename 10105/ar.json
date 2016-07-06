@@ -767,5 +767,6 @@
   "web_push_allow_link":"سماح",
   "dialogs":"حوارات",
   "you_msg":"أنت: {0}",
-  "private_dialog":"حوار خاص"
+  "private_dialog":"حوار خاص",
+  "sticker":"ملصق"
 }

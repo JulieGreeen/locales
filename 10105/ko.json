@@ -783,5 +783,6 @@
   "web_push_allow_link":"허용하기",
   "dialogs":"다이얼로그",
   "you_msg":"나: {0}",
-  "private_dialog":"비공개 대화"
+  "private_dialog":"비공개 대화",
+  "sticker":"스티커"
 }

@@ -807,5 +807,6 @@
   "web_push_allow_link":"Allow",
   "dialogs":"Dialogs",
   "you_msg":"You: {0}",
-  "private_dialog":"Private dialog"
+  "private_dialog":"Private dialog",
+  "sticker":"sticker"
 }

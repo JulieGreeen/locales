@@ -786,5 +786,6 @@
   "web_push_allow_link":"同じる",
   "dialogs":"ダイアログ",
   "you_msg":"あなた: {0}",
-  "private_dialog":"非公開ダイアログ"
+  "private_dialog":"非公開ダイアログ",
+  "sticker":"ステッカー"
 }

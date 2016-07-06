@@ -750,5 +750,6 @@
   "web_push_allow_link":"Zulassen",
   "dialogs":"Dialoge",
   "you_msg":"Du: {0}",
-  "private_dialog":"Privater dialog"
+  "private_dialog":"Privater dialog",
+  "sticker":"sticker"
 }

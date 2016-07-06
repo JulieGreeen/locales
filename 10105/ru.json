@@ -792,5 +792,6 @@
   "web_push_allow_link":"Разрешить",
   "dialogs":"Диалоги",
   "you_msg":"Вы: {0}",
-  "private_dialog":"Приватный диалог"
+  "private_dialog":"Приватный диалог",
+  "sticker":"стикер"
 }

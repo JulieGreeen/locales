@@ -761,5 +761,6 @@
   "web_push_allow_link":"Permettre",
   "dialogs":"Dialogues",
   "you_msg":"Vous : {0}",
-  "private_dialog":"Conversation privée"
+  "private_dialog":"Conversation privée",
+  "sticker":"autocollant"
 }
