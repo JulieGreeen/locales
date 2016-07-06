@@ -781,5 +781,7 @@
   "web_push_subscribe1":"친구들로부터 새로운 이벤트에 대한 정보 또는 메시지를 받고 싶으시면 저희가 알림을 보낼 수 있도록 허용해주시기 바랍니다. %web_push_allow_link%",
   "web_push_subscribe2":"{0} 로부터 알림을 받고 싶으시면 저희에게 권한을 주시기 바랍니다. %web_push_allow_link%",
   "web_push_allow_link":"허용하기",
-  "dialogs":"다이얼로그"
+  "dialogs":"다이얼로그",
+  "you_msg":"나: {0}",
+  "private_dialog":"비공개 대화"
 }

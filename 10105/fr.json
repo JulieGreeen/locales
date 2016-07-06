@@ -759,5 +759,7 @@
   "web_push_subscribe1":"Afin de recevoir des renseignements sur de nouveaux événements ou des messages de vos amis, autorisez-nous à vous envoyer des notifications. %web_push_allow_link%",
   "web_push_subscribe2":"Si vous souhaitez recevoir des alertes de {0}, permettez-nous de vous les envoyer. %web_push_allow_link%",
   "web_push_allow_link":"Permettre",
-  "dialogs":"Dialogues"
+  "dialogs":"Dialogues",
+  "you_msg":"Vous : {0}",
+  "private_dialog":"Conversation privée"
 }
