@@ -554,6 +554,8 @@
   "card_25_descr" : "It reduces energy loss at impact",
   "card_27" : "Intoxication",
   "card_27_descr" : "The rapid recovery of energy every 30 seconds.",
+  "card_28" : "Binded",
+  "card_28_descr" : "Prevents victims to chat in Flirtymania while sticker is active.",
   "for_user" : "for ",
   "from_user": "from ",
   "wish_for": "What do want to wish for?",
