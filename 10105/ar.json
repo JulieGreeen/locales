@@ -317,7 +317,7 @@
     "user_send_present_to_user": "%from% قدم إلى %to%\r\n%present%",
     "user_send_present_to_himself": "%from% حصل على \r\n%present%",
 	"special_offer": "Gnomenations عمره 5 سنوات اليوم!",
-    "buy_coins_special_offer": "تكريماً لهذا اليوم المجيد نقدم لك ضعف العملات الذهبية بنفس السعر في Flirtymania! \r\n<a href='https://www.gnomenations.com/'>يمكنك لعب Gnomenations من هنا!</a>",
+    "buy_coins_special_offer": "تكريماً لهذا اليوم المجيد نقدم لك ضعف العملات الذهبية بنفس السعر في Flirtymania! <br/> <a href='https://www.gnomenations.com/'>يمكنك لعب Gnomenations من هنا!</a>",
 	"spectators": "المشاهدون",
 	"start_talk": "بدء التنشيط!",
 	"stickers": "الملصقات",
