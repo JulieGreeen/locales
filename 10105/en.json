@@ -806,7 +806,7 @@
   "promised_payment_available_shop_promo":"Now we will trust you even more. Available to you Promised payment up ${0}.",
   "get_coins_link":"Get coins",
   "today_at":"Today at {0}",
-  "yesterday_at":"Yesterday at {0}",
+  "yesterday_at":"Yesterday",
   "log_add_to_vip_support": "Request %ticketID% has been transferred to VIP support",
   "vip_support_header": "Thank you for your request!",
   "vip_support_suggestion": "We can handle your request as urgent and solve your problem faster. To do this, transfer it to VIP status.",

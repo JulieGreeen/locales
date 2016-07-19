@@ -749,7 +749,7 @@
   "promised_payment_available_shop_promo":"Noch mehr Vertrauen. Jetzt ist für Sie die Versprochene Bezahlung bis {0} $ verfügbar.",
   "get_coins_link":"Münzen erhalten",
   "today_at":"Heute um {0}",
-  "yesterday_at":"Gestern um {0}",
+  "yesterday_at":"Gestern",
   "log_add_to_vip_support": "Die Anfrage %ticketID% wurde an den VIP Tech-Support weitergeleitet.",
   "vip_support_header": "Vielen Dank für Ihre Anfrage!",
   "vip_support_suggestion": "Wir können Ihre Anfrage im Prioritätsmodus bearbeiten und das Problem schneller lösen. Wechseln Sie dazu in den VIP-Status.",

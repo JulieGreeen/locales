@@ -766,7 +766,7 @@
   "promised_payment_available_shop_promo":"الآن نحن نثق بك بشكل أكبر. ويتوافر لك سلفة المبلغ المتعهد به حتى ${0}.",
   "get_coins_link":"احصل على عملات",
   "today_at":"{0} اليوم الساعة ",
-  "yesterday_at":"{0} أمس الساعة ",
+  "yesterday_at":"الأمس",
   "log_add_to_vip_support": "تم نقل الطلب %ticketID% إلى دعم الشخصيات الهامة (VIP)",
   "vip_support_header": "نشكرك على طلبك!",
   "vip_support_suggestion": "يمكننا معالجة طلبك بصفة عاجلة وحل مشكلتك سريعًا. للقيام بذلك، انتقل إلى حالة الشخصيات الهامة (VIP).",
