@@ -11,7 +11,7 @@
   "common.fines.toPay": "Pay {sum}",
   "common.fines.toPay.discount": "Pay for only {discountSum} instead of {sum}",
   "common.fines.mrtigracomment": "All proceeds go to support and the development of the application! Thanks for your participation!",
-  "common.fines.notes.toSupport": "If the fine was imposed mistakenly, don't pay for it - inform the {a}technical support{/a}.",
+  "common.fines.notes.toSupport": "If the fine was imposed mistakenly, don't pay for it - inform the {a}technical support{/a}. Please do not create new accounts before the fine is paid, since it will significantly complicate the unblocking of the main account afterwards.",
   "common.fines.notes.toSupportNoPay": "If you believe this is an error, please contact {a}technical support{/a}.",
   "common.fines.notes.toSupportPaidService": "If you believe this is an error, don't pay for service, please contact {a}technical support{/a}.",
   "common.fines.types.fine.header": "Fine #{id}",
