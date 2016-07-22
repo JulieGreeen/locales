@@ -378,4 +378,5 @@
   "jsShower.sendPassAlert.header": "كلمة المرور غير صحيحة",
   "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟",
   "fine_discount": "خصم 50% من الغرامة! مرحبًا {0}، يمكنك اليوم دفع الغرامة الخاصة بك بنصف السعر والرجوع إلى دردشة. أصدقاؤك في انتظارك!"
+  "fine_amnesty_subject": "50% sale for all fines in {app_name}! Hurry up!"
 }

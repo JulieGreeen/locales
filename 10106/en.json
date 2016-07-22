@@ -377,5 +377,6 @@
   "jsShower.sendInviteAlert.message": "On your E-mail {email} has been send invitation from the Master Tigra. Read it.",
   "jsShower.sendPassAlert.header": "Incorrect password",
   "jsShower.sendPassAlert.message": "Before that you used a different password. Do you really want to start using the new password?",
-  "fine_discount": "50% off your fine! Hi {0}, today you can pay your fine at half price and come back to the chat. Your friends are waiting for you!"
+  "fine_discount": "50% off your fine! Hi {0}, today you can pay your fine at half price and come back to the chat. Your friends are waiting for you!",
+  "fine_amnesty_subject": "50% sale for all fines in {app_name}! Hurry up!"
 }
