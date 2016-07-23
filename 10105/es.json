@@ -126,5 +126,7 @@
   "install_app_for_exp_success": "Experiencia ganada: +1000",
   "install_app_for_exp_faild": "Ya recibiste los puntos de experiencia por esta acción.",
   "maintain_app_for_exp_ios": "¡Califica la aplicación en App Store y obtendrás 1000 puntos de experiencia gratis! [Recibir experiencia.]",
-  "for_exp_btn": "Recibir experiencia."
+  "for_exp_btn": "Recibir experiencia.",
+  "email.fine_amnesty.subject": "Rabais de 50% sur toutes les amendes sur {app_name} ! Agissez rapidement !",
+  "email.fine_amnesty.text": "Bonjour ! <br>  Nous avons d'excellentes nouvelles pour tous les utilisateurs qui ont été bannis de notre projet. Au cours des trois prochains jours, soit du 22 au 25 juillet, nous offrons 50% de rabais sur l'amnistie pour tous les utilisateurs ayant été bannis. Payez moins pour revenir ! Vos amis s'ennuient de vous !<br><br>  Vous pouvez payer vos frais d'amnistie ici : {app_href}<br><br>  Nous espérons vous revoir d'ici bientôt !"
 }

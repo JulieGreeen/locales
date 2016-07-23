@@ -770,5 +770,7 @@
   "dialogs":"Dialoge",
   "you_msg":"Du: {0}",
   "private_dialog":"Privater dialog",
-  "sticker":"sticker"
+  "sticker":"sticker",
+  "email.fine_amnesty.subject": "50% Rabatt auf alle Bußgelder in {app_name}! Beeile dich!",
+  "email.fine_amnesty.text": "Hallo! <br>  Wir haben tolle Neuigkeiten für alle von unserem Projekt gesperrten Nutzer. Innerhalb der nächsten drei Tage, vom 22. bis 25. Juli, können alle gesperrten Nutzer Amnestie mit 50% Rabatt erhalten. Zahle weniger und komme zurück! Deine Freunde vermissen dich! <br><br>  Du kannst deine Amnestie-Gebühren hier bezahlten: {app_href}<br><br>  Hoffentlich sehen wir dich bald wieder!"
 }

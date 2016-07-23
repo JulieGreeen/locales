@@ -826,5 +826,7 @@
   "dialogs":"Dialogs",
   "you_msg":"You: {0}",
   "private_dialog":"Private dialog",
-  "sticker":"sticker"
+  "sticker":"sticker",
+  "email.fine_amnesty.subject": "50% sale for all fines in {app_name}! Hurry up!",
+  "email.fine_amnesty.text": "Hello! <br> We have a great news for all blocked users of our project.<br>  Over the next 3 days, from 22th to 25th of July, we have amnesty at a 50% discount for all banned users. Pay less and come back! Your friends miss you!<br><br>You can pay amnesty fee here: {{app_href}} <br>Hope to see you again soon!"
 }

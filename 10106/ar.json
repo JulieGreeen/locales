@@ -292,10 +292,7 @@
   "email.welcome.vb.h1.notName": "مرحبًا!",
   "email.welcome.vb.text": "إنه الجيل الجديد من دردشة الفيديو، حيث تقوم مجموعة معينة من المشاركين بإنشاء العرض الخاص بهم ومحاولة نشره. فيما يصوت المشاركون الآخرون للبرامج التي يحبونها، ويتبادلون الرسائل ويقدمون الهدايا ويقضون أوقاتًا ممتعة.",
   "email.welcome.vb.title": "مرحبًا بك في دردشة الفيديو  {appName}",
-
   "email.fine_discount": "خصم 50% من الغرامة! مرحبًا {0}، يمكنك اليوم دفع الغرامة الخاصة بك بنصف السعر والرجوع إلى دردشة. أصدقاؤك في انتظارك!",
-  "email.fine_amnesty_subject": "50% sale for all fines in {app_name}! Hurry up!",
-
   "jsShower.alternatives.downloadBtn": "تنزيل في  {store}",
   "jsShower.alternatives.fp": "تنزيل Flash Player",
   "jsShower.appError.aboutAffiliateProgram.link": "المزيد عن برنامج الانتساب",
