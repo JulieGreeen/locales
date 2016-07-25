@@ -781,5 +781,6 @@
   "dialogs":"Dialogues",
   "you_msg":"Vous : {0}",
   "private_dialog":"Conversation privée",
-  "sticker":"autocollant"
+  "sticker":"autocollant",
+  "empty_dialog":"Essayez de démarrer une conversation avec une petite marque d'affection."
 }
