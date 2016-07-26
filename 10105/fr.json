@@ -567,6 +567,8 @@
   "card_34_descr" : "Attention ! Cette carte est très toxique, utilisez-la avec précaution uniquement lorsque vous devez éliminer tous les effets.",
   "card_35" : "Imperméable",
   "card_35_descr" : "Encore mieux que le %15% ! Un accessoire ultime pour ceux qui aiment danser sous la pluie. En le portant, vous ne vous souciez plus du %5% et de la %34%. Tous les effets positifs seront conservés, tous les effets négatifs seront supprimés.",
+  "card_36" : "Malédiction",
+  "card_36_descr" : "Attention ! Le démon antique se cache ici ! Toutes les attaques sur les personnes maudites causent 20 % de dommages supplémentaires.",
   "for_user" : "pour ",
   "from_user": "de ",
   "wish_for": "Que souhaitez-vous ?",

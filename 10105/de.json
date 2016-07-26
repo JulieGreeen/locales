@@ -554,6 +554,8 @@
   "card_34_descr" : "Warnung! Diese Karte ist sehr giftig, nutze sie mit Vorsicht und nur, falls du alle Effekte beseitigen musst.",
   "card_35" : "Regenmantel",
   "card_35_descr" : "Noch besser als der %15%! Ein ultimatives Accessoire für alle, die gerne im Regen tanzen. Wenn du ihn trägst, musst du dich nicht um %5% und %34% kümmern. Alle positiven Effekte werden bleiben, alle negativen werden abgewaschen.",
+  "card_36" : "Fluch",
+  "card_36_descr" : "Achtung! Die uralte böse Macht ist hier versteckt! Alle Attacken auf eine verfluchte Person richten 20 % mehr Schaden an.",
   "for_user" : "für ",
   "from_user": "von ",
   "wish_for": "Wovon träumen Sie?",
