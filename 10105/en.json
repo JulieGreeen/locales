@@ -535,7 +535,7 @@
   "card_14" : "Bullet-proof vest",
   "card_14_descr" : "Lowers energy losses after hits.",
   "card_15" : "Umbrella",
-  "card_15_descr" : "Protects from sticker %5% and doesn't let applied effects to be erased",
+  "card_15_descr" : "The rain can't be forever! But while it is, you can use the Umbrella. Great defence from the %5% and also helps to keep all positive effects.",
   "card_16" : "Burnt sticker",
   "card_16_descr" : "The sticker burns up when an attempt is made to apply it to a user whose level is higher than the maximum level at which the sticker can work",
   "card_17" : "Doubling (coins)",
