@@ -804,6 +804,6 @@
   "private_dialog":"Conversation privée",
   "sticker":"autocollant",
   "empty_dialog":"Essayez de démarrer une conversation avec une petite marque d'affection.",
-  "ban_warning":"Вас забанили %ban_card%. Вы не можете входить в комнаты. Используйте %unban_card%, чтобы выйти из бана.",
+  "ban_warning":"Pendant que %ban_card% a un effet sur vous, vous pouvez entrer et discuter uniquement dans votre propre salle. Pour s'échapper, utilisez la carte %unban_card% ou commencez une diffusion pour solliciter l'aide de vos amis.",
   "ban_warning2":"Vous avez été incarcéré ! La fenêtre de discussion n'est pas disponible pour le moment. Souhaitez-vous régler le problème ?"
 }
