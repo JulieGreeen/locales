@@ -269,12 +269,28 @@
   "email.invite.default.h1.notName": "مرحبًا!",
   "email.invite.default.text": "وجهة {linkFromName} دعو لك إلى {appName} في  {linkSite}.",
   "email.invite.default.title": "وجهة {fromName} دعوة لك إلى  {toApp} {appName}",
+
   "email.invite.live2.btnTo": "مشاهدة {appName}",
   "email.invite.live2.btnTo.tooltip": "مشاهدة دردشة الفيديو  {appName}",
   "email.invite.live2.h1.existName": "مرحبًا، {toName}!",
   "email.invite.live2.h1.notName": "مرحبًا!",
   "email.invite.live2.text": "وجهة {linkFromName} دعوة لك للمشاركة في برنامج عرض الواقع على {linkSite}.\nإنه الجيل الجديد من دردشة الفيديو، حيث تقوم مجموعة معينة من المشاركين بإنشاء العرض الخاص بهم ومحاولة نشره. فيما يصوت المشاركون الآخرون للعروض التي يحبونها، ويتبادلون الرسائل ويقدمون الهدايا ويقضون أوقاتًا ممتعة.",
   "email.invite.live2.title": "قدم {fromName} دعوة لك للانضمام إلى دردشة الفيديو {appName}",
+
+  "email.invite.mc.btnTo": "مشاهدة {appName}",
+  "email.invite.mc.btnTo.tooltip": "مشاهدة دردشة الفيديو  {appName}",
+  "email.invite.mc.h1.existName": "مرحبًا، {toName}!",
+  "email.invite.mc.h1.notName": "مرحبًا!",
+  "email.invite.mc.text": "وجهة {linkFromName}دعاك {اسم} للانضمام إلى لعبة على الإنترنت.  linkSite}.\nإتحولات غير منتظرة للأحداث، ورسومات واضحة وتطورات لشبكة من المؤامرات تنتظرك في العالم الخيالي لمخلوقات الجنوم. ابن مدينة أحلامك وأمسك بزمام الأمور.",
+  "email.invite.mc.title": "دعاك {fromName} إلى لعبة على الإنترنت. {appName}",
+
+  "email.invite.vb.btnTo": "مشاهدة {appName}",
+  "email.invite.vb.btnTo.tooltip": "مشاهدة دردشة الفيديو  {appName}",
+  "email.invite.vb.h1.existName": "مرحبًا، {toName}!",
+  "email.invite.vb.h1.notName": "مرحبًا!",
+  "email.invite.vb.text": "وجهة {linkFromName}دعاك {اسم} للدردشة في روليت الدردشة.  {{linkSite}.\n}ستجد هنا العديد من الأصدقاء غير المنتظرين والمثيرين، ودردشة حية عبر الفيديو، وحوارات ساخنة وأكثر من هذا بكثير.",
+  "email.invite.vb.title": "دعاك {fromName} إلى روليت الدردشة. {appName}",
+
   "email.welcome.live2.btnTo": "مشاهدة {appName}",
   "email.welcome.live2.btnTo.tooltip": "مشاهدة دردشة الفيديو  {appName}",
   "email.welcome.live2.h1.existName": "مرحبًا، {toName}!",

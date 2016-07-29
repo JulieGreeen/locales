@@ -1,0 +1,16 @@
+{
+  "email.invite.live2.h1.existName": "こんにちは, {toName}!",
+  "email.invite.live2.h1.notName": "こんにちは!",
+  "email.invite.live2.text": "{linkFromName} からリアリティショー参加への招待が届いています {linkSite}.\n\nこのビデオチャットでは、他のメンバーが制作したライブストリームを視聴できるだけでなく、独自リアリティーショーを制作して世界中から賞賛を集めることが可能です。",
+  "email.invite.live2.title": "{fromName} からリアリティショー参加への招待が届いています {appName}",
+
+  "email.invite.vb.h1.existName": "こんにちは, {toName}!",
+  "email.invite.vb.h1.notName": "こんにちは!",
+  "email.invite.vb.text": "{linkFromName} からチャットルーレットでのチャットへの招待が届いています {linkSite}.\n\nチャットルーレットでは数多くの意外な興味深い知り合いやライブビデオチャット、熱い語らい、その他数多くの機会に出会えます。",
+  "email.invite.vb.title": "{fromName} からチャットルーレットへの招待が届いています。 {appName}",
+
+  "email.invite.mc.h1.existName": "こんにちは, {toName}!",
+  "email.invite.mc.h1.notName": "こんにちは!",
+  "email.invite.mc.text": "{linkFromName}  からオンラインゲーム参加への招待が届いています {linkSite}.\n\nビビットカラーのグラフィックスで描かれたノームが暮らすファンタジー世界で、様々な思いがけない出来事や複雑なストーリー展開があなたを待っています。あなたの夢の都市を築き上げて支配しましょう。",
+  "email.invite.mc.title": "{fromName}  からオンラインゲームへの招待が届いています {appName}"
+}

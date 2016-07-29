@@ -1,0 +1,17 @@
+{
+  "email.invite.vb.h1.existName": "Hallo, {toName}!",
+  "email.invite.vb.h1.notName": "Hallo!",
+  "email.invite.vb.text": "{linkFromName} hat Sie zum Chatten auf Chat-Roulette eingeladen. {linkSite}.\n\nDort finden Sie viele unerwartete und interessante Bekannte, Live-Videochat, stürmische Unterhaltungen und noch viel mehr.",
+  "email.invite.vb.title": "{fromName} hat Sie zu Chat-Roulette eingeladen. {appName}",
+
+  "email.invite.mc.h1.existName": "Hallo, {toName}!",
+  "email.invite.mc.h1.notName": "Hallo!",
+  "email.invite.mc.text": "{linkFromName}  hat Sie eingeladen, an einem Online-Spiel teilzunehmen {linkSite}.\n\nUnvorhersagbare Wendungen der Geschehnisse, lebhafte Grafik und ein Netz von Handlungsentwicklungen erwarten Sie in der Fantasywelt der Gnome. Errichten Sie die Stadt Ihrer Träume und übernehmen Sie die Herrschaft.",
+  "email.invite.mc.title": "{fromName} hat Sie zu einem Online-Spiel eingeladen {appName}",
+
+  "email.invite.live2.h1.existName": "Hallo, {toName}!",
+  "email.invite.live2.h1.notName": "Hallo!",
+  "email.invite.live2.text": "{linkFromName}  hat Sie eingeladen, an einer Realityshow teilzunehmen {linkSite}.\n\nIn diesem Videochat können Sie Ihre eigene Realityshow erschaffen, universelle Bewunderung erlangen oder einfach nur Livestreams anderer Mitglieder ansehen.",
+  "email.invite.live2.title": "{fromName} hat Sie zu einem Videochat eingeladen {appName}"
+
+}

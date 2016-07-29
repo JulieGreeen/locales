@@ -1,0 +1,17 @@
+{
+  "email.invite.vb.h1.existName": "Bonjour, {toName}!",
+  "email.invite.vb.h1.notName": "Bonjour!",
+  "email.invite.vb.text": "{linkFromName} vous a invité à clavarder sur chat roulette {linkSite}.\n\nVous y ferez plusieurs connaissances inattendues et intéressantes, participerez à une discussion vidéo en direct et des conversations animées, et bien plus.",
+  "email.invite.vb.title": "{fromName} vous a invité sur chat roulette {appName}",
+
+  "email.invite.mc.h1.existName": "Bonjour, {toName}!",
+  "email.invite.mc.h1.notName": "Bonjour!",
+  "email.invite.mc.text": "{linkFromName}  vous a invité à jouer à un jeu en ligne. {linkSite}.\n\nDes tournures imprévisibles, des graphiques vifs et de nombreuses intrigues vous attendent dans le monde fantastique des gnomes. Construisez la ville de vos rêves et prenez le contrôle.",
+  "email.invite.mc.title": "{fromName} vous a invité à jouer à un jeu en ligne {appName}",
+
+  "email.invite.live2.h1.existName": "Bonjour, {toName}!",
+  "email.invite.live2.h1.notName": "Bonjour!",
+  "email.invite.live2.text": "{linkFromName}  vous a invité à participer à une émission de téléréalité.  {linkSite}.\n\nDans cette discussion vidéo, vous pouvez créer votre propre émission de téléréalité, gagner une admiration universelle ou simplement regarder les diffusions en direct des autres membres.",
+  "email.invite.live2.title": "{fromName} vous a invité à une discussion vidéo {appName}"
+
+}
