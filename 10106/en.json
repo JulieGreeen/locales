@@ -275,6 +275,17 @@
   "email.invite.live2.h1.notName": "Hello!",
   "email.invite.live2.text": "{linkFromName} invites you to participate in a reality show on {linkSite}.\n\nIt is a video chat of a new generation, in which certain participants create their own show and try to make it popular. Other participants vote for shows they like, exchange messages, give gifts and just have a good time.",
   "email.invite.live2.title": "{fromName} invites you to video chat {appName}",
+
+  "email.invite.vb.h1.existName": "Hello, {toName}!",
+  "email.invite.vb.h1.notName": "Hello!",
+  "email.invite.vb.text": "{linkFromName} has invited you to chat on chat roulette. {linkSite}.\n\nHere you will find many unexpected and interesting acquaintances, live video chat, heated conversations and much more.",
+  "email.invite.vb.title": "{fromName} has invited you to chat roulette {appName}",
+
+  "email.invite.mc.h1.existName": "Hello, {toName}!",
+  "email.invite.mc.h1.notName": "Hello!",
+  "email.invite.mc.text": "{linkFromName} has invited you to an online game {linkSite}.\n\nUnpredictable turns of events, vivid graphics and a web of plot developments await you in the fantasy world of gnomes. Build the city of your dreams and take control.",
+  "email.invite.mc.title": "{fromName} has invited you to an online game {appName}",
+
   "email.welcome.live2.btnTo": "Watch {appName}",
   "email.welcome.live2.btnTo.tooltip": "Watch video chat {appName}",
   "email.welcome.live2.h1.existName": "Hello, {toName}!",
