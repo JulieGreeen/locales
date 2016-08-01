@@ -268,7 +268,7 @@
   "email.invite.default.h1.existName": "Привет, {toName}!",
   "email.invite.default.h1.notName": "Привет!",
   "email.invite.default.text": "{linkFromName} приглашает вас в приложение {appName} на {linkSite}.",
-  "email.invite.default.title": "{fromName} приглашает вас {appName} {appName}",
+  "email.invite.default.title": "{fromName} приглашает вас {appName}",
   "email.invite.live2.btnTo": "Смотреть {appName}",
   "email.invite.live2.btnTo.tooltip": "Смотреть видеочат {appName}",
   "email.invite.live2.h1.existName": "Привет, {toName}!",

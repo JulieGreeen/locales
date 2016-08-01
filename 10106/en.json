@@ -268,7 +268,7 @@
   "email.invite.default.h1.existName": "Hello, {toName}!",
   "email.invite.default.h1.notName": "Hello!",
   "email.invite.default.text": "{linkFromName} invites you to {appName} on {linkSite}.",
-  "email.invite.default.title": "{fromName} invites you {appName} {appName}",
+  "email.invite.default.title": "{fromName} invites you {appName}",
   "email.invite.live2.btnTo": "Watch {appName}",
   "email.invite.live2.btnTo.tooltip": "Watch video chat {appName}",
   "email.invite.live2.h1.existName": "Hello, {toName}!",
