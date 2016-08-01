@@ -280,11 +280,13 @@
   "email.invite.vb.h1.notName": "Hello!",
   "email.invite.vb.text": "{linkFromName} has invited you to chat on chat roulette. {linkSite}.\n\nHere you will find many unexpected and interesting acquaintances, live video chat, heated conversations and much more.",
   "email.invite.vb.title": "{fromName} has invited you to chat roulette {appName}",
+  "email.invite.vb.btnTo": "Start chat {appName}",
 
   "email.invite.mc.h1.existName": "Hello, {toName}!",
   "email.invite.mc.h1.notName": "Hello!",
   "email.invite.mc.text": "{linkFromName} has invited you to an online game {linkSite}.\n\nUnpredictable turns of events, vivid graphics and a web of plot developments await you in the fantasy world of gnomes. Build the city of your dreams and take control.",
   "email.invite.mc.title": "{fromName} has invited you to an online game {appName}",
+  "email.invite.mc.btnTo": "Play {appName}",
 
   "email.welcome.live2.btnTo": "Watch {appName}",
   "email.welcome.live2.btnTo.tooltip": "Watch video chat {appName}",
