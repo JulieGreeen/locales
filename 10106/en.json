@@ -264,7 +264,7 @@
   "common.translations.keywords": "translations video chat videochat",
   "common.translations.title": "All Translations",
   "email.common.appType.intoText.app": "to the app",
-  "email.invite.default.btnTo": "Go {toApp}",
+  "email.invite.default.btnTo": "Go {appName}",
   "email.invite.default.h1.existName": "Hello, {toName}!",
   "email.invite.default.h1.notName": "Hello!",
   "email.invite.default.text": "{linkFromName} invites you to {appName} on {linkSite}.",

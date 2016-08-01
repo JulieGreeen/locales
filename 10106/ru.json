@@ -264,7 +264,7 @@
   "common.translations.keywords": "трансляции видео чат видеочат",
   "common.translations.title": "Все трансляции",
   "email.common.appType.intoText.app": "в приложение",
-  "email.invite.default.btnTo": "Войти {toApp}",
+  "email.invite.default.btnTo": "Войти {appName}",
   "email.invite.default.h1.existName": "Привет, {toName}!",
   "email.invite.default.h1.notName": "Привет!",
   "email.invite.default.text": "{linkFromName} приглашает вас в приложение {appName} на {linkSite}.",
