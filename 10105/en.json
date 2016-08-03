@@ -854,5 +854,7 @@
   "ban_warning":"While %ban_card% have an effect on you, you can enter and chat only in your own room. To escape use the card %unban_card% or start a broadcast to ask friends for help.",
   "ban_warning2":"You’ve been imprisoned! The chat isn’t available for this moment. Do you want to fix it?",
   "mass_card":"Mass card",
-  "mass_card_descr":"For those who play for the high stakes only. Have an effect on that number of people in one room which specified in description."
+  "mass_card_descr":"For those who play for the high stakes only. Have an effect on that number of people in one room which specified in description.",
+  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "start_compliment":"Вы сегодня хорошо выглядите!"
 }
