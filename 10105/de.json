@@ -574,6 +574,10 @@
   "card_44_descr" : "Hebt sofort die Wirkung der Karte %39% auf und bringt Ihnen die Freude des Chattens zurück!",
   "card_45" : "Verwirrt",
   "card_45_descr" : "Ups! Es sieht so aus, als ob du deine Stärke überschätzt hättest! Erhöhe dein Level und gewinne mehr Erfahrung und es wird viel leichter sein. Du kannst nicht angreifen, solange diese Karte aktiv ist.",
+  "card_46" : "Segen",
+  "card_46_descr" : "Zufällige Personen in einem Chatraum können es spüren! Alle erhalten 100 Energiepunkte und wollen dir danken.",
+  "card_47" : "Die Bombe",
+  "card_47_descr" : "In Deckung! Zufällige Personen in einem Chatraum erhalten 100 Punkte Energieschaden. Aber zum Glück bleiben alle am Leben.",
   "confuse_descr" : "Chance, durcheinanderzugeraten: {0} %!",
   "for_user" : "für ",
   "from_user": "von ",
@@ -796,5 +800,9 @@
   "email.fine_amnesty.text": "Hallo! <br>  Wir haben tolle Neuigkeiten für alle von unserem Projekt gesperrten Nutzer. Innerhalb der nächsten drei Tage, vom 22. bis 25. Juli, können alle gesperrten Nutzer Amnestie mit 50% Rabatt erhalten. Zahle weniger und komme zurück! Deine Freunde vermissen dich! <br><br>  Du kannst deine Amnestie-Gebühren hier bezahlten: {app_href}<br><br>  Hoffentlich sehen wir dich bald wieder!",
   "empty_dialog":"Versuche mit einer kleinen Geste der Zuneigung ein Gespräch zu beginnen.",
   "ban_warning":"Während %ban_card% auf Sie wirkt, können Sie nur Ihren eigenen Raum betreten und nur dort chatten. Um zu entkommen, benutzen Sie die Karte %unban_card% oder beginnen Sie eine Sendung, um Freunde um Hilfe zu bitten.",
-  "ban_warning2":"Du wurdest gefesselt! Der Chat ist im Moment nicht verfügbar. Möchtest du das beheben?"
+  "ban_warning2":"Du wurdest gefesselt! Der Chat ist im Moment nicht verfügbar. Möchtest du das beheben?",
+  "mass_card":"Massenkarte",
+  "mass_card_descr":"Für alle, die nur um hohe Einsätze spielen. Wirkt auf die Anzahl von Personen in einem Raum, die in der Beschreibung angegeben ist.",
+  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "start_compliment":"Вы сегодня хорошо выглядите!"
 }

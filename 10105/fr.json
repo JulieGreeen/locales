@@ -587,6 +587,10 @@
   "card_44_descr" : "Supprime instantanément l'effet de la carte %39% et vous redonne la joie de discuter !",
   "card_45" : "Confus",
   "card_45_descr" : "Oups ! On dirait que vous avez surestimé votre propre force ! Élevez votre niveau et acquérez plus d'expérience, et ce sera beaucoup plus facile. Vous ne pouvez pas attaquer tant que cette carte est active.",
+  "card_46" : "Bénédiction",
+  "card_46_descr" : "Un nombre aléatoire de personnes dans une salle de chat le sentent bien ! Ces gens reçoivent tous 100 points d'énergie, et ils vous en doivent une.",
+  "card_47" : "La bombe",
+  "card_47_descr" : "Tous aux abris ! Un nombre aléatoire de personnes dans une salle de chat prennent 100 points de dégâts d'énergie. Heureusement, toutefois, tout le monde demeure vivant.",
   "confuse_descr" : "{0} % de chance d'être confus !",
   "for_user" : "pour ",
   "from_user": "de ",
@@ -805,5 +809,9 @@
   "sticker":"autocollant",
   "empty_dialog":"Essayez de démarrer une conversation avec une petite marque d'affection.",
   "ban_warning":"Pendant que %ban_card% a un effet sur vous, vous pouvez entrer et discuter uniquement dans votre propre salle. Pour s'échapper, utilisez la carte %unban_card% ou commencez une diffusion pour solliciter l'aide de vos amis.",
-  "ban_warning2":"Vous avez été incarcéré ! La fenêtre de discussion n'est pas disponible pour le moment. Souhaitez-vous régler le problème ?"
+  "ban_warning2":"Vous avez été incarcéré ! La fenêtre de discussion n'est pas disponible pour le moment. Souhaitez-vous régler le problème ?",
+  "mass_card":"Carte de masse",
+  "mass_card_descr":"Pour ceux qui aiment risquer gros. Affecte un nombre de personnes dans la salle spécifié dans la description.",
+  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "start_compliment":"Вы сегодня хорошо выглядите!"
 }
