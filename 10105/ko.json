@@ -660,6 +660,7 @@
   "protection_popup_descr": "보호 레벨이 낮을수록 더 많은 데미지를 입게 됩니다.  보호 레벨을 높이려면 %14% 스티커를 사용하세요",
   "protection_param": "보호 {0}%",
   "you_do_not_have_stickers": "사용할 수 있는 스티커가 없습니다. 스티커를 구입해야 합니다",
+  "report": "통보",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
   "rules_broadcasting_allow_1": "방송을 어떻게 시작해야 할지 모르시나요? 시청자에게 당신이 어디에 있는지 보여주고 현재 무엇을 하고 있는지 알려주세요.",
   "rules_broadcasting_allow_2": "동영상에서는 자주 미소를 지으세요! 긍정적 에너지로 인해 당신의 인기가 급상승할 것입니다.",
