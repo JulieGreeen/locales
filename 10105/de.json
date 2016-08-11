@@ -409,7 +409,7 @@
   "purchased":"Gekauft",
   "faberge_bouquet_of_flowers": "Fabergé-Ei «Blumenstrauß»",
   "faberge_bouquet_of_flowers_description": "Zar Nikolaus II. überreichte dieses Geschenk 1901 an seine Frau Alexandra Feodorowna. Das hat die Form eines Blumenkorbs und ist bedeckt mit Goldlasur und Diamanten. Heute liegt das Artefakt in der Juwelensammlung von Königin Elisabeth II.",
-  "report": "Informieren"
+  "report": "Informieren",
   "report_button": "Melden",
   "report_message": "Die Meldung über {0} wurde an die Moderatoren versendet. Falschmeldungen können eine Sperrung nachsichziehen.",
   "review_login_text": "Wenn Sie fortfahren, erlauben Sie der App, Ihre Daten gemäß deren <a href='{0}'>Nutzungsbedingungen</a> und <a href='{1}'>Datenschutzerklärungen</a> zu nutzen.",
