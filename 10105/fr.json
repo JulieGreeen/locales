@@ -841,5 +841,9 @@
   "mass_card":"Carte de masse",
   "mass_card_descr":"Pour ceux qui aiment risquer gros. Affecte un nombre de personnes dans la salle spécifié dans la description.",
   "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
-  "start_compliment":"Вы сегодня хорошо выглядите!"
+  "start_compliment":"Вы сегодня хорошо выглядите!",
+  "sharing.see_my_show.title": "Les amis ! Découvrez ma diffusion dans le chat vidéo et montrez votre soutient!",
+  "sharing.see_my_show.text": "FlirtyMania est fun ! Envoyez des stickers, utilisez les cartes à jouer, lancez votre propre diffusion ou chattez juste anonymement.",
+  "sharing.see_the_show.title": "Découvrez la nouvelle diffusion de {0}!",
+  "sharing.see_the_show.text": "FlirtyMania — chat anonyme et gratuit avec des tonnes de diffusions, avec de super stickers et des cartes à jouer. Rejoignez-nous maintenant !"
 }

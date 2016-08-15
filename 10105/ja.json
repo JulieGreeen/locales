@@ -868,5 +868,9 @@
   "mass_card":"マス カード",
   "mass_card_descr":"大きな賭けに出る人のみ向き。一部屋の中にいる説明文に指定された人数の人に影響を与える。",
   "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
-  "start_compliment":"Вы сегодня хорошо выглядите!"
+  "start_compliment":"Вы сегодня хорошо выглядите!",
+  "sharing.see_my_show.title": " みんな! ビデオチャットで私の放送を見て応援してね!",
+  "sharing.see_my_show.text": "FlirtyManiaは楽しいよ! スタンプを送ったり、トランプをしたり、自分の放送を始めたり、匿名でチャットをしたりしよう。",
+  "sharing.see_the_show.title": "{0}の新しい放送をチェックしよう!",
+  "sharing.see_the_show.text": "FlirtyMania — たくさんの放送、クールなスタンプ、トランプなどがある無料の匿名チャット。今すぐ参加しよう!"
 }

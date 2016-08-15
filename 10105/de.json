@@ -832,5 +832,9 @@
   "mass_card":"Massenkarte",
   "mass_card_descr":"Für alle, die nur um hohe Einsätze spielen. Wirkt auf die Anzahl von Personen in einem Raum, die in der Beschreibung angegeben ist.",
   "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
-  "start_compliment":"Вы сегодня хорошо выглядите!"
+  "start_compliment":"Вы сегодня хорошо выглядите!",
+  "sharing.see_my_show.title": "Freunde! Schaut euch meine Broadcasts im Videochat an und zeigt eure Unterstützung!",
+  "sharing.see_my_show.text": "FlirtyMania macht Spaß! Sticker versenden, Spielkarten nutzen, den eigenen Broadcast starten oder einfach anonym chatten.",
+  "sharing.see_the_show.title": "Schau dir den neuen Broadcast von {0} an!",
+  "sharing.see_the_show.text": "FlirtyMania - kostenloser anonymer Chat mit Unmengen an Broadcasts, coolen Stickern und Spielkarten. Komm noch heute zu uns!"
 }
