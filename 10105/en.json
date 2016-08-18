@@ -890,5 +890,11 @@
   "sharing.see_my_show.title": "Friends! Check out my broadcast in video chat and show your support!",
   "sharing.see_my_show.text": "FlirtyMania is fun! Send stickers, use playing cards, start your own broadcast or just chat anonymously.",
   "sharing.see_the_show.title": "Check out the new broadcast from {0}!",
-  "sharing.see_the_show.text": "FlirtyMania — free anonymous chat with tons of broadcasts, cool stickers and playing cards. Join us today!"
+  "sharing.see_the_show.text": "FlirtyMania — free anonymous chat with tons of broadcasts, cool stickers and playing cards. Join us today!",
+  "switch_camera_button": "Switch camera",
+  "block_calls_button": "Block calls",
+  "allow_calls_button": "Allow calls",
+  "mute_button": "Mute",
+  "unmute_button": "Unmute",
+  "add_effect_button": "Add effect"
 }
