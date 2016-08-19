@@ -352,7 +352,6 @@
   "successful_purchase_vip": "+30 days of VIP status -{0} coins +{1} exp.",
   "success_send_effect": "You sent an effect to {0} -{1} coins +{2} exp.",
   "success_vip_buy_head": "Successful purchase of the VIP status",
-  "take_photo": "Profile photo",
   "talk_tab": "Room",
   "technical_support": "Support",
   "temp_ban": "{0} banned {1} user for {2}\n",
