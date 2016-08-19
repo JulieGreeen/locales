@@ -631,7 +631,7 @@
   "energy_info_descr": "実生活と同様、チャットの中のいくつかの行動はエネルギーが必要で、その回復には時間がかかります。 もし待ちたくなければ、«{0}» のステッカーを使って、即座にエネルギーを蓄えて下さい。",
   "my_stickers": "マイステッカー",
   "stickers": "ステッカー",
-  "stickers_shop": "ステッカーショップ",
+  "stickers_shop": "カードストア",
   "stickers_pcs": "{0} pcs",
   "to_received_from_you_card": "%to% があなたから %card%を受け取りました。",
   "you_applied_sticker": "あなたは %card%を申し込みました。",
