@@ -352,7 +352,6 @@
   "successful_purchase_vip": "+30 日のVIPステータス -{0} 枚のコイン  +{1} exp.",
   "success_send_effect": "あなたは{0} にエフェクトを送りました-{1} 枚のコイン +{2} exp.",
   "success_vip_buy_head": "VIP ステータスの購入に成功",
-  "take_photo": "プロフィールの写真",
   "talk_tab": "ルーム",
   "technical_support": "サポート",
   "temp_ban": "{0} が {1} ユーザーを {2} から禁止しました\n",
