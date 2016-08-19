@@ -351,7 +351,6 @@
   "successful_purchase_vip": "+30 Tage VIP-Status -{0} Münzen +{1} Erf.",
   "success_send_effect": "Sie haben einen Effekt an {0} gesendet -{1} Münzen +{2} Erf.",
   "success_vip_buy_head": "VIP-Status erfolgreich gekauft",
-  "take_photo": "Profilbild",
   "talk_tab": "Raum",
   "technical_support": "Support",
   "temp_ban": "{0} hat Benutzer {1} für {2}\n gesperrt",
