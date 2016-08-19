@@ -348,7 +348,6 @@
   "successful_purchase_vip": "+30일간 VIP 회원 -{0} 코인 +{1} 경험치",
   "success_send_effect": "{0} 님에게 효과를 보냈습니다 -{1} 코인 +{2} 경험치",
   "success_vip_buy_head": "VIP 회원 구매 완료",
-  "take_photo": "프로필 사진",
   "talk_tab": "방",
   "technical_support": "지원",
   "temp_ban": "{0} 님이 {1} 회원을 {2}간 차단했습니다\n",
