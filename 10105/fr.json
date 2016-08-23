@@ -855,5 +855,7 @@
   "sharing.see_my_show.title": "Les amis ! Découvrez ma diffusion dans le chat vidéo et montrez votre soutient!",
   "sharing.see_my_show.text": "FlirtyMania est fun ! Envoyez des stickers, utilisez les cartes à jouer, lancez votre propre diffusion ou chattez juste anonymement.",
   "sharing.see_the_show.title": "Découvrez la nouvelle diffusion de {0}!",
-  "sharing.see_the_show.text": "FlirtyMania — chat anonyme et gratuit avec des tonnes de diffusions, avec de super stickers et des cartes à jouer. Rejoignez-nous maintenant !"
+  "sharing.see_the_show.text": "FlirtyMania — chat anonyme et gratuit avec des tonnes de diffusions, avec de super stickers et des cartes à jouer. Rejoignez-nous maintenant !",
+  "retry":"Réessayer",
+  "continue":"Ignorer"
 }
