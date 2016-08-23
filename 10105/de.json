@@ -841,7 +841,7 @@
 "unmute_button": "Stummschaltung aufheben",
 "add_effect_button": "Effekt hinzufügen",  
   "mass_card_descr":"Für alle, die nur um hohe Einsätze spielen. Wirkt auf die Anzahl von Personen in einem Raum, die in der Beschreibung angegeben ist.",
-  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "no_face_warning":"Ihr Gesicht konnte nicht im Foto erkannt werden, deshalb wird diese Übertragung nicht in der Liste erscheinen.",
   "start_compliment":"Вы сегодня хорошо выглядите!",
   "sharing.see_my_show.title": "Freunde! Schaut euch meine Broadcasts im Videochat an und zeigt eure Unterstützung!",
   "sharing.see_my_show.text": "FlirtyMania macht Spaß! Sticker versenden, Spielkarten nutzen, den eigenen Broadcast starten oder einfach anonym chatten.",

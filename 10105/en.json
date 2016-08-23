@@ -889,7 +889,7 @@
   "ban_warning2":"You’ve been imprisoned! The chat isn’t available for this moment. Do you want to fix it?",
   "mass_card":"Mass card",
   "mass_card_descr":"For those who play for the high stakes only. Have an effect on that number of people in one room which specified in description.",
-  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "no_face_warning":"Unable to detect your face in the photo, so this broadcast won't be on the list.",
   "start_compliment":"Вы сегодня хорошо выглядите!",
   "sharing.see_my_show.title": "Friends! Check out my broadcast in video chat and show your support!",
   "sharing.see_my_show.text": "FlirtyMania is fun! Send stickers, use playing cards, start your own broadcast or just chat anonymously.",

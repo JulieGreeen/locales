@@ -850,7 +850,7 @@
   "ban_warning2":"Vous avez été incarcéré ! La fenêtre de discussion n'est pas disponible pour le moment. Souhaitez-vous régler le problème ?",
   "mass_card":"Carte de masse",
   "mass_card_descr":"Pour ceux qui aiment risquer gros. Affecte un nombre de personnes dans la salle spécifié dans la description.",
-  "no_face_warning":"Нет лица. Трансляция не попадет в афишу.",
+  "no_face_warning":"Impossible de détecter votre visage sur la photo, cette diffusion ne sera pas dans la liste.",
   "start_compliment":"Вы сегодня хорошо выглядите!",
   "sharing.see_my_show.title": "Les amis ! Découvrez ma diffusion dans le chat vidéo et montrez votre soutient!",
   "sharing.see_my_show.text": "FlirtyMania est fun ! Envoyez des stickers, utilisez les cartes à jouer, lancez votre propre diffusion ou chattez juste anonymement.",
