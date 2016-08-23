@@ -41,7 +41,7 @@
   "common.fines.reasons.threat": "Угроза жизни и здоровью пользователя",
   "common.fines.reasons.lostaccount": "За утерю аккаунта по вине пользователя",
   "common.fines.reasons.migrate-account-data": "Перенос данных учётной записи (славы, репутации) на другую учётную запись",
-  "common.fines.reasons.migrate-account-resources": "Перенос игровой валюты или ресурсов на другую учётную запись/сервер",
+  "common.fines.reasons.migrate-account-resources": "Перенос игровой валюты, ресурсов , уровня аккаунта на другую учётную запись(сервер)",
   "common.fines.reasons.edit-blocking": "Удаление (блокировка) аккаунтов, расклонирование",
   "common.fines.reasons.check-network-data": "Проверка сетевой активности аккаунта (IP-адреса, ID-устройства)",
   "common.fines.reasons.delete-account": "Аккаунт удалён",
