@@ -900,5 +900,6 @@
   "allow_calls_button": "Allow calls",
   "mute_button": "Mute",
   "unmute_button": "Unmute",
-  "add_effect_button": "Add effect"
+  "add_effect_button": "Add effect",
+  "retry":"Retry"
 }
