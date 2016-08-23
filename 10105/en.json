@@ -901,5 +901,6 @@
   "mute_button": "Mute",
   "unmute_button": "Unmute",
   "add_effect_button": "Add effect",
-  "retry":"Retry"
+  "retry":"Retry",
+  "ban_info":"Вас забанили. Вы не можете покинуть свою комнату. Для выхода используйте карточку %44%"
 }
