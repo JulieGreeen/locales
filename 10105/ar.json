@@ -867,6 +867,8 @@
   "start_compliment_3":"هل أنت متأكد من أنك لست عارض أزياء؟",
   "start_compliment_4":"سوف يكون هذا أفضل غلاف!",
   "start_compliment_5":"غلاف رائع!",
+  "turn_off_broadcast": "إيقاف البث",
+"turn_on_broadcast": "تشغيل البث",
   "sharing.see_my_show.title": "لأصدقاء! تحقق من البث الخاص بي ضمن دردشة الفيديو وأظهر دعمك!",
   "sharing.see_my_show.text": "FlirtyMania ممتعة حقاً! أرسل الملصقات، استخدم بطاقات لعب الورق، وابدأ البث الخاص بك أو دردش بهوية مجهولة.",
   "sharing.see_the_show.title": "تحقق من البث الجديد من {0}!",
