@@ -872,5 +872,7 @@
   "sharing.see_the_show.title": "Découvrez la nouvelle diffusion de {0}!",
   "sharing.see_the_show.text": "FlirtyMania — chat anonyme et gratuit avec des tonnes de diffusions, avec de super stickers et des cartes à jouer. Rejoignez-nous maintenant !",
   "retry":"Réessayer",
-  "continue":"Ignorer"
+  "continue":"Ignorer",
+  "only_for_vip":"%user% préfère parler uniquement aux membres du club VIP exclusif et a restreint les messages entrants. %link%",
+  "vip_link":"Découvrez le club VIP"
 }

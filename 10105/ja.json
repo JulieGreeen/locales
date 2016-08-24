@@ -899,5 +899,7 @@
   "sharing.see_the_show.title": "{0}の新しい放送をチェックしよう!",
   "sharing.see_the_show.text": "FlirtyMania — たくさんの放送、クールなスタンプ、トランプなどがある無料の匿名チャット。今すぐ参加しよう!",
   "retry":"再試行",
-  "continue":"無視"
+  "continue":"無視",
+  "only_for_vip":"%user%は会員限定のVIPクラブのメンバーのみとの連絡を希望しているため、メッセージの通知を制限しています。 %link%",
+  "vip_link":"VIPクラブについて"
 }

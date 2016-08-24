@@ -918,6 +918,7 @@
   "unmute_button": "Unmute",
   "add_effect_button": "Add effect",
   "retry":"Retry",
-  "continue":"Ignore"
-  
+  "continue":"Ignore",
+  "only_for_vip":"%user% would rather talk only to members of the exclusive VIP club and has restricted incoming messages. %link%",
+  "vip_link":"Подробнее о VIP клубе"
 }

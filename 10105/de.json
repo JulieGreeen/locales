@@ -863,5 +863,7 @@
   "sharing.see_the_show.title": "Schau dir den neuen Broadcast von {0} an!",
   "sharing.see_the_show.text": "FlirtyMania - kostenloser anonymer Chat mit Unmengen an Broadcasts, coolen Stickern und Spielkarten. Komm noch heute zu uns!",
   "retry":"Wiederholen",
-  "continue":"Ignorieren"
+  "continue":"Ignorieren",
+  "only_for_vip":"%user% möchte sich nur mit Mitgliedern des exklusiven VIP-Clubs unterhalten und hat eingehende Nachrichten darauf beschränkt. %link%",
+  "vip_link":"Mehr über den VIP-Club erfahren"
 }

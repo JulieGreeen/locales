@@ -896,5 +896,7 @@
   "sharing.see_the_show.title": "{0}님의 새로운 방송을 확인하세요!",
   "sharing.see_the_show.text": "FlirtyMania — 수많은 방송과 멋진 스티커, 카드놀이와 함께 즐기는 무료 익명 채팅. 오늘 가입하세요!",
   "retry":"다시 시도",
-  "continue":"무시"
+  "continue":"무시",
+  "only_for_vip":"%user%님은 VIP 클럽 회원님과만 얘기하고 싶어 하며, 메시지 수신을 제한한 상태입니다. %link%",
+  "vip_link":"VIP 클럽에 대해 자세히 알아보기"
 }
