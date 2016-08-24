@@ -886,6 +886,8 @@
   "start_compliment_3":"あなたは本当にモデルではないのですか?",
   "start_compliment_4":"これは最高の表紙になるでしょう!",
   "start_compliment_5":"素晴らしい表紙!",
+  "turn_off_broadcast": "ブロードキャストをオフにする",
+"turn_on_broadcast": "ブロードキャストをオンにする",
   "sharing.see_my_show.title": " みんな! ビデオチャットで私の放送を見て応援してね!",
   "sharing.see_my_show.text": "FlirtyManiaは楽しいよ! スタンプを送ったり、トランプをしたり、自分の放送を始めたり、匿名でチャットをしたりしよう。",
   "sharing.see_the_show.title": "{0}の新しい放送をチェックしよう!",
