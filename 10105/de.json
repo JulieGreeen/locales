@@ -850,6 +850,8 @@
   "start_compliment_3":"Sie sind sicher, dass Sie kein Model sind?",
   "start_compliment_4":"Das wird das beste Cover werden!",
   "start_compliment_5":"Großartiges Cover!",
+  "turn_off_broadcast": "Übertragung beenden",
+"turn_on_broadcast": "Übertragung einschalten",
   "sharing.see_my_show.title": "Freunde! Schaut euch meine Broadcasts im Videochat an und zeigt eure Unterstützung!",
   "sharing.see_my_show.text": "FlirtyMania macht Spaß! Sticker versenden, Spielkarten nutzen, den eigenen Broadcast starten oder einfach anonym chatten.",
   "sharing.see_the_show.title": "Schau dir den neuen Broadcast von {0} an!",
