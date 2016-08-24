@@ -905,6 +905,8 @@
   "switch_camera_button": "Switch camera",
   "block_calls_button": "Block calls",
   "allow_calls_button": "Allow calls",
+  "turn_off_broadcast": "Turn off broadcast",
+  "turn_on_broadcast": "Turn on broadcast",
   "mute_button": "Mute",
   "unmute_button": "Unmute",
   "add_effect_button": "Add effect",
