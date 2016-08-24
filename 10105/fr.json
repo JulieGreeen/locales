@@ -859,6 +859,8 @@
   "start_compliment_3":"Êtes-vous certain de ne pas être un mannequin ?",
   "start_compliment_4":"Ça va être la meilleure couverture !",
   "start_compliment_5":"Superbe couverture !",
+  "turn_off_broadcast": "Arrêter la diffusion ",
+"turn_on_broadcast": "Activer la diffusion",
   "sharing.see_my_show.title": "Les amis ! Découvrez ma diffusion dans le chat vidéo et montrez votre soutient!",
   "sharing.see_my_show.text": "FlirtyMania est fun ! Envoyez des stickers, utilisez les cartes à jouer, lancez votre propre diffusion ou chattez juste anonymement.",
   "sharing.see_the_show.title": "Découvrez la nouvelle diffusion de {0}!",
