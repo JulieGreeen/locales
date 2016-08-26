@@ -131,6 +131,7 @@
 	"effect_snow_ball": "يقذف {0} كرة ثلج على {1}",
 	"effect_tomato": "يقذف {0} طماطم فاسدة على {1}",
 	"enable_restrictions_incoming_calls": "لقد حظرت المكالمات الواردة",
+	"error_load_profile": "لقد حدث خطأ ما أثناء تحميل الصورة. قم بإعادة المحاولة في وقتٍ لاحق.",
 	"enter_msg": "دردشة هنا...",
 	"experience": "تجربة",
 	"faberge_azov": "بيضة فابريج \"ذكرى أزوف\"",
