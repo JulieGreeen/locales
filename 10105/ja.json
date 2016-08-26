@@ -135,6 +135,7 @@
   "effect_petals": "{0} がバラの花びらを {1} に浴びせかけています",
   "effect_snow_ball": "{0} が雪玉を {1} に投げつけます",
   "effect_tomato": "{0} が腐ったトマトを {1} に投げつけます",
+  "error_load_profile": "写真のロード中にエラーが起きました。少し後にもう一度お試しください。",
   "enable_restrictions_incoming_calls": "あなたは、かかっている電話を制限しました",
   "enter_msg": "ここでチャット...",
   "experience": "体験",
