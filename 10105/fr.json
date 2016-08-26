@@ -132,6 +132,7 @@
   "effect_light_off": "{0} éteint les lumières dans la salle {1}",
   "effect_petals": "{0} comble {1} de pétales de roses",
   "effect_snow_ball": "{0} envoie une boule de neige sur {1}",
+  "error_load_profile": "Une erreur s’est produite lors du chargement de la photo. Veuillez réessayer un peu plus tard.",
   "effect_tomato": "{0} envoie une tomate pourrie sur {1}",
   "enable_restrictions_incoming_calls": "Vous avez restreint les appels entrants",
   "enter_msg": "Discutez ici...",
