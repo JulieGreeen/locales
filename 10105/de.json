@@ -134,6 +134,7 @@
   "effect_petals": "{0} überschüttet {1} mit Rosenblättern",
   "effect_snow_ball": "{0} wirft einen Schneeball nach {1}",
   "effect_tomato": "{0} wirft eine faule Tomate nacht {1}",
+  "error_load_profile": "Beim Laden des Fotos ist ein Fehler aufgetreten. Bitte versuchen Sie es etwas später erneut.",
   "enable_restrictions_incoming_calls": "Sie haben eingehende Anrufe beschränkt",
   "enter_msg": "Hier chatten...",
   "experience": "Erfahrung",
