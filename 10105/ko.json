@@ -134,6 +134,7 @@
   "effect_petals": "{0} 님이 {1} 님에게 장미꽃 세례를 퍼붓고 있습니다",
   "effect_snow_ball": "{0} 님이 {1} 님에게 눈덩이를 던집니다",
   "effect_tomato": "{0} 님이 {1} 님에게 썩은 토마토를 던집니다",
+  "error_load_profile": "사진을 로딩하는 중에 에러가 발생하였습니다. 나중에 다시 시도해주세요.",
   "enable_restrictions_incoming_calls": "수신 전화에 제한을 설정했습니다",
   "enter_msg": "여기서 채팅...",
   "experience": "경험치",
