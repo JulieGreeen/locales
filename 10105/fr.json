@@ -621,7 +621,7 @@
   "card_53_descr" : "Une rage ancestrale vous envahit ! Vous sentez monter en vous une force qui vous permettra d'écraser toute opposition.",
   "card_54" : "Faiblesse",
   "card_54_descr" : "Cette carte a pour effet d'atténuer la force.",
-  "confuse_descr" : "{0} % de chance d'être confus !",
+  "confuse_descr" : "Le risque de confusion existe",
   "for_user" : "pour ",
   "from_user": "de ",
   "wish_for": "Que souhaitez-vous ?",
