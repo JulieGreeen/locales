@@ -666,6 +666,8 @@
   "indelible_popup_descr" : "Dieser Sticker kann mit %5% nicht abgewaschen werden",
   "protection_popup_descr":"Je niedriger Ihr Schutzschild, desto mehr Schaden erleiden Sie bei Attacken. Nutzen Sie den Sticker %14%, um Ihren Schutz zu verbessern",
   "protection_param":"Schutzschild {0}%",
+  "attack_popup_descr":"Je höher der Angriff desto schädlicher ist er. Nutze die %53% Karte, um die Angriffsintensität zu steigern.",
+  "attack_param":"Angriff: {0}%",
   "you_do_not_have_stickers" : "Sie haben keine Sticker zur Verfügung. Kaufen Sie welche",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
   "rules_broadcasting_allow_1" : "Sie wissen nicht, wie Sie Ihre Sendung beginnen sollen? Zeigen Sie den Zuschauern, wo Sie sind und was Sie gerade machen.",

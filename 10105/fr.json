@@ -679,6 +679,8 @@
   "indelible_popup_descr" : "Ce sticker ne peut pas être effacé avec %5%",
   "protection_popup_descr":"Plus votre niveau de protection est bas, plus vous recevez de dégâts à chaque coup. Utilisez l'autocollant %14% pour améliorer votre protection",
   "protection_param":"Protection {0}%",
+  "attack_popup_descr":"Plus le niveau d'attaque est élevé plus celle-ci est dangereuse. Utilisez la carte %cardname% pour augmenter l'intensité de l'attaque.",
+  "attack_param":"Attaque : {0}%",
   "you_do_not_have_stickers" : "Vous n'avez pas d'autocollant disponible, vous devez en acheter",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
   "rules_broadcasting_allow_1" : "Vous ne savez pas comment commencer votre diffusion ? Montrez où vous êtes et racontez à votre audience ce que vous êtes en train de faire.",

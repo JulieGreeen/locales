@@ -682,6 +682,8 @@
   "indelible_popup_descr" : "This sticker cannot be removed with %5%",
   "protection_popup_descr":"The lower your protection level, the more damage you take from hits. Use sticker %14% to improve your protection",
   "protection_param":"Protection {0}%",
+  "attack_popup_descr":"The higher the attack is the more harmful it is. Use the %53% card to increase the attack intensity.",
+  "attack_param":"Attack {0}%",
   "you_do_not_have_stickers" : "You don't have any stickers available, you need to buy some",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
   "rules_broadcasting_allow_1" : "Do not know what to start the broadcasting with? Show the place where you are and tell the audience what you are currently doing.",

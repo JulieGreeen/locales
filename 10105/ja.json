@@ -680,6 +680,8 @@
   "indelible_popup_descr": "このステッカーは、%5%では剥がせません。",
   "protection_popup_descr": "あなたの防御レベルが低ければ低いほど、攻撃で受けるダメージは大きくなります。 ステッカー%14% を使って防御を高めましょう。",
   "protection_param": "防御 {0}%",
+  "attack_popup_descr":"攻撃が高ければ高いほど有害になります。攻撃の強さを上げるには、%53%カードを使用して下さい。",
+  "attack_param":"攻撃: {0}%",
   "you_do_not_have_stickers": "使えるステッカーがありません。もっと購入する必要があります",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
   "rules_broadcasting_allow_1": "何から放映を始めたらいいかわかりませんか？ あなたが今いる場所を示し、視聴者に今あなたがしていることを伝えます。",

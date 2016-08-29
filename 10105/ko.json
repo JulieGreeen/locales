@@ -676,6 +676,8 @@
   "indelible_popup_descr": "이 스티커는 %5% 스티커로 제거할 수 없습니다.",
   "protection_popup_descr": "보호 레벨이 낮을수록 더 많은 데미지를 입게 됩니다.  보호 레벨을 높이려면 %14% 스티커를 사용하세요",
   "protection_param": "보호 {0}%",
+  "attack_popup_descr":"더 높이 공격할 수록 더 해롭습니다. %53% 카드를 사용하여 공격의 강도를 증가시키세요.",
+  "attack_param":"공격: {0}%",
   "you_do_not_have_stickers": "사용할 수 있는 스티커가 없습니다. 스티커를 구입해야 합니다",
   "report": "통보",
   "rules_settings_json_structured": "{\"rules_broadcasting_allow\":8, \"rules_broadcasting_allow_web\":1, \"rules_broadcasting_deny\":5, \"rules_viewers_allow\":6, \"rules_viewers_deny\":4}",
