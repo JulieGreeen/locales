@@ -930,5 +930,5 @@
   "continue":"Ignore",
   "only_for_vip":"%user% would rather talk only to members of the exclusive VIP club and has restricted incoming messages. %link%",
   "vip_link":"Подробнее о VIP клубе",
-  "hours_elapsed_private_room": "Время работы приватной комнаты истекло. Для продолжения общения совершите новый приватный вызов."
+  "hours_elapsed_private_room": "Hours elapsed private room. To continue the dialogue to make a new private call."
 }
