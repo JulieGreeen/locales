@@ -12,6 +12,11 @@
   "email.invite.live2.h1.existName": "안녕하세요, {toName}!",
   "email.invite.live2.h1.notName": "안녕하세요!",
   "email.invite.live2.text": "{linkFromName} 님이 리얼리티 쇼에 초대하셨습니다 {linkSite}.\n\n이 비디오 채팅에서는 나만의 리얼리티 쇼를 만들어 모두가 띄워주는 사람이 되어 보거나, 그냥 다른 회원들의 라이브 스트리밍을 볼 수 있습니다.",
-  "email.invite.live2.title": "{fromName}님이 비디오 채팅에 초대했습니다{appName}"
+  "email.invite.live2.title": "{fromName}님이 비디오 채팅에 초대했습니다{appName}",
+
+  "email.registration.text": "안녕하세요!  아래 링크에 접속해 {appName} 등록을 확인하시기 바랍니다: {linkSite}. 본 절차는 이 이메일이 귀하의 이메일인지를 확인하여 계정을 생성해 드리기 위함입니다.",
+  "email.registration.subject": "{appName}등록 확인",
+  "email.forgotPsw.text": "{toName}님 안녕하세요,<br>  다음 링크를 눌러 {appName}의 암호 재설정을 확인하세요: {linkSite}. <br>만약 재설정을 요청하지 않으셨다면, 이 메시지를 무시하시고 위의 링크도 누르지 마십시오. 다른 누군가가 당신의 계정에 접근을 시도했을 수 있습니다.",
+  "email.forgotPsw.subject": "{appName}에서 암호 재설정 확인"
 
 }

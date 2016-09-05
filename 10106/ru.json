@@ -265,9 +265,9 @@
   "common.translations.title": "Все трансляции",
   "email.common.appType.intoText.app": "в приложение",
 
-  "email.registration.text": "Привет! Для подтверждения регистрации в {appName}, пройдите по ссылке: {linkSite} Так мы узнаем, что это действительно ваш адрес и создадим вам аккаунт.",
+  "email.registration.text": "Привет! <br> Для подтверждения регистрации в {appName}, пройдите по ссылке: {linkSite}. Так мы узнаем, что это действительно ваш адрес и создадим вам аккаунт.",
   "email.registration.subject": "Подтверждение регистрации в {appName}",
-  "email.forgotPsw.text": "Привет, {toName}!! Для подтверждения смены пароля в {appName}, пройдите по ссылке: {linkSite}",
+  "email.forgotPsw.text": "Привет{toName}!! <br> Для подтверждения смены пароля в {appName}, пройдите по ссылке: {linkSite}",
   "email.forgotPsw.subject": "Подтверждение смены пароля в {appName}",
 
   "email.invite.default.btnTo": "Войти {appName}",

@@ -264,6 +264,12 @@
   "common.translations.keywords": "translations video chat videochat",
   "common.translations.title": "All Translations",
   "email.common.appType.intoText.app": "إلى التطبيق",
+
+  "email.registration.text": "مرحبًا!<br>  يرجى إتباع هذا الرابط لتأكيد تسجيلك في {appName}: {linkSite}. هذا فقط من أجلنا للتأكد من أن عنوان البريد الإلكتروني خاص بك حقًا حتى نتمكن من إنشاء حسابك.",
+  "email.registration.subject": "قُم بتأكيد التسجيل الخاص بك في {appName}",
+  "email.forgotPsw.text": "مرحباً {toName}، <br>  يُرجى اتباع هذا الرابط لتأكيد إعادة تعيين كلمة المرور الخاصة بك في {appName}: {linkSite}.إذا كنت لم تطلب إعادة التعيين، يُرجى تجاهل هذه الرسالة وعدم اتباع الرابط أعلاه. قد يكون أن أحدهم حاول الوصول إلى حسابك.",
+  "email.forgotPsw.subject": "تأكيد إعادة تعيين كلمة المرور في {appName}",
+
   "email.invite.default.btnTo": "ذهاب إلى  {toApp}",
   "email.invite.default.h1.existName": "مرحبًا، {toName}!",
   "email.invite.default.h1.notName": "مرحبًا!",

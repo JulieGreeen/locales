@@ -12,5 +12,10 @@
   "email.invite.mc.h1.existName": "こんにちは, {toName}!",
   "email.invite.mc.h1.notName": "こんにちは!",
   "email.invite.mc.text": "{linkFromName}  からオンラインゲーム参加への招待が届いています {linkSite}.\n\nビビットカラーのグラフィックスで描かれたノームが暮らすファンタジー世界で、様々な思いがけない出来事や複雑なストーリー展開があなたを待っています。あなたの夢の都市を築き上げて支配しましょう。",
-  "email.invite.mc.title": "{fromName}  からオンラインゲームへの招待が届いています {appName}"
+  "email.invite.mc.title": "{fromName}  からオンラインゲームへの招待が届いています {appName}",
+
+  "email.registration.text": "こんにちは! <br>  このリンクから[FlirtyMania]: {0}の登録を確認して下さい。これは、当社があなたのメールアドレスが本物であることを確かめ、アカウント作成をするためだけに使用されます。",
+  "email.registration.subject": "{appName}の登録を確認",
+  "email.forgotPsw.text": "こんにちは{0}さん、<br>{appName}でのパスワードのリセットを完了するためには以下のリンクをクリックして指示に従ってください: {linkSite}。リセットのリクエストをされていない場合には、本メールは無視し、上記のリンクの指示に従わないでください。第三者によるアカウントへのアクセスの可能性があります。",
+  "email.forgotPsw.subject": "{appName}でのパスワードのリセットを完了する "
 }
