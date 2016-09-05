@@ -264,6 +264,12 @@
   "common.translations.keywords": "translations video chat videochat",
   "common.translations.title": "All Translations",
   "email.common.appType.intoText.app": "to the app",
+
+  "email.registration.text": "Привет! Для подтверждения регистрации в {appName}, пройдите по ссылке: {linkSite} Так мы узнаем, что это действительно ваш адрес и создадим вам аккаунт.",
+  "email.registration.subject": "Подтверждение регистрации в {appName}",
+  "email.forgotPsw.text": "Hi, {toName}!! Please follow this link to confirm your password reset on {appName}: {linkSite} . <br>  If you didn't request the reset, please ignore this message and do not follow the above link. It could be that someone was attempting to access your account.",
+  "email.forgotPsw.subject": "Confirm password reset on {appName}",
+
   "email.invite.default.btnTo": "Go {appName}",
   "email.invite.default.h1.existName": "Hello, {toName}!",
   "email.invite.default.h1.notName": "Hello!",
