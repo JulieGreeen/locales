@@ -17,6 +17,11 @@
   "email.registration.text": "안녕하세요!  아래 링크에 접속해 {appName} 등록을 확인하시기 바랍니다: {linkSite}. 본 절차는 이 이메일이 귀하의 이메일인지를 확인하여 계정을 생성해 드리기 위함입니다.",
   "email.registration.subject": "{appName}등록 확인",
   "email.forgotPsw.text": "{toName}님 안녕하세요,<br>  다음 링크를 눌러 {appName}의 암호 재설정을 확인하세요: {linkSite}. <br>만약 재설정을 요청하지 않으셨다면, 이 메시지를 무시하시고 위의 링크도 누르지 마십시오. 다른 누군가가 당신의 계정에 접근을 시도했을 수 있습니다.",
-  "email.forgotPsw.subject": "{appName}에서 암호 재설정 확인"
+  "email.forgotPsw.subject": "{appName}에서 암호 재설정 확인",
+
+  "jsShower.sendRegistrationAlert.header": "이메일이 전송되었습니다",
+  "jsShower.sendRegistrationAlert.message": "{email}에 이메일을 보내드렸습니다. 본 이메일의 링크에 접속해 등록을 확인하시기 바랍니다.",
+  "jsShower.sendForgotAlert.header": "이메일이 전송되었습니다",
+  "jsShower.sendForgotAlert.message": "{email}로 이메일을 보내드렸습니다. 해당 이메일의 링크를 눌러 암호 재설정을 확인하세요."
 
 }

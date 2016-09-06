@@ -385,5 +385,10 @@
   "jsShower.sendInviteAlert.header": "Приглашение отправлено",
   "jsShower.sendInviteAlert.message": "На ваш E-mail {email} было отправлено приглашение от Мастера Тигры. Прочтите его.",
   "jsShower.sendPassAlert.header": "Неверный пароль",
-  "jsShower.sendPassAlert.message": "Ранее вы использовали другой пароль. Вы действительно хотите начать использовать новый пароль?"
+  "jsShower.sendPassAlert.message": "Ранее вы использовали другой пароль. Вы действительно хотите начать использовать новый пароль?",
+
+  "jsShower.sendRegistrationAlert.header": "Письмо отправлено",
+  "jsShower.sendRegistrationAlert.message": "Мы отправили письмо на почту {email}. Для подтверждения регистрации перейдите по ссылке в этом письме.",
+  "jsShower.sendForgotAlert.header": "Письмо отправлено",
+  "jsShower.sendForgotAlert.message": "Мы отправили письмо на почту {email}. Для подтверждения смены пароля перейдите по ссылке в этом письме."
 }

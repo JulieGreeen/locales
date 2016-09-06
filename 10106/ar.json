@@ -399,5 +399,10 @@
   "jsShower.sendInviteAlert.header": "تم إرسال الدعوة",
   "jsShower.sendInviteAlert.message": "تم إرسال دعوة على البريد الإلكتروني لك  {email} من Master Tigra. اقرأها",
   "jsShower.sendPassAlert.header": "كلمة المرور غير صحيحة",
-  "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟"
+  "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟",
+
+  "jsShower.sendRegistrationAlert.header": "تم إرسال البريد الإلكتروني",
+  "jsShower.sendRegistrationAlert.message": "لقد قمنا بإرسال بريد إلكتروني لك في {email}. يرجى إتباع الرابط في هذا البريد الإلكتروني لتأكيد التسجيل الخاص بك.",
+  "jsShower.sendForgotAlert.header": "تم إرسال البريد الإلكتروني",
+  "jsShower.sendForgotAlert.message": "أرسلنا إليك رسالة إلكترونية على العنوان {email}  يُرجى اتباع الرابط الموجود في تلك الرسالة لتأكيد إعادة تعيين كلمة المرور الخاصة بك"
 }

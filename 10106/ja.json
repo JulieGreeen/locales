@@ -17,5 +17,10 @@
   "email.registration.text": "こんにちは! <br>  このリンクから[FlirtyMania]: {0}の登録を確認して下さい。これは、当社があなたのメールアドレスが本物であることを確かめ、アカウント作成をするためだけに使用されます。",
   "email.registration.subject": "{appName}の登録を確認",
   "email.forgotPsw.text": "こんにちは{0}さん、<br>{appName}でのパスワードのリセットを完了するためには以下のリンクをクリックして指示に従ってください: {linkSite}。リセットのリクエストをされていない場合には、本メールは無視し、上記のリンクの指示に従わないでください。第三者によるアカウントへのアクセスの可能性があります。",
-  "email.forgotPsw.subject": "{appName}でのパスワードのリセットを完了する "
+  "email.forgotPsw.subject": "{appName}でのパスワードのリセットを完了する ",
+
+  "jsShower.sendRegistrationAlert.header": "電子メールが送信されました",
+  "jsShower.sendRegistrationAlert.message": "{email}時にメールを送信させていただきました。このメール内のリンクに進み、登録を確定して下さい。",
+  "jsShower.sendForgotAlert.header": "電子メールが送信されました",
+  "jsShower.sendForgotAlert.message": "以下のメールアドレス {email} へ電子メールを送信しました。パスワードのリセットを完了するためには電子メール内のリンクに従ってください。"
 }

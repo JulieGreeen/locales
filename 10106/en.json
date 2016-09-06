@@ -397,4 +397,9 @@
   "jsShower.sendInviteAlert.message": "On your E-mail {email} has been send invitation from the Master Tigra. Read it.",
   "jsShower.sendPassAlert.header": "Incorrect password",
   "jsShower.sendPassAlert.message": "Before that you used a different password. Do you really want to start using the new password?"
+
+  "jsShower.sendRegistrationAlert.header": "The e-mail was sent",
+  "jsShower.sendRegistrationAlert.message": "We sent you an email at {email}. Please follow the link in this email to confirm your registration.",
+  "jsShower.sendForgotAlert.header": "The e-mail was sent",
+  "jsShower.sendForgotAlert.message": "We sent you an email at {email}. Please follow the link in this email to confirm your password reset."
 }
