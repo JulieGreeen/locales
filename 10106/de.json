@@ -14,9 +14,9 @@
   "email.invite.live2.text": "{linkFromName}  hat Sie eingeladen, an einer Realityshow teilzunehmen {linkSite}.\n\nIn diesem Videochat können Sie Ihre eigene Realityshow erschaffen, universelle Bewunderung erlangen oder einfach nur Livestreams anderer Mitglieder ansehen.",
   "email.invite.live2.title": "{fromName} hat Sie zu einem Videochat eingeladen {appName}",
 
-  "email.registration.text": "Hi daar! <br>  Volg alsjeblieft deze link om je registratie op {appName} te bevestigen: {linkSite}. Zo kunnen wij verifiëren dat dit echt je e-mailadres is zodat we je account kunnen aanmaken. ",
+  "email.registration.text": "Hi daar! <br>  Volg alsjeblieft deze link om je registratie op {appName} te bevestigen:<br> {linkSite}.<br> Zo kunnen wij verifiëren dat dit echt je e-mailadres is zodat we je account kunnen aanmaken. ",
   "email.registration.subject": "Bevestig je registratie op  {appName}",
-  "email.forgotPsw.text": "Hallo{toName},<br>  Volg deze link om wijziging van uw wachtwoord op {appName} te bevestigen: {linkSite}. <br>Als u de wijziging niet heeft aangevraagd, kunt u dit bericht negeren en hoeft u bovenstaande link niet te volgen. Het kan zijn dat iemand probeerde toegang te krijgen tot uw account.",
+  "email.forgotPsw.text": "Hallo{toName},<br>  Volg deze link om wijziging van uw wachtwoord op {appName} te bevestigen:<br> {linkSite}. <br>Als u de wijziging niet heeft aangevraagd, kunt u dit bericht negeren en hoeft u bovenstaande link niet te volgen. Het kan zijn dat iemand probeerde toegang te krijgen tot uw account.",
   "email.forgotPsw.subject": "Bevestig wijziging wachtwoord op {appName}",
 
   "jsShower.sendRegistrationAlert.header": "Die E-Mail wurde gesendet",
