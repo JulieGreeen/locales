@@ -1,0 +1,1708 @@
+{
+  "1": {
+    "amount": 8,
+    "description": {
+      "ko": "순간적으로 에너지 회복시켜 줍니다",
+      "fr": "Récupère instantanément de l'énergie",
+      "en": "Instantly recover the energy",
+      "ru": "Мгновенно восстанавливает энергию",
+      "de": "Stellt die Energie sofort wieder her",
+      "ar": "يستعيد الطاقة فورًا",
+      "ja": "即座にエネルギーを回復"
+    },
+    "energy": 500,
+    "price": 100,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/1.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/1.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/1.png"
+    },
+    "title": {
+      "ko": "슈퍼 에너지 드링크",
+      "fr": "Super boisson énergisante",
+      "en": "Super Energy drink",
+      "ru": "Супер Энергетик",
+      "de": "Super-Energy-Drink",
+      "ar": "معزز الطاقة الفائق",
+      "ja": "スーパーエナジードリンク"
+    }
+  },
+  "2": {
+    "amount": 10,
+    "description": {
+      "ko": "상대의 에너지를 빼앗아 매너를 가르쳐 줍니다.",
+      "fr": "Apprend les bonnes manières en coûtant de l'énergie à la victime.",
+      "en": "Teaches good manners by taking away victim's energy.",
+      "ru": "Нужен для обучения хорошим манерам, отбирает энергию у жертвы",
+      "de": "Lehrt Manieren, indem es dem Opfer Energie raubt.",
+      "ar": "مطلوبة لتعلم الأخلاق الحميدة. تستنزف الطاقة من الضحية",
+      "ja": "犠牲者のエネルギーを取り除くことで、お行儀を教えます。"
+    },
+    "energy": -60,
+    "bad": true,
+    "price": 200,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/2.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/2.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/2.png"
+    },
+    "title": {
+      "ko": "볼기 때리기",
+      "fr": "Fessée",
+      "en": "Spanking",
+      "ru": "Отшлёпать",
+      "de": "Versohlen",
+      "ar": "ضربة على المؤخرة",
+      "ja": "スパンキング"
+    },
+    "confuse": true
+  },
+  "3": {
+    "amount": 5,
+    "description": {
+      "ko": "상대의 에너지를 서서히 빼앗아 약화시킵니다. ",
+      "fr": "Affaibli constamment la victime en lui coûtant de l'énergie et en l'empêchant d'en récupérer.",
+      "en": "Constantly weakens the victim by taking away energy and preventing recover.",
+      "ru": "Постоянно ослабляет жертву, забирая у нее энергию и не давая восстановиться.",
+      "de": "Schwächt das Opfer dauerhaft, indem es Energie raubt und die Wiederherstellung verhindert.",
+      "ar": "يضعف الضحية من خلال استنزاف طاقته باستمرار ومنع استعادة الطاقة",
+      "ja": "エネルギーを取り除き、回復を妨害することで、被害者を常に弱らせます。"
+    },
+    "energy": -40,
+    "bad": true,
+    "price": 300,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/3.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/3.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/3.png"
+    },
+    "title": {
+      "ko": "독약",
+      "fr": "Poison",
+      "en": "Poison",
+      "ru": "Яд",
+      "de": "Gift",
+      "ar": "السُم",
+      "ja": "毒"
+    },
+    "duration": 700000
+  },
+  "4": {
+    "amount": 10,
+    "description": {
+      "ko": "에너지를 회복시킵니다",
+      "fr": "Récupère de l'énergie",
+      "en": "Recovers energy",
+      "ru": "Восстанавливает энергию",
+      "de": "Stellt Energie wieder her",
+      "ar": "يستعيد الطاقة",
+      "ja": "エネルギーを回復する"
+    },
+    "energy": 30,
+    "price": 30,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/4.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/4.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/4.png"
+    },
+    "title": {
+      "ko": "에너지 드링크",
+      "fr": "Boisson énergisante",
+      "en": "Energy drink",
+      "ru": "Энергетик",
+      "de": "Energy-Drink",
+      "ar": "معزز الطاقة",
+      "ja": "エナジードリンク"
+    },
+    "duration": 1200000
+  },
+  "5": {
+    "amount": 5,
+    "description": {
+      "ko": "사용자에게 작용하는 모든 카드를 제거하며, 단, 카드 %15%이(가) 활성화 상태가 아닐 때만 적용됩니다.",
+      "fr": "Supprime tous les cartes posés sur un utilisateur, mais uniquement si l'carte %15% n'est pas actif.",
+      "en": "Removes all cards acting on a user, but only if card %15% is not active.",
+      "ru": "Убирает все действующие на пользователя карточки, но только если на него не действует эффект от карточки %15%",
+      "de": "Entfernt alle Karten von einem Benutzer, aber nur, wenn der %15%-Karte nicht aktiv ist.",
+      "ar": "تزيل جميع البطاقات التي تؤثر على المستخدم، ولكن فقط إذا كانت بطاقة %15% غير نشطة.",
+      "ja": "ユーザーに対する全てのカードアクションを排除しますが、ただしそれは、カード%15%がアクティブでない場合のみです。"
+    },
+    "actions": [
+      5
+    ],
+    "title": {
+      "ko": "세척",
+      "fr": "Lavage à l'eau",
+      "en": "Wash off",
+      "ru": "Смывка",
+      "de": "Reiniger",
+      "ar": "دش",
+      "ja": "洗い落とす"
+    },
+    "price": 300,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/5.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/5.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/5.png"
+    },
+    "level": 10
+  },
+  "6": {
+    "amount": 4,
+    "description": {
+      "ko": "카드가 활성화되어 있는 동안에는 피해자가 FlirtyMania에서 채팅하는 것을 방지합니다.",
+      "fr": "Empêche les victimes de discuter sur FlirtyMania pendant que l'carte est actif.",
+      "en": "Prevents victims to chat in FlirtyMania while card is active.",
+      "ru": "Пока действует эта карточка, жертва не сможет ничего писать в чат.",
+      "de": "Hindert Opfer daran, bei FlirtyMania zu chatten, solange der Karte aktiv ist.",
+      "ar": "تمنع الضحايا من الدردشة في FlirtyMania حينما تكون البطاقة نشطة.",
+      "ja": "カードがアクティブのときにフラーティマニアでチャットしてしまう犠牲者を防止します。"
+    },
+    "title": {
+      "ko": "벙어리",
+      "fr": "Bouche bouclée",
+      "en": "Mouth shut",
+      "ru": "Молчанка",
+      "de": "Mundverbot",
+      "ar": "الصمت",
+      "ja": "口を閉じる"
+    },
+    "bad": true,
+    "price": 300,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/6.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/6.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/6.png"
+    },
+    "actions": [
+      6
+    ],
+    "duration": 600000
+  },
+  "7": {
+    "amount": 5,
+    "description": {
+      "ko": "채팅방에 있는 모든 메시지를 삭제합니다.",
+      "fr": "Supprime tous les messages de la salle de discussion",
+      "en": "Deletes all messages in the chat room",
+      "ru": "Удаляет все сообщения в комнате",
+      "de": "Löscht alle Nachrichten im Chatroom",
+      "ar": "حذف جميع الرسائل في غرفة الدردشة",
+      "ja": "チャットルームのすべてのメッセージを削除する"
+    },
+    "title": {
+      "ko": "정리",
+      "fr": "Rangement",
+      "en": "Tidy",
+      "ru": "Приборка",
+      "de": "Reinlich",
+      "ar": "نظف",
+      "ja": "きちんとした"
+    },
+    "price": 1000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/7.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/7.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/7.png"
+    },
+    "actions": [
+      7
+    ]
+  },
+  "8": {
+    "amount": 1,
+    "energyCost": 3,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/8.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/8.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/8.png"
+    },
+    "title": {
+      "ko": "죽음",
+      "fr": "Mort",
+      "en": "Death",
+      "ru": "Смерть",
+      "de": "Tod",
+      "ar": "الوفاة",
+      "ja": "死"
+    },
+    "description": {
+      "ko": "치명적인 카드에 의해 공격당해서 더이상 에너지가 없다면, 당신은 죽게 됩니다. 이런 경우, 누적된 경험치(최대 500XP)의 0.1%를 잃게 됩니다. 그 영향으로 채팅을 하실 수 없게 될 경우, 카드는 귀하에게 효력을 발휘하지 않으며, 카드를 사용하실 수도 없습니다.",
+      "fr": "La mort survient lorsque vous êtes attaqué avec un carte potentiellement mortel et que vous n’avez pas d'énergie. Dans ce cas, vous perdez 0,1% de l'expérience accumulée, mais au minimum 500 unités. Tant que vous restez sous l’effet du carte mortel, vous ne pouvez pas écrire dans le chat, les autres cartes n’ont pas d’effet sur vous et vous ne pouvez pas les utiliser non plus.",
+      "en": "If you get attacked by a deadly card and have no energy, you die. If this happens, you lose %0.1 percent of your accumulated experience (up to 500 XP). While under this effect you cannot chat, cards have no effect on you, and you cannot use cards.",
+      "ru": "Смерть наступает если вас атакуют смертельно опасной карточкой и у вас нет энергии, при этом теряется 0.1% накопленного опыта, но не менее 500 единиц. Пока на вас наложен этот эффект вы не можете писать в чате, на вас не действуют карточки и вы не можете их применять",
+      "de": "Der Tod tritt ein, wenn Sie von einem lebensgefährlichen Karte angegriffen werden und keine Energie mehr haben. Sie verlieren dabei 0,1 % der gesammelten Erfahrung, jedoch mindestens 500 Einheiten. Wenn dieser Effekt bei Ihnen wirkt, können Sie nicht im Chat schreiben, es wirken keine Karte auf Sie und Sie können keine Karte anwenden.",
+      "ar": "إذا تعرضت لهجوم  بواسطة بطاقة قاتلة وليس لديك طاقة فسوف تموت. إذا حدث هذا، فسوف تخسر 0.1%  بالمئة من خبرتك التراكمية (بحد أقصى 500 XP). بينما تكون تحت هذا التأثير لا يمكنك الدردشة والبطاقات لا يكون لها أي تأثير عليك ولا يمكنك استخدام أية بطاقات.",
+      "ja": "破壊力のあるカードの攻撃を受けてエネルギーがなくなるとあなたは死んでしまいます。もしそうなったら、あなたの累積経験値が0.1%減少します(最大500XPまで)。この影響がある限りあなたはチャットができず、また、カードはあなたに対して効力を発揮しなくなるので、あなたはカードが使えなくなります。"
+    },
+    "price": 3000,
+    "nosale": true,
+    "actions": [
+      8,
+      6
+    ],
+    "duration": 900000
+  },
+  "9": {
+    "amount": 10,
+    "description": {
+      "ko": "상대를 다루는 데 매우 효과적인 수단입니다.",
+      "fr": "Une bonne manière de régler son compte à un adversaire.",
+      "en": "A very efficient method of dealing with your opponent",
+      "ru": "Очень эффектный способ разделаться с оппонентом",
+      "de": "Eine sehr komplizierte Methode, sich mit Gegnern auseinanderzusetzen",
+      "ar": "طريقة فعالة للغاية للتعامل مع خصومك",
+      "ja": "あなたの相手を扱うのにとても効率的な方法"
+    },
+    "deadly": true,
+    "energy": -100,
+    "bad": true,
+    "price": 2000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/9.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/9.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/9.png"
+    },
+    "title": {
+      "ko": "아스팔트로 깔아뭉개기",
+      "fr": "Rouler dans l'asphalte",
+      "en": "Roll into asphalt",
+      "ru": "Закатать в асфальт",
+      "de": "Teeren",
+      "ar": "الزحف على الأسفلت",
+      "ja": "アスファルトに巻き込む"
+    },
+    "confuse": true
+  },
+  "10": {
+    "amount": 3,
+    "description": {
+      "ko": "죽음 효과를 제거하고 에너지를 회복시킵니다.",
+      "fr": "Supprime l'effet de la mort et restaure de l'énergie.",
+      "en": "It removes the effect of the death and restores energy",
+      "ru": "Снимает эффект смерти и восстанавливает энергию",
+      "de": "Entfernt den Todeseffekt und stellt Energie wieder her",
+      "ar": "إنه يزيل تأثير الموت ويستعيد الطاقة",
+      "ja": "死のエフェクトを取り除き、エネルギーを取り戻す"
+    },
+    "energy": 300,
+    "title": {
+      "ko": "부활",
+      "fr": "Résurrection",
+      "en": "Resurrect",
+      "ru": "Воскресить",
+      "de": "Wiedrauferstehen",
+      "ar": "البعث",
+      "ja": "生き返らせる"
+    },
+    "price": 2000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/10.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/10.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/10.png"
+    },
+    "actions": [
+      10
+    ]
+  },
+  "11": {
+    "amount": 5,
+    "description": {
+      "ko": "50%의 확률로 해당 카드에 적용된 카드를 사용자에게 반사합니다",
+      "fr": "Avec une probabilité de 50% renvoie le carte appliqué contre vous à l'expéditeur.",
+      "en": "Has a 50% chance to deflect cards used on it back at the user",
+      "ru": "С шансом в 50% отражает применённую к вам карточку в отправителя",
+      "de": "Lenkt den gegen Sie gerichteten Karte mit einer Wahrscheinlichkeit von 50 % auf den Absender um",
+      "ar": "لديك فرصة 50% أن تعكس تأثير البطاقات المستخدمة ضدك على المستخدم الذي استخدمها",
+      "ja": "ユーザーに対して裏側で使われるカードをかわせる確率は50%です"
+    },
+    "title": {
+      "ko": "거울 방패",
+      "fr": "Bouclier miroir",
+      "en": "Mirror Shield",
+      "ru": "Зеркальный щит",
+      "de": "Spiegelschild",
+      "ar": "الواقي العاكس",
+      "ja": "鏡のシールド"
+    },
+    "price": 2000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/11.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/11.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/11.png"
+    },
+    "actions": [
+      11
+    ],
+    "duration": 172800000
+  },
+  "12": {
+    "amount": 1,
+    "description": {
+      "ko": ". 오늘은 이 중대한 결단을 내리기에 좋은 날입니다.  마음 정하세요!",
+      "fr": ". C'est la meilleure journée pour cette étape important. Décidez-vous !",
+      "en": ". Today is the best day for this important step. Make up your mind!",
+      "ru": "Сегодня лучший день для этого важного шага. Решайся!",
+      "de": "Heute ist der perfekte Tag für diesen wichtigen Schritt. Entscheiden Sie sich jetzt!",
+      "ar": "اليوم هو أفضل يوم لهذه الخطوة الهامة. قرر سريعًا!",
+      "ja": "。 今日は、この重要なステップを取るのに最適の日です。 はっきり決めて下さい！"
+    },
+    "energy": 30,
+    "price": 15000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/12.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/12.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/12.png"
+    },
+    "title": {
+      "ko": "프로포즈",
+      "fr": "Proposition de mariage",
+      "en": "Marriage proposal",
+      "ru": "Предложение руки и сердца",
+      "de": "Heiratsantrag",
+      "ar": "اقتراح الزواج",
+      "ja": "求婚"
+    },
+    "duration": 2592000000
+  },
+  "13": {
+    "amount": 1,
+    "description": {
+      "ko": "연인에게 당신의 감정을 알리세요. 간단하지 않나요?",
+      "fr": "Faites en sorte que votre être cher découvre vos sentiments. C'est si facile !",
+      "en": "Let your sweetheart know about your feelings. It's so easy!",
+      "ru": "Расскажи о своих чувствах, ведь это так просто!",
+      "de": "Teilen Sie Ihrem Herzblatt Ihre Gefühle mit. Es ist ganz einfach!",
+      "ar": "اسمح لحبيبتك أن تعرف مشاعرك. إنه أمر سهل للغاية!",
+      "ja": "あなたの愛する人にあなたの気持ちを伝えましょう。 簡単なことです！"
+    },
+    "energy": 15,
+    "price": 5000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/13.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/13.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/13.png"
+    },
+    "title": {
+      "ko": "사랑 고백",
+      "fr": "Déclaration d'amour",
+      "en": "Declaration of Love",
+      "ru": "Признание в любви",
+      "de": "Liebeserklärung",
+      "ar": "إعلان الحب",
+      "ja": "愛の告白"
+    },
+    "duration": 1209600000
+  },
+  "14": {
+    "protection": 0.5,
+    "description": {
+      "ko": "공격을 받은 후 에너지 손실을 줄여줍니다.",
+      "fr": "Réduit la perte d'énergie engendrée par les coups",
+      "en": "Lowers energy losses after hits.",
+      "ru": "Снижает потери энергии при ударах",
+      "de": "Verringert den Energieverlust nach einer Attacke",
+      "ar": "تقلل من فقد الطاقة بعد الضربات",
+      "ja": "撃った後でエネルギーを低下させる"
+    },
+    "title": {
+      "ko": "방탄조끼",
+      "fr": "Gilet pare-balles",
+      "en": "Bullet-proof vest",
+      "ru": "Бронежилет",
+      "de": "Kugelsichere Weste",
+      "ar": "صدرية مضادة للرصاص",
+      "ja": "防弾チョッキ"
+    },
+    "amount": 2,
+    "price": 3000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/14.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/14.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/14.png"
+    },
+    "duration": 432000000
+  },
+  "15": {
+    "amount": 3,
+    "description": {
+      "ko": "비 영원히 내릴 수는 없습니다! 그러나 내리는 동안 우산을 사용할 수 있습니다. %5% 으로부터 훌륭하게 방어하고 긍정적인 효과는 모두 지키는 데 도움이 됩니다.",
+      "fr": "Il ne peut pas pleuvoir indéfiniment! Mais pendant que c'est encore le cas, vous pouvez utiliser le «Parapluie». Bonne défense contre le %5% et aide également à conserver tous les effets positifs.",
+      "en": "The rain can't be forever! But while it is, you can use the Umbrella. Great defence from the %5% and also helps to keep all positive effects.",
+      "ru": "Дождь не может идти вечно! Ну а пока он идет, воспользуйтесь зонтиком. Верная защита от %5%, которая в то же время позволяет сохранить все позитивные эффекты.",
+      "de": "Es regnet nicht für immer! Aber während es regnet, können Sie den Regenschirm nutzen. Großartiger Schutz vor dem %5% und hilft auch dabei, alle positiven Effekte zu behalten.",
+      "ar": "لا يمكن أن يكون المطر للأبد! ولكن أثناء وجوده، يمكنك استخدامالمظلة. وهي حماية رائعة من %5% ويساعد أيضًا في الحفاظ على كل الآثار الإيجابية",
+      "ja": "雨はいつまでも続きません! でも雨が降っている間は、「傘」を使うといいでしょう。 %5%を大きく防ぎます。また、全てのプラス効果を維持するのに役立ちます。"
+    },
+    "title": {
+      "ko": "우산",
+      "fr": "Parapluie",
+      "en": "Umbrella",
+      "ru": "Зонтик",
+      "de": "Regenschirm",
+      "ar": "الشمسية",
+      "ja": "傘"
+    },
+    "price": 500,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/15.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/15.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/15.png"
+    },
+    "actions": [
+      15
+    ],
+    "duration": 432000000
+  },
+  "16": {
+    "amount": 1,
+    "description": {
+      "ko": "카드가 작용할 수 있는 최대 레벨보다 더 높은 레벨인 사용자에게 적용된 경우 카드가 불타버립니다 ",
+      "fr": "Le carte brûle lorsqu’on essaie de l'appliquer à un utilisateur dont le niveau est supérieur au niveau d’atteinte maximal du carte",
+      "en": "The card burns up when an attempt is made to apply it to a user whose level is higher than the maximum level at which the card can work",
+      "ru": "Карточка сгорает при попытке применить его к пользователю, чей уровень выше максимального уровня на которой может действовать карточка",
+      "de": "Der Karte brennt beim Versuch, ihn gegen einen Benutzer einzusetzen, dessen Level so hoch ist, dass der Karte nicht mehr wirkt",
+      "ar": "يتم حرق البطاقة عندما يتم إجراء محاولة لاستخدامها على مستخدم مستواه أعلى من مستوى الحد الأقصى الذي يمكن للبطاقة أن تعمل فيه",
+      "ja": "カードの持つ最大レベルよりも高いレベルのユーザーに適用させようとすると、そのカードは燃え尽きてしまいます"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/16.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/16.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/16.png"
+    },
+    "title": {
+      "ko": "잿더미 카드",
+      "fr": "Carte brûlé",
+      "en": "Burnt card",
+      "ru": "Сгоревшая карточка",
+      "de": "Brennender Karte",
+      "ar": "البطاقة المحروقة",
+      "ja": "燃え尽きたカード"
+    },
+    "price": 500,
+    "nosale": true
+  },
+  "17": {
+    "amount": 1,
+    "adminCard": true,
+    "description": {
+      "ko": "새로 구입한 코인이 더블이 됩니다! 친구들에게 시험해볼 수 있습니다!",
+      "fr": "Les pièces récemment achetées doublent ! Vous pouvez l'essayer sur votre ami !",
+      "en": "The new-purchased coins double! You can try it on your friend!",
+      "ru": "Удваивает монеты при покупке! Можно использовать эту карточку не только на себе, но и на друзьях.",
+      "de": null,
+      "ar": "تضاعفت العملات المعدنية التي تم شراؤها حديثًا! يمكنك تجربة ذلك مع صديقك!",
+      "ja": "新たに買ったコインが2倍に！友達に試してみよう！"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "더블링(코인)",
+      "fr": "Doublement (pièces)",
+      "en": "Doubling (coins)",
+      "ru": "Удваивание (монеты)",
+      "de": null,
+      "ar": "مضاعفة (العملات المعدنية)",
+      "ja": "ダブル (コイン)"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/17.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/17.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/17.png"
+    },
+    "price": 100,
+    "indelible": true,
+    "actions": [
+      17
+    ],
+    "duration": 172800000
+  },
+  "18": {
+    "amount": 1,
+    "description": {
+      "ko": null,
+      "fr": null,
+      "en": null,
+      "ru": null,
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "indelible": true,
+    "title": {
+      "ko": null,
+      "fr": null,
+      "en": null,
+      "ru": null,
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "price": 999999,
+    "nosale": true,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/18.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/18.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/18.png"
+    },
+    "duration": 1209600000
+  },
+  "19": {
+    "amount": 1,
+    "description": {
+      "ko": "부정적인 영향으로부터 보호합니다!",
+      "fr": "Il protège contre les effets négatifs !",
+      "en": "It protects against the negative effects!",
+      "ru": "Дает защиту от негативных эффектов!",
+      "de": null,
+      "ar": "يحمي من التأثيرات السلبية!",
+      "ja": "マイナス効果から守ってくれます！"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "자연의 수호자",
+      "fr": "Défenseur de la nature",
+      "en": "Defender of nature",
+      "ru": "Защитник Природы",
+      "de": null,
+      "ar": "المدافع عن الطبيعة",
+      "ja": "自然の保護者"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/19.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/19.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/19.png"
+    },
+    "price": 999999,
+    "indelible": true,
+    "actions": [
+      19
+    ],
+    "duration": 1209600000
+  },
+  "20": {
+    "amount": 5,
+    "energyCost": 5,
+    "description": {
+      "ko": "적들이 모든 일을 하는 데 5배의 에너지를 소비합니다! 적들을 초토화하는 데 효과적입니다.",
+      "fr": "Les ennemis dépensent 5 fois plus d'énergie à tout faire ! C'est une bonne manière de les calmer.",
+      "en": "Enemies spend 5 times energy doing everything! This is a good way to cool them down.",
+      "ru": "Враги потратят в 5 раз больше энергии на сообщения Вам! Это хороший способ охладить их пыл!",
+      "de": null,
+      "ar": "يبذل الأعداء طاقة 5 أضعاف لفعل كل شيئ! وهذا شيئ جيد لتثبيطهم.",
+      "ja": "敵はすべての動作で5回エネルギーを消費します！敵を落ち着かせるには良い方法です。"
+    },
+    "title": {
+      "ko": "목에 두른 보석",
+      "fr": "La pierre autour du cou",
+      "en": "The stone around the neck",
+      "ru": "Камень на шее",
+      "de": null,
+      "ar": "الحجر فوق الرقبة",
+      "ja": "重荷"
+    },
+    "bad": true,
+    "price": 800,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/20.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/20.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/20.png"
+    },
+    "duration": 7200000
+  },
+  "21": {
+    "amount": 4,
+    "description": {
+      "ko": "거울 속 희생자를 보냅니다. 거울 반사 때문에 거의 채팅을 읽고 다른 이에게 쓰기가 불가능합니다!",
+      "fr": "Il envoie une victime dans le miroir. Il est pratiquement impossible de lire le chat et d'écrire aux autres en raison de la réflexion du miroir !",
+      "en": "A cardholder has to improve a 'mirror' reading skill!",
+      "ru": "Владельцу карточки придется развить 'зеркальный' навык чтения!",
+      "de": null,
+      "ar": "يرسل ضحية في المرآة. وبذلك يكون من الصعب الدردشة ومراسلة الآخرين بسبب انعكاس المرآة!",
+      "ja": "いけにえを鏡の中に送り込みます。そこでは鏡の反射のせいでほとんどチャットを見れず、他の人にメッセージを送ることもできません！"
+    },
+    "title": {
+      "ko": "거울을 통해",
+      "fr": "À travers le miroir",
+      "en": "Through the Looking Glass",
+      "ru": "Зазеркалье",
+      "de": null,
+      "ar": "من خلال المرآة",
+      "ja": "鏡の国のアリス"
+    },
+    "bad": true,
+    "price": 600,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/21.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/21.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/21.png"
+    },
+    "actions": [
+      21
+    ],
+    "duration": 900000
+  },
+  "22": {
+    "amount": 3,
+    "description": {
+      "ko": "여러분이 목록에 나타나지 않습니다. 채팅에서 숨고 상대를 놀릴 수 있습니다!",
+      "fr": "Vous n'êtes pas visible dans la liste. Restez masqué dans le chat et amusez-vous avec les autres !",
+      "en": "You are not seen in the list. Hide from the chat and make fun of the audience!",
+      "ru": "Вас не видно в списке - скройтесь от всего чата и подшутите над зрителями!",
+      "de": null,
+      "ar": "أنت غير مرئي في القائمة. اختفي من الدردشة وامزح من الجمهور!",
+      "ja": "一覧に表示されなくなります。チャットから隠れてオーディエンスをからかおう！"
+    },
+    "title": {
+      "ko": "보이지 않는 존재",
+      "fr": "Être invisible",
+      "en": "Invisible being",
+      "ru": "Невидимка",
+      "de": null,
+      "ar": "كائن غير مرئي",
+      "ja": "見えざる存在"
+    },
+    "price": 3000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/22.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/22.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/22.png"
+    },
+    "actions": [
+      22
+    ],
+    "duration": 172800000
+  },
+  "23": {
+    "amount": 2,
+    "description": {
+      "ko": "이 카드는 재미삼아 적에게 소리를 지르게 만듭니다!",
+      "fr": "Ce carte force votre ennemi à chanter pour recevoir des coups !",
+      "en": "This card causes your enemy to crow for kicks!",
+      "ru": "Эта карточка заставит вашего врага кукарекать на потеху всему чату!",
+      "de": null,
+      "ar": "تتسبب هذه البطاقة في هزيمة عدوك هزيمةً ساحقة!",
+      "ja": "このカードは、あなたの敵に刺激を与え喜ばせてしまいます！"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/23.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/23.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/23.png"
+    },
+    "level": 12,
+    "title": {
+      "ko": "수탉",
+      "fr": "Coq",
+      "en": "Cock",
+      "ru": "Петух",
+      "de": null,
+      "ar": "صياح",
+      "ja": "おんどり"
+    },
+    "bad": true,
+    "price": 6000,
+    "nosale": true,
+    "actions": [
+      23
+    ],
+    "duration": 172800000
+  },
+  "24": {
+    "amount": 1,
+    "energyCost": 0.5,
+    "nosale": true,
+    "title": {
+      "ko": null,
+      "fr": null,
+      "en": "Love inspires",
+      "ru": "Любовь окрыляет",
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "description": {
+      "ko": null,
+      "fr": null,
+      "en": "Reduce energy consumption by 2 times.",
+      "ru": "Уменьшение затрат эренгии в 2 раза.",
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "price": 999999,
+    "indelible": true,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/24.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/24.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/24.png"
+    },
+    "duration": 2592000000
+  },
+  "25": {
+    "protection": 0.5,
+    "description": {
+      "ko": "충돌 시 에너지 손실을 줄입니다.",
+      "fr": "Il réduit la perte d'énergie à l'impact",
+      "en": "It reduces energy loss at impact",
+      "ru": "Снижает потери энергии при ударе",
+      "de": null,
+      "ar": "تقلل فقد الطاقة عند الاصطدام بالأرض",
+      "ja": "衝突時のエネルギー消費を抑えます"
+    },
+    "title": {
+      "ko": "보호 헬멧",
+      "fr": "Casque protecteur",
+      "en": "Protective helmet",
+      "ru": "Бронешлем",
+      "de": null,
+      "ar": "خوذة واقية",
+      "ja": "安全ヘルメット"
+    },
+    "amount": 3,
+    "price": 2000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/25.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/25.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/25.png"
+    },
+    "duration": 432000000
+  },
+  "26": {
+    "amount": 1,
+    "description": {
+      "ko": null,
+      "fr": null,
+      "en": null,
+      "ru": null,
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "indelible": true,
+    "title": {
+      "ko": null,
+      "fr": null,
+      "en": null,
+      "ru": null,
+      "de": null,
+      "ar": null,
+      "ja": null
+    },
+    "price": 999999,
+    "nosale": true,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/26.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/26.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/26.png"
+    },
+    "duration": 172800000
+  },
+  "27": {
+    "amount": 1,
+    "description": {
+      "ko": "30초마다 신속한 에너지 복구.",
+      "fr": "Récupération rapide d'énergie toutes les 30 secondes.",
+      "en": "The rapid recovery of energy every 30 seconds.",
+      "ru": "Быстрое восстановление энергии каждые 30 секунд.",
+      "de": "Alle 30 Sekunden rasant Energie auftanken.",
+      "ar": "الاسترداد السريع للطاقة كل 30 ثانية",
+      "ja": "30秒ごとに行われる即席のエネルギー回復"
+    },
+    "nosale": true,
+    "energy": 60,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/27.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/27.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/27.png"
+    },
+    "price": 999999,
+    "indelible": true,
+    "title": {
+      "ko": "중독",
+      "fr": "Intoxication",
+      "en": "Intoxication",
+      "ru": "Опьянение",
+      "de": "Rausch",
+      "ar": "الثمالة",
+      "ja": "酔い"
+    },
+    "duration": 1209600000
+  },
+  "28": {
+    "amount": 3,
+    "description": {
+      "ko": "카드가 활성화되어 있는 동안에는 FlirtyMania에서 채팅하는 것을 방지합니다.",
+      "fr": "Empêche les victimes de discuter sur FlirtyMania pendant que l'carte est actif.",
+      "en": "Prevents victims to chat in FlirtyMania while card is active.",
+      "ru": "Пока действует эта карточка, жертва не сможет ничего писать в чат.",
+      "de": "Hindert Opfer daran, bei FlirtyMania zu chatten, solange der Karte aktiv ist.",
+      "ar": "تمنع الضحايا من الدردشة في FlirtyMania حينما تكون البطاقة نشطة.",
+      "ja": "カードがアクティブのときにフラーティマニアでチャットしてしまう犠牲者を防止します。"
+    },
+    "level": 6,
+    "title": {
+      "ko": "바운드",
+      "fr": "Attaché",
+      "en": "Binded",
+      "ru": "Связанный",
+      "de": "Gebunden",
+      "ar": "مقيد",
+      "ja": "バウンド"
+    },
+    "bad": true,
+    "price": 900,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/28.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/28.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/28.png"
+    },
+    "actions": [
+      6
+    ],
+    "duration": 3600000
+  },
+  "29": {
+    "amount": 8,
+    "description": {
+      "ko": "이 카드를 이용하면 적들을 빠르고 고통스럽게 죽일 수 있습니다! 적들을 모두 물리칠 때까지 계속 이용하세요.",
+      "fr": "Cette carte peut provoquer la mort rapide et douloureuse de vos ennemis! Continuez de vous en servir jusqu'à ce qu'ils disparaissent tous.",
+      "en": "This card can cause your enemies a fast and painful dead! Keep using until they all go away.",
+      "ru": "Просто продолжайте использовать эту карту пока не кончатся враги!",
+      "de": "Diese Karte kann bei deinen Feinden zu einem schnellen und schmerzhaften Tod führen! Nutze sie, bis sie alle weg sind.",
+      "ar": " يمكن لهذه البطاقة أن تكون سببا في موت سريع ومؤلم لأعدائك. واظب على استخدامها حتى يختفوا جميعاً.",
+      "ja": "このカードを使えば、迅速に、苦しめながら敵を殺せます!敵がすべていなくなるまで使い続けましょう。"
+    },
+    "deadly": true,
+    "energy": -200,
+    "bad": true,
+    "price": 3000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/29.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/29.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/29.png"
+    },
+    "title": {
+      "ko": "실행",
+      "fr": "Exécution",
+      "en": "Execution",
+      "ru": "Казнь",
+      "de": "Ausführung",
+      "ar": "تنفيذ",
+      "ja": "実行"
+    },
+    "confuse": true
+  },
+  "30": {
+    "amount": 5,
+    "description": {
+      "ko": "조용히 풀을 뜯는 소는 누구도 해치지 않습니다. 자신의 행동을 생각하게 해보고 울음 소리를 내도록 하세요!",
+      "fr": "Une paisible petite mangeuse d'herbe n'a jamais tué personne. Qu'ils méditent sur leur comportement tout en meuglant !",
+      "en": "A little quiet grass chewing never killed nobody. Let them think about their behaviour and make some bellow!",
+      "ru": "Немного безмятежного жевания травы еще никому не повредило. Пусть подумает над своим поведением и помычит!",
+      "de": "Ein wenig stilles Graskauen hat noch niemandem geschadet. Lass sie über ihr Verhalten nachdenken und bring sie zum Brüllen!",
+      "ar": "قليلاً من مضغ العشب الهادئ لم يقتل أحداً أبداً. دعها تتأمل سلوكها وتصنع بعض الخوار!",
+      "ja": "一人静かに草をはみ、決して人を襲わない。この姿、奴らにも見習ってほしいし、一言モーって言わせたい！"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/30.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/30.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/30.png"
+    },
+    "level": 4,
+    "title": {
+      "ko": "소",
+      "fr": "Vache",
+      "en": "Cow",
+      "ru": "Корова",
+      "de": "Kuh",
+      "ar": "بقرة",
+      "ja": "カウ (牛)"
+    },
+    "bad": true,
+    "price": 400,
+    "nosale": true,
+    "actions": [
+      30
+    ],
+    "duration": 600000
+  },
+  "31": {
+    "amount": 4,
+    "description": {
+      "ko": "작은 주둥이가 멋지네요! 안타깝지만 이제 당신의 적은 꿀꿀거리기만 할 수 있어요!",
+      "fr": "Quel adorable petit fouineur… à présent votre ennemi peut grogner, mais rien d'autre !",
+      "en": "What a nice tiny snout! Sadly, but now your enemy can only grunt! ",
+      "ru": "Какой милый пятачок! Жаль, что теперь ваш недруг сможет только хрюкать!",
+      "de": "Was für eine nette kleine Schnauze! Aber leider kann dein Feind jetzt nur noch grunzen!",
+      "ar": "ياله من خَطْم صغير لطيف! ياللأسف، ولكنّ عدوك الآن يمكنه النخير فقط!",
+      "ja": "その鼻の愛らしいこと。残念、今ブーブー言っているのはあなたの敵。"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/31.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/31.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/31.png"
+    },
+    "level": 6,
+    "title": {
+      "ko": "돼지",
+      "fr": "Cochon",
+      "en": "Pig",
+      "ru": "Свинья",
+      "de": "Schwein",
+      "ar": "خنزير",
+      "ja": "ピッグ (豚)"
+    },
+    "bad": true,
+    "price": 1200,
+    "nosale": true,
+    "actions": [
+      31
+    ],
+    "duration": 7200000
+  },
+  "32": {
+    "amount": 3,
+    "description": {
+      "ko": "쉬운 방법을 이해하지 못하는 자에겐 멋진 수염과 뿔이죠! 이제 누가 마당을 지배할까요?",
+      "fr": "Une jolie petite barbichette et des cornes pour ceux qui ne comprennent pas facilement ! Qui règne sur le pré maintenant ?",
+      "en": "Beautiful set of nice beard and horns for those who doesn’t understand the easy way! Who rule the yard now?",
+      "ru": "Прекрасный комплект из бороды и рогов для тех, кто не понимает по хорошему! Кто теперь самый главный в этом огороде?",
+      "de": "Hübsche Verzierung aus einem schönen Bart und Hörnern für die, welche es auf die einfache Art nicht verstehen! Wer regiert jetzt den Hof?",
+      "ar": "مجموعة جميلة من اللّحى والقرون اللّطيفة لأولئك الذين لا يفهمون بالطريقة السهلة! من الذي يحكم الحظيرة الآن؟",
+      "ja": "みごとな角にあごひげも揃い、いつも道なき道を行く！今、庭の主は誰？"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/32.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/32.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/32.png"
+    },
+    "level": 8,
+    "title": {
+      "ko": "염소",
+      "fr": "Chèvre",
+      "en": "Goat",
+      "ru": "Козел",
+      "de": "Ziege",
+      "ar": "ماعز",
+      "ja": "ゴート (山羊)"
+    },
+    "bad": true,
+    "price": 3000,
+    "nosale": true,
+    "actions": [
+      32
+    ],
+    "duration": 18000000
+  },
+  "33": {
+    "amount": 1,
+    "description": {
+      "ko": "이 영광스러운 날을 기념하여 FlirtyMania에서 같은 가격으로 두 배 더 많은 골드 코인을 증정합니다!",
+      "fr": "En l'honneur de ce jour exceptionnel, nous vous présentons 2 fois plus de pièces d'or pour le même prix dans FlirtyMania !",
+      "en": "In honor of that glorious day we present you 2 times more gold coins for the same price in FlirtyMania!",
+      "ru": "В честь этого события мы дарим вам в 2 раза больше золотых монет в Видеочате Беседа!",
+      "de": "Zur Feier dieses besonderen Tags schenken wir Ihnen 2-mal mehr Goldmünzen für den gleichen Preis in FlirtyMania!",
+      "ar": "تكريماً لهذا اليوم المجيد نقدم لك ضعف العملات الذهبية بنفس السعر في FlirtyMania!",
+      "ja": "素晴らしい日を祝して、FlirtyManiaと同じ価格で2倍のゴールド・コインを差し上げます!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "Gnome Nations 은(는) 오늘로 5주년을 맞았습니다!",
+      "fr": "Gnome Nations a 5 ans aujourd'hui !",
+      "en": "Gnome Nations is 5 years old!",
+      "ru": "Гномограду 5 лет!",
+      "de": "Gnome Nations wird heute 5 Jahre alt!",
+      "ar": "Gnome Nations عمره 5 سنوات اليوم!",
+      "ja": "Gnome Nationsは本日で5歳になりました!"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/33.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/33.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/33.png"
+    },
+    "price": 999999,
+    "indelible": true,
+    "actions": [
+      17
+    ],
+    "duration": 172800000
+  },
+  "34": {
+    "amount": 2,
+    "description": {
+      "ko": "경고! 이 카드는 매우 독성이 강합니다. 모든 효과를 제거할 필요가 있을 때 주의하여 사용하세요.",
+      "fr": "Attention ! Cette carte est très toxique, utilisez-la avec précaution uniquement lorsque vous devez éliminer tous les effets.",
+      "en": "Warning! This card is very toxic, use careful only in case of you need to remove all effects.",
+      "ru": "Не забудьте о мерах предосторожности, эта карта очень токсична! Использовать только в случае необходимости устранить все эффекты.",
+      "de": "Warnung! Diese Karte ist sehr giftig, nutze sie mit Vorsicht und nur, falls du alle Effekte beseitigen musst.",
+      "ar": "تحذير! هذه البطاقة سامة جداً، استخدمها بحذر وفي حالة إذا كنت بحاجةٍ إلى إزالة جميع الآثار فقط.",
+      "ja": "注意！このカードはかなり有毒なので、全ての効果を除く必要がある時だけ注意して使用すること。"
+    },
+    "title": {
+      "ko": "소독",
+      "fr": "Désinfection",
+      "en": "Disinfection",
+      "ru": "Дезинфекция",
+      "de": "Desinfektion",
+      "ar": "التطهير",
+      "ja": "殺菌"
+    },
+    "price": 3000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/34.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/34.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/34.png"
+    },
+    "actions": [
+      5
+    ]
+  },
+  "35": {
+    "amount": 2,
+    "description": {
+      "ko": "%15%보다 낫군요! 빗속에서 춤추는 사람들을 위한 최고의 액세서리. 이 비옷을 입으면 %5%과 %34%에 대한 걱정을 안 해도 됩니다. 긍정적인 효과는 모두 남고 부정적인 효과는 모두 씻어낼 수 있습니다.",
+      "fr": "Encore mieux que le %15% ! Un accessoire ultime pour ceux qui aiment danser sous la pluie. En le portant, vous ne vous souciez plus du %5% et de la %34%. Tous les effets positifs seront conservés, tous les effets négatifs seront supprimés.",
+      "en": "Even better than the %15%! An ultimate accessory for those who love to dance in the rain. Wearing this you don’t care about %5% and %34%. All positive effects will stay, all negative can be washed out.",
+      "ru": "Как %15%, только лучше! Незаменим для тех, кто любит танцевать под дождем, к тому же любая %5% и %34% вам нипочем! Все позитивные эффекты останутся, а негативные могут быть смыты.",
+      "de": "Noch besser als der %15%! Ein ultimatives Accessoire für alle, die gerne im Regen tanzen. Wenn du ihn trägst, musst du dich nicht um %5% und %34% kümmern. Alle positiven Effekte werden bleiben, alle negativen werden abgewaschen.",
+      "ar": "إنه أفضل أيضًا من %15%! وهو مُكمل أساسي لأولئك الذين يحبون الرقص في المطر. بارتداء هذا المعطف فإنك لا تبالي ب %5% أو %34%. وستبقى كل الآثار الإيجابية، ويمكن أن يتم اجتراف كل الآثار السلبية",
+      "ja": "%5%よりもさらに優れています! 雨の中で踊るのが大好きな人のための究極のアクセサリーです。これを着れば、%5%や%34%の心配がなくなります。全てのプラス効果が維持され、全てのマイナス効果を洗い流すことができます。"
+    },
+    "title": {
+      "ko": "레인코트",
+      "fr": "Imperméable",
+      "en": "Raincoat",
+      "ru": "Дождевик",
+      "de": "Regenmantel",
+      "ar": "معطف المطر",
+      "ja": "レインコート"
+    },
+    "price": 1000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/35.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/35.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/35.png"
+    },
+    "actions": [
+      15,
+      35
+    ],
+    "duration": 432000000
+  },
+  "36": {
+    "protection": 1.25,
+    "description": {
+      "ko": "조심하세요! 여기 고대의 악마가 숨어 있습니다! 저주에 걸린 사람은 모든 공격에 대해 20%의 데미지를 더 입습니다.",
+      "fr": "Attention ! Le démon antique se cache ici ! Toutes les attaques sur les personnes maudites causent 20 % de dommages supplémentaires.",
+      "en": "Beware! The ancient evil is hiding here! All attacks on cursed person cause 20% more damage.",
+      "ru": "В этой карточке затаились древние силы! Берегись! Все атаки по проклятому будут наносить на 20% больше урона.",
+      "de": "Achtung! Die uralte böse Macht ist hier versteckt! Alle Attacken auf eine verfluchte Person richten 20 % mehr Schaden an.",
+      "ar": "انتبهوا! الشر القديم يختبئ هنا! كل هجمة على أي شخص ملعون تسبب أضرار إضافية بنسبة 20%.",
+      "ja": "気をつけろ! ここに古代の悪魔が隠れているぞ! 呪いをかけられた人への攻撃すべてで、ダメージが20%多くなるぞ。"
+    },
+    "title": {
+      "ko": "저주",
+      "fr": "Malédiction",
+      "en": "Curse",
+      "ru": "Проклятие",
+      "de": "Fluch",
+      "ar": "لعنة",
+      "ja": "呪い"
+    },
+    "amount": 3,
+    "price": 1000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/36.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/36.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/36.png"
+    },
+    "duration": 21600000
+  },
+  "37": {
+    "amount": 2,
+    "description": {
+      "ko": "당신의 적들을 이탈리아 마피아 스타일로 다루지만 그를 바다에 빠뜨리진 않습니다! 그가 진정하면 좋은 매너에 대해 생각해볼 수 있을 것입니다.",
+      "fr": "Disposez de votre ennemi façon Mafia italienne, mais sans l'envoyer rejoindre les poissons ! Il se calmera et réfléchira à son manque de manières.",
+      "en": "Deal with your enemy in Italian mafia style but without dropping him into to the sea! He’ll calm down and could think about good manners.",
+      "ru": "Разберитесь с врагом в стиле итальянской мафии, но не сбрасывая его в море! Он больше вас не побеспокоит, а заодно подумает над своим поведением.",
+      "de": "Behandle deinen Gegner nach Art der italienischen Mafia, aber ohne ihn ins Meer zu werfen! Er wird sich beruhigen und kann über gute Manieren nachdenken.",
+      "ar": "واجه عدوك على طريقة المافيا الإيطاليةـ ولكن دون إلقاءه في البحر! سيهدأ وقد يفكر في تهذيب سلوكه.",
+      "ja": "イタリアのマフィアのような服装の敵、彼を海には沈めてはいけません。交渉しましょう。きっと彼も冷静になって、どうすべきか考えるはずです。"
+    },
+    "level": 10,
+    "title": {
+      "ko": "감금",
+      "fr": "Emmuré",
+      "en": "Immured",
+      "ru": "Замурованный",
+      "de": "Einbetoniert",
+      "ar": "محصور",
+      "ja": "監禁"
+    },
+    "bad": true,
+    "price": 3000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/37.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/37.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/37.png"
+    },
+    "actions": [
+      6
+    ],
+    "duration": 10800000
+  },
+  "38": {
+    "amount": 1,
+    "description": {
+      "ko": "아무도 이 사슬을 끊을 수 없습니다! 이 카드를 사용한 뒤에는 끔찍한 복수가 기다리고 있을 수 있다는 것을 꼭 명심하세요!",
+      "fr": "Personne ne peut briser ces chaînes ! N'oubliez pas que vous risquez d'être confronté(e) à une terrible vengeance après avoir utilisé cette carte !",
+      "en": "No one can break these chains! Please remember that you can face with a horrible revenge after using this card!",
+      "ru": "Эти кандалы никому не скинуть! Помните, что месть за использование этой карточки может быть страшной!",
+      "de": "Niemand kann diese Ketten sprengen! Denk bitte daran, dass dir schreckliche Rache blühen kann, nachdem du diese Karte eingesetzt hast!",
+      "ar": "لا يمكن لأحد كسر هذا الطوق! يُرجى التذكر أنك قد تتعرض لانتقام رهيب بعد استخدام هذه الورقة!",
+      "ja": "誰もこの鎖は破れません! ただし注意として、このカードを使うと後で恐ろしい報復に会うかもしれません!"
+    },
+    "title": {
+      "ko": "속박",
+      "fr": "Enchaîné",
+      "en": "Enchained",
+      "ru": "Закованный",
+      "de": "Angekettet",
+      "ar": "مقيّد",
+      "ja": "鎖で束縛"
+    },
+    "bad": true,
+    "price": 5000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/38.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/38.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/38.png"
+    },
+    "actions": [
+      6
+    ],
+    "duration": 86400000
+  },
+  "39": {
+    "amount": 1,
+    "description": {
+      "ko": "좋은 소식: 마음을 가라앉히고 인생을 다시 생각할 시간이 많이 주어집니다. 나쁜 소식: 채팅을 할 수 없습니다. 그러나 탈옥 계획을 세울 수 있습니다!",
+      "fr": "Bonne nouvelle : vous avez beaucoup de temps pour vous calmer et réfléchir à votre vie. Mauvaise nouvelle : vous ne pouvez pas parler. Mais vous pouvez planifier une évasion !",
+      "en": "Great news: you have a lot of time to calm down and rethink your life. Bad news: you can’t chat. But you can plan a prison break! ",
+      "ru": "Хорошие новости: будет время посидеть и подумать. Плохие новости: в чат заключенным писать нельзя. Зато можно устроить побег!",
+      "de": "Die gute Nachricht: du hast jetzt viel Zeit, dich zu beruhigen und über dein Leben nachzudenken. Die schlechte Nachricht: du kannst nicht chatten. Aber du kannst einen Ausbruch planen!",
+      "ar": "أخبار رائعة: لديك الكثير من الوقت للتهدئة وإعادة التفكير في حياتك. أخبار سيئة: لا يمكنك الدردشة. ولكن يمكنك أن تخطط لكسر السجن!",
+      "ja": "素晴らしい知らせ: あなたは落ちついて自分の人生を再考するための時間がたっぷりある。悪い知らせ: あなたはおしゃべりができない。しかし脱獄は計画できる!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "죄수",
+      "fr": "Prisonnier",
+      "en": "Prisoner",
+      "ru": "Заключенный",
+      "de": "Gefangener",
+      "ar": "السجين",
+      "ja": "囚人"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/39.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/39.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/39.png"
+    },
+    "bad": true,
+    "price": 80,
+    "indelible": true,
+    "actions": [
+      39,
+      6
+    ],
+    "duration": 300000,
+    "confuse": true
+  },
+  "40": {
+    "amount": 1,
+    "description": {
+      "ko": "좋은 소식: 마음을 가라앉히고 인생을 다시 생각할 시간이 많이 주어집니다. 나쁜 소식: 채팅을 할 수 없습니다. 그러나 탈옥 계획을 세울 수 있습니다!",
+      "fr": "Bonne nouvelle : vous avez beaucoup de temps pour vous calmer et réfléchir à votre vie. Mauvaise nouvelle : vous ne pouvez pas parler. Mais vous pouvez planifier une évasion !",
+      "en": "Great news: you have a lot of time to calm down and rethink your life. Bad news: you can’t chat. But you can plan a prison break! ",
+      "ru": "Хорошие новости: будет время посидеть и подумать. Плохие новости: в чат заключенным писать нельзя. Зато можно устроить побег!",
+      "de": "Die gute Nachricht: du hast jetzt viel Zeit, dich zu beruhigen und über dein Leben nachzudenken. Die schlechte Nachricht: du kannst nicht chatten. Aber du kannst einen Ausbruch planen!",
+      "ar": "أخبار رائعة: لديك الكثير من الوقت للتهدئة وإعادة التفكير في حياتك. أخبار سيئة: لا يمكنك الدردشة. ولكن يمكنك أن تخطط لكسر السجن!",
+      "ja": "素晴らしい知らせ: あなたは落ちついて自分の人生を再考するための時間がたっぷりある。悪い知らせ: あなたはおしゃべりができない。しかし脱獄は計画できる!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "죄수",
+      "fr": "Prisonnier",
+      "en": "Prisoner",
+      "ru": "Заключенный",
+      "de": "Gefangener",
+      "ar": "السجين",
+      "ja": "囚人"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/40.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/40.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/40.png"
+    },
+    "bad": true,
+    "price": 290,
+    "indelible": true,
+    "actions": [
+      39,
+      6
+    ],
+    "duration": 900000,
+    "confuse": true
+  },
+  "41": {
+    "amount": 1,
+    "description": {
+      "ko": "좋은 소식: 마음을 가라앉히고 인생을 다시 생각할 시간이 많이 주어집니다. 나쁜 소식: 채팅을 할 수 없습니다. 그러나 탈옥 계획을 세울 수 있습니다!",
+      "fr": "Bonne nouvelle : vous avez beaucoup de temps pour vous calmer et réfléchir à votre vie. Mauvaise nouvelle : vous ne pouvez pas parler. Mais vous pouvez planifier une évasion !",
+      "en": "Great news: you have a lot of time to calm down and rethink your life. Bad news: you can’t chat. But you can plan a prison break! ",
+      "ru": "Хорошие новости: будет время посидеть и подумать. Плохие новости: в чат заключенным писать нельзя. Зато можно устроить побег!",
+      "de": "Die gute Nachricht: du hast jetzt viel Zeit, dich zu beruhigen und über dein Leben nachzudenken. Die schlechte Nachricht: du kannst nicht chatten. Aber du kannst einen Ausbruch planen!",
+      "ar": "أخبار رائعة: لديك الكثير من الوقت للتهدئة وإعادة التفكير في حياتك. أخبار سيئة: لا يمكنك الدردشة. ولكن يمكنك أن تخطط لكسر السجن!",
+      "ja": "素晴らしい知らせ: あなたは落ちついて自分の人生を再考するための時間がたっぷりある。悪い知らせ: あなたはおしゃべりができない。しかし脱獄は計画できる!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "죄수",
+      "fr": "Prisonnier",
+      "en": "Prisoner",
+      "ru": "Заключенный",
+      "de": "Gefangener",
+      "ar": "السجين",
+      "ja": "囚人"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/41.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/41.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/41.png"
+    },
+    "bad": true,
+    "price": 582,
+    "indelible": true,
+    "actions": [
+      39,
+      6
+    ],
+    "duration": 1500000,
+    "confuse": true
+  },
+  "42": {
+    "amount": 1,
+    "description": {
+      "ko": "좋은 소식: 마음을 가라앉히고 인생을 다시 생각할 시간이 많이 주어집니다. 나쁜 소식: 채팅을 할 수 없습니다. 그러나 탈옥 계획을 세울 수 있습니다!",
+      "fr": "Bonne nouvelle : vous avez beaucoup de temps pour vous calmer et réfléchir à votre vie. Mauvaise nouvelle : vous ne pouvez pas parler. Mais vous pouvez planifier une évasion !",
+      "en": "Great news: you have a lot of time to calm down and rethink your life. Bad news: you can’t chat. But you can plan a prison break! ",
+      "ru": "Хорошие новости: будет время посидеть и подумать. Плохие новости: в чат заключенным писать нельзя. Зато можно устроить побег!",
+      "de": "Die gute Nachricht: du hast jetzt viel Zeit, dich zu beruhigen und über dein Leben nachzudenken. Die schlechte Nachricht: du kannst nicht chatten. Aber du kannst einen Ausbruch planen!",
+      "ar": "أخبار رائعة: لديك الكثير من الوقت للتهدئة وإعادة التفكير في حياتك. أخبار سيئة: لا يمكنك الدردشة. ولكن يمكنك أن تخطط لكسر السجن!",
+      "ja": "素晴らしい知らせ: あなたは落ちついて自分の人生を再考するための時間がたっぷりある。悪い知らせ: あなたはおしゃべりができない。しかし脱獄は計画できる!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "죄수",
+      "fr": "Prisonnier",
+      "en": "Prisoner",
+      "ru": "Заключенный",
+      "de": "Gefangener",
+      "ar": "السجين",
+      "ja": "囚人"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/42.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/42.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/42.png"
+    },
+    "bad": true,
+    "price": 1748,
+    "indelible": true,
+    "actions": [
+      39,
+      6
+    ],
+    "duration": 3600000,
+    "confuse": true
+  },
+  "43": {
+    "amount": 1,
+    "description": {
+      "ko": "좋은 소식: 마음을 가라앉히고 인생을 다시 생각할 시간이 많이 주어집니다. 나쁜 소식: 채팅을 할 수 없습니다. 그러나 탈옥 계획을 세울 수 있습니다!",
+      "fr": "Bonne nouvelle : vous avez beaucoup de temps pour vous calmer et réfléchir à votre vie. Mauvaise nouvelle : vous ne pouvez pas parler. Mais vous pouvez planifier une évasion !",
+      "en": "Great news: you have a lot of time to calm down and rethink your life. Bad news: you can’t chat. But you can plan a prison break! ",
+      "ru": "Хорошие новости: будет время посидеть и подумать. Плохие новости: в чат заключенным писать нельзя. Зато можно устроить побег!",
+      "de": "Die gute Nachricht: du hast jetzt viel Zeit, dich zu beruhigen und über dein Leben nachzudenken. Die schlechte Nachricht: du kannst nicht chatten. Aber du kannst einen Ausbruch planen!",
+      "ar": "أخبار رائعة: لديك الكثير من الوقت للتهدئة وإعادة التفكير في حياتك. أخبار سيئة: لا يمكنك الدردشة. ولكن يمكنك أن تخطط لكسر السجن!",
+      "ja": "素晴らしい知らせ: あなたは落ちついて自分の人生を再考するための時間がたっぷりある。悪い知らせ: あなたはおしゃべりができない。しかし脱獄は計画できる!"
+    },
+    "nosale": true,
+    "title": {
+      "ko": "죄수",
+      "fr": "Prisonnier",
+      "en": "Prisoner",
+      "ru": "Заключенный",
+      "de": "Gefangener",
+      "ar": "السجين",
+      "ja": "囚人"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/43.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/43.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/43.png"
+    },
+    "bad": true,
+    "price": 8738,
+    "indelible": true,
+    "actions": [
+      39,
+      6
+    ],
+    "duration": 21600000,
+    "confuse": true
+  },
+  "44": {
+    "amount": 2,
+    "description": {
+      "ko": "%39% 카드의 효과를 즉시 없애고 채팅의 즐거움으로 다시 보내드립니다!",
+      "fr": "Supprime instantanément l'effet de la carte %39% et vous redonne la joie de discuter !",
+      "en": "Instantly removes the effect of the %39% card and brings you back a joy of chatting!",
+      "ru": "Моментальное избавление от эффекта карточки %39% и возвращение радости общения.",
+      "de": "Hebt sofort die Wirkung der Karte %39% auf und bringt Ihnen die Freude des Chattens zurück!",
+      "ar": "تزيل تأثير بطاقة %39% على الفور ويعيد إليك متعة الدردشة!",
+      "ja": "%39% カードの効果を即座に削除し、おしゃべりの楽しみをあなたのもとへ取り戻します!"
+    },
+    "title": {
+      "ko": "자유!",
+      "fr": "Évasion !",
+      "en": "Break-out!",
+      "ru": "Побег!",
+      "de": "Ausbruch!",
+      "ar": "الهروب من السجن",
+      "ja": "自由!"
+    },
+    "price": 1500,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/44.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/44.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/44.png"
+    },
+    "actions": [
+      44
+    ]
+  },
+  "45": {
+    "amount": 1,
+    "description": {
+      "ko": "이런! 자신의 강함에 대해 자만한 것 같군요! 레벨을 올리고 경험치를 더 쌓으면 더욱 쉽게 해쳐나갈 수 있을 것입니다. 이 카드가 활성화된 동안은 공격할 수 없습니다.",
+      "fr": "Oups ! On dirait que vous avez surestimé votre propre force ! Élevez votre niveau et acquérez plus d'expérience, et ce sera beaucoup plus facile. Vous ne pouvez pas attaquer tant que cette carte est active.",
+      "en": "Oops! Looks like you’re overestimated your own strength! Raise your level and gain more experience and it will be much easier. You can’t attack while this card is active.",
+      "ru": "Ой! Кажется, кто-то переоценил свои возможности! Повышайте уровень и станет проще, а пока все атаки недоступны на время действия этой карты.",
+      "de": "Ups! Es sieht so aus, als ob du deine Stärke überschätzt hättest! Erhöhe dein Level und gewinne mehr Erfahrung und es wird viel leichter sein. Du kannst nicht angreifen, solange diese Karte aktiv ist.",
+      "ar": "يبدو أنك بالغت في تقدير قوتك! ارفع مستواك واكتسب المزيد من الخبرة وسيكون الأمر أكثر سهولة. لا يمكنك الهجوم بينما هذه البطاقة نشطة.",
+      "ja": "おっと！あなた自身の強さを過大評価しているようです！レベルを上げて、経験をもっとたくさん積むと、はるかに簡単になります。このカードがアクティブである間は攻撃できません。"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/45.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/45.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/45.png"
+    },
+    "title": {
+      "ko": "혼란",
+      "fr": "Confus",
+      "en": "Confusion",
+      "ru": "Запутался",
+      "de": "Verwirrt",
+      "ar": "هل تشعر بالارتباك",
+      "ja": "混乱中"
+    },
+    "bad": true,
+    "price": 999999,
+    "nosale": true,
+    "actions": [
+      45
+    ],
+    "duration": 900000
+  },
+  "46": {
+    "amount": 2,
+    "description": {
+      "ko": "한 채팅방의 랜덤한 사람들이 느낄 수 있습니다! 모두가 100 포인트의 에너지를 얻고 당신에게 고마워합니다.",
+      "fr": "Un nombre aléatoire de personnes dans une salle de chat le sentent bien ! Ces gens reçoivent tous 100 points d'énergie, et ils vous en doivent une.",
+      "en": "Random people in one chat room could feel it! All of them receive 100 points of energy and want to thank you.",
+      "ru": "Случайные люди в одной чат-комнате почувствуют это! Все они получают по 100 единиц энергии и должны быть благодарны.",
+      "de": "Zufällige Personen in einem Chatraum können es spüren! Alle erhalten 100 Energiepunkte und wollen dir danken.",
+      "ar": "يمكن لبعض الأشخاص العشوائيين في غرفة دردشةٍ واحدةٍ الشعور بها! حيث يتلقّى كل منهم 100 نقطة من الطاقة ويرغبون في شكرك.",
+      "ja": "一つのチャットルームにいる人々がランダムに同じ気持ちを持つ。その全員が100ポイントのエネルギーを受け取りあなたにお礼の言葉を言おうとする。"
+    },
+    "energy": 100,
+    "targets": 50,
+    "price": 10000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/46.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/46.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/46.png"
+    },
+    "title": {
+      "ko": "축복",
+      "fr": "Bénédiction",
+      "en": "Blessing",
+      "ru": "Благословение",
+      "de": "Segen",
+      "ar": "بطاقة المنْح",
+      "ja": "祝福"
+    }
+  },
+  "47": {
+    "amount": 2,
+    "description": {
+      "ko": "숨으세요! 한 채팅방의 랜덤한 사람들이 100 포인트만큼의 에너지 피해를 입습니다. 하지만 다행히도 모두가 살아남습니다.",
+      "fr": "Tous aux abris ! Un nombre aléatoire de personnes dans une salle de chat prennent 100 points de dégâts d'énergie. Heureusement, toutefois, tout le monde demeure vivant.",
+      "en": "Take cover! Random people in one chat room get 100 points of energy damage. But luckily everyone stays alive.",
+      "ru": "Все в укрытие! Случайные люди, находящиеся в комнате, получают урон в 100 единиц энергии. Но, к счастью, все остаются живы.",
+      "de": "In Deckung! Zufällige Personen in einem Chatraum erhalten 100 Punkte Energieschaden. Aber zum Glück bleiben alle am Leben.",
+      "ar": "احتمي! فستلحق خسارة 100 نقطة من الطاقة بأشخاصٍ عشوائيين في غرفة دردشةٍ واحدةٍ. ولكن لحسن الحظ سيبقى الجميع على قيد الحياة.",
+      "ja": "カバーを外せ！一つのチャットルームにいる人々がランダムにエネルギーダメージを100ポイント受ける。でもご安心、死者はひとりも出ない。"
+    },
+    "energy": -100,
+    "targets": 50,
+    "bad": true,
+    "price": 14000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/47.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/47.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/47.png"
+    },
+    "title": {
+      "ko": "폭탄",
+      "fr": "La bombe",
+      "en": "The Bomb",
+      "ru": "Бомба",
+      "de": "Die Bombe",
+      "ar": "بطاقة القنبلة",
+      "ja": "爆弾"
+    }
+  },
+  "48": {
+    "amount": 5,
+    "description": {
+      "ko": "친구들 및 VIP 클럽 회원들만 당신의 방에서 채팅할 수 있고 당신과 대화할 수 있으며 다른 방에서 연락할 수 있습니다.",
+      "fr": "Seuls les amis et les membres VIP du club pourront discuter dans votre salon, engager le dialogue avec vous, et vous contacter dans d'autres salons.",
+      "en": "Only friends and VIP club members will be able to chat in your room, engage in dialogue with you, and contact you in other rooms.",
+      "ru": "Только друзья и члены VIP клуба смогут писать в вашей комнате, вести с вами диалог и обращаться к вам в других комнатах.",
+      "de": "Nur Freunde und VIP-Clubmitglieder können in Ihrem Chatroom schreiben, mit Ihnen ein Gespräch führen und Sie in anderen Chatrooms kontaktieren.",
+      "ar": "سيتمكن الأصدقاء وأعضاء نادي VIP فقط من الدردشة داخل غرفتك، والمشاركة في الحوار معك، والاتصال بك في الغرف الأخرى.",
+      "ja": "フレンドとVIPクラブ会員だけが、あなたの部屋でチャットし、あなたと会話をし、他の部屋であなたにコンタクトをとることが出来ます。"
+    },
+    "title": {
+      "ko": "VIP 전용",
+      "fr": "Réservé aux VIP",
+      "en": "VIP only",
+      "ru": "Общаюсь только с VIP",
+      "de": "Nur für VIP",
+      "ar": "ميزة VIP",
+      "ja": "VIPオンリー"
+    },
+    "price": 500,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/48.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/48.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/48.png"
+    },
+    "actions": [
+      48
+    ],
+    "duration": 172800000
+  },
+  "49": {
+    "protection": 0.5,
+    "description": {
+      "ko": "아주 기분이 좋으시군요! 방어 점수가 높아지고 7일간 에너지 레벨이 늘어납니다. 아무도 당신의 기분을 상하게 할 수 없으니 긍정적인 효과를 제거하는 카드가 당신을 해치지 못할 것입니다.",
+      "fr": "Vous êtes d'une excellente humeur ! Votre défense a été augmentée et le niveau d'énergie va grandir pendant 7 jours. Personne ne peut vous ruiner le moral, alors les cartes qui retirent des effets positifs n'ont aucun effet sur vous.",
+      "en": "You’re in the great mood! Your defense score has been raised and the energy level will grow for 7 days. No one can break your mood so cards that remove positive effects can’t harm you.",
+      "ru": "Прекрасное настроение обеспечено! Ваша защита выросла, а уровень энергии поднимается целую неделю. А ещё вы обеспечены защитой от всех карт, убирающих позитивные эффекты.",
+      "de": "Du bist in großartiger Stimmung! Deine Verteidigungspunktzahl hat sich erhöht und das Energieniveau wird 7 Tage lang wachsen. Niemand kann deine Laune kaputtmachen, sodass Karten, die positive Effekte entfernen, dir nicht schaden können.",
+      "ar": "أنت في حالة مزاج رائعة! نتيجة دفاعك زادت ومستوى الطاقة سينمو لمدة 7 أيام. لا يمكن لأحد أن يفسد حالتك المزاجية، لذا، لن يمكن للبطاقات التي تزيل التأثيرات الإيجابية إيذائك.",
+      "ja": "今のあなたは最高の気分! ディフェンススコアがどんどん上がっていますし、エネルギーレベルもこれから7日間上昇します。あなたの気分を害せるものは何もありません。そのため、有利な効果を無効にできるカードもあなたの前では無力になります。"
+    },
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/49.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/49.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/49.png"
+    },
+    "energy": 100,
+    "title": {
+      "ko": "돌체 비타!",
+      "fr": "Dolce Vita !",
+      "en": "Dolce Vita!",
+      "ru": "Сладкая жизнь!",
+      "de": "Dolce Vita!",
+      "ar": "دولسي فيتا!",
+      "ja": "ドルチェヴィータ!"
+    },
+    "amount": 1,
+    "price": 999999,
+    "nosale": true,
+    "actions": [
+      15,
+      35
+    ],
+    "duration": 604800000
+  },
+  "50": {
+    "amount": 8,
+    "description": {
+      "ko": "그 밤의 괴물은 절대 만나지 않는 편이 좋습니다! 한 번 물리면 100포인트의 에너지를 잃게 됩니다. 뱀파이어는 무고한 희생자가 생길 때 마다 50포인트의 에너지를 얻습니다.",
+      "fr": "Priez que vous ne ferez jamais la rencontre de cette créature nocturne ! Une fois mordu, vous perdrez 100 points d'énergie. Le vampire récupérera 50 points d'énergie pour chacune de ses innocentes victimes.",
+      "en": "You better never meet that night creature! Bitten one will lose 100 points of energy. The vampire will earn 50 points of energy from every innocent victim.",
+      "ru": "Тот, кому не посчастливится встретиться с этим созданием ночи, потеряет 100 единиц энергии. Сам вампир пополнит свои запасы на 50 единиц за счет невинной жертвы.",
+      "de": "Diese Nachtkreatur triffst du besser niemals! Ein Biss kostet 100 Energiepunkte. Der Vampir verdient 50 Energiepunkte von jedem unschuldigen Opfer.",
+      "ar": "الأفضل لك ألا تلاقي أبدًا ذلك المخلوق الليلي! سيفقد الذي يتم عضه 100 نقطة من الطاقة. وسوف يكسب مصاص الدماء 50 نقطة من الطاقة من كل ضحية بريئة.",
+      "ja": "あの夜の生き物に出会わないほうがよかったでしょう! 噛まれた者は、エネルギーを100ポイント失います。ヴァンパイアは、罪のない犠牲者それぞれから、エネルギーを50ポイント獲得します。"
+    },
+    "deadly": true,
+    "energy": -100,
+    "title": {
+      "ko": "벰파이어의 흡혈",
+      "fr": "Morsure de vampire",
+      "en": "Vampire bite",
+      "ru": "Укус вампира",
+      "de": "Vampirbiss",
+      "ar": "عضة مصاص الدماء",
+      "ja": "ヴァンパイア・バイト"
+    },
+    "bad": true,
+    "price": 2000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/50.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/50.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/50.png"
+    },
+    "actions": [
+      50
+    ],
+    "confuse": true
+  },
+  "51": {
+    "amount": 5,
+    "description": {
+      "ko": "뱀파이어에 맞서기 위한 고가의 발명품. 마켓에 새롭게 출시됐습니다! 착용하고 있는 동안 뱀파이어의 관심을 돌릴 수 있게 됩니다.",
+      "fr": "Une invention de pointe qui sert à repousser les vampires, et qui vient tout juste d'être commercialisée ! Les vampires ne seront pas attirés vers vous tant et aussi longtemps que vous porterez le repousse-vampire.",
+      "en": "High end invent for fighting the vampires. Freshly released to the market! You’re going to lose any attractiveness for vampires wearing that.",
+      "ru": "Высокотехнологичный способ борьбы с вампирами, новейшая разработка! С ним вы теряете всю привлекательность для тех, кто любит пить кровь.",
+      "de": "Spitzenerfindung, um die Vampire zu bekämpfen. Frisch auf den Markt gekommen! Wenn du das trägst, verlierst du jegliche Attraktivität für Vampire.",
+      "ar": "إنها اختراع متقدم لمواجهة مصاصي الدماء. تم إصدارها حديثًا في الأسواق! إنك سوف تفقد أي جاذبية لمصاصي الدماء بارتدائها .",
+      "ja": "ヴァンパイアと戦うための最高級の発明品。発売されたばかりです! 着用していると、あなたはヴァンパイアに対する一切の魅力を失うでしょう。"
+    },
+    "title": {
+      "ko": "뱀파이어 부적",
+      "fr": "Repousse-vampire",
+      "en": "Vampire apotrope",
+      "ru": "Вампирский оберег",
+      "de": "Vampirabwehr",
+      "ar": "تميمة مصاص الدماء",
+      "ja": "ヴァンパイア除け"
+    },
+    "price": 500,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/51.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/51.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/51.png"
+    },
+    "actions": [
+      51
+    ],
+    "duration": 172800000
+  },
+  "52": {
+    "amount": 2,
+    "description": {
+      "ko": "중세시대 의사들에게 최악의 악몽이었던 질병이 다시 여기에 돌아왔습니다! 감염된 가엾은 사람은 죽을 때까지 에너지를 잃게 됩니다.",
+      "fr": "Le pire cauchemar des médecins du moyen-âge est de retour ! Les misérables infectés perdront continuellement de l'énergie jusqu'à leur mort.",
+      "en": "The worst nightmare of the Medieval doctors is here again! Poor infected people will lose energy before they die.",
+      "ru": "Страшный сон средневековых докторов снова на свободе! Несчастный, которого поразит эта хворь, будет терять энергию пока не умрет.",
+      "de": "Der schlimmste Alptraum der mittelalterlichen Ärzte ist wieder da! Die armen infizierten Personen verlieren Energie, bevor sie sterben.",
+      "ar": "أسوأ كابوس واجه أطباء العصور الوسطى وها هو هنا مرة أخرى! وسيفقد الأشخاص الفقراء المصابون الطاقة قبل موتهم.",
+      "ja": "中世の医師たちの最悪の悪夢が再びここに! 哀れな感染者は、死ぬ前にエネルギーを失います。"
+    },
+    "deadly": true,
+    "energy": -26,
+    "bad": true,
+    "price": 600,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/52.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/52.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/52.png"
+    },
+    "title": {
+      "ko": "페스트",
+      "fr": "Peste",
+      "en": "Plague",
+      "ru": "Чума",
+      "de": "Pest",
+      "ar": "الطاعون",
+      "ja": "ペスト"
+    },
+    "duration": 172800000
+  },
+  "53": {
+    "amount": 3,
+    "description": {
+      "ko": "고대로부터 내려오는 분노가 당신 안에서 솟아합니다! 앞 길을 가로막는 것은 무엇이든 부숴버릴 준비가 되었음을 느낍니다.",
+      "fr": "Une rage ancestrale vous envahit ! Vous sentez monter en vous une force qui vous permettra d'écraser toute opposition.",
+      "en": "Ancient rage wells up inside of you! You feel ready to crush anything that comes your way.",
+      "ru": "Древняя ярость закипает в тебе! Ты чувствуешь готовность сокрушить всё на своем пути.",
+      "de": "Antike Wut steigt in dir empor! Du fühlst dich bereit, alles zu zerdrücken, was dir in den Weg kommt.",
+      "ar": "الغضب القديم يتفجر بداخلك! ويجعلك تشعر بأنك مستعد لسحق أي شيء يعترض طريقك.",
+      "ja": "内なる古代の怒りが湧き上がります! 自分の元にやってくるあらゆるものを壊す気分になります。"
+    },
+    "title": {
+      "ko": "광전사",
+      "fr": "Furie",
+      "en": "Berserk",
+      "ru": "Берсерк",
+      "de": "Berserker",
+      "ar": "الهياج",
+      "ja": "狂戦士"
+    },
+    "attack": 1.5,
+    "price": 1000,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/53.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/53.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/53.png"
+    },
+    "duration": 86400000
+  },
+  "54": {
+    "amount": 3,
+    "description": {
+      "ko": "이 카드는 강도를 약화시키는 효과가 있습니다.",
+      "fr": "Cette carte a pour effet d'atténuer la force.",
+      "en": "The effect of this card is waning strength.",
+      "ru": "Силы покидают того, на кого действует эта карта.",
+      "de": "Diese Karte lässt Kräfte schwinden.",
+      "ar": "تأثير هذه البطاقة هو إنقاص القوة.",
+      "ja": "このカードの効果により力が減少していきます。"
+    },
+    "title": {
+      "ko": "약점",
+      "fr": "Faiblesse",
+      "en": "Weakness",
+      "ru": "Слабость",
+      "de": "Schwäche",
+      "ar": "الضعف",
+      "ja": "弱点"
+    },
+    "attack": 0.5,
+    "bad": true,
+    "price": 500,
+    "image": {
+      "small": "http://images.faminta.com/vb/img/cards/s/54.png",
+      "medium": "http://images.faminta.com/vb/img/cards/m/54.png",
+      "large": "http://images.faminta.com/vb/img/cards/l/54.png"
+    },
+    "duration": 86400000
+  }
+}
