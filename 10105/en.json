@@ -417,7 +417,7 @@
   "faberge_bouquet_of_flowers_description": "Emperor Nikolai II presented this gift to his wife Alexandra Fedorovna in 1901. The egg is made in the shape of flower baskets and is covered with gold enamel and diamonds. Today, this relic belongs to the jewelry collection of Queen Elizabeth II.",
   "report_button": "Report",
   "report_message": "The report on {0} has been sent to moderators. False reporting may result in a suspension/ban.",
-  "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.</br>In order to ensure FlirtyMania provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content.</br>If you see inappropriate content, please use the “Report” feature.",
+  "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.<br>In order to ensure FlirtyMania provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content.</br><br>If you see inappropriate content, please use the “Report” feature.</br>",
   "user_agreement_link_doc": "https://goo.gl/dlLFpn",
   "user_therms_link_doc": "https://goo.gl/e2rFXD",
   "vip_linked_text": "VIP Subscriptions use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
