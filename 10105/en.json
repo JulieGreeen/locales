@@ -935,5 +935,6 @@
   "only_for_vip":"%user% would rather talk only to members of the exclusive VIP status and has restricted incoming messages. %link%",
   "vip_link":"Buy VIP status",
   "hours_elapsed_private_room": "Your private chat time is over. Please make another private call to continue the conversation.",
-  "sign_in_as_guest": "Sign in as Guest"
+  "sign_in_as_guest": "Sign in as Guest",
+  "vb_settings_and_inst_40": "review_40"
 }
