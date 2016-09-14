@@ -396,11 +396,8 @@
   "jsShower.navbar.btnToTimetableBroadcastsBox": "الجدول الزمني",
   "jsShower.payments.confirmPayment": "هل أنت متأكد من أنك تريد تقديم الدفع باستخدام طريقة الدفع المختارة؟\nتحذير! لا يمكن إلغاء هذا الإجراء.",
   "jsShower.selectServer.title": "خدد ملقم التطبيق.",
-  "jsShower.sendInviteAlert.header": "تم إرسال الدعوة",
-  "jsShower.sendInviteAlert.message": "تم إرسال دعوة على البريد الإلكتروني لك  {email} من Master Tigra. اقرأها",
   "jsShower.sendPassAlert.header": "كلمة المرور غير صحيحة",
   "jsShower.sendPassAlert.message": "لقد استخدام كلمة مرور مختلفة في السابق. هل تريد فعلا بدء استخدام كلمة مرور جديدة؟",
-
   "jsShower.sendRegistrationAlert.header": "تم إرسال البريد الإلكتروني",
   "jsShower.sendRegistrationAlert.message": "لقد قمنا بإرسال بريد إلكتروني لك في {email}. يرجى إتباع الرابط في هذا البريد الإلكتروني لتأكيد التسجيل الخاص بك.",
   "jsShower.sendForgotAlert.header": "تم إرسال البريد الإلكتروني",

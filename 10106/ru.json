@@ -382,11 +382,8 @@
   "jsShower.navbar.btnToTimetableBroadcastsBox": "Расписание",
   "jsShower.payments.confirmPayment": "Вы уверены, что хотите совершить оплату выбранным вами способом? \nВнимание! Отменить это действие невозможно.",
   "jsShower.selectServer.title": "Выберите сервер приложения",
-  "jsShower.sendInviteAlert.header": "Приглашение отправлено",
-  "jsShower.sendInviteAlert.message": "На ваш E-mail {email} было отправлено приглашение от Мастера Тигры. Прочтите его.",
   "jsShower.sendPassAlert.header": "Неверный пароль",
   "jsShower.sendPassAlert.message": "Ранее вы использовали другой пароль. Вы действительно хотите начать использовать новый пароль?",
-
   "jsShower.sendRegistrationAlert.header": "Письмо отправлено",
   "jsShower.sendRegistrationAlert.message": "Мы отправили письмо на почту {email}. Для подтверждения регистрации перейдите по ссылке в этом письме.",
   "jsShower.sendForgotAlert.header": "Письмо отправлено",
