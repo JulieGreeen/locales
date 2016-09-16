@@ -485,7 +485,7 @@
   "permission_head_denied_video": "Permission",
   "magic_draw_start_help_web": "To draw a shape, click and hold the mouse button, then move the mouse cursor across the screen",
   "magic_draw_start_help_mobile": "Touch the screen to draw",
-  "magic_draw_buy_descr": "After sending, all the spectators in the room will see you touch {0}",
+  "magic_draw_buy_descr": "After sending, all the spectators in the room will see you touch to {0}",
   "magic_draw_buy_title": "Magical touch",
   "magic_draw_system_msg": "%from% magically touched %to%. %replay%",
   "magic_draw_system_msg_for_owner": "%from% magically touched you (experience +{0}). %replay%",
