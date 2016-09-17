@@ -20,8 +20,8 @@
   "common.fines.types.paidService.subtitle": "Вы совершили заказ платной услуги и вам ограничен доступ в приложение до совершения оплаты.",
   "common.fines.types.unpaidBlock.header": "Документ №{id}",
   "common.fines.types.unpaidBlock.subtitle": "Вам ограничен доступ в приложение.",
-  "common.fines.reasons.block": "Временная блокировка",
-  "common.fines.reasons.block.header": "Аккаунт заблокирован в целях безопасности",
+  "common.fines.reasons.block": "Аккаунт заблокирован",
+  "common.fines.reasons.block.evidence.header": "Файл изображения, подтверждающий подозрительную активность",
   "common.fines.reasons.block.subtitle": "Ваш аккаунт заблокирован системой безопасности, так как на нём обнаружена подозрительная активность. Данная проблема возможно вызвана переходом по вредоносной ссылке, передачей аккаунта посторонним или другими причинами.",
   "common.fines.reasons.children": "Трансляция несовершеннолетних (без присмотра родителей)",
   "common.fines.reasons.clone": "Создание учеток клонов",
@@ -50,6 +50,7 @@
   "common.fines.reasons.sexual-behavior": "Непристойное сексуальное поведение",
   "common.fines.timeWaiting": "Доступ к приложению будет автоматически открыт {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Проекты Мастера Тигры",
+
   "account.header.title": "Ваш аккаунт",
   "account.info.header.title": "Личная информация и настройки",
   "account.info.header": "Доступ к личной информации и настройкам аккаунта всегда под вашим контролем на этой странице. Вы сами выбираете какие личные данные публиковать в интернете.",

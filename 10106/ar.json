@@ -21,7 +21,7 @@
   "common.fines.types.unpaidBlock.header": "وثيقة #{id}",
   "common.fines.types.unpaidBlock.subtitle": "لديك محدودة على الوصول إلى التطبيق.",
   "common.fines.reasons.block": "حظر مؤقت",
-  "common.fines.reasons.block.header": "تم إقفال الحساب لأغراض الأمان",
+  "common.fines.reasons.block.evidence.header": "ملف الصور الذي يؤكد النشاط المريب",
   "common.fines.reasons.block.subtitle": "قام نظام الأمان بإقفال حسابك، بسبب نشاط مشبوه مرتبط بهذا الحساب. قد تكون هذه المشكلة ناجمة عن رابط ضار، أو حساب يقوم بالنقل إلى جهات خارجية أو أسباب أخرى.",
   "common.fines.reasons.children": " بث الأطفال  (بدون رعاية أبوية)",
   "common.fines.reasons.clone": "إنشاء نُسخ للحسابات",

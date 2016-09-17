@@ -1,4 +1,6 @@
 {
+  "common.fines.reasons.block.evidence.header": "Fichier image confirmant une activité suspecte",
+
   "email.invite.vb.h1.existName": "Bonjour, {toName}!",
   "email.invite.vb.h1.notName": "Bonjour!",
   "email.invite.vb.text": "{linkFromName} vous a invité à clavarder sur chat roulette {linkSite}.\n\nVous y ferez plusieurs connaissances inattendues et intéressantes, participerez à une discussion vidéo en direct et des conversations animées, et bien plus.",
