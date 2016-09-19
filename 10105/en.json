@@ -943,7 +943,7 @@
   "hours_elapsed_private_room": "Your private chat time is over. Please make another private call to continue the conversation.",
   "sign_in_as_guest": "Create Account",
   "vb_settings_and_inst_40": "review_inst_40",
-  "effect_by":"The effect was used by {0}",
+  "effect_by":"The effect was used by %user%",
   "sign_in_with_phone": "Sign in with Phone",
   "sign_in_with_email": "Sign in with Email"
 }

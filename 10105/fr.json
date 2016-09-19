@@ -891,7 +891,7 @@
   "close":"Fermer",
   "retry":"Réessayer",
   "continue":"Ignorer",
-  "effect_by":"L'effet a été utilisé par {0}",
+  "effect_by":"L'effet a été utilisé par %user%",
   "only_for_vip":"%user% préfère parler uniquement aux membres du club VIP exclusif et a restreint les messages entrants. %link%",
   "hours_elapsed_private_room": "Votre temps de discussion en privé est terminé. Veuillez passer un autre appel privé pour continuer la conversation.",
   "vip_link":"Découvrez le club VIP"
