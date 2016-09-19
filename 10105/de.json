@@ -882,6 +882,7 @@
   "close":"Schließen",
   "retry":"Wiederholen",
   "continue":"Ignorieren",
+  "effect_by":"Der Effekt wurde benutzt von {0}",
   "only_for_vip":"%user% möchte sich nur mit Mitgliedern des exklusiven VIP-Clubs unterhalten und hat eingehende Nachrichten darauf beschränkt. %link%",
   "hours_elapsed_private_room": "Ihre private Chatzeit ist vorüber. Bitte machen Sie einen weiteren privaten Anruf, um das Gespräch fortzusetzen.",
   "vip_link":"Mehr über den VIP-Club erfahren"
