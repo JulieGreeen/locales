@@ -459,6 +459,8 @@
   "gems_diamond_description": "هذا أغلى حجم في العام ويشتهر بجماله وخصائصه السحرية الخصاصة. وتقديم الماس يعني جلب النجاح والحظ الجيد لمالكه الجديد.",
   "gnome_nations_bd_link": "https://www.gnomenations.com?utm_source=flirtymania&utm_medium=promo&utm_campaign=gnomograd_create_city",
   "gnome_nations_bd_android_link": "https://play.google.com/store/apps/detailsid=air.com.mrtigra.gnomenations&referrer=utm_source%3Dflirtymania%26utm_medium%3Dpromo%26utm_campaign%3Dgnomograd_create_city",
+  "subscription_limit": "{الحد الأقصى للاشتراكات المتاحة في مستواك {0} الاشتراكات المستخدمة {1",
+  "share_broadcast": "مشاركة البث",    
   "share_title": "شارِك البث مع أصدقائك! <br/><br/>جميع الروابط الموجودة في برنامج الإحالة قم بإستخدامها في <a href='{0}'>دعوة الأصدقاء وجني المال.</a>",
   "share_title_link": "http://faminta.com/en/partner",
   "share_for_exp": "شارك مع أصدقائك واحصل على 1000 تجربة مجانًا! [احصل على تجربة.]",
