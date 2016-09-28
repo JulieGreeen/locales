@@ -946,5 +946,6 @@
   "effect_by":"From user: %user%",
   "sign_in_with_phone": "Sign in with Phone",
   "sign_in_with_email": "Sign in with Email",
-  "sale_offer_popup_text":"It's a big day! On the occasion of FlirtyMania's birthday, all your purchases will be doubled. Seize the opportunity while it lasts!"
+  "sale_offer_popup_text":"It's a big day! On the occasion of FlirtyMania's birthday, all your purchases will be doubled. Seize the opportunity while it lasts!",
+  "helpful_hints": "Helpful hints"
 }
