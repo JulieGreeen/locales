@@ -1038,7 +1038,7 @@
 	"user_send_set_to_himself": "%from% hediye aldı\r\n",
 	"to_next_place": "{1}. yere geçmek için\n{0} para karşılığında hediye al",
 	"spectators_motivation": "Henüz hiç izleyicin yok. Hoş ve ilginç biriysen kesinlikle izleyici çekersin.",
-	"viewers": "izleyici|izleyici",
+	"viewers": "izleyici|izleyiciler",
 	"subscription_motivation": "Çevrimiçi abonelik yok. Takip etmek için kullanıcıların profillerine yıldız ekle.",
 	"to_normal_mode": "Standart",
 	"to_fullscreen_mode": "Tam ekran",
