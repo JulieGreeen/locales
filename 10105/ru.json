@@ -920,12 +920,12 @@
 		"width": 113,
 		"height": 36
 	}],
-    "shine_set_buttons":[{"gift":"earrings", "x":206, "y":929, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"},
-                         {"gift":"clip", "x":206, "y":1420, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"},
-                         {"gift":"swatch", "x":206, "y":1920, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"},
-                         {"gift":"pinkgraff", "x":206, "y":2420, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"},
-                         {"gift":"incomparable", "x":206, "y":3010, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"},
-                         {"price":"shine", "x":122, "y":3410, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF", "rollOverColor":"0xffffff"}],
+    "shine_set_buttons":[{"gift":"earrings", "x":206, "y":929, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
+                         {"gift":"clip", "x":206, "y":1420, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
+                         {"gift":"swatch", "x":206, "y":1920, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
+                         {"gift":"pinkgraff", "x":206, "y":2420, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
+                         {"gift":"incomparable", "x":206, "y":3010, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
+                         {"price":"shine", "x":122, "y":3410, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"}],
     "shine_set_top":{"nickColor":"0xffffff", "backColor":"0x13161F", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
 	"party_set_buttons": [{
 		"gift": "margarita",
