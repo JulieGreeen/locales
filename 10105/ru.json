@@ -920,6 +920,13 @@
 		"width": 113,
 		"height": 36
 	}],
+    "shine_set_buttons":[{"gift":"earrings", "x":248, "y":929, "width":114, "height":36},
+                         {"gift":"clip", "x":248, "y":1420, "width":114, "height":36},
+                         {"gift":"swatch", "x":248, "y":1920, "width":114, "height":36},
+                         {"gift":"pinkgraff", "x":248, "y":2420, "width":114, "height":36},
+                         {"gift":"incomparable", "x":248, "y":3010, "width":114, "height":36},
+                         {"price":"shine", "x":122, "y":3410, "width":114, "height":36}],
+    "shine_set_top":{"nickColor":"0xffffff", "backColor":"0x000000", "timerFill":"0x19BCB6", "timerText":"0xffffff", "timerX":"118", "timerY":"7", "timerSetX":"121", "timerSetY":"216"},
 	"party_set_buttons": [{
 		"gift": "margarita",
 		"x": 248,
@@ -1043,6 +1050,7 @@
 	"wwf_set": "Редкие животные",
 	"romantic_set": "Романтика и Любовь",
 	"party_set": "Король вечеринок",
+    "shine_set": "Бриллиантовый блеск",
 	"candyland_set": "Конфетная страна",
 	"user_send_set_to_user": "%from% подарил %to%\r\n",
 	"user_send_set_to_himself": "%from% получил подарки\r\n",
