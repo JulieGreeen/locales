@@ -1,4 +1,6 @@
 {
+  "common.fines.reasons.block.evidence.header": "Image-Datei, die verdächtige Aktivität bestätigt",
+
   "email.invite.vb.h1.existName": "Hallo, {toName}!",
   "email.invite.vb.h1.notName": "Hallo!",
   "email.invite.vb.text": "{linkFromName} hat Sie zum Chatten auf Chat-Roulette eingeladen. {linkSite}.\n\nDort finden Sie viele unerwartete und interessante Bekannte, Live-Videochat, stürmische Unterhaltungen und noch viel mehr.",

@@ -1,4 +1,6 @@
 {
+  "common.fines.reasons.block.evidence.header": "疑わしい活動が確認された画像ファイル",
+
   "email.invite.live2.h1.existName": "こんにちは, {toName}!",
   "email.invite.live2.h1.notName": "こんにちは!",
   "email.invite.live2.text": "{linkFromName} からリアリティショー参加への招待が届いています {linkSite}.\n\nこのビデオチャットでは、他のメンバーが制作したライブストリームを視聴できるだけでなく、独自リアリティーショーを制作して世界中から賞賛を集めることが可能です。",

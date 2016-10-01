@@ -1303,6 +1303,11 @@
   "item_666_prep": "Gnomenations is 5 years!",
   "item_666_desc": "We're very grateful to all our players who celebrate our 5th Birthday with us today! Let this medal remind you about it for a many years and bring you only the best of luck!",
 
+  "item_668": "The mine",
+  "item_668_rod": "The mine",
+  "item_668_prep": "The mine",
+  "item_668_desc": "Only the most rugged of gnomes work here. With the help of gloomy frowns, coarse words, and some pyrotechnics, they extract ore and stone from the depths of earth.",
+
   "item_27": "Storage coins",
   "item_27_rod": "Storage coins",
   "item_27_prep": "Storage coins",
@@ -2646,8 +2651,8 @@
   "you_will_get_10_percents_coins": "You will get +10% of bought coins",
   "popup_sale_x2_fame_title": "Upgrade your Level!",
   "popup_sale_x2_fame_descr": "Last chance to get twice Fame and higher Level. Offer expire in few hours.",
-  "great_news": "Gnomenations is 5 years!",
-  "today_everyone_purchased_rubies_doubled": "Congratulations on this wonderful date! And today, according to tradition, we double purchased rubies.",
+  "great_news": "It's a big day!",
+  "today_everyone_purchased_rubies_doubled": "In honor of the <a href='https://www.flirtymania.com'>FlirtyMania's</a> birthday, all your rubies purchases will be doubled. Seize the opportunity while it lasts!",
   "popup_shop_promo_label": "Short, but so beloved double rubies Offer. Hurry up to get!",
   "popup_penalty_promo_label": "Do not miss the chance to punish your enemies! Only today Punishments take 2 times more user Fame.",
   "bonus_mob_attack": "Attack of monsters",
