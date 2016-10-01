@@ -14,7 +14,7 @@
   "email.invite.live2.text": "{linkFromName}  vous a invité à participer à une émission de téléréalité.  {linkSite}.\n\nDans cette discussion vidéo, vous pouvez créer votre propre émission de téléréalité, gagner une admiration universelle ou simplement regarder les diffusions en direct des autres membres.",
   "email.invite.live2.title": "{fromName} vous a invité à une discussion vidéo {appName}",
 
-  "email.registration.text": "Bonjour !<br>  Merci de suivre ce lien pour confirmer votre inscription à [FlirtyMania] : {0}. Nous voulons simplement nous assurer qu'il s'agit bien de votre adresse e-mail afin de pouvoir créer votre compte.",
+  "email.registration.text": "Bonjour !<br>  Merci de suivre ce lien pour confirmer votre inscription à [FlirtyMania] : {linkSite}. Nous voulons simplement nous assurer qu'il s'agit bien de votre adresse e-mail afin de pouvoir créer votre compte.",
   "email.registration.subject": "Confirmez votre inscription à {appName}",
   "email.forgotPsw.text": "Bonjour{toName}, <br>  Merci de suivre ce lien pour confirmer la réinitialisation de votre mot de passe sur {appName} : {linkSite}. <br> Si vous n'êtes pas à l'origine de cette demande de réinitialisation, veuillez ignorer ce message et ne pas suivre le lien ci-dessus. Quelqu'un a peu-être essayé d'accéder à votre compte.",
   "email.forgotPsw.subject": "Confirmez la réinitialisation de votre mot de passe sur {appName}",
