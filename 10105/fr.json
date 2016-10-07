@@ -1101,5 +1101,12 @@
 	"effect_by": "De l'utilisateur : %user%",
 	"only_for_vip": "%user% préfère parler uniquement aux membres du club VIP exclusif et a restreint les messages entrants. %link%",
 	"hours_elapsed_private_room": "Votre temps de discussion en privé est terminé. Veuillez passer un autre appel privé pour continuer la conversation.",
-	"vip_link": "Découvrez le club VIP"
+	"vip_link": "Découvrez le club VIP",
+    "broadcast_reward":"Récompense de diffusion",
+    "broadcast_reward_descr":"Vous avez gagné le %cardname% ! Plus vous collectez de j'aime, plus votre récompense sera conséquente.",
+    "share_with_friends":"Partagez avec des amis",
+    "not_enough_likes":"Nombre de j'aime insuffisant",
+    "need_likes":"Vous avez besoin d'obtenir au moins 10 j'aime pour gagner la récompenser",
+    "plural_minute":"minute|minutes",
+    "plural_share":"partage|partages",
 }

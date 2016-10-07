@@ -1149,5 +1149,12 @@
 	"vb_settings_and_inst_40": "vcr",
 	"effect_by": "Şu kullanıcıdan: %user%",
 	"sign_in_with_phone": "Telefon ile oturum aç",
-	"sign_in_with_email": "E-posta ile oturum aç"
+	"sign_in_with_email": "E-posta ile oturum aç",
+    "broadcast_reward":"Yayın ödülü",
+    "broadcast_reward_descr":"%cardname% kazandın! Ne kadar çok beğeni toplarsan, ödülün o kadar iyi olur.",
+    "share_with_friends":"Arkadaşlarınla paylaş",
+    "not_enough_likes":"Çok az beğeni",
+    "need_likes":"Ödülü kazanmak için en az 10 beğeni alman gerekiyor.",
+    "plural_minute":"dakika|dakikalar",
+    "plural_share":"pay|paylar",
 }

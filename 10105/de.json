@@ -1121,5 +1121,12 @@
 	"effect_by": "Von Nutzer: %user%",
 	"only_for_vip": "%user% möchte sich nur mit Mitgliedern des exklusiven VIP-Clubs unterhalten und hat eingehende Nachrichten darauf beschränkt. %link%",
 	"hours_elapsed_private_room": "Ihre private Chatzeit ist vorüber. Bitte machen Sie einen weiteren privaten Anruf, um das Gespräch fortzusetzen.",
-	"vip_link": "Mehr über den VIP-Club erfahren"
+	"vip_link": "Mehr über den VIP-Club erfahren",
+    "broadcast_reward":"Belohnung für das Senden",
+    "broadcast_reward_descr":"Sie haben %cardname% gewonnen! Je mehr Likes sie sammeln, um so besser wird die Belohnung!",
+    "share_with_friends":"Mit Freunden teilen",
+    "not_enough_likes":"Zu wenige Likes",
+    "need_likes":"Sie müssen mindestens 10 Likes bekommen, um die Belohnung zu erhalten.",
+    "plural_minute":"Minute|Minuten",
+    "plural_share":"Mal geteilt|Mal geteilt",
 }
