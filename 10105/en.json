@@ -972,6 +972,7 @@
     "broadcast_reward_descr":"You won the %cardname%! The more likes you collect better the reward will be.",
     "share_with_friends":"Share with friends",
     "not_enough_likes":"Too few likes",
+    "helpful_hints": "Useful hints",
     "need_likes":"You need to get at least 10 likes to earn the reward.",
     "plural_minute":"minute|minutes",
     "plural_share":"share|shares"
