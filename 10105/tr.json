@@ -1150,6 +1150,7 @@
 	"effect_by": "Şu kullanıcıdan: %user%",
 	"sign_in_with_phone": "Telefon ile oturum aç",
 	"sign_in_with_email": "E-posta ile oturum aç",
+	"helpful_hints": "Faydalı ipuçları",
     "broadcast_reward":"Yayın ödülü",
     "broadcast_reward_descr":"%cardname% kazandın! Ne kadar çok beğeni toplarsan, ödülün o kadar iyi olur.",
     "share_with_friends":"Arkadaşlarınla paylaş",
