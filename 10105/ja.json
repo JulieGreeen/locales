@@ -1132,6 +1132,7 @@
 	"hours_elapsed_private_room": "プライベートチャットタイムが終了しました。会話を続けるには新しくプライベートコールをしてください。",
 	"vip_link": "VIPクラブについて",
     "broadcast_reward":"拡散の報酬",
+    "helpful_hints": "役立つヒント",
     "broadcast_reward_descr":"%cardname%を獲得しました！たくさんの「いいね」を集めるほど報酬も良くなります。",
     "share_with_friends":"友だちとシェアしましょう",
     "not_enough_likes":"「いいね」が少なすぎます",
