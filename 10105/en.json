@@ -976,6 +976,7 @@
     "need_likes":"You need to get at least 10 likes to earn the reward.",
     "plural_minute":"minute|minutes",
     "plural_share":"share|shares",
+    "plural_like":"like|likes",
     "broadcast_end_share_title":"I’ve just finished my broadcast in the FlirtyMania videochat!",
     "broadcast_end_share_descr":"Got {0} from {1}! Try to beat my score!"
 }
