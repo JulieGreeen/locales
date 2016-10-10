@@ -1128,5 +1128,7 @@
     "not_enough_likes":"Zu wenige Likes",
     "need_likes":"Sie müssen mindestens 10 Likes bekommen, um die Belohnung zu erhalten.",
     "plural_minute":"Minute|Minuten",
-    "plural_share":"Mal geteilt|Mal geteilt"
+    "plural_share":"Mal geteilt|Mal geteilt",
+    "broadcast_end_share_title":"Gerade bin ich mit meiner Sendung im FlirtyMania-Videochat fertig!",
+    "broadcast_end_share_descr":"{0} von {1} meiner Besucher gefällt das! Versucht das mal zu toppen!"
 }
