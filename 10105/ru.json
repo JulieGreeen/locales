@@ -1146,5 +1146,11 @@
     "plural_share":"поделился|поделилось|поделилось",
     "plural_like":"лайк|лайка|лайков",
     "broadcast_end_share_title":"Я закончил трансляцию в видеочате Беседа!",
-    "broadcast_end_share_descr":"Получилось собрать {0} от {1}! Попробуйте побить мой рекорд!"
+    "broadcast_end_share_descr":"Получилось собрать {0} от {1}! Попробуйте побить мой рекорд!",
+    "filter_video_only": "Только Видео",
+    "filter_female": "Девушки",
+    "filter_male": "Мужчины",
+    "filter_vip": "Только VIP",
+    "filter_all_age_badge": "Все",
+    "filter_age_range": "Возрастной диапазон"
 }
