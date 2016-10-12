@@ -978,5 +978,11 @@
     "plural_share":"share|shares",
     "plural_like":"like|likes",
     "broadcast_end_share_title":"I’ve just finished my broadcast in the FlirtyMania videochat!",
-    "broadcast_end_share_descr":"Got {0} from {1}! Try to beat my score!"
+    "broadcast_end_share_descr":"Got {0} from {1}! Try to beat my score!",
+    "filter_video_only": "Video Only",
+    "filter_female": "Female",
+    "filter_male": "Male",
+    "filter_vip": "VIP Only",
+    "filter_all_age_badge": "All",
+    "filter_age_range": "Age Range"
 }
