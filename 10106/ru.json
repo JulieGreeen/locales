@@ -301,6 +301,7 @@
   "email.welcome.live2.text": "Это видеочат, в котором можно создать своё собственное шоу, завоевать всеобщую любовь или просто смотреть трансляции других участников.",
   "email.welcome.live2.title": "Добро пожаловать в видеочат {appName}",
   "email.fine_discount": "Скидка 50% на оплату штрафа! Привет {0}, cегодня вы можете погасить свой штраф за полцены и вернуться в чат. Ваши друзья ждут вас!",
+  "email.unsubscribe.text": "Вы успешно отписались от рассылки!",
   "jsShower.alternatives.downloadBtn": "Скачать в {store}",
   "jsShower.alternatives.fp": "Установить Flash Player",
   "jsShower.appError.aboutAffiliateProgram.link": "Подробнее о партнёрской программе",

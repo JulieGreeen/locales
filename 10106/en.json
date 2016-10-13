@@ -312,6 +312,7 @@
   "email.welcome.vb.text": "It is a video chat of a new generation, in which certain participants create their own show and try to make it popular. Other participants vote for shows they like, exchange messages, give gifts and just have a good time.",
   "email.welcome.vb.title": "Welcome to video chat {appName}",
   "email.fine_discount": "50% off your fine! Hi {0}, today you can pay your fine at half price and come back to the chat. Your friends are waiting for you!",
+  "email.unsubscribe.text": "You have successfully unsubscribed from the mailing list!",
   "jsShower.alternatives.downloadBtn": "Download in {store}",
   "jsShower.alternatives.fp": "Install Flash Player",
   "jsShower.appError.aboutAffiliateProgram.link": "More about the affiliate program",
