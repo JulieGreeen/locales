@@ -1128,5 +1128,6 @@
     "plural_share":"partage|partages",
     "plural_like":"j'aime|j'aime",
     "broadcast_end_share_title":"Je viens de finir mon émission dans le chat vidéo de FlirtyMania !",
-    "broadcast_end_share_descr":"Obtenez {0} de {1} ! Je vous mets au défi de battre mon score !"
+    "broadcast_end_share_descr":"Obtenez {0} de {1} ! Je vous mets au défi de battre mon score !",
+    "likes_exp":"Expérience reçue pour des j'aimes"
 }

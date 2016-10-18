@@ -1176,5 +1176,6 @@
     "plural_share":"pay|paylar",
     "plural_like":"benzeri|beğeni",
     "broadcast_end_share_title":"FlirtyMania görüntülü sohbet yayınımı şimdi bitirdim!",
-    "broadcast_end_share_descr":"{1}'dan {0} aldım! Puanımı geçmeye çalış!"
+    "broadcast_end_share_descr":"{1}'dan {0} aldım! Puanımı geçmeye çalış!",
+    "likes_exp":"Beğeniler için deneyim kazanıldı"
 }

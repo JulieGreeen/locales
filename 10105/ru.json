@@ -1162,5 +1162,6 @@
     "filter_male": "Мужчины",
     "filter_vip": "Только VIP",
     "filter_all_age_badge": "Все",
-    "filter_age_range": "Возрастной диапазон"
+    "filter_age_range": "Возрастной диапазон",
+    "likes_exp":"Получен опыт за лайки"
 }

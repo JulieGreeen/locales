@@ -994,5 +994,6 @@
     "filter_male": "Male",
     "filter_vip": "VIP Only",
     "filter_all_age_badge": "All",
-    "filter_age_range": "Age Range"
+    "filter_age_range": "Age Range",
+    "likes_exp":"Experience received for likes"
 }

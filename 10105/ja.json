@@ -1157,5 +1157,6 @@
     "plural_share":"閲覧者シェア",
     "plural_like":"いいね",
     "broadcast_end_share_title":" たった今、FlirtyManiaビデオチャットでの放送を終えました!",
-    "broadcast_end_share_descr":"視聴者から {0} 個のlikeを頂きました! 私のスコアを超えてみて下さい!"
+    "broadcast_end_share_descr":"視聴者から {0} 個のlikeを頂きました! 私のスコアを超えてみて下さい!",
+    "likes_exp":"「いいね」の経験ポイントを受け取りました。"
 }

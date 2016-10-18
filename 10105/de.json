@@ -1148,5 +1148,6 @@
     "plural_share":"Mal geteilt|Mal geteilt",
     "plural_like":"like|likes",
     "broadcast_end_share_title":"Gerade bin ich mit meiner Sendung im FlirtyMania-Videochat fertig!",
-    "broadcast_end_share_descr":"{0} von {1} meiner Besucher gefällt das! Versucht das mal zu toppen!"
+    "broadcast_end_share_descr":"{0} von {1} meiner Besucher gefällt das! Versucht das mal zu toppen!",
+    "likes_exp":"Für Likes erhaltene Erfahrung"
 }

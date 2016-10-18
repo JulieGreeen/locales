@@ -1157,5 +1157,6 @@
     "plural_share":"공유",
     "plural_like":"좋아요를",
     "broadcast_end_share_title":"방금 FlirtyMania 화상대화에서 방송을 마쳤어요!",
-    "broadcast_end_share_descr":"{1} 중에서 {0}을 를 기록했습니다! 제 점수를 이겨보세요!"
+    "broadcast_end_share_descr":"{1} 중에서 {0}을 를 기록했습니다! 제 점수를 이겨보세요!",
+    "likes_exp":"좋아요로 경험치를 받았습니"
 }
