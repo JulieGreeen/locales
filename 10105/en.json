@@ -998,6 +998,6 @@
     "filter_all_age_badge": "All",
     "filter_age_range": "Age Range",
     "likes_exp":"Experience received for likes",
-    "settings_test_informer":"{\"head\":\"filter_vip\", \"mainText\":\"broadcast_end_share_title\", \"actionButtonText\":\"filter_male\", \"action\":\"giftStore\"}",
+    "settings_test_informer":"{\"head\":\"filter_vip\", \"mainText\":\"broadcast_end_share_title\", \"actionButtonText\":\"filter_male\", \"action\":\"giftStore\", \"img\":\"/stuff/{0}/ny_informer.png\"}",
 	
 }
