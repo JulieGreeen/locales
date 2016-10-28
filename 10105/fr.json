@@ -1130,5 +1130,19 @@
     "plural_like":"j'aime|j'aime",
     "broadcast_end_share_title":"Je viens de finir mon émission dans le chat vidéo de FlirtyMania !",
     "broadcast_end_share_descr":"Obtenez {0} de {1} ! Je vous mets au défi de battre mon score !",
-    "likes_exp":"Expérience reçue pour des j'aimes"
+    "likes_exp":"Expérience reçue pour des j'aimes",
+    "hlwn_title":"Des bonbons ou un sort ! ",
+    "hlwn_descr":"Rejoignez-nous pour célébrer le jour le plus effrayant et le plus amusant de l'année ! Obtenez deux fois plus de pièces pour le même prix – cela vous aidera à célébrer Halloween de la meilleure des façons. Le ministère des Horreurs vous recommande de dépenser ces pièces dans la nouvelle collection de cadeaux et d'autocollants, pour pouvoir effrayer les gens toute l'année.",
+    "potion_1":"La potion de chance",
+    "potion_1_description": "Elle est extraite de trèfles à quatre feuilles bio et préparée par des farfadets dans des pots en or. Les gains à la loterie et les heureux hasards surviendront immédiatement après son usage !",
+    "potion_2":"Le filtre d'amour",
+    "potion_2_description":"Un mélange de rosée de pétales de roses, de plumes de tourtereaux et d'une goutte d'extrait de mandragore pour des relations de folie. Utilisez-le avec précaution ou vous risquez de devenir accro !",
+    "potion_3":"La potion de force",
+    "potion_3_description":"Le souffle d'un dragon infusé avec une griffe de basilic, enfermé dans un flacon fabriqué avec l'écorce charnue d'un vieux chêne magique. Désormais, votre entraîneur ne rira plus à la fin de la séance.",
+    "potion_4":"L'élixir de beauté",
+    "potion_4_description":"Des larmes de fées et d'elfes des bois mélangées avec une plume d'ange et infusées avec des cristaux de sel et une feuille d'or. Le beauté ne nécessite plus de souffrir – il suffit de boire quelques gorgées…",
+    "potion_5":"L’élixir de jouvence",
+    "potion_5_description":"L'eau de la vie puisée dans une source secrète et les extraits d'écailles de dragons vous rendront immortels, vous et vos proches. Il a infusé pendant un siècle dans le nid d'un serpent situé dans une profonde grotte, afin de rendre résistant à tous les poisons et maladies celui qui le boit. Utilisez-le pour vous ou donnez-le à quelqu'un que vous craignez de perdre.",
+    "card_61": "Les pouvoirs magiques du basilic",
+	"card_61_descr": "Vous sentez des écailles épaisses pousser sur votre peau, alors qu'une force surnaturelle vous emplit de l'intérieur. Un savoir secret vous a donné un nouveau corps et le pouvoir de résister au poison."
 }

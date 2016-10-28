@@ -1150,5 +1150,19 @@
     "plural_like":"like|likes",
     "broadcast_end_share_title":"Gerade bin ich mit meiner Sendung im FlirtyMania-Videochat fertig!",
     "broadcast_end_share_descr":"{0} von {1} meiner Besucher gefällt das! Versucht das mal zu toppen!",
-    "likes_exp":"Für Likes erhaltene Erfahrung"
+    "likes_exp":"Für Likes erhaltene Erfahrung",
+    "hlwn_title":"Süßes oder Saures!",
+    "hlwn_descr":"Feiern Sie mit uns diesen gruseligsten und lustigsten Tag des Jahres! Die doppelte Anzahl Münzen für den gleichen Preis – damit können Sie Halloween am besten feiern. Der Gruselminister empfiehlt, diese Münzen für die neue Sammlung von Geschenken und Stickern auszugeben, so dass Sie das ganze Jahr über andere erschrecken können.",
+    "potion_1":"Glückstrank",
+    "potion_1_description": "Gepresst aus ökologischen, vierblättrigen Kleeblättern, in Töpfen aus Gold von Kobolden zubereitet. Lotteriegewinne und glückliche Unfälle werden Dir direkt nach Gebrauch passieren!",
+    "potion_2":"Liebestrank",
+    "potion_2_description":"Eine Mixtur aus Rosenblüten, zermahlenen Wellensittichfedern und einemTropfen Liebesapfelextrakt für ein bisschen Beziehungswahnsinn. Benutze es vorsichtig oder riskiere, süchtig zu werden.",
+    "potion_3":"Krafttrank",
+    "potion_3_description":"Drachenatem versetzt mit der Klaue eines Basilisken, eingeschlossen in einen Fläschchen aus der krustigen Rinde eines antiken, magischen Eichenbaumes. Jetzt wird Dich Dein Trainer bei der letzten Wiederholung nie wieder auslachen.",
+    "potion_4":"Schönheitstrank",
+    "potion_4_description":"Die Tränen wunderschöner Feen und Waldelfen gemischt mit einer Engelsfeder und versetzt mit kostbaren Salzkristallen und Blattgold. Schönheit erfordert keine Opfer mehr - nimm einfach ein paar Schlucke...",
+    "potion_5":"Trank des ewigen Lebens",
+    "potion_5_description":"Lebenswasser aus einer geheimen Quelle und Drachenschuppenextrakt garantieren Dir und Deiner Liebe Unsterblichkeit. Er braute Hundert Jahre in einem Schlangennest, das in der tiefsten Höhle gefunden wurde, um dem Trinker Immunität für alle Gifte und Krankheiten zu verleihen. Benutze es selbst, oder gib es jemandem, den Du nicht verlieren willst.",
+    "card_61": "Magische Kräfte des Basilisken",
+	"card_61_descr": "Du merkst, wie starke Schuppen auf Deiner ganzen Haut wachsen, während Dich eine ungewohnte Kraft von Innen füllt. Geheimes Wissen hat Dir einen neuen Körper und die Fähigkeit, Giften zu widerstehen, verliehen."
 }

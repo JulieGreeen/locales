@@ -1178,5 +1178,19 @@
     "plural_like":"benzeri|beğeni",
     "broadcast_end_share_title":"FlirtyMania görüntülü sohbet yayınımı şimdi bitirdim!",
     "broadcast_end_share_descr":"{1}'dan {0} aldım! Puanımı geçmeye çalış!",
-    "likes_exp":"Beğeniler için deneyim kazanıldı"
+    "likes_exp":"Beğeniler için deneyim kazanıldı",
+    "hlwn_title":"Şeker mi şaka mı!",
+    "hlwn_descr":"Yılın bu en korkunç ve eğlenceli gününün kutlamasında bize katılın! Aynı fiyata, iki kat sayıda jeton - Cadılar Bayramı'nı mümkün olan en iyi şekilde kutlamanıza yardımcı olacak.Ürkütücülük Bölümü, jetonlarınızı yeni hediye ve çıkartma koleksiyonlarına harcamanızı öneriyor, böylece tüm yıl boyunca herkesi ürkütmeye devam edebilirsiniz.",
+    "potion_1":"Şans İksiri",
+    "potion_1_description": "Organik dört yapraklı yoncalardan süzüldü, cüceler tarafından altın çömleklerde hazırlandı. Kullanmanın hemen ardından piyango kazanmalar ve şanslı kazalarla karşılaşacaksın!",
+    "potion_2":"Aşk İksiri",
+    "potion_2_description":"Biraz ilişki çılgınlığı için bir gül yaprağı çiyi, yer muhabbet kuşu tüyleri ve bir damla adamotu özütü karışımı. Dikkatli kullan ya da bağımlı olma riskini al!",
+    "potion_3":"Güç İksiri",
+    "potion_3_description":"Kadim ve sihirli bir meşe ağacının kabuğundan yapılmış küçük bir şişe içerisinde basilisk pençesiyle güçlendirilmiş ejderha nefesi. Artık çalıştırıcın son set esnasında bir daha asla gülmeyecek.",
+    "potion_4":"Güzellik İksiri",
+    "potion_4_description":"Meleklere ait bir tüyle karıştırılmış ve nadide tuz kristalleri ve altın yaprak ile güçlendirilmiş, güzel periler ve orman elflerinin gözyaşları. Güzellik artık fedakarlık gerektirmiyor - sadece birkaç yudum al...",
+    "potion_5":"Sonsuz Yaşam İksiri",
+    "potion_5_description":"Gizli bir kaynaktan alınan yaşam suyu ve ejderha pulu özütü sana ve sevdiğine ölümsüzlük sağlayacak. İçen kişiye tüm zehir ve hastalıklara karşı direnç sağlaması için en derin mağarada bulunan bir yılan yuvasında yüz yıl boyunca mayalandı. Kendi üzerinde kullan ya da kaybetmekten korktuğun birine ver.",
+    "card_61": "Basilisk'in sihir güçleri",
+	"card_61_descr": "Esrarengiz güç içine doluyorken derinin her tarafında güçlü pulların oluştuğunu hissediyorsun. Gizli ilim sana yeni bir beden ve zehirlere karşı direnç yeteneği verdi."
 }

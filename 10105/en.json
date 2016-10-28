@@ -996,5 +996,19 @@
     "filter_vip": "VIP Only",
     "filter_all_age_badge": "All",
     "filter_age_range": "Age Range",
-    "likes_exp":"Experience received for likes"
+    "likes_exp":"Experience received for likes",
+    "hlwn_title":"Trick or treat!",
+    "hlwn_descr":"Join us in celebration of this most scary and fun day of the year! Twice the number of coins for the same price - that will help you celebrate Halloween the best way possible. Department of Spookiness recommends that you spend the coins on the new collection of presents and stickers, so that you can continue spooking everyone all year around.",
+    "potion_1":"Luck Potion",
+    "potion_1_description": "Squeezed from organic four-leaf clovers, prepared by leprechauns in pots of gold. Lottery winnings and lucky accidents will come your way immediately after use!",
+    "potion_2":"Love Potion",
+    "potion_2_description":"A mixture of rose petal dew, ground lovebird feathers and a drop of mandrake extract for some relationship madness. Use with care or risk becoming addicted!",
+    "potion_3":"Strength Potion",
+    "potion_3_description":"Dragon breath infused with a basilisk claw, enclosed in a flask made from the encrusted bark of an ancient, magical oak tree. Now your trainer will never laugh during the last set. ",
+    "potion_4":"Beauty Elixir",
+    "potion_4_description":"The tears of beautiful fairies and woodland elves mixed with an angelic feather and infused with precious salt crystals and gold leaf. Beauty no longer requires sacrifice - just take a couple of sips...",
+    "potion_5":"Potion of Eternal Life",
+    "potion_5_description":"Water of life from a secret source and dragon scale extract will grant you and your loved one immortality. It brewed for one hundred years in a snake's nest found in the deepest cave in order to give the drinker resistance to all poisons and diseases. Use it on yourself or give it to someone you fear losing. ",
+    "card_61": "Basilisk's magic powers",
+	"card_61_descr": "You feel strong scales grow all over your skin as uncanny force fills you from within. Secret knowledge has given you a new body and the ability to resist poison."
 }
