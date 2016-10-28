@@ -801,6 +801,7 @@
     "vb_settings_ios_inst_37": "vcr",
     "vb_settings_ios_inst_38": "vcr",
     "vb_settings_ios_inst_39": "vcr",
+    "vb_settings_ios_inst_41": "vcr",
     "vb_settings_ios_min_shower_gen": "39",
     "vb_settings_android_min_shower_gen": "39",
     "vb_settings_android_app_id": "air.flirtymania.videochat",
@@ -1010,5 +1011,6 @@
     "potion_5":"Potion of Eternal Life",
     "potion_5_description":"Water of life from a secret source and dragon scale extract will grant you and your loved one immortality. It brewed for one hundred years in a snake's nest found in the deepest cave in order to give the drinker resistance to all poisons and diseases. Use it on yourself or give it to someone you fear losing. ",
     "card_61": "Basilisk's magic powers",
-	"card_61_descr": "You feel strong scales grow all over your skin as uncanny force fills you from within. Secret knowledge has given you a new body and the ability to resist poison."
+	"card_61_descr": "You feel strong scales grow all over your skin as uncanny force fills you from within. Secret knowledge has given you a new body and the ability to resist poison.",
+    "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/corpse-thumb.png\"}"
 }
