@@ -1284,7 +1284,12 @@
   "item_27_rod": "Storage coins",
   "item_27_prep": "Storage coins",
   "item_27_desc": "Storage should dwarves to store the accumulated coins. The more coins you have, the more you need to build a warehouse. Remember that the explosion of coins that were in the store will go to the attacker.",
-  
+
+  "item_689": "Monster Academy",
+  "item_689_rod": "Monster Academy",
+  "item_689_prep": "Monster Academy",
+  "item_689_desc": "Once it was taught to play chess, but something went wrong ...",
+
   "item_6000": "Den of thieves",
   "item_70003_desc": "Big scary dragon. Fire burns.",
   "item_70005": "Old Hag",
