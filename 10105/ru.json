@@ -1059,11 +1059,11 @@
 		"timerSetY": "216"
 	},
     "hlwn_set_buttons": [
-    { "gift": "potion_2", "x": 206, "y": 812, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
-    { "gift": "potion_1", "x": 206, "y": 1350, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
-    { "gift": "potion_3", "x": 206, "y": 1860, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" },
-    { "gift": "potion_4", "x": 206, "y": 2400, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" },
-    { "gift": "potion_5", "x": 206, "y": 3000, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
+    { "gift": "potion_2", "x": 206, "y": 814, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
+    { "gift": "potion_1", "x": 206, "y": 1353, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
+    { "gift": "potion_3", "x": 206, "y": 1853, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" },
+    { "gift": "potion_4", "x": 206, "y": 2393, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" },
+    { "gift": "potion_5", "x": 206, "y": 2988, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }, 
     { "price": "hlwn", "x": 122, "y": 3494, "width": 114, "height": 36, "backgroundAlpha":0, "stroke":"0xCCCCCC" }],
     "hlwn_set_top": { "nickColor": "0xffffff", "backColor": "0x000000", "timerFill": "0x19BCB6", "timerText": "0xffffff",
                         "timerX": "118", "timerY": "7", "timerSetX": "121", "timerSetY": "216" },
