@@ -311,8 +311,8 @@
     "privete_translation": "Broadcast in the private mode",
     "profile": "Profile",
     "profile_id": "ID",
-    "special_offer": "Trick or treat!",
-    "buy_coins_special_offer": "Join us in celebration of this most scary and fun day of the year! Twice the number of coins for the same price - that will help you celebrate Halloween the best way possible. Department of Spookiness recommends that you spend the coins on the new collection of presents and stickers, so that you can continue spooking everyone all year around.",
+    "special_offer": "Make FlirtyMania great again!",
+    "buy_coins_special_offer": "Congratulations, Donald! We have a special offer for you and for our members. Only for one day get double coins for the same price! Hurry up, our store is waiting!",
     "card_33": "Gnome Nations is 5 years old!",
     "card_33_descr": "In honor of that glorious day we present you 2 times more gold coins for the same price in FlirtyMania!",
     "buy_coins_special_offer_store": "Short, but so beloved double coins Offer. Hurry up to get!",
@@ -1026,6 +1026,6 @@
     "card_61_descr": "You feel strong scales grow all over your skin as uncanny force fills you from within. Secret knowledge has given you a new body and the ability to resist poison.",
     "guest_name":"Guest",
     "newcomer_name":"Newcomer",
-    "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/corpse-thumb.png\"}"
+    "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/present_flag_us.png\"}"
 
 }
