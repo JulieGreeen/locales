@@ -1155,6 +1155,10 @@
     "potion_4_description":"Des larmes de fées et d'elfes des bois mélangées avec une plume d'ange et infusées avec des cristaux de sel et une feuille d'or. Le beauté ne nécessite plus de souffrir – il suffit de boire quelques gorgées…",
     "potion_5":"L’élixir de jouvence",
 	"notifications": "Notifications",
+"notification_enable_disable": "Vous pouvez désactiver et activer les notifications quand vous le souhaitez.",
+"notification_new_direct_message": "Nouveau message direct",
+"notification_subscribed_go_live": "Une personne à laquelle je suis abonné est en live",
+"notification_subscribed_banned": "Une personne à laquelle je suis abonné a été radiée",	
     "potion_5_description":"L'eau de la vie puisée dans une source secrète et les extraits d'écailles de dragons vous rendront immortels, vous et vos proches. Il a infusé pendant un siècle dans le nid d'un serpent situé dans une profonde grotte, afin de rendre résistant à tous les poisons et maladies celui qui le boit. Utilisez-le pour vous ou donnez-le à quelqu'un que vous craignez de perdre.",
     "card_61": "Les pouvoirs magiques du basilic",
 	"card_61_descr": "Vous sentez des écailles épaisses pousser sur votre peau, alors qu'une force surnaturelle vous emplit de l'intérieur. Un savoir secret vous a donné un nouveau corps et le pouvoir de résister au poison."
