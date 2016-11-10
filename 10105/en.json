@@ -1026,6 +1026,7 @@
     "card_61_descr": "You feel strong scales grow all over your skin as uncanny force fills you from within. Secret knowledge has given you a new body and the ability to resist poison.",
     "guest_name":"Guest",
     "newcomer_name":"Newcomer",
+    "notifications": "Notifications",
     "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/present_flag_us.png\"}"
 
 }
