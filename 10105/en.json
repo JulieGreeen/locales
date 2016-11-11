@@ -1030,7 +1030,8 @@
 "notification_enable_disable": "You can turn off and turn on any notifications whenever you want.",
 "notification_new_direct_message": "New direct message",
 "notification_subscribed_go_live": "Someone i'm subscribed to goes live",
-"notification_subscribed_banned": "Someone i'm subscribed to was banned",	
+"notification_subscribed_banned": "Someone i'm subscribed to was banned",
+	"help_and_support": "Help and Support",
     "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/present_flag_us.png\"}"
 
 }
