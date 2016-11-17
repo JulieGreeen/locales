@@ -1189,6 +1189,7 @@
 "notification_enable_disable": "いつでもお好きな時にどの通知もオンまたはオフにすることができます",
 "notification_new_direct_message": "新たなダイレクトメッセージ",
 "notification_subscribed_go_live": "購読している人がライブ",
-"notification_subscribed_banned": "購読している人が追放された",	
+"notification_subscribed_banned": "購読している人が追放された",
+	"help_and_support": "サポート",
 	"card_61_descr": "すごい力が内側から湧いてきて、強いうろこが体を覆っていくのを感じます。秘密の知識が、あなたに新しい体と毒への抵抗力を与えます。"
 }
