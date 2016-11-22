@@ -551,7 +551,7 @@
 	"card_7": "Düzenle",
 	"card_7_descr": "Sohbet odasındaki tüm mesajları siler",
 	"card_8": "Ölüm",
-	"card_8_descr": "Ölümcül bir kartın saldırısına uğrarsan ve enerjin yoksa, ölürsün. Bu olursa, toplam deneyiminin yüzde %0.1 kadarını (en fazla 500 XP) kaybedersin. Bu etki altındayken sohbet edemezsin, kartların üzerinde etkisi olmaz ve kartları kullanamazsın.",
+	"card_8_descr": "Ölümcül bir kartın saldırısına uğrarsan ve enerjin yoksa, ölürsün. Bu olursa, toplam deneyiminin yüzde %0.2 kadarını (en fazla 700 XP) kaybedersin. Bu etki altındayken sohbet edemezsin, kartların üzerinde etkisi olmaz ve kartları kullanamazsın.",
 	"card_9": "Asfalta yuvarla",
 	"card_9_descr": "Rakibinin üstesinden gelmek için çok etkili bir yöntem",
 	"card_10": "Yeniden canlandır",

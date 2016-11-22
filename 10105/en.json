@@ -551,7 +551,7 @@
     "card_7" : "Tidy",
     "card_7_descr" : "Deletes all messages in the chat room",
     "card_8" : "Death",
-    "card_8_descr" : "If you get attacked by a deadly card and have no energy, you die. If this happens, you lose %0.1 percent of your accumulated experience (up to 500 XP). While under this effect you cannot chat, cards have no effect on you, and you cannot use cards.",
+    "card_8_descr" : "If you get attacked by a deadly card and have no energy, you die. If this happens, you lose %0.2 percent of your accumulated experience (up to 700 XP). While under this effect you cannot chat, cards have no effect on you, and you cannot use cards.",
     "card_9" : "Roll into asphalt",
     "card_9_descr" : "A very efficient method of dealing with your opponent",
     "card_10" : "Resurrect",
