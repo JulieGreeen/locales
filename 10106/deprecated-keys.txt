@@ -10,11 +10,13 @@ fine_discount
 common.fines.evidence.*
 common.fines.types.*
 common.fines.timeWaiting
+
 # Плохой перевод в locale=ar|en для ключей:
 common.fines.reasons.lostaccount
 support.*
 account.*
 changePsw.*
+jsShower.authFrm.actionMsg
 
 
 # Комментарий к common.fines.timeHeader

@@ -335,7 +335,7 @@
   "jsShower.appType.toText.app": "в приложение",
   "jsShower.appType.toText.chat": "в чат",
   "jsShower.appType.toText.game": "в игру",
-  "jsShower.authFrm.actionMsg": "Процесс авторизации запущен. Если что-то пошло не так, просто отмените это действие.",
+  "jsShower.authFrm.actionMsg": "Процесс авторизации запущен. Пожалуйста, дождитесь окончания или отмените это действие.",
   "jsShower.authFrm.btnContinue": "Готово",
   "jsShower.authFrm.btnLogin": "Войти",
   "jsShower.authFrm.btnToAuthNewPass": "Войти с новым паролем",
