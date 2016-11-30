@@ -48,6 +48,7 @@
   "common.fines.reasons.delete-account.header": "Аккаунт удалён",
   "common.fines.reasons.delete-account.subtitle": "Ваш аккаунт был удалён после получения от вас соответствующей заявки. Данные удалённого аккаунта хранятся в архиве в течении месяца и в течении этого срока Вы можете заказать и оплатить услугу востановление вашего аккаунта из архива.",
   "common.fines.reasons.sexual-behavior": "Непристойное сексуальное поведение",
+  "common.fines.reasons.abusive": "Материалы оскорбительного содержания",
   "common.fines.timeWaiting": "Доступ к приложению будет автоматически открыт {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Проекты Мастера Тигры",
 
