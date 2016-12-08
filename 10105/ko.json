@@ -1189,7 +1189,8 @@
 "notification_enable_disable": "원하실 때 언제든 모든 알림을 켜고 끌 수 있습니다.",
 "notification_new_direct_message": "새로운 다이렉트 메시지",
 "notification_subscribed_go_live": "구독한 사용자 중 누군가 생방송을 시작합니다",
-"notification_subscribed_banned": "구독한 사용자 중 누군가 차단당했습니다",	
+"notification_subscribed_banned": "구독한 사용자 중 누군가 차단당했습니다",
+"selfie_screen_face_was_not_found": "얼굴이 인식되지 않았습니다. 해당 프로필 사진은 사용할 수 없습니다.",
 	"help_and_support": "지원하다",
 	"card_61_descr": "몸 안에서부터 묘한 기운이 솟아나면서 온 피부에 강력한 비늘이 자라는 것을 느낄 수 있습니다. 비밀 비법이 당신에게 새로운 신체와 물약에 저항할 수 있는 힘을 주었습니다."
 }
