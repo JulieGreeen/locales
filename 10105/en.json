@@ -1032,7 +1032,13 @@
     "notification_subscribed_go_live": "Someone i'm subscribed to goes live",
     "notification_subscribed_banned": "Someone i'm subscribed to was banned",
     "help_and_support": "Support",
+    "auht_remember_head": "Привет %username%!",
+    "auht_remember_main": "Для использования аккаунта, вам нужно войти",
+    "auht_remember_im_not_button": "Я не %username%",
+    "guest_should_sing_in_head": "Напоминание!",
+    "guest_should_sing_in_main": "Войдите, чтобы не потерять доступ к этому аккаунту",
     "selfie_screen_face_was_not_found": "Your face was not recognized. Such profile picture cannot be used.",
+"terms_and_EULA_text": "Напоминаем, используя приложение вы принимаете <a href='{0}'>EULA</a> и <a href='{1}'>Privacy Policies</a>.",
     "settings_test_informer":"{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/black_catday.png\"}",
     "direct_payment":"1"
 }
