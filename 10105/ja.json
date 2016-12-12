@@ -1050,8 +1050,8 @@
 		"timerText": "0xffffff",
 		"timerX": "118",
 		"timerY": "7",
-		"timerSetX": "121",
-		"timerSetY": "216"
+		"timerSetX": "190",
+		"timerSetY": "6"
 	},
     "shine_set_buttons":[{"gift":"earrings", "x":206, "y":958, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
                          {"gift":"clip", "x":206, "y":1488, "width":114, "height":36, "backgroundAlpha":0, "stroke":"0xCCCCCC", "color":"0xFFFFFF"},
