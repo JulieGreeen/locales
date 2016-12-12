@@ -1040,8 +1040,8 @@
 		"timerText": "0xffffff",
 		"timerX": "118",
 		"timerY": "7",
-		"timerSetX": "121",
-		"timerSetY": "216"
+		"timerSetX": "190",
+		"timerSetY": "6"
 	},
 	"shine_set_buttons": [{
 		"gift": "earrings",
