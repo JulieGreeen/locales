@@ -48,6 +48,7 @@
   "common.fines.reasons.delete-account.header": "Account removed",
   "common.fines.reasons.delete-account.subtitle": "Your account has been removed after the receipt of the corresponding application from you. Data this account stored in the archive for a month, and during this period you can order and pay for the service of Recover your account from the archive.",
   "common.fines.reasons.sexual-behavior": "Indecent sexual behavior",
+  "common.fines.reasons.abusive": "Offensive materials",
   "common.fines.timeWaiting": "Access to the application will be automatically opened {afterTimePeriod}.",
   "common.fines.mrtigraTitle": "Master Tigra Projects",
   "account.header.title": "Your account",
