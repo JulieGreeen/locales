@@ -1328,5 +1328,16 @@
 	"hello_message_main": "FlirtyMania'ya hoşgeldin. Ücretsiz kart almak için uygulamayı hergün aç.",
 	"success_activated_guest_account": "FlirtyMania'ya hoşgeldin. Artık hesabını istediğin yerden kolay bir şekilde kullanabilirsin.",
 	"hello_message_head": "Merhaba %username%!",
-	"terms_and_EULA_text": "Uygulamayı kullanmaya devam ederek <a href='{0}'>SKLA</a>'mızı, <a href='{1}'>Gizlilik Politikası</a>'nı kabul eder ve sakıncalı içeriğe hiç bir tolerans olmadığını anlamış olursunuz."
+	"terms_and_EULA_text": "Uygulamayı kullanmaya devam ederek <a href='{0}'>SKLA</a>'mızı, <a href='{1}'>Gizlilik Politikası</a>'nı kabul eder ve sakıncalı içeriğe hiç bir tolerans olmadığını anlamış olursunuz.",
+    "dismantle_gift":"Hediyeyi bölün",
+    "dismantle_gift_descr":"Hediyeyi böldükten sonra şu rastgele ödüllerden birini alacaksınız:",
+    "dismantle_chanse":"Düşürme şansı:",
+    "chanse_high":"Yüksek",
+    "chanse_mid":"Orta",
+    "chanse_low":"Düşük",
+    "dismantle":"Kırılır",
+    "you_get_card":"Tebrikler! {0}'ı aldın!",
+    "you_get_coins":"Tebrikler! Bir {0} kazandın!",
+    "you_get_exp":"Tebrikler! Bir {0} kazandın!",
+    "you_get_money":"Tebrikler! Bir {0} kazandın!"
 }

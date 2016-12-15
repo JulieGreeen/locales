@@ -1335,5 +1335,16 @@
 	"hello_message_head": "Hello %username%!",
 	"terms_and_EULA_text": "By continuing to use the app, you agree to our <a href='{0}'>EULA</a>, <a href='{1}'>Privacy Policies</a> and understand that there is no tolerance for objectionable content.",
 	"direct_payment": "1",
-	"settings_test_informer": "{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/black_catday.png\"}"
+	"settings_test_informer": "{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/black_catday.png\"}",
+    "dismantle_gift":"Split up the present",
+    "dismantle_gift_descr":"After breaking that present you’ll get one of these random rewards:",
+    "dismantle_chanse":"Drop chance:",
+    "chanse_high":"High",
+    "chanse_mid":"Average",
+    "chanse_low":"Low",
+    "dismantle":"Break",
+    "you_get_card":"Congratulations! You got the {0}!",
+    "you_get_coins":"Congratulations! You’ve earned a {0}!",
+    "you_get_exp":"Congratulations! You’ve earned a {0}!",
+    "you_get_money":"Congratulations! You’ve earned a {0}!"
 }
