@@ -1331,7 +1331,7 @@
 	"terms_and_EULA_text": "Uygulamayı kullanmaya devam ederek <a href='{0}'>SKLA</a>'mızı, <a href='{1}'>Gizlilik Politikası</a>'nı kabul eder ve sakıncalı içeriğe hiç bir tolerans olmadığını anlamış olursunuz.",
     "dismantle_gift":"Hediyeyi bölün",
     "dismantle_gift_descr":"Hediyeyi böldükten sonra şu rastgele ödüllerden birini alacaksınız:",
-    "dismantle_chanse":"Düşürme şansı:",
+    "dismantle_chanse":"Düşürme şansı:{0}",
     "chanse_high":"Yüksek",
     "chanse_mid":"Orta",
     "chanse_low":"Düşük",

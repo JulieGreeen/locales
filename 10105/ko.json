@@ -1312,7 +1312,7 @@
 	"terms_and_EULA_text": "이 앱을 계속 사용하면 당사의 <a href='{0}'>최종 사용자 라이선스 동의</a>와 <a href='{1}'>개인 정보 보호 정책</a>에 동의하고, 타인에게 해를 끼칠 수 있는 콘텐츠를 엄중히 처리하는 것에 대해 이해하는 것으로 간주됩니다.",
     "dismantle_gift":"선물 분할하기",
     "dismantle_gift_descr":"해당 선물을 분할하면 다음과 같은 무작위 보상을 얻게 됩니다.",
-    "dismantle_chanse":"드롭 기회:",
+    "dismantle_chanse":"드롭 기회:{0}",
     "chanse_high":"고",
     "chanse_mid":"중",
     "chanse_low":"저",
