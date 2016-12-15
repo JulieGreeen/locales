@@ -1283,7 +1283,7 @@
 	"terms_and_EULA_text": "En continuant d'utiliser l'application, vous acceptez notre <a href='{0}'>CLUF</a>, notre <a href='{1}'>politique de confidentialité </a> et comprenez que le contenu répréhensible n'est absolument pas toléré.",
     "dismantle_gift":"Partager le cadeau",
     "dismantle_gift_descr":"Après avoir partagé ce cadeau, vous obtiendrez l'une de ces récompenses aléatoires :",
-    "dismantle_chanse":"Probabilité de baisse :{0}",
+    "dismantle_chanse":"Probabilité : {0}",
     "chanse_high":"Haute",
     "chanse_mid":"Moyenne",
     "chanse_low":"Faible",
