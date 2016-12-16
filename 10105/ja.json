@@ -1309,5 +1309,16 @@
 	"hello_message_main": "FlirtyMania へようこそ。アプリを毎日開いて無料でカードをゲットしましょう。",
 	"success_activated_guest_account": "FlirtyMania へようこそ。 これでどこにいてもあなたのアカウントを手軽に利用できるようになりました。",
 	"hello_message_head": "こんにちは、%username% さん!",
-	"terms_and_EULA_text": "アプリを継続的にご利用頂くことで、当社の <a href='{0}'>EULA</a>,、<a href='{1}'>プライバシーポリシー</a> に同意したとみなされ、好ましくないコンテンツを含んではならないことを理解したとみなされます。"
+	"terms_and_EULA_text": "アプリを継続的にご利用頂くことで、当社の <a href='{0}'>EULA</a>,、<a href='{1}'>プライバシーポリシー</a> に同意したとみなされ、好ましくないコンテンツを含んではならないことを理解したとみなされます。",
+    "dismantle_gift":"プレゼントを分割",
+    "dismantle_gift_descr":"そのプレゼントをブレイクした後、あなたはこれらのランダムな報奨を受けます:",
+    "dismantle_chanse":" ドロップチャンス:{0}",
+    "chanse_high":"ハイ",
+    "chanse_mid":"アベレージ",
+    "chanse_low":"ロー",
+    "dismantle":"ブレイク",
+    "you_get_card":"おめでとうございます! {0} を入手しました!",
+    "you_get_coins":"おめでとうございます! {0} を獲得しました!",
+    "you_get_exp":"おめでとうございます! {0} を獲得しました!",
+    "you_get_money":"おめでとうございます! {0} を獲得しました!"
 }

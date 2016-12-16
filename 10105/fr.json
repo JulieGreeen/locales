@@ -1280,5 +1280,16 @@
 	"hello_message_main": "Bienvenue sur FlirtyMania. Ouvrez l'application tous les jours pour gagner des cadeaux.",
 	"success_activated_guest_account": "Bienvenue sur FlirtyMania. Maintenant, vous pouvez facilement utiliser votre compte de n'importe où.",
 	"hello_message_head": "Bonjour %username% !",
-	"terms_and_EULA_text": "En continuant d'utiliser l'application, vous acceptez notre <a href='{0}'>CLUF</a>, notre <a href='{1}'>politique de confidentialité </a> et comprenez que le contenu répréhensible n'est absolument pas toléré."
+	"terms_and_EULA_text": "En continuant d'utiliser l'application, vous acceptez notre <a href='{0}'>CLUF</a>, notre <a href='{1}'>politique de confidentialité </a> et comprenez que le contenu répréhensible n'est absolument pas toléré.",
+    "dismantle_gift":"Partager le cadeau",
+    "dismantle_gift_descr":"Après avoir partagé ce cadeau, vous obtiendrez l'une de ces récompenses aléatoires :",
+    "dismantle_chanse":"Probabilité : {0}",
+    "chanse_high":"Haute",
+    "chanse_mid":"Moyenne",
+    "chanse_low":"Faible",
+    "dismantle":"Partage",
+    "you_get_card":"Félicitations ! Vous avez maintenant la nouvelle carte : {0} !",
+    "you_get_coins":"Félicitations ! Vous venez d'obtenir {0} !",
+    "you_get_exp":"Félicitations! Vous venez d'obtenir {0} points d'expérience !",
+    "you_get_money":"Félicitations ! Vous venez d'obtenir {0} !"
 }
