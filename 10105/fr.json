@@ -1294,5 +1294,7 @@
     "you_get_card":"Félicitations ! Vous avez maintenant la nouvelle carte : {0} !",
     "you_get_coins":"Félicitations ! Vous venez d'obtenir {0} !",
     "you_get_exp":"Félicitations! Vous venez d'obtenir {0} points d'expérience !",
-    "you_get_money":"Félicitations ! Vous venez d'obtenir {0} !"
+    "you_get_money":"Félicitations ! Vous venez d'obtenir {0} !",
+    "much_coins":"{0} pièces",
+    "much_exp":"{0} points d'expérience"
 }

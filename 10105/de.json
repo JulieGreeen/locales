@@ -1314,5 +1314,7 @@
     "you_get_card":"Glückwunsch! Du hast die {0} erhalten!",
     "you_get_coins":"Glückwunsch! Du hast {0} verdient!",
     "you_get_exp":"Glückwunsch! Du hast {0} verdient!",
-    "you_get_money":"Glückwunsch! Du hast {0} verdient!"
+    "you_get_money":"Glückwunsch! Du hast {0} verdient!",
+    "much_coins":"{0} Münzen",
+    "much_exp":"{0} Erfahrungspunkte"
 }

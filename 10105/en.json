@@ -1349,5 +1349,7 @@
     "you_get_card":"Congratulations! You got the {0}!",
     "you_get_coins":"Congratulations! You’ve earned a {0}!",
     "you_get_exp":"Congratulations! You’ve earned a {0}!",
-    "you_get_money":"Congratulations! You’ve earned a {0}!"
+    "you_get_money":"Congratulations! You’ve earned a {0}!",
+    "much_coins":"{0} coins",
+    "much_exp":"{0} experience points"
 }
