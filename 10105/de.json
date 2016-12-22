@@ -686,6 +686,8 @@
 	"card_60_descr": "Ihr Reichtum blendet das Auge! Erhöht Angriff und Verteidigung. Dient auch als Schutzschild mit einer Wahrscheinlichkeit von 50 %, Angriffe abzuwehren.",
 	"card_62": "Megaphon",
 	"card_62_descr": "Wenn du etwas sagen willst, dann sag es laut! Eine größere Schriftart ist eine tolle Möglichkeit, anzugeben oder jemandem einen Streich zu spielen.",
+    "card_63": "Winterzauber",
+	"card_63_descr": "Ihre Fähigkeiten sind gewachsen, genauso wie Ihre Genauigkeit im Umgang mit Karten! Fügen Sie hier eine bessere Verteidigung hinzu und beginnen Sie endlich, Ihre neuen Zauberkräfte einzusetzen!",
 	"confuse_descr": "Es gibt eine Möglichkeit, durcheinander zu kommen",
 	"for_user": "für ",
 	"from_user": "von ",
@@ -1223,7 +1225,7 @@
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
-    "ny17_set": "",
+    "ny17_set": "Kuschelige Weihnachten",
 	"hlwn_set": "Hexenladen",
 	"wwf_set": "Seltene Tiere",
 	"romantic_set": "Romantische Kollektion",
@@ -1370,5 +1372,15 @@
     "you_get_exp":"Glückwunsch! Du hast {0} verdient!",
     "you_get_money":"Glückwunsch! Du hast {0} verdient!",
     "much_coins":"{0} Münzen",
-    "much_exp":"{0} Erfahrungspunkte"
+    "much_exp":"{0} Erfahrungspunkte",
+    "angel_cat":"Weihnachtsengel",
+    "angel_cat_description":"Vier Pfoten und zwei Flügel – dieses Kätzchen sorgt für wunderbare Stimmung. Die perfekte Gesellschaft für verschneite Abende.",
+    "hot_chocolate":"Heiße Schokolade mit Marshmallows",
+    "hot_chocolate_description":"Die beliebteste Winterleckerei – eine süße Wolke in Ihrer Tasse! Teilen Sie sie mit Ihren Liebsten oder machen Sie sich selbst eine Freude.",
+    "mittens":"Fäustlinge für Turteltäubchen",
+    "mittens_description":"Wenn Sie bei jedem Wetter Händchen halten wollen, nehmen Sie die Hände aus den Taschen und zeigen Sie der Welt Ihre Liebe. Jeder, der so etwas verschenkt, zeigt damit, wie wichtig ihm seine bessere Hälfte ist.",
+    "corgi":"Weihnachtselfe",
+    "corgi_description":"Dieses Jahr kümmert sich dieser süße Corgi um Ihre Geschenke. Jeder sollte so einen Freund haben. Sogar Ihre Winterspaziergänge werden glücklicher sein als jemals zuvor.",
+    "xmas_tree":"Weihnachtsbaum",
+    "xmas_tree_description":"Er ist der Mittelpunkt der anstehenden Feiertage. Die interessantesten Dinge passieren um ihn herum. Und unter seinen plüschigen Pfoten finden Sie die unglaublichsten Geschenke."
 }

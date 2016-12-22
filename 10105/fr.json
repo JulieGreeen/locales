@@ -684,6 +684,8 @@
 	"card_60_descr": "Votre richesse éblouit ! Augmente l'attaque et la défense, et agit également comme un bouclier avec 50 % de chance de renvoyer les attaques.",
 	"card_62": "Mégaphone",
 	"card_62_descr": "Si vous avez quelque chose à dire, dites-le haut et fort ! Une grande police est une excellente façon de frimer ou de faire une blague à quelqu'un.",
+    "card_63": "Magie d'hiver",
+	"card_63_descr": "Vos aptitudes ont grandi, et il en va de même de votre capacité à utiliser des cartes ! Ajoutez-y une meilleure défense et commencez à utiliser pour de bon vos nouveaux pouvoirs magiques !",
 	"confuse_descr": "Le risque de confusion existe",
 	"for_user": "pour ",
 	"from_user": "de ",
@@ -1201,7 +1203,7 @@
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
-    "ny17_set": "",
+    "ny17_set": "Noël douillet",
 	"hlwn_set": "La boutique de la sorcière",
 	"wwf_set": "Les animaux rares",
 	"romantic_set": "Collection romantique",
@@ -1350,5 +1352,15 @@
     "you_get_exp":"Félicitations! Vous venez d'obtenir {0} points d'expérience !",
     "you_get_money":"Félicitations ! Vous venez d'obtenir {0} !",
     "much_coins":"{0} pièces",
-    "much_exp":"{0} points d'expérience"
+    "much_exp":"{0} points d'expérience",
+    "angel_cat":"Ange de Noël",
+    "angel_cat_description":"Avec ses quatre pattes et ses deux ailes, ce chaton vous mettra de merveilleuse humeur. C'est le compagnon parfait pour les soirées enneigées.",
+    "hot_chocolate":"Chocolat chaud avec des marshmallows",
+    "hot_chocolate_description":"Le délice de Noël préféré de tous : un joli nuage dans votre mug ! Partagez-le avec votre être aimé ou savourez-le seul.",
+    "mittens":"Mitaines pour les amoureux",
+    "mittens_description":"Vous souhaitez vous tenir la main, peu importe le temps ? Sortez vos mains de vos poches et montrez votre amour au monde entier. Toute personne offrant un tel cadeau tient indubitablement à sa moitié.",
+    "corgi":"Elfe du Père Noël",
+    "corgi_description":"Cette année, cet adorable corgi s'occupera de vos cadeaux. Tout le monde a besoin d'un tel ami. Même vos promenades d'hiver seront plus savoureuses qu'avant.",
+    "xmas_tree":"Arbre de Noël",
+    "xmas_tree_description":"C'est le personnage principal des vacances à venir. Les choses les plus intéressantes s'y passent autour. Et sous ses pattes velues, vous trouverez les cadeaux les plus incroyables."
 }

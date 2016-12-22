@@ -652,6 +652,8 @@
 	"card_60_descr": "Your wealth dazzles! Increases attack and defense, and also acts as a shield with a 50% chance of reflecting attacks.",
 	"card_62": "Megaphone",
 	"card_62_descr": "If you want to say it, say it loud! Bigger font is a great way to show off or play a joke on someone.",
+    "card_63": "Winter magic",
+	"card_63_descr": "Your abilities grown up and same as your card using accuracy! Add here a better defence and start to use your new magic powers for good!",
 	"confuse_descr": "There's a chance to get confused",
 	"for_user": "for ",
 	"from_user": "from ",
@@ -1234,7 +1236,7 @@
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
-    "ny17_set": "",
+    "ny17_set": "Cozy Xmas",
 	"hlwn_set": "Witch's Shop",
 	"wwf_set": "Rare animals",
 	"romantic_set": "Romantic and love",
@@ -1405,5 +1407,15 @@
     "you_get_exp":"Congratulations! You’ve earned a {0}!",
     "you_get_money":"Congratulations! You’ve earned a {0}!",
     "much_coins":"{0} coins",
-    "much_exp":"{0} experience points"
+    "much_exp":"{0} experience points",
+    "angel_cat":"Christmas angel",
+    "angel_cat_description":"Four paws and two wings - this kitty creates a wonderful mood. Perfect company for snowy evenings.",
+    "hot_chocolate":"Hot chocolate with marshmallows.",
+    "hot_chocolate_description":"The most favorite winter delight - a sweet cloud in your mug! Share it with your beloved ones or treat yourself.",
+    "mittens":"Mittens for love birds",
+    "mittens_description":"You want to hold hands in any weather! Get your hands out of your pockets and show your love to the whole world. Anyone who makes such a gift definitely cares about their second half.",
+    "corgi":"Santa's Elf",
+    "corgi_description":"This year this adorable corgi will take care of your gifts. Everyone needs such a friend. Even your winter walks will be happier than ever before.",
+    "xmas_tree":"Christmas tree",
+    "xmas_tree_description":"It is the main figure of the upcoming holidays. The most interesting things are happening around it. And under its furry paws, you find the most unbelievable gifts."
 }
