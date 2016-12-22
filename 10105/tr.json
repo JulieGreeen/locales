@@ -1180,6 +1180,60 @@
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
+    "ny17_set_buttons": [{
+		"gift": "hot_chocolate",
+		"x": 206,
+		"y": 930,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "mittens",
+		"x": 206,
+		"y": 1480,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "angel_cat",
+		"x": 206,
+		"y": 1980,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "corgi",
+		"x": 206,
+		"y": 2500,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "xmas_tree",
+		"x": 206,
+		"y": 3020,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"price": "ny17",
+		"x": 122,
+		"y": 3550,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}],
+	"ny17_set_top": {
+		"nickColor": "0xffffff",
+		"backColor": "0x041146",
+		"timerFill": "0x19BCB6",
+		"timerText": "0xffffff",
+		"timerX": "118",
+		"timerY": "7",
+		"timerSetX": "121",
+		"timerSetY": "216"
+	},
+    "ny17_set": "",
 	"hlwn_set": "Cadı'nın Dükkanı",
 	"wwf_set": "Nadir hayvanlar",
 	"romantic_set": "Romantik ve aşk",

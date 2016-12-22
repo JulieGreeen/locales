@@ -1178,6 +1178,60 @@
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
+    "ny17_set_buttons": [{
+		"gift": "hot_chocolate",
+		"x": 206,
+		"y": 940,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "mittens",
+		"x": 206,
+		"y": 1530,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "angel_cat",
+		"x": 206,
+		"y": 2100,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "corgi",
+		"x": 206,
+		"y": 2640,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"gift": "xmas_tree",
+		"x": 206,
+		"y": 3180,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}, {
+		"price": "ny17",
+		"x": 122,
+		"y": 3750,
+		"width": 114,
+		"height": 36,
+		"backgroundColor": "0xAD84E7"
+	}],
+	"ny17_set_top": {
+		"nickColor": "0xffffff",
+		"backColor": "0x041146",
+		"timerFill": "0x19BCB6",
+		"timerText": "0xffffff",
+		"timerX": "118",
+		"timerY": "7",
+		"timerSetX": "121",
+		"timerSetY": "216"
+	},
+    "ny17_set": "",
 	"hlwn_set": "魔女の店",
 	"wwf_set": "一緒に地球を守りましょう",
 	"romantic_set": "ロマンチック・コレクション",
