@@ -824,6 +824,10 @@
   "item_10037_desc": "As we say in Gnomograde «Troll does not happen without a stone»",
   "item_10037_prep": "Troll stone",
   "item_10037_rod": "Troll stone",
+  "item_10038": "Ice",
+  "item_10038_desc": "It can get in the winter, destroying buildings or monsters.",
+  "item_10038_prep": "Ice",
+  "item_10038_rod": "Ice",
   "item_301": "Town Hall 1",
   "item_301_desc": "From the level of Town Hall depends on the number of buildings",
   "item_301_prep": "Town Hall 1",
@@ -1293,6 +1297,26 @@
   "item_689_rod": "Monster Academy",
   "item_689_prep": "Monster Academy",
   "item_689_desc": "Once it was taught to play chess, but something went wrong ...",
+
+  "item_710": "South Ice palace",
+  "item_710_rod": "South Ice palace",
+  "item_710_prep": "South Ice palace",
+  "item_710_desc": "This beautiful ice palace will decorate your city! It takes a little patience and ice.",
+
+  "item_714": "East Ice palace",
+  "item_714_rod": "East Ice palace",
+  "item_714_prep": "East Ice palace",
+  "item_714_desc": "This beautiful ice palace will decorate your city! It takes a little patience and ice.",
+
+  "item_718": "Northern Ice palac",
+  "item_718_rod": "Northern Ice palac",
+  "item_718_prep": "Northern Ice palac",
+  "item_718_desc": "This beautiful ice palace will decorate your city! It takes a little patience and ice.",
+
+  "item_722": "West Ice Palace",
+  "item_722_rod": "West Ice Palace",
+  "item_722_prep": "West Ice Palace",
+  "item_722_desc": "This beautiful ice palace will decorate your city! It takes a little patience and ice.",
 
   "item_6000": "Den of thieves",
   "item_70003_desc": "Big scary dragon. Fire burns.",
