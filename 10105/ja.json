@@ -1369,6 +1369,7 @@
     "log_dism_gift_exp":"分割されたプレゼントに対してポイント受け取りました: %gift%",
     "log_dism_gift_money":"分割されたプレゼントに対して%count%ドル受け取りました:  %gift%",
     "log_dism_gift_cards":"分割されたプレゼント、%gift% に対して下記カードを受け取りました: %card%。数量: %count%.",
+    "log_daily_bonus":"デイリーボーナスを受けとりました: %card%",
     "dismantle_gift":"プレゼントを分割",
     "dismantle_gift_descr":"そのプレゼントをブレイクした後、あなたはこれらのランダムな報奨を受けます:",
     "dismantle_chanse":" ドロップチャンス:{0}",

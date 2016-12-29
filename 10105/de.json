@@ -1360,6 +1360,7 @@
     "log_dism_gift_exp":"Erfahrung erhalten für geteiltes Geschenk: %gift%",
     "log_dism_gift_money":"%count%$ erhalten für geteiltes Geschenk: %gift%",
     "log_dism_gift_cards":"Für das geteilte Geschenk %gift% haben Sie folgende Karten erhalten: %card%. Menge: %count%.",
+    "log_daily_bonus":"Bonus des Tages erhalten: %card%",
     "dismantle_gift":"Das Geschenk aufteilen",
     "dismantle_gift_descr":"Nach Aufteilen des Geschenks erhalten Sie eine dieser Zufallsbelohnungen:",
     "dismantle_chanse":"Gewinnchance:{0}",

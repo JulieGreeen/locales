@@ -1388,6 +1388,7 @@
     "log_dism_gift_exp":"Bölünen hediye için deneyim alındı: %gift%",
     "log_dism_gift_money":"Bölünen hediye için %count%$ alındı: %gift%",
     "log_dism_gift_cards":"%gift% bölünen hediyesi için, şu kartları aldınız: %card%. Miktar: %count%.",
+    "log_daily_bonus":"Günlük bonus alındı: %card%",
     "dismantle_gift":"Hediyeyi bölün",
     "dismantle_gift_descr":"Hediyeyi böldükten sonra şu rastgele ödüllerden birini alacaksınız:",
     "dismantle_chanse":"Düşürme şansı:{0}",

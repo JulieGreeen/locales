@@ -1340,6 +1340,7 @@
     "log_dism_gift_exp":"A reçu d'expérience pour le cadeau partagé : %gift%",
     "log_dism_gift_money":"A reçu %count% $ pour le cadeau partagé : %gift%",
     "log_dism_gift_cards":"Pour le cadeau partagé %gift%, vous obtenez les cartes : %card%. Quantité : %count%.",
+    "log_daily_bonus":"Bonus quotidien reçu : %card%",
     "dismantle_gift":"Partager le cadeau",
     "dismantle_gift_descr":"Après avoir partagé ce cadeau, vous obtiendrez l'une de ces récompenses aléatoires :",
     "dismantle_chanse":"Probabilité : {0}",

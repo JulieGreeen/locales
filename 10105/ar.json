@@ -1359,6 +1359,7 @@
     "log_dism_gift_exp":"حصلت على نقاط خبرة نظير الهدية المجزأة: %gift%",
     "log_dism_gift_money":"حصلت على %count%$ نظير الهدية المجزأة: %gift%",
     "log_dism_gift_cards":"لقد حصلت على البطاقات: %card%. الكمية: %count%. نظير الهدية المجزأة %gift%",
+    "log_daily_bonus":"المكافأة اليومية التي تم الحصول عليها: %card%",
     "dismantle_gift":"فتح الهدية",
     "dismantle_gift_descr":"ستحصل بعد فتح الهدية على واحدة من هذه المكافآت العشوائية:",
     "dismantle_chanse":"فرصة السقوط:{0}",

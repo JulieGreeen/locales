@@ -1369,6 +1369,7 @@
     "log_dism_gift_exp":"분할된 선물로 경험치 획득: %gift%",
     "log_dism_gift_money":"분할된 선물로 $%count% 획득: %gift%",
     "log_dism_gift_cards":"분할된 선물 %gift%(으)로 카드를 획득했습니다: %card%. 수량 : %count%",
+    "log_daily_bonus":"일일 보너스를 받았습니다: %card%",
     "dismantle_gift":"선물 분할하기",
     "dismantle_gift_descr":"해당 선물을 분할하면 다음과 같은 무작위 보상을 얻게 됩니다.",
     "dismantle_chanse":"드롭 기회:{0}",

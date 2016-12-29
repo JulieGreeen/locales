@@ -1395,6 +1395,7 @@
     "log_dism_gift_exp":"Received experience for splitted gift: %gift%",
     "log_dism_gift_money":"Received $%count% for splitted gift: %gift%",
     "log_dism_gift_cards":"For splitted gift %gift% you’ve got the cards: %card%. Quantity: %count%.",
+    "log_daily_bonus":"Daily bonus recieved: %card%",
     "dismantle_gift":"Split up the gift",
     "dismantle_gift_descr":"After spliting up that gift you’ll get one of these random rewards:",
     "dismantle_chanse":"Drop chance:{0}",
