@@ -1391,7 +1391,7 @@
 	"hello_message_head": "Hello %username%!",
 	"terms_and_EULA_text": "By continuing to use the app, you agree to our <a href='{0}'>EULA</a>, <a href='{1}'>Privacy Policies</a> and understand that there is no tolerance for objectionable content.",
 	"direct_payment": "1",
-	"settings_test_informer": "{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/black_catday.png\", \"deadLine\":1483276000000}",
+	"settings_test_informer": "{\"head\":\"special_offer\", \"mainText\":\"buy_coins_special_offer\", \"actionButtonText\":\"buy_coins_special\", \"action\":\"coinsStore\", \"img\":\"/stuff/{0}/christmas.png\", \"deadLine\":1483276000000}",
     "log_dism_gift_exp":"Received experience for splitted gift: %gift%",
     "log_dism_gift_money":"Received $%count% for splitted gift: %gift%",
     "log_dism_gift_cards":"For splitted gift %gift% you’ve got the cards: %card%. Quantity: %count%.",
