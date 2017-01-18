@@ -1363,5 +1363,7 @@
     "corgi":"Elfe du Père Noël",
     "corgi_description":"Cette année, cet adorable corgi s'occupera de vos cadeaux. Tout le monde a besoin d'un tel ami. Même vos promenades d'hiver seront plus savoureuses qu'avant.",
     "xmas_tree":"Arbre de Noël",
-    "xmas_tree_description":"C'est le personnage principal des vacances à venir. Les choses les plus intéressantes s'y passent autour. Et sous ses pattes velues, vous trouverez les cadeaux les plus incroyables."
+    "xmas_tree_description":"C'est le personnage principal des vacances à venir. Les choses les plus intéressantes s'y passent autour. Et sous ses pattes velues, vous trouverez les cadeaux les plus incroyables.",
+	"button_allow":"Autoriser",
+	"button_deny":"Refuser"
 }

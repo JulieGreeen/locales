@@ -1383,5 +1383,7 @@
     "corgi":"Weihnachtselfe",
     "corgi_description":"Dieses Jahr kümmert sich dieser süße Corgi um Ihre Geschenke. Jeder sollte so einen Freund haben. Sogar Ihre Winterspaziergänge werden glücklicher sein als jemals zuvor.",
     "xmas_tree":"Weihnachtsbaum",
-    "xmas_tree_description":"Er ist der Mittelpunkt der anstehenden Feiertage. Die interessantesten Dinge passieren um ihn herum. Und unter seinen plüschigen Pfoten finden Sie die unglaublichsten Geschenke."
+    "xmas_tree_description":"Er ist der Mittelpunkt der anstehenden Feiertage. Die interessantesten Dinge passieren um ihn herum. Und unter seinen plüschigen Pfoten finden Sie die unglaublichsten Geschenke.",
+	"button_allow":"Erlauben",
+	"button_deny":"Verweigern"
 }

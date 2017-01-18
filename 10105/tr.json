@@ -1411,5 +1411,7 @@
     "corgi":"Santa'nın Cücesi",
     "corgi_description":"Bu yıl bu sevimli corgi hediyelerinle ilgilenecek. Herkesin böyle bir arkadaşa ihtiyacı vardır. Kış yürüşüylerin bile daha önce olmadığı kadar mutlu geçecek.",
     "xmas_tree":"Noel ağacı",
-    "xmas_tree_description":"Yaklaşan tatillerin ana figürü. En ilginç şeyler onun etrafında oluyor. Ve onun tüylü patilerinin altında en inanılmaz hediyeleri bulursun."
+    "xmas_tree_description":"Yaklaşan tatillerin ana figürü. En ilginç şeyler onun etrafında oluyor. Ve onun tüylü patilerinin altında en inanılmaz hediyeleri bulursun.",
+	"button_allow":"İzin Ver",
+	"button_deny":"Reddet"
 }
