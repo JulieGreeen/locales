@@ -1402,6 +1402,7 @@
     "you_get_money":"Tebrikler! Bir {0} kazandın!",
     "much_coins":"{0} akçe",
     "much_exp":"{0} deneyim puanı",
+    "to_your_account":"Hesabınıza %money%$",
     "angel_cat":"Noel meleği",
     "angel_cat_description":"Dört pati ve iki kanat - bu kedicik mükemmel bir hava oluşturuyor. Karlı akşamlar için mükemmel bir arkadaş.",
     "hot_chocolate":"Marshmallowlu sıcak çikolata.",
