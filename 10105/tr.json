@@ -1391,7 +1391,7 @@
     "log_daily_bonus":"Günlük bonus alındı: %card%",
     "dismantle_gift":"Hediyeyi bölün",
     "dismantle_gift_descr":"Hediyeyi böldükten sonra şu rastgele ödüllerden birini alacaksınız:",
-    "dismantle_chanse":"Düşürme şansı:{0}",
+    "dismantle_chanse":"Düşürme şansı: {0}",
     "chanse_high":"Yüksek",
     "chanse_mid":"Orta",
     "chanse_low":"Düşük",

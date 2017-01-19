@@ -1398,7 +1398,7 @@
     "log_daily_bonus":"Daily bonus recieved: %card%",
     "dismantle_gift":"Split up the gift",
     "dismantle_gift_descr":"After spliting up that gift you’ll get one of these random rewards:",
-    "dismantle_chanse":"Drop chance:{0}",
+    "dismantle_chanse":"Drop chance: {0}",
     "chanse_high":"High",
     "chanse_mid":"Average",
     "chanse_low":"Low",

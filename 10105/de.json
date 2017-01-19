@@ -1363,7 +1363,7 @@
     "log_daily_bonus":"Bonus des Tages erhalten: %card%",
     "dismantle_gift":"Das Geschenk aufteilen",
     "dismantle_gift_descr":"Nach Aufteilen des Geschenks erhalten Sie eine dieser Zufallsbelohnungen:",
-    "dismantle_chanse":"Gewinnchance:{0}",
+    "dismantle_chanse":"Gewinnchance: {0}",
     "chanse_high":"Hoch",
     "chanse_mid":"Mittel",
     "chanse_low":"Niedrig",
