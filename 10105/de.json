@@ -1386,5 +1386,6 @@
     "xmas_tree":"Weihnachtsbaum",
     "xmas_tree_description":"Er ist der Mittelpunkt der anstehenden Feiertage. Die interessantesten Dinge passieren um ihn herum. Und unter seinen plüschigen Pfoten finden Sie die unglaublichsten Geschenke.",
 	"button_allow":"Erlauben",
-	"button_deny":"Verweigern"
+	"button_deny":"Verweigern",
+    "sellPresentFailed":"Fehler! Dieses Geschenk war bereits aufgeteilt."
 }

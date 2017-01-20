@@ -1421,5 +1421,6 @@
     "xmas_tree":"Christmas tree",
     "xmas_tree_description":"It is the main figure of the upcoming holidays. The most interesting things are happening around it. And under its furry paws, you find the most unbelievable gifts.",
 	"button_allow":"Allow",
-	"button_deny":"Deny"
+	"button_deny":"Deny",
+    "sellPresentFailed":"Error! That gift was already split."
 }

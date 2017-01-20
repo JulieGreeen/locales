@@ -1366,5 +1366,6 @@
     "xmas_tree":"Arbre de Noël",
     "xmas_tree_description":"C'est le personnage principal des vacances à venir. Les choses les plus intéressantes s'y passent autour. Et sous ses pattes velues, vous trouverez les cadeaux les plus incroyables.",
 	"button_allow":"Autoriser",
-	"button_deny":"Refuser"
+	"button_deny":"Refuser",
+    "sellPresentFailed":"Erreur ! Ce cadeau a déjà été réparti."
 }
