@@ -1416,5 +1416,15 @@
 	"xmas_tree_description": "Yaklaşan tatillerin ana figürü. En ilginç şeyler onun etrafında oluyor. Ve onun tüylü patilerinin altında en inanılmaz hediyeleri bulursun.",
 	"button_allow": "İzin Ver",
 	"button_deny": "Reddet",
+    "get_money_descr":"'Öncülük Et ve Öğren' adlı katılımcı programımızla para kazanabilirsiniz. Kazandıklarınızı PayPal veya Yandex hesabınıza çekmek için, 100$'dan daha fazla toplayın.",
+    "get_money_balance":"Bakiyeniz {0}$",
+    "get_money_pp":"PayPal'a Çek",
+    "get_money_yndx":"Yandex'e Çek",
+    "get_money_enter_pp":"PayPal oturum açma bilgilerinizi girin",
+    "get_money_enter_yndx":"Yandex hesabınızı girin",
+    "get_money_apply":"{0}$'ın çekilmesini talep edin",
+    "get_money_wait":"Para çekim başvurunuz şimdi bekleme listesinde",
+    "get_money_check_pp":"Lütfen PayPal hesabınızı kontrol edin. Bu bir e-posta olmalıdır. Örn: ornek@alanadi.com",
+    "get_money_check_yndx":"Yandex hesabınızı lütfen kontrol edin. Bu bir sayı olmalıdır. Örn: 410011481111111",
 	"sellPresentFailed": "Hata! Bu hediye zaten bölündü."
 }

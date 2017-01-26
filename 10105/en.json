@@ -1423,5 +1423,15 @@
 	"xmas_tree_description": "It is the main figure of the upcoming holidays. The most interesting things are happening around it. And under its furry paws, you find the most unbelievable gifts.",
 	"button_allow": "Allow",
 	"button_deny": "Deny",
+    "get_money_descr":"You can get some money with our affiliate program “Lead and Earn”. Collect more than $100 to withdraw them to your PayPal or Yandex account.",
+    "get_money_balance":" Your balance is ${0}",
+    "get_money_pp":"Withdraw to PayPal",
+    "get_money_yndx":"Withdraw to Yandex",
+    "get_money_enter_pp":"Enter your PayPal login",
+    "get_money_enter_yndx":"Enter your Yandex account",
+    "get_money_apply":"Request withdraw for ${0}",
+    "get_money_wait":"Your withdrawal application is on the waiting list now",
+    "get_money_check_pp":"Please check your PayPal account. It must be an e-mail, e.g.: example@domain.com",
+    "get_money_check_yndx":"Please check your Yandex account. It must be a number, e.g.: 410011481111111",
 	"sellPresentFailed": "Error! That gift was already split."
 }
