@@ -1378,5 +1378,6 @@
     "get_money_wait":"Votre demande de versement est maintenant sur la liste d'attente.",
     "get_money_check_pp":"Veuillez retaper votre compte PayPal. Ce doit être une adresse e-mail telle que : exemple@domaine.com",
     "get_money_check_yndx":"Veuillez retaper votre compte Yandex. Ce doit être un nombre tel que : 410011481111111",
+    "msg_dism_gift_money": "A reçu {0} $ pour le cadeau partagé : {1}",
 	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti."
 }

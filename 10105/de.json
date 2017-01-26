@@ -1398,5 +1398,6 @@
     "get_money_wait":"Ihr Auszahlungsantrag ist jetzt auf der Warteliste",
     "get_money_check_pp":"Bitte prüfen Sie Ihr Paypal-Konto. Es muss eine E-Mail sein, z. B. beispiel@beispiel.com",
     "get_money_check_yndx":"Bitte prüfen Sie Ihr Yandex-Konto. Es muss eine Nummer sein, z. B. 410011481111111",
+    "msg_dism_gift_money": "{0}$ erhalten für geteiltes Geschenk: {1}",
 	"sellPresentFailed": "Fehler! Dieses Geschenk war bereits aufgeteilt."
 }

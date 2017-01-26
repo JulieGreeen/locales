@@ -1407,5 +1407,6 @@
     "get_money_wait":"あなたの支払い申請は現在、順番待ちの状態です",
     "get_money_check_pp":"ご自分のPayPalアカウントをご確認ください。アカウントにはEメールアドレスが使われます (例: example@domain.com)",
     "get_money_check_yndx":"ご自分のYandexアカウントをご確認ください。アカウントには数字が使われます (例: 410011481111111)",
+    "msg_dism_gift_money": "分割されたプレゼントに対して{0}ドル受け取りました:  {1}",
 	"sellPresentFailed": "エラー！そのギフトは、すでにスプリットされました。"
 }

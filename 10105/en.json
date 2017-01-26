@@ -1433,5 +1433,6 @@
     "get_money_wait":"Your withdrawal application is on the waiting list now",
     "get_money_check_pp":"Please check your PayPal account. It must be an e-mail, e.g.: example@domain.com",
     "get_money_check_yndx":"Please check your Yandex account. It must be a number, e.g.: 410011481111111",
+    "msg_dism_gift_money": "Received ${0} for gift: {1}",
 	"sellPresentFailed": "Error! That gift was already split."
 }

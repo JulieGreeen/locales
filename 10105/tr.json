@@ -1426,5 +1426,6 @@
     "get_money_wait":"Para çekim başvurunuz şimdi bekleme listesinde",
     "get_money_check_pp":"Lütfen PayPal hesabınızı kontrol edin. Bu bir e-posta olmalıdır. Örn: ornek@alanadi.com",
     "get_money_check_yndx":"Yandex hesabınızı lütfen kontrol edin. Bu bir sayı olmalıdır. Örn: 410011481111111",
+    "msg_dism_gift_money": "Bölünen hediye için {0}$ alındı: {1}",
 	"sellPresentFailed": "Hata! Bu hediye zaten bölündü."
 }
