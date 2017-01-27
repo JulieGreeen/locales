@@ -1408,5 +1408,8 @@
     "get_money_check_pp":"PayPal 계정을 확인하십시오. 이메일이어야합니다 (예: example@domain.com).",
     "get_money_check_yndx":"Yandex 계정을 확인하십시오. 숫자여야합니다 (예 : 410011481111111).",
     "msg_dism_gift_money": "분할된 선물로 ${0} 획득: {1}",
+    "get_money_delay":"수요량이 많은 관계로 요청하신 사항을 처리하는 데 최대 1개월이 소요될 수 있습니다. 지불 시스템이 대금 송금 수수료를 청구함에 따라 수령액이 명시된 금액과 다소 다를 수 있습니다.",
+    "get_money_sell":"${0}에 판매",
+    "get_money_min":"최소 출금 한: $100",
 	"sellPresentFailed": "에러! 그 선물은 이미 나눠진 후입니다."
 }

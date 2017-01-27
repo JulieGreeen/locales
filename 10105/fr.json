@@ -1379,5 +1379,8 @@
     "get_money_check_pp":"Veuillez retaper votre compte PayPal. Ce doit être une adresse e-mail telle que : exemple@domaine.com",
     "get_money_check_yndx":"Veuillez retaper votre compte Yandex. Ce doit être un nombre tel que : 410011481111111",
     "msg_dism_gift_money": "A reçu {0} $ pour le cadeau partagé : {1}",
+    "get_money_delay":"En raison de la forte demande, le traitement de la requête peut prendre jusqu’à 1 mois. Veuillez noter que le système de paiement peut facturer une commission pour le transfert de fonds. Le montant reçu peut donc être un petit peu différent de la valeur spécifiée.",
+    "get_money_sell":"Vendre pour ${0}",
+    "get_money_min":"Seuil de retrait minimum : 100 $",
 	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti."
 }

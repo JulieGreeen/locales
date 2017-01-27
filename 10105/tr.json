@@ -1427,5 +1427,8 @@
     "get_money_check_pp":"Lütfen PayPal hesabınızı kontrol edin. Bu bir e-posta olmalıdır. Örn: ornek@alanadi.com",
     "get_money_check_yndx":"Yandex hesabınızı lütfen kontrol edin. Bu bir sayı olmalıdır. Örn: 410011481111111",
     "msg_dism_gift_money": "Bölünen hediye için {0}$ alındı: {1}",
+    "get_money_delay":"Yüksek talep nedeniyle, isteğin işlenmesi 1 aya kadar sürebilir. Ödeme sisteminin para transferinde bir miktar komisyon talep edebileceğini lütfen unutmayın; bu nedenle alınan miktar belirtilen değerden biraz farklı olabilir.",
+    "get_money_sell":"{0}$ karşılığı satın",
+    "get_money_min":"Minimum para çekme alt sınırı: 100$",
 	"sellPresentFailed": "Hata! Bu hediye zaten bölündü."
 }

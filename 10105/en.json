@@ -1433,6 +1433,9 @@
     "get_money_wait":"Your withdrawal application is on the waiting list now",
     "get_money_check_pp":"Please check your PayPal account. It must be an e-mail, e.g.: example@domain.com",
     "get_money_check_yndx":"Please check your Yandex account. It must be a number, e.g.: 410011481111111",
+    "get_money_delay":"Due to high demand, processing of the request may take up to 1 month. Please note that the payment system may charge a commission for transferring funds, so the received amount may be slightly different from the specified value.",
+    "get_money_sell":"Sell for ${0}",
+    "get_money_min":"Minimum withdrawal threshold: $100",
     "msg_dism_gift_money": "Received ${0} for gift: {1}",
 	"sellPresentFailed": "Error! That gift was already split."
 }
