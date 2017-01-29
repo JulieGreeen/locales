@@ -809,7 +809,7 @@
 	"vb_settings_ios_inst_41": "vcr",
 	"vb_settings_ios_inst_42": "vcr",
 	"vb_settings_ios_min_shower_gen": "42",
-	"vb_settings_android_min_shower_gen": "43",
+	"vb_settings_android_min_shower_gen": "45",
 	"vb_settings_android_app_id": "air.flirtymania.videochat",
 	"log_send_effect": "Sent an effect '%effect%' to %to%",
 	"log_send_present": "Sent a gift %gift% to %to%",
