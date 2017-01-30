@@ -1382,5 +1382,6 @@
     "get_money_delay":"En raison de la forte demande, le traitement de la requête peut prendre jusqu’à 1 mois. Veuillez noter que le système de paiement peut facturer une commission pour le transfert de fonds. Le montant reçu peut donc être un petit peu différent de la valeur spécifiée.",
     "get_money_sell":"Vendre pour ${0}",
     "get_money_min":"Seuil de retrait minimum : 100 $",
+    "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti."
 }

@@ -1402,5 +1402,6 @@
     "get_money_delay":"Aufgrund der hohen Nachfrage kann die Verarbeitung der Anfrage bis zu 1 Monat dauern. Bitte beachten Sie, dass das Zahlungssystem bei der Überweisung möglicherweise eine Gebühr einbehält, so dass der erhaltene Betrag leicht vom spezifizierten Betrag abweichen kann.",
     "get_money_sell":"Für ${0} verkaufen",
     "get_money_min":"Mindest-Abhebungsbetrag: 100 $",
+    "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Fehler! Dieses Geschenk war bereits aufgeteilt."
 }

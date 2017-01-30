@@ -1430,5 +1430,6 @@
     "get_money_delay":"Yüksek talep nedeniyle, isteğin işlenmesi 1 aya kadar sürebilir. Ödeme sisteminin para transferinde bir miktar komisyon talep edebileceğini lütfen unutmayın; bu nedenle alınan miktar belirtilen değerden biraz farklı olabilir.",
     "get_money_sell":"{0}$ karşılığı satın",
     "get_money_min":"Minimum para çekme alt sınırı: 100$",
+    "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Hata! Bu hediye zaten bölündü."
 }
