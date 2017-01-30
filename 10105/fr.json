@@ -1368,7 +1368,7 @@
 	"xmas_tree_description": "C'est le personnage principal des vacances à venir. Les choses les plus intéressantes s'y passent autour. Et sous ses pattes velues, vous trouverez les cadeaux les plus incroyables.",
 	"button_allow": "Autoriser",
 	"button_deny": "Refuser",
-    "get_money_descr":"Vous pouvez gagner de l'argent grâce à notre programme d'affiliation 'Menez, gagnez'. Collectez plus de 100 $ à reverser sur votre compte PayPal ou Yandex.",
+    "get_money_descr":"Vous pouvez gagner de l'argent grâce à notre programme d'affiliation <a href='{0}'>Menez, gagnez</a>. Collectez plus de 100 $ à reverser sur votre compte PayPal ou Yandex.",
     "get_money_balance":"Votre solde est ${0}",
     "get_money_pp":"Reverser sur PayPal",
     "get_money_yndx":"Reverser sur Yandex",

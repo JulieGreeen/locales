@@ -1388,7 +1388,7 @@
 	"xmas_tree_description": "Er ist der Mittelpunkt der anstehenden Feiertage. Die interessantesten Dinge passieren um ihn herum. Und unter seinen plüschigen Pfoten finden Sie die unglaublichsten Geschenke.",
 	"button_allow": "Erlauben",
 	"button_deny": "Verweigern",
-    "get_money_descr":"Sie können mit unserem Affiliate-Programm 'Lead and Earn' etwas Geld verdienen. Sammeln Sie mehr als 100 $, um diese auf Ihr PayPal- oder Yandex-Konto auszahlen zu lassen.",
+    "get_money_descr":"Sie können mit unserem Affiliate-Programm <a href='{0}'>Lead and Earn</a> etwas Geld verdienen. Sammeln Sie mehr als 100 $, um diese auf Ihr PayPal- oder Yandex-Konto auszahlen zu lassen.",
     "get_money_balance":"Ihr Guthaben beträgt ${0}",
     "get_money_pp":"Auf PayPal auszahlen",
     "get_money_yndx":"Auf Yandex auszahlen",
