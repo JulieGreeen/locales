@@ -1374,7 +1374,7 @@
 	"hello_message_head": "Привет, %username%!",
 	"terms_and_EULA_text": "Продолжая использовать приложение вы соглашаетесь с <a href='{0}'>Пользовательским соглашением</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
 	"log_dism_gift_exp": "Получен опыт за разбитие подарка: %gift%",
-	"log_dism_gift_money": "Получено $%count% за разбитие подарка: %gift%",
+	"log_dism_gift_money": "Получено $%count% за продажу подарка: %gift%",
 	"log_dism_gift_cards": "За разбитие подарка %gift% вы получили карточки: %card%. Количество: %count%.",
 	"log_daily_bonus": "Получен ежедневный бонус %card%",
 	"dismantle_gift": "Разбить подарок",
@@ -1417,6 +1417,6 @@
     "get_money_sell":"Продать за ${0}",
     "get_money_min":"Минимальная сумма вывода: $100",
     "get_money_url":"https://faminta.com/ru/partner",
-    "msg_dism_gift_money": "Получено ${0} за разбитие подарка: {1}",
+    "msg_dism_gift_money": "Получено ${0} за продажу подарка: {1}",
 	"sellPresentFailed": "Ошибка! Этот подарок уже разбит."
 }
