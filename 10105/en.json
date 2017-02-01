@@ -1424,7 +1424,7 @@
 	"button_allow": "Allow",
 	"button_deny": "Deny",
     "get_money_descr":"You can get some money with our affiliate program <a href='{0}'>Lead and Earn</a>. Collect more than $100 to withdraw them to your PayPal or Yandex account.",
-    "get_money_balance":" Your balance is ${0}",
+    "get_money_balance":"Your balance is ${0}",
     "get_money_pp":"Withdraw to PayPal",
     "get_money_yndx":"Withdraw to Yandex",
     "get_money_enter_pp":"Enter your PayPal login",
