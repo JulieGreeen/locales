@@ -1397,7 +1397,7 @@
 	"xmas_tree_description": "다가오는 휴일의 주인공입니다. 이것 주위에서 가장 흥미로운 일이 일어납니다. 폭신폭신한 발아래 믿기 힘들 정도로 좋은 선물을 찾을 수 있습니다.",
 	"button_allow": "허용",
 	"button_deny": "거부",
-    "get_money_descr":"제휴 프로그램인 <a href='{0}'>Lead and Earn</a>으로 돈을 버실 수 있습니다. $100 이상을 모아 PayPal 또는 Yandex 계정으로 인출하십시오.",
+    "get_money_descr":"저희 제휴 프로그램 <a href='{0}'>리드하고 돈 벌기</a>에서 선물을 판매하고 약간의 이익을 얻으실 수 있습니다. $100 이상을 모아 PayPal 또는 Yandex 계정으로 인출하십시오.",
     "get_money_balance":"잔액은 ${0}입니다",
     "get_money_pp":"PayPal로 인출",
     "get_money_yndx":"Yandex로 인출",

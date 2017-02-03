@@ -1416,7 +1416,7 @@
 	"xmas_tree_description": "Yaklaşan tatillerin ana figürü. En ilginç şeyler onun etrafında oluyor. Ve onun tüylü patilerinin altında en inanılmaz hediyeleri bulursun.",
 	"button_allow": "İzin Ver",
 	"button_deny": "Reddet",
-    "get_money_descr":"<a href='{0}'>Öncülük Et ve Öğren</a> adlı katılımcı programımızla para kazanabilirsiniz. Kazandıklarınızı PayPal veya Yandex hesabınıza çekmek için, 100$'dan daha fazla toplayın.",
+    "get_money_descr":"<a href='{0}'>Yönet ve Kazan</a> ortaklık programımızla hediyeler satabilir veya biraz para kazanabilirsiniz. Kazandıklarınızı PayPal veya Yandex hesabınıza çekmek için, 100$'dan daha fazla toplayın.",
     "get_money_balance":"Bakiyeniz {0}$",
     "get_money_pp":"PayPal'a Çek",
     "get_money_yndx":"Yandex'e Çek",
