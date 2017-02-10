@@ -1383,5 +1383,14 @@
     "get_money_sell":"Vendre pour ${0}",
     "get_money_min":"Seuil de retrait minimum : 100 $",
     "get_money_url":"https://faminta.com/en/partner",
-	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti."
+	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti.",
+	"date_enter_failed": "L’entrée dans la salle est restreinte. Une invitation à un rendez-vous est requise.",
+	"date_invite_sended": "Invitation envoyée",
+	"date_receive_invite": "%user% vous a invité à un rendez-vous privé.\r\n\r\n%accept%         %ignore%\r\n ",
+	"date_move_in_room": "Aller au rendez-vous",
+	"date_user_accept_invite": "%user% a accepté votre invitation à un rendez-vous.\r\n\r\n%toRoom%",
+	"date_tips_about_room": "Les messages et les vidéos dans cette salle ne peuvent être vus que par les participants au rendez-vous",
+	"vip_desc_male": "Les femmes populaires sont si lasses des admirateurs qu’elles sont forcées de mettre en place des restrictions et ne sont prêtes à communiquer qu’avec les hommes accomplis. Une adhésion au club VIP est un signe de votre statut social, de votre réputation et de votre maturité. Achetez-la et les femmes commenceront à vous regarder différemment.",
+	"vip_desc_female": "Une adhésion au club VIP est un signe de votre statut social, de votre réputation et de votre indépendance. Achetez-la et ceux autour de vous commenceront à vous regarder différemment."
+
 }

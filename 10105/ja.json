@@ -1412,5 +1412,14 @@
     "get_money_sell":"${0}で売る",
     "get_money_min":"払い戻しの最低基準額：$ 100",
     "get_money_url":"https://faminta.com/en/partner",
-	"sellPresentFailed": "エラー！そのギフトは、すでにスプリットされました。"
+	"sellPresentFailed": "エラー！そのギフトは、すでにスプリットされました。",
+	"date_enter_failed": "入室は制限されています。デートの招待が必要です。",
+	"date_invite_sended": "招待が送信されました。",
+	"date_receive_invite": "%user% さんからプライベートデートに誘われました。\r\n\r\n%accept%         %ignore%\r\n ",
+	"date_move_in_room": "デートに進む。",
+	"date_user_accept_invite": "%user% さんがデートの誘いを承諾しました。\r\n\r\n%toRoom%",
+	"date_tips_about_room": "この部屋のメッセージとビデオは、デートの参加者のみ見ることができます。",
+	"vip_desc_male": "人気の女性は取り巻きのような男性にうんざりしているので、制限をつけることを余儀なくされており、成熟した男性のみとのやり取りを望んでいます。VIPクラブ会員は、あなたの社会的地位、名声、成熟度を示唆するものです。会員の権利を購入すれば、女性のあなたに対する見方がこれまでとは違ってきます。",
+	"vip_desc_female": "VIPクラブ会員は、あなたの社会的地位、名声、自立性を示唆するものです。会員の権利を購入すれば、周りの人のあなたに対する見方がこれまでとは違ってきます。"
+
 }

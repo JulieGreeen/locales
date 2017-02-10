@@ -1412,5 +1412,14 @@
     "get_money_sell":"${0}에 판매",
     "get_money_min":"최소 출금 한: $100",
     "get_money_url":"https://faminta.com/en/partner",
-	"sellPresentFailed": "에러! 그 선물은 이미 나눠진 후입니다."
+	"sellPresentFailed": "에러! 그 선물은 이미 나눠진 후입니다.",
+	"date_enter_failed": "방에 들어가는 것이 제한되었습니다. 데이트 초대장이 필요합니다.",
+	"date_invite_sended": "초대장이 전송되었습니다.",
+	"date_receive_invite": "%user% 님이 당신을 비공개 데이트에 초대했습니다.\r\n\r\n%accept%         %ignore%\r\n ",
+	"date_move_in_room": "데이트 가기",
+	"date_user_accept_invite": "%user% 님이 귀하의 데이트 초대를 수락했습니다.\r\n\r\n%toRoom%",
+	"date_tips_about_room": "이 방에 있는 메시지와 비디오는 데이트 참가자들만 볼 수 있습니다",
+	"vip_desc_male": "인기있는 여성들은 숭배자들에게 너무나 지쳐있어 성공한 성인 남성들과만 의사소통하게끔 강요당합니다. VIP 클럽 멤버십은 귀하의 사회적 지위, 평판 및 성숙함의 징표입니다. 이를 구입하시면 여자들이 당신을 다르게 보기 시작할 것입니다.",
+	"vip_desc_female": "VIP 클럽 멤버십은 귀하의 사회적 지위, 명성 및 독립성의 징표입니다. 이를 구입하시면 주위 사람들이 당신을 다르게 보기 시작할 것입니다."
+
 }
