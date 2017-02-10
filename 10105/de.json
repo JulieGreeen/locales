@@ -1403,5 +1403,14 @@
     "get_money_sell":"Für ${0} verkaufen",
     "get_money_min":"Mindest-Abhebungsbetrag: 100 $",
     "get_money_url":"https://faminta.com/en/partner",
-	"sellPresentFailed": "Fehler! Dieses Geschenk war bereits aufgeteilt."
+	"sellPresentFailed": "Fehler! Dieses Geschenk war bereits aufgeteilt.",
+	"date_enter_failed": "Der Zutritt zum Raum ist beschränkt. Eine Einladung zu einem Date ist erforderlich.",
+	"date_invite_sended": "Einladung verschickt",
+	"date_receive_invite": "%user% hat Sie zu einem privaten Date eingeladen.\r\n\r\n%accept%         %ignore%\r\n ",
+	"date_move_in_room": "Zum Date gehen",
+	"date_user_accept_invite": "%user% hat Ihre Einladung zum Date akzeptiert.\r\n\r\n%toRoom%",
+	"date_tips_about_room": "Nachrichten und Videos in diesem Raum können nur von den am Date Beteiligten gesehen werden",
+	"vip_desc_male": "Berühmte Damen haben so genug von Verehrern, dass sie gezwungen sind, Beschränkungen aufzuerlegen, und bereit sind, nur mit perfekten erwachsenen Männern zu kommunizieren. Eine VIP-Club-Mitgliedschaft ist ein Zeichen Ihres Sozialstatus, Rufs und Ihrer Reife. Kaufen Sie sie und die Damen werden anfangen, Sie anders anzusehen.",
+	"vip_desc_female": "Eine VIP-Club-Mitgliedschaft ist ein Zeichen Ihres Sozialstatus, Rufs und Ihrer Unabhängigkeit. Kaufen Sie sie und diejenigen um Sie herum werden anfangen, Sie anders anzusehen."
+
 }
