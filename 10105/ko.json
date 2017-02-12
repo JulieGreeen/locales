@@ -868,6 +868,59 @@
 	"claims_invalid_avatar": "캐릭터를 찾을 수 없습니다. 불만사항을 처리할 수 없습니다.",
 	"affects_players_to_level": "레벨 {0}까지의 플레이어에 작용합니다",
 	"age": "{0} 년",
+    "valentine2017_set_top": {
+		"nickColor": "0x000000",
+		"backColor": "0xFBE6ED",
+		"timerFill": "0x19BCB6",
+		"timerText": "0xffffff",
+		"timerX": "118",
+		"timerY": "7",
+		"timerSetX": "121",
+		"timerSetY": "216"
+	},
+    "valentine2017_set_buttons": [{
+		"gift": "valentine",
+		"x": 206,
+		"y": 800,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "jun",
+		"x": 206,
+		"y": 1390,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "hakeem",
+		"x": 206,
+		"y": 2000,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "aurora",
+		"x": 206,
+		"y": 2610,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "suleiman",
+		"x": 206,
+		"y": 3220,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"price": "valentine2017",
+		"x": 122,
+		"y": 3680,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}],
 	"wwf_set_buttons": [{
 		"gift": "turtle",
 		"x": 122,

@@ -867,6 +867,59 @@
 	"claims_someone_claimed_on_you": "ユーザーが、あなたに対する苦情を提出しました。 この苦情の原因を考え、行動を正しましょう。",
 	"claims_invalid_avatar": "アバターが見つかりませんでした。 苦情の申し立ては完了できませんでした。",
 	"affects_players_to_level": "レベル {0} までのプレーヤーに使えます",
+    "valentine2017_set_top": {
+		"nickColor": "0x000000",
+		"backColor": "0xFBE6ED",
+		"timerFill": "0x19BCB6",
+		"timerText": "0xffffff",
+		"timerX": "118",
+		"timerY": "7",
+		"timerSetX": "121",
+		"timerSetY": "216"
+	},
+    "valentine2017_set_buttons": [{
+		"gift": "valentine",
+		"x": 206,
+		"y": 820,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "jun",
+		"x": 206,
+		"y": 1430,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "hakeem",
+		"x": 206,
+		"y": 2060,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "aurora",
+		"x": 206,
+		"y": 2710,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "suleiman",
+		"x": 206,
+		"y": 3320,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"price": "valentine2017",
+		"x": 122,
+		"y": 3810,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}],
 	"wwf_set_buttons": [{
 		"gift": "turtle",
 		"x": 122,

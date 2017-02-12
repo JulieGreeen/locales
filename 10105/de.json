@@ -859,6 +859,59 @@
 	"to_normal_mode": "Normale Ansicht",
 	"to_fullscreen_mode": "Vollbild",
 	"age": "{0} Jahr alt|{0} Jahre alt",
+    "valentine2017_set_top": {
+		"nickColor": "0x000000",
+		"backColor": "0xFBE6ED",
+		"timerFill": "0x19BCB6",
+		"timerText": "0xffffff",
+		"timerX": "118",
+		"timerY": "7",
+		"timerSetX": "121",
+		"timerSetY": "216"
+	},
+    "valentine2017_set_buttons": [{
+		"gift": "valentine",
+		"x": 206,
+		"y": 860,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "jun",
+		"x": 206,
+		"y": 1470,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "hakeem",
+		"x": 206,
+		"y": 2100,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "aurora",
+		"x": 206,
+		"y": 2750,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"gift": "suleiman",
+		"x": 206,
+		"y": 3360,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}, {
+		"price": "valentine2017",
+		"x": 122,
+		"y": 3850,
+		"backgroundColor": "0x2196F3",
+		"width": 113,
+		"height": 36
+	}],
 	"wwf_set_buttons": [{
 		"gift": "turtle",
 		"x": 122,
