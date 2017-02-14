@@ -1508,7 +1508,7 @@
 	"sellPresentFailed": "Error! That gift was already split.",
 	"vip_linked_text_review": "<TextFlow xmlns='http://ns.adobe.com/textLayout/2008'><div><p>Subscription Service Conditions:<br/>• The cost of the optional subscription for VIP Status is 4.99 USD for 1 month, 29.99 USD for 1 year.<br/>• Payment will be charged to your iTunes Account at confirmation of purchase.<br/>• Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.<br/>• Your account will be charged for renewal within 24-hours prior to the end of the current period.<br/>• You can manage your subscription and switch off the auto-renewal by accessing your Account Settings after purchase.<br/>• You cannot cancel the current subscription during the active subscription period.<br/>• All personal data is handled under the terms and conditions of FlirtyMania's privacy policy.<br/><a href='{0}'>Privacy Policy</a> <a href='{1}'>Terms of Use</a></p></div></TextFlow>",
 	"date_enter_failed": "Entry into the room is restricted. A date invitation is required.",
-	"date_invite_sended": "Invitation sent",
+	"date_invite_sended": "Once your invitation is accepted, its recipient will appear in this room. We advise starting your date with a present. It will help break the ice and show you in a good light.\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "%user% has invited you to a private date.\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "Go to date",
 	"date_user_accept_invite": "%user% has accepted your date invitation.\r\n\r\n%toRoom%",
@@ -1517,6 +1517,7 @@
 	"vip_desc_female": "A VIP club membership is a sign of your social status, reputation and independence. Buy it and those around you will start looking at you differently.",
 	"vip_only_enabled":"Now only the people you follow and VIP users will be able to message, call or invite you on a date",
 	"vip_only_disabled":"Now any user will be able to message, call or invite you on a date",
-	"vip_only_toggle_descr":"I talk to friends and VIPs only"
+	"vip_only_toggle_descr":"I talk to friends and VIPs only",
+	"date_invite_button": "Invite on a date"
 
 }
