@@ -1470,7 +1470,7 @@
     "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Fehler! Dieses Geschenk war bereits aufgeteilt.",
 	"date_enter_failed": "Der Zutritt zum Raum ist beschränkt. Eine Einladung zu einem Date ist erforderlich.",
-	"date_invite_sended": "Einladung verschickt",
+	"date_invite_sended": "Sobald Ihre Einladung akzeptiert wurde, wird deren Empfänger in diesem Raum erscheinen. Wir empfehlen Ihnen, Ihr Date mit einem Geschenk zu beginnen. Dies wird dabei helfen, das Eis zu brechen, und ein gutes Licht auf Sie werfen.\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "%user% hat Sie zu einem privaten Date eingeladen.\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "Zum Date gehen",
 	"date_user_accept_invite": "%user% hat Ihre Einladung zum Date akzeptiert.\r\n\r\n%toRoom%",
@@ -1479,6 +1479,7 @@
 	"vip_desc_female": "Eine VIP-Club-Mitgliedschaft ist ein Zeichen Ihres Sozialstatus, Rufs und Ihrer Unabhängigkeit. Kaufen Sie sie und diejenigen um Sie herum werden anfangen, Sie anders anzusehen.",
 	"vip_only_enabled":"Jetzt können dir nur noch Leute, denen du folgst, sowie VIP-User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
 	"vip_only_disabled":"Jetzt kann dir jeder User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
-	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs."
+	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs.",
+	"date_invite_button": "Zu einem Date einladen"
 
 }

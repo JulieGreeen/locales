@@ -1450,7 +1450,7 @@
     "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Erreur ! Ce cadeau a déjà été réparti.",
 	"date_enter_failed": "L’entrée dans la salle est restreinte. Une invitation à un rendez-vous est requise.",
-	"date_invite_sended": "Invitation envoyée",
+	"date_invite_sended": "Lorsque votre invitation aura été acceptée, son destinataire apparaîtra dans cette salle. Nous vous recommandons de démarrer votre rendez-vous avec un cadeau. Cela vous aidera à briser la glace et de révéler votre bon côté.\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "%user% vous a invité à un rendez-vous privé.\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "Aller au rendez-vous",
 	"date_user_accept_invite": "%user% a accepté votre invitation à un rendez-vous.\r\n\r\n%toRoom%",
@@ -1459,6 +1459,7 @@
 	"vip_desc_female": "Une adhésion au club VIP est un signe de votre statut social, de votre réputation et de votre indépendance. Achetez-la et ceux autour de vous commenceront à vous regarder différemment.",
 	"vip_only_enabled":"Maintenant, seuls les utilisateurs VIP et les personnes que vous suivez pourront vous envoyer un message, vous appeler ou vous proposer un rendez-vous",
 	"vip_only_disabled":"Maintenant, tous les utilisateurs pourront vous envoyer un message, vous appeler ou vous proposer un rendez-vous",
-	"vip_only_toggle_descr":"Je parle seulement aux amis et aux VIP"
+	"vip_only_toggle_descr":"Je parle seulement aux amis et aux VIP",
+	"date_invite_button": "Inviter à un rendez-vous"
 
 }

@@ -1498,7 +1498,7 @@
     "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "Hata! Bu hediye zaten bölündü.",
 	"date_enter_failed": "Odaya giriş kısıtlandı. Randevu daveti gerekli.",
-	"date_invite_sended": "Davetiye gönderildi",
+	"date_invite_sended": "Davetin kabul edilince, alıcısı bu sohbette görünecektir. Buluşmanızı bir hediyeyle başlatmanı tavsiye ederiz. Bu, havayı yumuşatmaya ve iyi bir izlenim bırakmana yardımcı olur.\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "Kullanıcı %user% seni özel bir randevuya davet etti.\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "Randevuya git.",
 	"date_user_accept_invite": "Kullanıcı %user% randevu davetini kabul etti.\r\n\r\n%toRoom%",
@@ -1507,6 +1507,7 @@
 	"vip_desc_female": "VIP klübü üyeliği sosyal statünün, itibarının ve bağımsızlığının göstergesidir. Satın al ve çevrendekiler sana başka türlü bakacaklar",
 	"vip_only_enabled":"Artık sadece takip ettiğiniz kişiler ve VIP kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
 	"vip_only_disabled":"Artık tüm kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
-	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum"
+	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum",
+	"date_invite_button": "Bir buluşmaya davet et"
 
 }

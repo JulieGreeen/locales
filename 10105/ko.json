@@ -1479,7 +1479,7 @@
     "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "에러! 그 선물은 이미 나눠진 후입니다.",
 	"date_enter_failed": "방에 들어가는 것이 제한되었습니다. 데이트 초대장이 필요합니다.",
-	"date_invite_sended": "초대장이 전송되었습니다.",
+	"date_invite_sended": "귀하의 초대가 수락되면, 이 방에 초대 수신자가 나타납니다. 선물과 함께 데이트를 시작하시기를 권합니다. 선물을 주면 어색함을 해소할 수 있으며, 좋은 인상으로 대화를 시작할 수 있습니다.\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "%user% 님이 당신을 비공개 데이트에 초대했습니다.\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "데이트 가기",
 	"date_user_accept_invite": "%user% 님이 귀하의 데이트 초대를 수락했습니다.\r\n\r\n%toRoom%",
@@ -1488,6 +1488,7 @@
 	"vip_desc_female": "VIP 클럽 멤버십은 귀하의 사회적 지위, 명성 및 독립성의 징표입니다. 이를 구입하시면 주위 사람들이 당신을 다르게 보기 시작할 것입니다.",
 	"vip_only_enabled":"이제 당신이 팔로우하는 사람들과 VIP 이용자들만이 당신에게 메시지를 보내거나 전화를 하거나 데이트에 초대할 수 있습니다",
 	"vip_only_disabled":"이제 모든 이용자가 당신에게 메시지를 보내거나 전화를 하거나 데이트에 초대할 수 있습니다",
-	"vip_only_toggle_descr":"저는 친구들 그리 VIP들과만 대화합니다"
+	"vip_only_toggle_descr":"저는 친구들 그리 VIP들과만 대화합니다",
+	"date_invite_button": "데이트 초대하기"
 
 }

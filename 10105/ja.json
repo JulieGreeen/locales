@@ -1479,7 +1479,7 @@
     "get_money_url":"https://faminta.com/en/partner",
 	"sellPresentFailed": "エラー！そのギフトは、すでにスプリットされました。",
 	"date_enter_failed": "入室は制限されています。デートの招待が必要です。",
-	"date_invite_sended": "招待が送信されました。",
+	"date_invite_sended": "あなたの招待が受け入れられるとすぐに、その招待を受け取った人はこの部屋に現れるでしょう。私たちはプレゼントであなたのデートを始めることを勧めます。それは話の口火を切る上で、またあなたのイメージを良く見せる上で役に立つでしょう。\r\n\r\n%sendGiftButton%",
 	"date_receive_invite": "%user% さんからプライベートデートに誘われました。\r\n\r\n%accept%         %ignore%\r\n ",
 	"date_move_in_room": "デートに進む。",
 	"date_user_accept_invite": "%user% さんがデートの誘いを承諾しました。\r\n\r\n%toRoom%",
@@ -1488,6 +1488,7 @@
 	"vip_desc_female": "VIPクラブ会員は、あなたの社会的地位、名声、自立性を示唆するものです。会員の権利を購入すれば、周りの人のあなたに対する見方がこれまでとは違ってきます。",
 	"vip_only_enabled":"これからは、あなたがフォローしている人やVIPユーザーだけが、あなたにメッセージしたり、電話したり、デートに招待したりできます。",
 	"vip_only_disabled":"これからは、どのユーザーでもあなたにメッセージしたり、電話したり、デートに招待したりできます。",
-	"vip_only_toggle_descr":"私は、友達とVIPとだけ話します。"
+	"vip_only_toggle_descr":"私は、友達とVIPとだけ話します。",
+	"date_invite_button": "デートに誘う"
 
 }
