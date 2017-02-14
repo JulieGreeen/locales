@@ -1504,6 +1504,9 @@
 	"date_user_accept_invite": "Kullanıcı %user% randevu davetini kabul etti.\r\n\r\n%toRoom%",
 	"date_tips_about_room": "Bu odadaki mesajlar ve videolar yalnızca randevuya katılanlar tarafından görülebilir",
 	"vip_desc_male": "Popüler hanımlar hayranlardan o kadar yoruldular ki, kısıtlamalar koymak zorunda kaldılar ve sadece başarılı adamlarla iletişmek istiyorlar. VIP klübü üyeliği sosyal statünün, itibarının ve olgunluğunun göstergesidir. Satın al ve hanımlar sana başka türlü bakacaklar.",
-	"vip_desc_female": "VIP klübü üyeliği sosyal statünün, itibarının ve bağımsızlığının göstergesidir. Satın al ve çevrendekiler sana başka türlü bakacaklar"
+	"vip_desc_female": "VIP klübü üyeliği sosyal statünün, itibarının ve bağımsızlığının göstergesidir. Satın al ve çevrendekiler sana başka türlü bakacaklar",
+	"vip_only_enabled":"Artık sadece takip ettiğiniz kişiler ve VIP kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
+	"vip_only_disabled":"Artık tüm kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
+	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum"
 
 }
