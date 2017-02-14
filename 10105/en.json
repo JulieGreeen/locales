@@ -1514,6 +1514,9 @@
 	"date_user_accept_invite": "%user% has accepted your date invitation.\r\n\r\n%toRoom%",
 	"date_tips_about_room": "Messages and videos in this room can only be seen by the participants of the date",
 	"vip_desc_male": "Popular ladies are so tired of admirers that they are forced to put up restrictions and are only willing to communicate with accomplished adult men. A VIP club membership is a sign of your social status, reputation and maturity. Buy it and ladies will start looking at you differently.",
-	"vip_desc_female": "A VIP club membership is a sign of your social status, reputation and independence. Buy it and those around you will start looking at you differently."
+	"vip_desc_female": "A VIP club membership is a sign of your social status, reputation and independence. Buy it and those around you will start looking at you differently.",
+	"vip_only_enabled":"Now only the people you follow and VIP users will be able to message, call or invite you on a date",
+	"vip_only_disabled":"Now any user will be able to message, call or invite you on a date",
+	"vip_only_toggle_descr":"I talk to friends and VIPs only"
 
 }
