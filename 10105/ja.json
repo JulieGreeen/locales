@@ -1489,6 +1489,8 @@
 	"vip_only_enabled":"これからは、あなたがフォローしている人やVIPユーザーだけが、あなたにメッセージしたり、電話したり、デートに招待したりできます。",
 	"vip_only_disabled":"これからは、どのユーザーでもあなたにメッセージしたり、電話したり、デートに招待したりできます。",
 	"vip_only_toggle_descr":"私は、友達とVIPとだけ話します。",
-	"date_invite_button": "デートに誘う"
+	"date_invite_button": "デートに誘う",
+	"mic_on_button": "マイクをオンにする",
+	"mic_off_button": "マイクをオフにする"
 
 }

@@ -1508,6 +1508,8 @@
 	"vip_only_enabled":"Artık sadece takip ettiğiniz kişiler ve VIP kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
 	"vip_only_disabled":"Artık tüm kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
 	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum",
-	"date_invite_button": "Bir buluşmaya davet et"
+	"date_invite_button": "Bir buluşmaya davet et",
+	"mic_on_button": "Mikrofonu açın",
+	"mic_off_button": "Mikrofonu kapatın"
 
 }

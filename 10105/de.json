@@ -1480,6 +1480,8 @@
 	"vip_only_enabled":"Jetzt können dir nur noch Leute, denen du folgst, sowie VIP-User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
 	"vip_only_disabled":"Jetzt kann dir jeder User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
 	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs.",
-	"date_invite_button": "Zu einem Date einladen"
+	"date_invite_button": "Zu einem Date einladen",
+	"mic_on_button": "Schalte Mikrofon an",
+	"mic_off_button": "Schalte Mikrofon aus"
 
 }
