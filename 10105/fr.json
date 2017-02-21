@@ -1456,6 +1456,8 @@
 	"date_user_accept_invite": "%user% a accepté votre invitation à un rendez-vous.\r\n\r\n%toRoom%",
 	"date_tips_about_room": "Les messages et les vidéos dans cette salle ne peuvent être vus que par les participants au rendez-vous",
 	"date_drawer_label": "Rendez-vous",
+	"date_user_enter": "%user% est entré dans la pièce",
+	"date_user_exit": "%user% a quitté la pièce",
 	"vip_desc_male": "Les femmes populaires sont si lasses des admirateurs qu’elles sont forcées de mettre en place des restrictions et ne sont prêtes à communiquer qu’avec les hommes accomplis. Une adhésion au club VIP est un signe de votre statut social, de votre réputation et de votre maturité. Achetez-la et les femmes commenceront à vous regarder différemment.",
 	"vip_desc_female": "Une adhésion au club VIP est un signe de votre statut social, de votre réputation et de votre indépendance. Achetez-la et ceux autour de vous commenceront à vous regarder différemment.",
 	"vip_only_enabled":"Maintenant, seuls les utilisateurs VIP et les personnes que vous suivez pourront vous envoyer un message, vous appeler ou vous proposer un rendez-vous",
