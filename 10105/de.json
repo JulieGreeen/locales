@@ -1475,6 +1475,7 @@
 	"date_move_in_room": "Zum Date gehen",
 	"date_user_accept_invite": "%user% hat Ihre Einladung zum Date akzeptiert.\r\n\r\n%toRoom%",
 	"date_tips_about_room": "Nachrichten und Videos in diesem Raum können nur von den am Date Beteiligten gesehen werden",
+	"date_drawer_label": "Privaten Date",
 	"vip_desc_male": "Berühmte Damen haben so genug von Verehrern, dass sie gezwungen sind, Beschränkungen aufzuerlegen, und bereit sind, nur mit perfekten erwachsenen Männern zu kommunizieren. Eine VIP-Club-Mitgliedschaft ist ein Zeichen Ihres Sozialstatus, Rufs und Ihrer Reife. Kaufen Sie sie und die Damen werden anfangen, Sie anders anzusehen.",
 	"vip_desc_female": "Eine VIP-Club-Mitgliedschaft ist ein Zeichen Ihres Sozialstatus, Rufs und Ihrer Unabhängigkeit. Kaufen Sie sie und diejenigen um Sie herum werden anfangen, Sie anders anzusehen.",
 	"vip_only_enabled":"Jetzt können dir nur noch Leute, denen du folgst, sowie VIP-User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
