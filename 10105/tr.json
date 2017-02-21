@@ -1514,6 +1514,12 @@
 	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum",
 	"date_invite_button": "Bir buluşmaya davet et",
 	"mic_on_button": "Mikrofonu açın",
-	"mic_off_button": "Mikrofonu kapatın"
+	"mic_off_button": "Mikrofonu kapatın",
+    "affiliate_program": "Ortaklık Programı",
+    "lead_and_earn": "Öncülük Et ve Kazan",
+    "about_affiliate_program": "Projemizi arkadaşlarınıza söyleyin. Onların ödemelerinin %30'unu alın ve PayPal hesabınıza aktarın. Arkadaşlarınızı davet etmek için, aşağıdaki kimlik numaranızla birlikte özel yönlendirme bağlantısını kullanın.",
+    "copy_link": "Bağlantıyı Kopyala",
+    "get_link": "Bağlantıyı Al",
+    "check_balance": "Dengeyi Kontrol Et"
 
 }

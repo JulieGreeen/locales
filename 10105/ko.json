@@ -1495,6 +1495,12 @@
 	"vip_only_toggle_descr":"저는 친구들 그리 VIP들과만 대화합니다",
 	"date_invite_button": "데이트 초대하기",
 	"mic_on_button": "마이크 켜기",
-	"mic_off_button": "마이크 끄기"
+	"mic_off_button": "마이크 끄기",
+    "affiliate_program": "제휴 프로그램",
+    "lead_and_earn": "리드하고 수익 얻기",
+    "about_affiliate_program": "친구에게 저희 프로젝트를 알려 주세요. 친구가 지불하는 금액의 30%를 당신의 PayPal 계좌로 받으실 수 있습니다. 아래의 특별 추천 링크와 당신의 ID를 이용해 친구를 초대하세요.",
+    "copy_link": "링크 복사",
+    "get_link": "링크 얻기",
+    "check_balance": "잔액 확인"
 
 }

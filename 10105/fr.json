@@ -1466,6 +1466,12 @@
 	"vip_only_toggle_descr":"Je parle seulement aux amis et aux VIP",
 	"date_invite_button": "Inviter à un rendez-vous",
 	"mic_on_button": "Activer le micro",
-	"mic_off_button": "Désactiver le micro"
+	"mic_off_button": "Désactiver le micro",
+    "affiliate_program": "Programme d'affiliation",
+    "lead_and_earn": "Apportez des clients et gagnez",
+    "about_affiliate_program": "Parlez de notre projet à vos amis. Recevez 30 % de leurs paiements et transférez vos gains sur votre compte PayPal. Pour inviter des amis, utilisez le lien de parrainage spécial avec votre identifiant ci-dessous.",
+    "copy_link": "Copier le lien",
+    "get_link": "Obtenir le lien",
+    "check_balance": "Vérifier le solde"
 
 }

@@ -1495,6 +1495,12 @@
 	"vip_only_toggle_descr":"私は、友達とVIPとだけ話します。",
 	"date_invite_button": "デートに誘う",
 	"mic_on_button": "マイクをオンにする",
-	"mic_off_button": "マイクをオフにする"
+	"mic_off_button": "マイクをオフにする",
+    "affiliate_program": "アフィリエイト プログラム",
+    "lead_and_earn": "友だちを誘って稼ぎましょう",
+    "about_affiliate_program": "友だちに当プロジェクトについて伝えましょう。彼らの支払いの30%を手に入れて、ご自分のPayPalアカウントに送金しましょう。友だちを招待するには、ご自分のIDで以下の特別紹介リンクをお使いください。",
+    "copy_link": "リンクをコピー",
+    "get_link": "リンクを入手",
+    "check_balance": "残高を確認"
 
 }

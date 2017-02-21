@@ -1524,6 +1524,12 @@
 	"vip_only_toggle_descr":"I talk to friends and VIPs only",
 	"date_invite_button": "Invite on a date",
 	"mic_on_button": "Turn microphone on",
-	"mic_off_button": "Turn microphone off"
+	"mic_off_button": "Turn microphone off",
+    "affiliate_program": "Affiliate program",
+    "lead_and_earn": "Lead and Earn",
+    "about_affiliate_program": "Tell your friends about our project. Get 30% of their payments and transfer it to your PayPal account. To invite friends, use the special referral link with your ID below.",
+    "copy_link": "Copy Link",
+    "get_link": "Get Link",
+    "check_balance": "Check Balance"
 
 }

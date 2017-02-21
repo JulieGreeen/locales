@@ -1486,6 +1486,12 @@
 	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs.",
 	"date_invite_button": "Zu einem Date einladen",
 	"mic_on_button": "Schalte Mikrofon an",
-	"mic_off_button": "Schalte Mikrofon aus"
+	"mic_off_button": "Schalte Mikrofon aus",
+    "affiliate_program": "Partnerprogramm",
+    "lead_and_earn": "Leiten und verdienen",
+    "about_affiliate_program": "Erzählen Sie Ihren Freunden über unser Projekt. Erhalten Sie 30 % ihrer Zahlungen und überweisen Sie sie auf Ihr PayPal-Konto. Um Freunde einzuladen, benutzen Sie den speziellen Reflink mit Ihrer untenstehenden Kennzahl.",
+    "copy_link": "Link kopieren",
+    "get_link": "Link erhalten",
+    "check_balance": "Guthaben prüfen"
 
 }
