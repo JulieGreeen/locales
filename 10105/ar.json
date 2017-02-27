@@ -1425,7 +1425,7 @@
 	"terms_and_EULA_text": "استمرارك في استخدام هذا التطبيق يعني أنك توافق على <a href='{0}'>اتفاقية ترخيص المستخدم النهائي(EULA)</a>، و<a href='{1}'>سياسة الخصوصية</a> لدينا، وأنك تعي أنه ليس هناك أي تسامح تجاه المحتويات البغيضة.",
 	"log_dism_gift_exp": "الإعجابات المستلمة للهدية المقسومة: %gift%",
 	"log_dism_gift_money": "حصلت على %count%$ نظير الهدية المجزأة: %gift%",
-    "log_dism_gift_money2": "حصلت على %count%$ نظير الهدية المجزأة: %gift% (%old% -> %new%)",
+    "log_dism_gift_money2": "حصلت على %count%$ نظير الهدية المجزأة: %gift% (%old% -> %result%)",
     "log_dism_gift_money_error": "خطأ. غير قادر على بيع الهدايا.",
     "log_ask_gift_money": "تم استلام طلب بيع %gift% بسعر $%count%",
 	"log_dism_gift_cards": "لقد حصلت على البطاقات: %card%. الكمية: %count%. نظير الهدية المجزأة %gift%",
