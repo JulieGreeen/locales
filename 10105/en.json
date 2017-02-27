@@ -1290,8 +1290,8 @@
 		"backColor": "0x041146",
 		"timerFill": "0x19BCB6",
 		"timerText": "0xffffff",
-		"timerX": "118",
-		"timerY": "7",
+		"timerX": "85",
+		"timerY": "35",
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
