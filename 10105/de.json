@@ -1426,7 +1426,7 @@
 	"terms_and_EULA_text": "Wenn Du die App weiterbenutzt, stimmst Du unserer <a href='{0}'>EULA</a> und unseren <a href='{1}'>Datenschutzrichtlinien</a> zu und bist Dir darüber im Klaren, dass anstößige Inhalte nicht toleriert werden.",
 	"log_dism_gift_exp": "Erhaltene Likes für geteiltes Geschenk: %gift%",
 	"log_dism_gift_money": "%count%$ erhalten für geteiltes Geschenk: %gift%",
-    "log_dism_gift_money2": "%count%$ erhalten für geteiltes Geschenk: %gift% (%old% -> %result%)",
+    "log_dism_gift_money2": "Geschenk verkauft %gift% (%str%)",
     "log_dism_gift_money_error": "Fehler. Kann kein Geschenk verkaufen.",
     "log_ask_gift_money": "Anfrage zum Verkauf von %gift% für $%count% erhalten",
 	"log_dism_gift_cards": "Für das geteilte Geschenk %gift% haben Sie folgende Karten erhalten: %card%. Menge: %count%.",

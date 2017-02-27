@@ -1435,7 +1435,7 @@
 	"terms_and_EULA_text": "アプリを継続的にご利用頂くことで、当社の <a href='{0}'>EULA</a>,、<a href='{1}'>プライバシーポリシー</a> に同意したとみなされ、好ましくないコンテンツを含んではならないことを理解したとみなされます。",
 	"log_dism_gift_exp": "分割ギフトのためにいいねを受け取りました: %gift%",
 	"log_dism_gift_money": "分割されたプレゼントに対して%count%ドル受け取りました:  %gift%",
-    "log_dism_gift_money2": "分割されたプレゼントに対して%count%ドル受け取りました:  %gift% (%old% -> %result%)",
+    "log_dism_gift_money2": "Gift is sold %gift% (%str%)",
     "log_dism_gift_money_error": "エラー。 ギフトを売ることができません。",
     "log_ask_gift_money": "%count%ドルで%gift%を販売するリクエストを受け取りました",
 	"log_dism_gift_cards": "分割されたプレゼント、%gift% に対して下記カードを受け取りました: %card%。数量: %count%.",
