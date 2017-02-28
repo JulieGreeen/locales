@@ -349,8 +349,8 @@
 	"privete_translation": "Im privaten Modus senden",
 	"profile": "Profil",
 	"profile_id": "ID",
-	"special_offer": "So sehr lieben wir Sie!",
-	"buy_coins_special_offer": "Wir lieben Sie sehr und verdoppeln mit jedem Einkauf Ihre Münzen, sodass Sie Ihre Gefühle sogar noch besser ausdrücken können!",
+	"special_offer": "Heute ist ein Tag für Männer!",
+	"buy_coins_special_offer": "Was für ein ausgezeichneter Grund, einen Freund oder Ihren Liebsten glücklicher zu machen. Doppelte Münzen mit jeden Kauf machen es noch einfacher!",
 	"card_33": "Gnome Nations wird heute 5 Jahre alt!",
 	"card_33_descr": "Zur Feier dieses besonderen Tags schenken wir Ihnen 2-mal mehr Goldmünzen für den gleichen Preis in FlirtyMania!",
 	"buy_coins_special_offer_store": "Short, but so beloved double coins Offer. Hurry up to get!",
@@ -1277,8 +1277,8 @@
 		"backColor": "0x041146",
 		"timerFill": "0x19BCB6",
 		"timerText": "0xffffff",
-		"timerX": "118",
-		"timerY": "7",
+		"timerX": "85",
+		"timerY": "35",
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
@@ -1426,6 +1426,9 @@
 	"terms_and_EULA_text": "Wenn Du die App weiterbenutzt, stimmst Du unserer <a href='{0}'>EULA</a> und unseren <a href='{1}'>Datenschutzrichtlinien</a> zu und bist Dir darüber im Klaren, dass anstößige Inhalte nicht toleriert werden.",
 	"log_dism_gift_exp": "Erhaltene Likes für geteiltes Geschenk: %gift%",
 	"log_dism_gift_money": "%count%$ erhalten für geteiltes Geschenk: %gift%",
+    "log_dism_gift_money2": "Geschenk verkauft %gift% (%str%)",
+    "log_dism_gift_money_error": "Fehler. Kann kein Geschenk verkaufen.",
+    "log_ask_gift_money": "Anfrage zum Verkauf von %gift% für $%count% erhalten",
 	"log_dism_gift_cards": "Für das geteilte Geschenk %gift% haben Sie folgende Karten erhalten: %card%. Menge: %count%.",
 	"log_daily_bonus": "Bonus des Tages erhalten: %card%",
 	"dismantle_gift": "Das Geschenk aufteilen",
@@ -1486,6 +1489,12 @@
 	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs.",
 	"date_invite_button": "Zu einem Date einladen",
 	"mic_on_button": "Schalte Mikrofon an",
-	"mic_off_button": "Schalte Mikrofon aus"
+	"mic_off_button": "Schalte Mikrofon aus",
+    "affiliate_program": "Partnerprogramm",
+    "lead_and_earn": "Leiten und verdienen",
+    "about_affiliate_program": "Erzählen Sie Ihren Freunden über unser Projekt. Erhalten Sie 30 % ihrer Zahlungen und überweisen Sie sie auf Ihr PayPal-Konto. Um Freunde einzuladen, benutzen Sie den speziellen Reflink mit Ihrer untenstehenden Kennzahl.",
+    "copy_link": "Link kopieren",
+    "get_link": "Link erhalten",
+    "check_balance": "Guthaben prüfen"
 
 }

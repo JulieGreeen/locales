@@ -336,8 +336,8 @@
 	"privete_translation": "비공개 모드로 방송",
 	"profile": "프로필",
 	"profile_id": "ID",
-	"special_offer": "저희가 당신을 그만큼 많이 사랑합니다!",
-	"buy_coins_special_offer": "여러분을 사랑합니다. 기분을 더욱 밝게 표현할 수 있도록 모든 구매에 대해 코인을 두 배로 드립니다!",
+	"special_offer": "今日は男性の日です!",
+	"buy_coins_special_offer": "お友達や愛しい人をもっと幸せにしてあげるための、なんて素晴らしい理由でしょうか。すべてのお買い物でコインが2倍になりますので、誰かにプレゼントを贈りしましょう!",
 	"card_33": "Gnome Nations 은(는) 오늘로 5주년을 맞았습니다!",
 	"card_33_descr": "이 영광스러운 날을 기념하여 FlirtyMania에서 같은 가격으로 두 배 더 많은 골드 코인을 증정합니다!",
 	"buy_coins_special_offer_store": "짧지만 인기 많은 더블 코인 특가 이벤트입니다. 서둘러 구입하세요!",
@@ -1286,8 +1286,8 @@
 		"backColor": "0x041146",
 		"timerFill": "0x19BCB6",
 		"timerText": "0xffffff",
-		"timerX": "118",
-		"timerY": "7",
+		"timerX": "85",
+		"timerY": "35",
 		"timerSetX": "121",
 		"timerSetY": "216"
 	},
@@ -1435,6 +1435,9 @@
 	"terms_and_EULA_text": "이 앱을 계속 사용하면 당사의 <a href='{0}'>최종 사용자 라이선스 동의</a>와 <a href='{1}'>개인 정보 보호 정책</a>에 동의하고, 타인에게 해를 끼칠 수 있는 콘텐츠를 엄중히 처리하는 것에 대해 이해하는 것으로 간주됩니다.",
 	"log_dism_gift_exp": "나뉜 선물에 대한 좋아요를 받았습니다: %gift%",
 	"log_dism_gift_money": "분할된 선물로 $%count% 획득: %gift%",
+    "log_dism_gift_money2": "선물이 판매됐습니다 %gift% (%str%)",
+    "log_dism_gift_money_error": "오류. 선물을 팔 수 없습니다.",
+    "log_ask_gift_money": "$%count%의 %gift% 판매에 대한 요청이 접수되었습니다",
 	"log_dism_gift_cards": "분할된 선물 %gift%(으)로 카드를 획득했습니다: %card%. 수량 : %count%",
 	"log_daily_bonus": "일일 보너스를 받았습니다: %card%",
 	"dismantle_gift": "선물 분할하기",
@@ -1495,6 +1498,12 @@
 	"vip_only_toggle_descr":"저는 친구들 그리 VIP들과만 대화합니다",
 	"date_invite_button": "데이트 초대하기",
 	"mic_on_button": "마이크 켜기",
-	"mic_off_button": "마이크 끄기"
+	"mic_off_button": "마이크 끄기",
+    "affiliate_program": "제휴 프로그램",
+    "lead_and_earn": "리드하고 수익 얻기",
+    "about_affiliate_program": "친구에게 저희 프로젝트를 알려 주세요. 친구가 지불하는 금액의 30%를 당신의 PayPal 계좌로 받으실 수 있습니다. 아래의 특별 추천 링크와 당신의 ID를 이용해 친구를 초대하세요.",
+    "copy_link": "링크 복사",
+    "get_link": "링크 얻기",
+    "check_balance": "잔액 확인"
 
 }
