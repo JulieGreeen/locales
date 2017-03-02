@@ -1379,7 +1379,7 @@
 	"retry": "다시 시도",
 	"continue": "무시",
 	"effect_by": "다음 사용자로부터: %user%",
-	"only_for_vip": "%user%님은 VIP 클럽 회원님과만 얘기하고 싶어 하며, 메시지 수신을 제한한 상태입니다. %link%",
+	"only_for_vip": "%user% 님은 친구 및 VIP 회원에게만 이야기합니다. %link%",
 	"hours_elapsed_private_room": "귀하의 개인 대화 시간이 종료되었습니다. 대화를 계속하려면 별도의 개인 통화를 걸어주십시오.",
 	"vip_link": "VIP 클럽에 대해 자세히 알아보기",
 	"broadcast_reward": "방송 리워드",
@@ -1497,7 +1497,7 @@
 	"vip_only_enabled":"이제 당신이 팔로우하는 사람들과 VIP 이용자들만이 당신에게 메시지를 보내거나 전화를 하거나 데이트에 초대할 수 있습니다",
 	"vip_only_disabled":"이제 모든 이용자가 당신에게 메시지를 보내거나 전화를 하거나 데이트에 초대할 수 있습니다",
 	"vip_only_toggle_descr":"저는 친구들 그리 VIP들과만 대화합니다",
-	"date_invite_button": "데이트 초대하기",
+	"date_invite_button": "가상 날짜",
 	"mic_on_button": "마이크 켜기",
 	"mic_off_button": "마이크 끄기",
     "affiliate_program": "제휴 프로그램",
@@ -1505,6 +1505,19 @@
     "about_affiliate_program": "친구에게 저희 프로젝트를 알려 주세요. 친구가 지불하는 금액의 30%를 당신의 PayPal 계좌로 받으실 수 있습니다. 아래의 특별 추천 링크와 당신의 ID를 이용해 친구를 초대하세요.",
     "copy_link": "링크 복사",
     "get_link": "링크 얻기",
-    "check_balance": "잔액 확인"
+    "check_balance": "잔액 확인",
+	"claim_on_tip": "기부하기",
+	"tip_change_main" : "기부에 대한 설명 및 지불 세부사항",
+	"tip_change_link" : "결제 웹사이트 링크",
+	"tip_change_instruction" : "기부하실 때 세부사항을 맞춤으로 지불하실 수 있습니다. 이렇게 하시려면 편집 모드를 열어주세요.",
+	"tip_change_instruction_button" : "설명 편집하기",
+	"tip_caution" : "참고 : 위의 지불 관련 세부사항 및 설명은 사용자가 제공한 것입니다. 저희는 이를 검증하지 않으며 정확성과 신뢰성에 대한 책임도 지지 않습니다. 만일 의심스러운 점이 있다면 저희 보안 결제방식을 대신 이용하셔도 됩니다.",
+	"tip_go_safe_button" : "보안 송금",
+	"tip_to_user_head" : "%userName% 에게 기부",
+	"tip_choose_sum" : "기부 금액을 선택하세요",
+	"tip_safe_description" : "받은 자금은 즉시 %userName%에게 입금됩니다. 불행히도 복잡한 국제거래의 성격 때문에 지불 진행을 위한 수수료는 국가, 금액 및 지불 방법에 따라 20%~50%에 달합니다.",
+	"tip_received": "%userName%님으로부터 받은 기부금 %money%",
+	"tip_sended": "%userName%에게 %money%를 기부했습니다",
+	"tip_chat_message": "%fromUserName%님이 친절하게도 %toUserName%님에게 %money%를 기부하였습니다"
 
 }

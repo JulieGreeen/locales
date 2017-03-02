@@ -1387,7 +1387,7 @@
 	"add_effect_button": "Efekt ekle",
 	"retry": "Tekrar dene",
 	"continue": "Yoksay",
-	"only_for_vip": "%user% yalnızca özel VIP statülü üyelerle konuşmayı tercih ediyor ve gelen mesajları kısıtladı. %link%",
+	"only_for_vip": "%user% sadece arkadaşları ve VIP üyeleri ile konuşur. %link%",
 	"vip_link": "VIP statüsü satın al",
 	"hours_elapsed_private_room": "Özel sohbet zamanın doldu. Lütfen sohbete devam etmek için başka özel bir arama yap.",
 	"sign_in_as_guest": "Hesap Oluşturun",
@@ -1516,7 +1516,7 @@
 	"vip_only_enabled":"Artık sadece takip ettiğiniz kişiler ve VIP kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
 	"vip_only_disabled":"Artık tüm kullanıcılar size mesaj gönderebilir, sizi arayabilir veya size çıkma teklifinde bulunabilir",
 	"vip_only_toggle_descr":"Sadece arkadaşlarımla ve VIP'lerle konuşuyorum",
-	"date_invite_button": "Bir buluşmaya davet et",
+	"date_invite_button": "Sanal tarih",
 	"mic_on_button": "Mikrofonu açın",
 	"mic_off_button": "Mikrofonu kapatın",
     "affiliate_program": "Ortaklık Programı",
@@ -1524,6 +1524,18 @@
     "about_affiliate_program": "Projemizi arkadaşlarınıza söyleyin. Onların ödemelerinin %30'unu alın ve PayPal hesabınıza aktarın. Arkadaşlarınızı davet etmek için, aşağıdaki kimlik numaranızla birlikte özel yönlendirme bağlantısını kullanın.",
     "copy_link": "Bağlantıyı Kopyala",
     "get_link": "Bağlantıyı Al",
-    "check_balance": "Dengeyi Kontrol Et"
-
+    "check_balance": "Dengeyi Kontrol Et",
+	"claim_on_tip": "Bağış",
+	"tip_change_main" : "Bağışınıza yönelik talimatlar ve ödeme detayları",
+	"tip_change_link" : "Ödeme web sitesine bağlantı",
+	"tip_change_instruction" : "Bağışınız için özel ödeme detayları sağlayabilirsiniz. Bunu yapmak için lütfen düzenleme modunu açın.",
+	"tip_change_instruction_button" : "Talimatları düzenle",
+	"tip_caution" : "LÜTFEN DİKKAT: Yukarıdaki ödeme detayları ve talimatlar kullanıcı tarafından sağlanmıştır. Bunları onaylamamakla birlikte, bunların doğruluğundan ve tutarlılığından sorumlu tutulamayız. Herhangi bir şüpheniz varsa, bu yöntem yerine bizim güvenli ödeme yöntemimizi kullanabilirsiniz.",
+	"tip_go_safe_button" : "Güvenli transfer",
+	"tip_to_user_head" : "%UserName% için bağış",
+	"tip_choose_sum" : "Bağış miktarınızı seçin",
+	"tip_safe_description" : "Alınan para, anında %userName% kullanıcısına yatırılacaktır. Ne yazık ki, uluslararası işlemlerinin karmaşık yapısı nedeniyle, ödeme işlemcisinin ücreti, ülkeye, miktara ve ödeme yöntemine bağlı olarak %20 ila %50'ye ulaşabilir.",
+	"tip_received": "%userName% kullanıcısından %money% bağış alındı",
+	"tip_sended": "%userName% kullanıcısına %money% bağış yapıldı",
+	"tip_chat_message": "%fromUserName% kullanıcısı, %toUserName% kullanıcısına içtenlikle %money% bağışta bulundu"
 }

@@ -1373,7 +1373,7 @@
 	"retry": "再試行",
 	"continue": "無視",
 	"effect_by": "エフェクトの使用者 %user%",
-	"only_for_vip": "%user%は会員限定のVIPクラブのメンバーのみとの連絡を希望しているため、メッセージの通知を制限しています。 %link%",
+	"only_for_vip": "%user% は友人とVIP会員のみに話します。%link%",
 	"hours_elapsed_private_room": "プライベートチャットタイムが終了しました。会話を続けるには新しくプライベートコールをしてください。",
 	"vip_link": "VIPクラブについて",
 	"broadcast_reward": "拡散の報酬",
@@ -1497,7 +1497,7 @@
 	"vip_only_enabled":"これからは、あなたがフォローしている人やVIPユーザーだけが、あなたにメッセージしたり、電話したり、デートに招待したりできます。",
 	"vip_only_disabled":"これからは、どのユーザーでもあなたにメッセージしたり、電話したり、デートに招待したりできます。",
 	"vip_only_toggle_descr":"私は、友達とVIPとだけ話します。",
-	"date_invite_button": "デートに誘う",
+	"date_invite_button": "バーチャル・デート",
 	"mic_on_button": "マイクをオンにする",
 	"mic_off_button": "マイクをオフにする",
     "affiliate_program": "アフィリエイト プログラム",
@@ -1505,6 +1505,19 @@
     "about_affiliate_program": "友だちに当プロジェクトについて伝えましょう。彼らの支払いの30%を手に入れて、ご自分のPayPalアカウントに送金しましょう。友だちを招待するには、ご自分のIDで以下の特別紹介リンクをお使いください。",
     "copy_link": "リンクをコピー",
     "get_link": "リンクを入手",
-    "check_balance": "残高を確認"
+    "check_balance": "残高を確認",
+	"claim_on_tip": "寄付",
+	"tip_change_main" : "寄付に関する案内および支払い情報",
+	"tip_change_link" : "決済サイトへのリンク",
+	"tip_change_instruction" : "寄付用のカスタム支払い情報を入力できます。実行するには、編集モードを開いてください。",
+	"tip_change_instruction_button" : "案内を編集",
+	"tip_caution" : "注意: 上記の支払い情報および案内はユーザーが提供したものです。弊社ではこれらを認証しておらず、正確性および信頼性に関する責任は負いかねます。疑問がある場合は、代わりに弊社の安全決済を利用することができます。",
+	"tip_go_safe_button" : "安全送金",
+	"tip_to_user_head" : "%userName% への寄付",
+	"tip_choose_sum" : "寄付金額を選択してください",
+	"tip_safe_description" : "受け取った資金は即時に%userName%へ充当されます。残念ながら、国際送金の複雑な性格上、決済処理会社の手数料は、国や金額、支払い方法によって、20%から50%になる場合もあります。",
+	"tip_received": "%money%の寄付を%userName%から受けました",
+	"tip_sended": "%money%が%userName%に寄付されました",
+	"tip_chat_message": "%fromUserName%が、親切にも%money%を%toUserName%に寄付しました。"
 
 }

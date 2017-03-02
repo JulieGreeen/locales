@@ -1534,6 +1534,19 @@
 	"about_affiliate_program": "Tell your friends about our project. Get 30% of their payments and transfer it to your PayPal account. To invite friends, use the special referral link with your ID below.",
 	"copy_link": "Copy Link",
 	"get_link": "Get Link",
-	"check_balance": "Check Balance"
+	"check_balance": "Check Balance",
+	"claim_on_tip": "Donation",
+	"tip_change_main" : "Instructions and payment details for your donation",
+	"tip_change_link" : "Link to payment website",
+	"tip_change_instruction" : "You can provide custom payment details for your donation. Please open the edit mode to do so.",
+	"tip_change_instruction_button" : "Edit instructions",
+	"tip_caution" : "PLEASE NOTE: The above payment details and instructions were provided by the user. We do not verify them and we cannot be held responsible for their accuracy and reliability. If you have any doubts, you can use our secure payment method instead.",
+	"tip_go_safe_button" : "Secure transfer",
+	"tip_to_user_head" : "Donation for %userName%",
+	"tip_choose_sum" : "Choose your donation amount",
+	"tip_safe_description" : "The funds received will be instantly credited to %userName%. Unfortunately, due to the complex nature of international transactions, the payment processor's fee may reach 20% to 50%, depending on the country, the amount, and the method of payment.",
+	"tip_received": "A %money% donation received from %userName%",
+	"tip_sended": "%money% donated to %userName%",
+	"tip_chat_message": "%fromUserName% kindly donates %money% to %toUserName%"
 
 }

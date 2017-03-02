@@ -1371,7 +1371,7 @@
 	"continue": "Ignorieren",
 	"effect_by": "Von Nutzer: %user%",
 	"helpful_hints": "Nützliche Tipps",
-	"only_for_vip": "%user% möchte sich nur mit Mitgliedern des exklusiven VIP-Clubs unterhalten und hat eingehende Nachrichten darauf beschränkt. %link%",
+	"only_for_vip": "%user% spricht nur mit Freunden und VIP-Mitgliedern. %link%",
 	"hours_elapsed_private_room": "Ihre private Chatzeit ist vorüber. Bitte machen Sie einen weiteren privaten Anruf, um das Gespräch fortzusetzen.",
 	"vip_link": "Mehr über den VIP-Club erfahren",
 	"broadcast_reward": "Belohnung für das Senden",
@@ -1488,7 +1488,7 @@
 	"vip_only_enabled":"Jetzt können dir nur noch Leute, denen du folgst, sowie VIP-User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
 	"vip_only_disabled":"Jetzt kann dir jeder User Nachrichten schicken, dich anrufen oder zu einer Verabredung einladen.",
 	"vip_only_toggle_descr":"Ich rede nur mit Freunden und VIPs.",
-	"date_invite_button": "Zu einem Date einladen",
+	"date_invite_button": "Virtuelles Date",
 	"mic_on_button": "Schalte Mikrofon an",
 	"mic_off_button": "Schalte Mikrofon aus",
     "affiliate_program": "Partnerprogramm",
@@ -1496,6 +1496,19 @@
     "about_affiliate_program": "Erzählen Sie Ihren Freunden über unser Projekt. Erhalten Sie 30 % ihrer Zahlungen und überweisen Sie sie auf Ihr PayPal-Konto. Um Freunde einzuladen, benutzen Sie den speziellen Reflink mit Ihrer untenstehenden Kennzahl.",
     "copy_link": "Link kopieren",
     "get_link": "Link erhalten",
-    "check_balance": "Guthaben prüfen"
+    "check_balance": "Guthaben prüfen",
+	"claim_on_tip": "Spende",
+	"tip_change_main" : "Anleitung und Zahlungsdaten für deine Spende",
+	"tip_change_link" : "Link zur Zahlungsseite",
+	"tip_change_instruction" : "Du kannst für deine Spende individuelle Zahlungsdaten angeben. Bitte öffne dafür den Bearbeitungsmodus.",
+	"tip_change_instruction_button" : "Anleitung bearbeiten",
+	"tip_caution" : "BITTE BEACHTEN: Die oben angegebenen Zahlungsdaten wurden vom Benutzer zur Verfügung gestellt. Wir überprüfen diese nicht und können für deren Richtigkeit und Verlässlichkeit nicht verantwortlich gemacht werden. Wenn du Zweifel hast, kannst du stattdessen unsere sichere Zahlungsmethode nutzen.",
+	"tip_go_safe_button" : "Sichere Überweisung",
+	"tip_to_user_head" : "Spende für %userName%",
+	"tip_choose_sum" : "Wähle den Betrag deiner Spende",
+	"tip_safe_description" : "Der empfangene Betrag wird %userName% sofort gutgeschrieben. Leider sind internationale Überweisungen sehr komplex, sodass die Gebühr des Zahlungsanbieters 20 % bis 50 % erreichen könnte. Dies ist vom Land, dem Betrag und der Zahlungsweise abhängig.",
+	"tip_received": "Spende in Höhe von %money% von %userName% erhalten",
+	"tip_sended": "%money% an %userName% gespendet",
+	"tip_chat_message": "%fromUserName% hat %toUserName% freundlicherweise %money% gespendet"
 
 }

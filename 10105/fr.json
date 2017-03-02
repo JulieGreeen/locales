@@ -1344,7 +1344,7 @@
 	"email.fine_amnesty.text": "Bonjour ! <br> Nous avons d'excellentes nouvelles pour tous les utilisateurs ayant été bloqués de notre projet. <br> Au cours des 3 prochains jours, du 22 au 25 juillet, nous offrons 50% de rabais sur l'amnistie pour tous les utilisateurs ayant été bannis. Payer moins pour revenir parmi nous ! Vos amis vous manquent ! <br><br>Vous pouvez payer vos frais d'amnistie ici : {app_href} <br>Nous espérons vous revoir bientôt !",
 	"continue": "Ignorer",
 	"effect_by": "De l'utilisateur : %user%",
-	"only_for_vip": "%user% préfère parler uniquement aux membres du club VIP exclusif et a restreint les messages entrants. %link%",
+	"only_for_vip": "%user% communique avec ses amis et les membres VIP uniquement. %link%",
 	"hours_elapsed_private_room": "Votre temps de discussion en privé est terminé. Veuillez passer un autre appel privé pour continuer la conversation.",
 	"vip_link": "Découvrez le club VIP",
 	"helpful_hints": "Conseils utiles",
@@ -1468,7 +1468,7 @@
 	"vip_only_enabled":"Maintenant, seuls les utilisateurs VIP et les personnes que vous suivez pourront vous envoyer un message, vous appeler ou vous proposer un rendez-vous",
 	"vip_only_disabled":"Maintenant, tous les utilisateurs pourront vous envoyer un message, vous appeler ou vous proposer un rendez-vous",
 	"vip_only_toggle_descr":"Je parle seulement aux amis et aux VIP",
-	"date_invite_button": "Inviter à un rendez-vous",
+	"date_invite_button": "Date virtuelle",
 	"mic_on_button": "Activer le micro",
 	"mic_off_button": "Désactiver le micro",
     "affiliate_program": "Programme d'affiliation",
@@ -1476,6 +1476,18 @@
     "about_affiliate_program": "Parlez de notre projet à vos amis. Recevez 30 % de leurs paiements et transférez vos gains sur votre compte PayPal. Pour inviter des amis, utilisez le lien de parrainage spécial avec votre identifiant ci-dessous.",
     "copy_link": "Copier le lien",
     "get_link": "Obtenir le lien",
-    "check_balance": "Vérifier le solde"
-
+    "check_balance": "Vérifier le solde",
+	"claim_on_tip": "Donation",
+	"tip_change_main" : "Instructions et détails de paiement pour votre donation",
+	"tip_change_link" : "Lien vers le site de paiement",
+	"tip_change_instruction" : "Ouvrez le mode édition pour entrer des détails de paiement spécifiques pour votre donation.",
+	"tip_change_instruction_button" : "Instructions d'édition",
+	"tip_caution" : "REMARQUE : Les détails et instructions de paiement ci-dessus ont été fournis par l'utilisateur ; nous ne les vérifions pas et ne saurions être tenus responsables de leur précision ou leur fiabilité. En cas de doute, n'hésitez pas à utiliser notre méthode de paiement sécurisé à la place.",
+	"tip_go_safe_button" : "Virement sécurisé",
+	"tip_to_user_head" : "Donation à %userName%",
+	"tip_choose_sum" : "Choisissez le montant de votre donation",
+	"tip_safe_description" : "Les fonds reçus seront immédiatement crédités sur le compte de %userName%. En raison de la nature complexe des transactions internationales, les frais prélevés par l'organisme de paiement peuvent malheureusement atteindre 20% à 50% en fonction du pays, du montant, et de la méthode de paiement.",
+	"tip_received": "Une donation de %money% reçue de %userName%",
+	"tip_sended": "%money% donnés à %userName%",
+	"tip_chat_message": "%fromUserName% donne généreusement %money% à toUserName%"
 }
