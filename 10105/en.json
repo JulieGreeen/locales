@@ -1392,7 +1392,7 @@
 	"add_effect_button": "Add effect",
 	"retry": "Retry",
 	"continue": "Ignore",
-	"only_for_vip": "%user% would rather talk only to members of the exclusive VIP status and has restricted incoming messages. %link%",
+	"only_for_vip": "%user% talks to friends and VIP members only. %link%",
 	"vip_link": "Buy VIP status",
 	"hours_elapsed_private_room": "Your private chat time is over. Please make another private call to continue the conversation.",
 	"sign_in_as_guest": "Create Account",
