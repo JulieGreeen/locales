@@ -1294,7 +1294,7 @@
 		"timerX": "85",
 		"timerY": "35",
 		"timerSetX": "121",
-		"timerSetY": "216"
+		"timerSetY": "35"
 	},
 	"ny17_set": "Cozy Xmas",
 	"hlwn_set": "Witch's Shop",
@@ -1320,6 +1320,7 @@
 	"age": "{0} year old|{0} years old",
 	"log_doublecoins": "Coins x2 turned on",
 	"log_doublecoins_off": "Coins x2 turned off",
+    "log_doublecoins_error": "Error, can't apply Coins x2 bonus",
 	"sum_set_price": "Separately cost:",
 	"total_set_price": "Together cost:",
 	"sell_present_new": "Gift from %from% is sold +{0} coins\r\n%present%",
