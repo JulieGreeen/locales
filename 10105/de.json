@@ -1509,6 +1509,8 @@
 	"tip_safe_description" : "Der empfangene Betrag wird %userName% sofort gutgeschrieben. Leider sind internationale Überweisungen sehr komplex, sodass die Gebühr des Zahlungsanbieters 20 % bis 50 % erreichen könnte. Dies ist vom Land, dem Betrag und der Zahlungsweise abhängig.",
 	"tip_received": "Spende in Höhe von %money% von %userName% erhalten",
 	"tip_sended": "%money% an %userName% gespendet",
-	"tip_chat_message": "%fromUserName% hat %toUserName% freundlicherweise %money% gespendet"
+	"tip_chat_message": "%fromUserName% hat %toUserName% freundlicherweise %money% gespendet",
+	"downloading_label" : "Download: %percent%",
+	"installation_label" : "Einstellung"
 
 }

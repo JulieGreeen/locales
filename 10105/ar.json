@@ -1508,5 +1508,7 @@
 	"tip_safe_description" : "سيتم تحويل المبلغ المستلم فوراً لحساب المستخدم %userName%. لسوء الحظ وبسبب طبيعة الحوالات الدولية المعقدة فإن الرسوم التي يقتطعها معالج الدفعة قد تصل من 20% إلى 50% بالاعتماد على الدولة والمبلغ وطريقة الدفع.",
 	"tip_received": "تم استلام تبرع قيمته %money% من المستخدم %userName%",
 	"tip_sended": "تم التبرع بمبلغ %money% إلى المستخدم %userName%",
-	"tip_chat_message": "%fromUserName% تبرع بمبلغ %money% إلى %toUserName%"
+	"tip_chat_message": "%fromUserName% تبرع بمبلغ %money% إلى %toUserName%",
+	"downloading_label" : "تحميل: %percent%",
+	"installation_label" : "محيط"
 }

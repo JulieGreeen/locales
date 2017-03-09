@@ -1518,6 +1518,8 @@
 	"tip_safe_description" : "받은 자금은 즉시 %userName%에게 입금됩니다. 불행히도 복잡한 국제거래의 성격 때문에 지불 진행을 위한 수수료는 국가, 금액 및 지불 방법에 따라 20%~50%에 달합니다.",
 	"tip_received": "%userName%님으로부터 받은 기부금 %money%",
 	"tip_sended": "%userName%에게 %money%를 기부했습니다",
-	"tip_chat_message": "%fromUserName%님이 친절하게도 %toUserName%님에게 %money%를 기부하였습니다"
+	"tip_chat_message": "%fromUserName%님이 친절하게도 %toUserName%님에게 %money%를 기부하였습니다",
+	"downloading_label" : "다운로드 : %percent%",
+	"installation_label" : "환경"
 
 }

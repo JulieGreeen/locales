@@ -1518,6 +1518,8 @@
 	"tip_safe_description" : "受け取った資金は即時に%userName%へ充当されます。残念ながら、国際送金の複雑な性格上、決済処理会社の手数料は、国や金額、支払い方法によって、20%から50%になる場合もあります。",
 	"tip_received": "%money%の寄付を%userName%から受けました",
 	"tip_sended": "%money%が%userName%に寄付されました",
-	"tip_chat_message": "%fromUserName%が、親切にも%money%を%toUserName%に寄付しました。"
+	"tip_chat_message": "%fromUserName%が、親切にも%money%を%toUserName%に寄付しました。",
+	"downloading_label" : "ダウンロード： %percent%",
+	"installation_label" : "設定"
 
 }

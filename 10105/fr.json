@@ -1489,5 +1489,7 @@
 	"tip_safe_description" : "Les fonds reçus seront immédiatement crédités sur le compte de %userName%. En raison de la nature complexe des transactions internationales, les frais prélevés par l'organisme de paiement peuvent malheureusement atteindre 20% à 50% en fonction du pays, du montant, et de la méthode de paiement.",
 	"tip_received": "Une donation de %money% reçue de %userName%",
 	"tip_sended": "%money% donnés à %userName%",
-	"tip_chat_message": "%fromUserName% donne généreusement %money% à toUserName%"
+	"tip_chat_message": "%fromUserName% donne généreusement %money% à toUserName%",
+	"downloading_label" : "Télécharger: %percent%",
+	"installation_label" : "Réglage"
 }

@@ -1537,5 +1537,7 @@
 	"tip_safe_description" : "Alınan para, anında %userName% kullanıcısına yatırılacaktır. Ne yazık ki, uluslararası işlemlerinin karmaşık yapısı nedeniyle, ödeme işlemcisinin ücreti, ülkeye, miktara ve ödeme yöntemine bağlı olarak %20 ila %50'ye ulaşabilir.",
 	"tip_received": "%userName% kullanıcısından %money% bağış alındı",
 	"tip_sended": "%userName% kullanıcısına %money% bağış yapıldı",
-	"tip_chat_message": "%fromUserName% kullanıcısı, %toUserName% kullanıcısına içtenlikle %money% bağışta bulundu"
+	"tip_chat_message": "%fromUserName% kullanıcısı, %toUserName% kullanıcısına içtenlikle %money% bağışta bulundu",
+	"downloading_label" : "İndir: %percent%",
+	"installation_label" : "Ayar"
 }

@@ -1527,5 +1527,8 @@
 	"tip_received": "Получено пожертвование %money% от %userName%",
 	"tip_sended": "Пожертвовано %money% для %userName%",
 	"tip_chat_message": "%fromUserName% благародно жертвует %money% для %toUserName%",
-	"plus_to_our_site": "Перейти на сайт"
+	"plus_to_our_site": "Перейти на сайт",
+	"downloading_label" : "Скачивание: %percent%",
+	"installation_label" : "Установка"
+
 }
