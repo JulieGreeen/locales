@@ -1549,6 +1549,8 @@
 	"tip_safe_description" : "The funds received will be instantly credited to %userName%. Unfortunately, due to the complex nature of international transactions, the payment processor's fee may reach 20% to 50%, depending on the country, the amount, and the method of payment.",
 	"tip_received": "A %money% donation received from %userName%",
 	"tip_sended": "%money% donated to %userName%",
-	"tip_chat_message": "%fromUserName% kindly donates %money% to %toUserName%"
+	"tip_chat_message": "%fromUserName% kindly donates %money% to %toUserName%",
+	"downloading_label" : "Downloading: %percent%",
+	"installation_label" : "Installation"
 
 }
