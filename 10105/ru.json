@@ -1529,6 +1529,9 @@
 	"tip_chat_message": "%fromUserName% благародно жертвует %money% для %toUserName%",
 	"plus_to_our_site": "Перейти на сайт",
 	"downloading_label" : "Скачивание: %percent%",
-	"installation_label" : "Установка"
-
+	"installation_label" : "Установка",
+    "your_energy":"У вас {0} единиц энергии",
+    "max_energy":"Максимум {0} энергии",
+    "restore_energy":"Восстановить энергию за {0} монет",
+    "log_energy_restore":"Энергия восстановлена"
 }

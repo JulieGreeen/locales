@@ -1551,6 +1551,9 @@
 	"tip_sended": "%money% donated to %userName%",
 	"tip_chat_message": "%fromUserName% kindly donates %money% to %toUserName%",
 	"downloading_label" : "Downloading: %percent%",
-	"installation_label" : "Installation"
-
+	"installation_label" : "Installation",
+    "your_energy":"You have a {0} points of energy",
+    "max_energy":"Maximum level of energy is {0} ",
+    "restore_energy":"Restore energy for {0} coins",
+    "log_energy_restore":"Energy restored"
 }

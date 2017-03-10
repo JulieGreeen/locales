@@ -1520,6 +1520,9 @@
 	"tip_sended": "%userName%에게 %money%를 기부했습니다",
 	"tip_chat_message": "%fromUserName%님이 친절하게도 %toUserName%님에게 %money%를 기부하였습니다",
 	"downloading_label" : "다운로드 : %percent%",
-	"installation_label" : "환경"
-
+	"installation_label" : "환경",
+    "your_energy":"{0}포인트의 에너지가 있습니다 ",
+    "max_energy":"최대 에너지 레벨은 {0}입니다",
+    "restore_energy":"{0}코인으로 에너지를 회복하세요",
+    "log_energy_restore":"에너지가 회복되었습니다"
 }
