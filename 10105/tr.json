@@ -1543,5 +1543,7 @@
     "your_energy":"{0} enerji puanınız var",
     "max_energy":"Maksimum enerji seviyesi {0}",
     "restore_energy":"{0} altın için enerji yenileyin",
+    "auto_restore_energy":"Otomatik enerji yenileme",
+    "auto_restore_descr":"Enerji seviyesi, sizin dikkatinizi dağıtmamak için, otomatik olarak tekrar dolduruldu. 1 coin için {0} enerji puanı alırsınız",
     "log_energy_restore":"Enerji yenilendi"
 }

@@ -1524,5 +1524,7 @@
     "your_energy":"{0}포인트의 에너지가 있습니다 ",
     "max_energy":"최대 에너지 레벨은 {0}입니다",
     "restore_energy":"{0}코인으로 에너지를 회복하세요",
+    "auto_restore_energy":"자동 에너지 회복",
+    "auto_restore_descr":"플레이에 방해되지 않도록 에너지 레벨이 자동으로 채워집니다. 1코인 당 {0} 에너지 포인트를 얻습니다",
     "log_energy_restore":"에너지가 회복되었습니다"
 }

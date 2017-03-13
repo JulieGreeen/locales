@@ -1515,5 +1515,7 @@
     "your_energy":"Du hast {0} Energiepunkte",
     "max_energy":"Das maximale Energieniveau beträgt {0}",
     "restore_energy":"Stelle Energie wieder her für {0} Münzen",
+    "auto_restore_energy":"Automatische Energieaufladung",
+    "auto_restore_descr":"Das Energieniveau wird automatisch wieder gefüllt, um dich nicht abzulenken. Für 1 Münze erhältst du {0} Energiepunkte.",
     "log_energy_restore":"Energie wiederhergestellt"
 }

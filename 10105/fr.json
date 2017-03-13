@@ -1495,5 +1495,7 @@
     "your_energy":"Vous avez {0} de points d'énergie",
     "max_energy":"Le niveau maximum d'énergie est {0}",
     "restore_energy":"Restaurer de l'énergie pour {0} pièces",
+    "auto_restore_energy":"Rétablissement énergétique automatique",
+    "auto_restore_descr":"Le niveau d'énergie est rétabli automatiquement afin de ne pas détourner votre attention. Pour 1 pièce, vous obtenez {0} de points d'énergie",
     "log_energy_restore":"Énergie restaurée"
 }

@@ -1555,5 +1555,7 @@
     "your_energy":"You have a {0} points of energy",
     "max_energy":"Maximum level of energy is {0} ",
     "restore_energy":"Restore energy for {0} coins",
+    "auto_restore_energy":"Automatic energy restore",
+    "auto_restore_descr":"The energy level is replenished automatically in order not to distract you. For 1 coin you get {0} of energy points",
     "log_energy_restore":"Energy restored"
 }
