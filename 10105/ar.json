@@ -715,7 +715,7 @@
 	"whisper": "همس",
 	"sticker_silenes_warning": "لا يمكنك كتابة الرسائل عندما يكون تأثير بطاقة %sticker1% نشطاً. استخدام بطاقة %sticker2% للتخلص منها",
 	"lacks_energy_warning": "ليس لديك ما يكفي من الطاقة للقيام بهذا التأثير، استخدم بطاقة %card% أو انتظر حتى تستر طاقتك",
-    "lacks_energy_warning2": "للا يوجد ما يكفي من الطاقة! يمكنك %restore% الاستعادة التلقائية %auto%!",
+    "lack_energy_warning2": "للا يوجد ما يكفي من الطاقة! يمكنك %restore% الاستعادة التلقائية %auto%!",
     "lack_energy_restore":"استعادة الطا",
 	"sticker_death_warning": "لا يمكنك استخدام البطاقات عندما يكون تأثير %card% نشطاً",
 	"sticker_revive_warning": "يمكنك استخدام هذه البطاقة فقط لإزالة تأثير %card%",

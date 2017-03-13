@@ -727,7 +727,7 @@
 	"whisper": "ささやく",
 	"sticker_silenes_warning": "%sticker1%カードが効力を発しているときにメッセージを書くことはできません。%sticker2%カードを使ってそれを排除してください",
 	"lacks_energy_warning": "あなたはこのアクションをするのに十分なエネルギーを持っていません。%card%カードを使うか、エネルギーが回復するまでお待ちください",
-    "lacks_energy_warning2": "エネルギーが足りません! %restore% か、または %auto% にしてください!",
+    "lack_energy_warning2": "エネルギーが足りません! %restore% か、または %auto% にしてください!",
     "lack_energy_restore":"エネルギーを回復させる",
 	"sticker_death_warning": "あなたはカードを%card%の効力を取り除くためにこのカードだけを使うことができます",
 	"sticker_revive_warning": "あなたはカードを%card%の効力を取り除くためにこのカードだけを使うことができます",

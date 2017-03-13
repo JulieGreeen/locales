@@ -706,7 +706,7 @@
 	"whisper": "Fısılda",
 	"sticker_silenes_warning": "%sticker1% kartı etkiliyken mesaj yazamazsın. Kurtulmak için %sticker2% kartını kullan",
 	"lacks_energy_warning": "Bu eylem için yeterli enerjin yok, %card% kartını kullan veya enerjin geri kazanılana kadar bekle",
-    "lacks_energy_warning2": "Yeterli enerji yok! %restore% veya %auto% etkinleştirebilirsiniz!",
+    "lack_energy_warning2": "Yeterli enerji yok! %restore% veya %auto% etkinleştirebilirsiniz!",
     "lack_energy_restore":"Enerjiyi geri yükleyebilirsiniz",
 	"sticker_death_warning": "%card% efekti etkinken kartları kullanamazsın",
 	"sticker_revive_warning": "Bu kartı yalnızca %card% efektini kaldırmak için kullanabilirsin",

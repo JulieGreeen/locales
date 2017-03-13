@@ -740,7 +740,7 @@
 	"whisper": "Flüstern",
 	"sticker_silenes_warning": "Sie können keine Nachrichten schreiben, solange der %sticker1%-Karte wirkt. Setzen Sie den %sticker2%-Karte ein, um ihn loszuwerden",
 	"lacks_energy_warning": "Sie haben nicht genügend Energie für diese Aktion. Setzen Sie den %card%-Sticker ein oder warten Sie, bis die Energie wieder aufgeladen ist",
-    "lacks_energy_warning2": "Nicht genug Energie! Du kannst %restore% oder die %auto% aktivieren!",
+    "lack_energy_warning2": "Nicht genug Energie! Du kannst %restore% oder die %auto% aktivieren!",
     "lack_energy_restore":"Energie aufladen",
 	"sticker_death_warning": "Sie können keine Karte einsetzen, solange der %card%-Effekt aktiv ist",
 	"sticker_revive_warning": "Sie können diesen Karte nur einsetzen, um den %card%-Effekt zu aufzuheben",
