@@ -1528,6 +1528,7 @@
 	"tip_sended": "Пожертвовано %money% для %userName%",
 	"tip_chat_message": "%fromUserName% благародно жертвует %money% для %toUserName%",
 	"plus_to_our_site": "Перейти на сайт",
+	"plus_to_download_apk": "Скачать приложение",
 	"downloading_label" : "Скачивание: %percent%",
 	"installation_label" : "Установка"
 
