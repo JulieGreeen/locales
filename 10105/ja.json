@@ -696,7 +696,7 @@
 	"obi_wan_lightsaber": "オビ＝ワン・ケノービの伝説的な刀",
 	"obi_wan_lightsaber_description": "まさにこのライトセーバーが、偉大なマスターオビ＝ワン・ケノービとダース・ベーダーの決闘で使われました。  明るいサイドをしっかりと取り入れましょう：刀の純粋なエネルギーをマスターして、ジェダイが銀河に正義をもたらすのを手助けしましょう。",
 	"energy_info_title": "エネルギー {0} <span color='#999999'> / {1}</span>",
-	"energy_info_descr": "実世界のように、チャットである行動をとるにはエネルギーが必要で、回復には時間がかかります。待つのが嫌な場合は、≪{0}≫カードを使うことで即座にエネルギーを満たすことができます。",
+	"energy_info_descr": "実世界のように、チャットである行動をとるにはエネルギーが必要で、回復には時間がかかります。",
 	"my_stickers": "自分のカード",
 	"stickers": "ステッカー",
 	"stickers_shop": "カードストア",
@@ -1520,6 +1520,9 @@
 	"tip_sended": "%money%が%userName%に寄付されました",
 	"tip_chat_message": "%fromUserName%が、親切にも%money%を%toUserName%に寄付しました。",
 	"downloading_label" : "ダウンロード： %percent%",
-	"installation_label" : "設定"
-
+	"installation_label" : "設定",
+    "your_energy":"あなたは{0}ポイントのエネルギーを持っています",
+    "max_energy":"エネルギーの最高値は{0}です ",
+    "restore_energy":"コイン{0}枚でエネルギーを取り戻す",
+    "log_energy_restore":"エネルギーを取り戻しました"
 }

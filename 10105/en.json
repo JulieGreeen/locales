@@ -675,7 +675,7 @@
 	"obi_wan_lightsaber": "Obi-Wan Kenobi's legendary sword",
 	"obi_wan_lightsaber_description": "Exactly this lightsaber was used by the great master Obi-Wan in his duel with Darth Vader.  Embrace the light side: master the blade's pure energy and help the Jedi ensure a justice in the galaxy.",
 	"energy_info_title": "Energy {0} <span color='#999999'> / {1}</span>",
-	"energy_info_descr": "As in real life, some actions in the chat require Energy and its recovering takes time. If you don't want to wait, then instantly fill the energy by using «{0}» card.",
+	"energy_info_descr": "As in real life, some actions in the chat require Energy and its recovering takes time.",
 	"my_stickers": "My cards",
 	"stickers": "Cards",
 	"stickers_shop": "Card store",
@@ -1551,6 +1551,9 @@
 	"tip_sended": "%money% donated to %userName%",
 	"tip_chat_message": "%fromUserName% kindly donates %money% to %toUserName%",
 	"downloading_label" : "Downloading: %percent%",
-	"installation_label" : "Installation"
-
+	"installation_label" : "Installation",
+    "your_energy":"You have a {0} points of energy",
+    "max_energy":"Maximum level of energy is {0} ",
+    "restore_energy":"Restore energy for {0} coins",
+    "log_energy_restore":"Energy restored"
 }

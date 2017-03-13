@@ -707,7 +707,7 @@
 	"obi_wan_lightsaber": "Épée légendaire Obi-Wan Kenobi",
 	"obi_wan_lightsaber_description": "C'est ce sabre laser qui était utilisé par le grand maître Obi-Wan lors de son duel contre Darth Vader. Embrassez la lumière : maîtrisez la lame d'énergie brute et aidez les Jedi à assurer la justice dans la galaxie.",
 	"energy_info_title": "Énergie {0} <span color='#999999'> / {1}</span>",
-	"energy_info_descr": "Comme dans la vraie vie, certaines actions dans le chat demandent de l'Énergie, et récupérer cette dernier prend du temps. Si vous ne voulez pas attendre, vous pouvez la récupérer instantanément grâce à l'carte «{0}».",
+	"energy_info_descr": "Comme dans la vraie vie, certaines actions dans le chat demandent de l'Énergie, et récupérer cette dernier prend du temps.",
 	"my_stickers": "Mes cartes",
 	"stickers": "Сartes",
 	"stickers_shop": "Magasin de cartes",
@@ -1491,5 +1491,9 @@
 	"tip_sended": "%money% donnés à %userName%",
 	"tip_chat_message": "%fromUserName% donne généreusement %money% à toUserName%",
 	"downloading_label" : "Télécharger: %percent%",
-	"installation_label" : "Réglage"
+	"installation_label" : "Réglage",
+    "your_energy":"Vous avez {0} de points d'énergie",
+    "max_energy":"Le niveau maximum d'énergie est {0}",
+    "restore_energy":"Restaurer de l'énergie pour {0} pièces",
+    "log_energy_restore":"Énergie restaurée"
 }

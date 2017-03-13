@@ -675,7 +675,7 @@
 	"obi_wan_lightsaber": "Obi-Wan Kenobi'nın efsanevi kılıcı",
 	"obi_wan_lightsaber_description": "Bu ışın kılıcı, büyük usta Obi-Wan'ın Darth Vader ile olan düellosunda kullanıldı. Işıklı tarafını eline al: kılıcın saf enerjisinde ustalaş ve Jedi'a, galakside adalet sağlamasına yardımcı ol.",
 	"energy_info_title": "Enerji {0} <span color='#999999'> / {1}</span>",
-	"energy_info_descr": "Gerçek hayattaki gibi, sohbetteki bazı eylemler için Enerjiye ihtiyaç var ve tekrar dolması zaman alıyor. Beklemek istemiyorsan «{0}» kartını kullanarak enerjiyi anında doldurabilirsin.",
+	"energy_info_descr": "Gerçek hayattaki gibi, sohbetteki bazı eylemler için Enerjiye ihtiyaç var ve tekrar dolması zaman alıyor.",
 	"my_stickers": "Kartlarım",
 	"stickers": "Kartlar",
 	"stickers_shop": "Kart mağazası",
@@ -1539,5 +1539,9 @@
 	"tip_sended": "%userName% kullanıcısına %money% bağış yapıldı",
 	"tip_chat_message": "%fromUserName% kullanıcısı, %toUserName% kullanıcısına içtenlikle %money% bağışta bulundu",
 	"downloading_label" : "İndir: %percent%",
-	"installation_label" : "Ayar"
+	"installation_label" : "Ayar",
+    "your_energy":"{0} enerji puanınız var",
+    "max_energy":"Maksimum enerji seviyesi {0}",
+    "restore_energy":"{0} altın için enerji yenileyin",
+    "log_energy_restore":"Enerji yenilendi"
 }

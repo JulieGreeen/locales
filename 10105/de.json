@@ -709,7 +709,7 @@
 	"obi_wan_lightsaber": "Obi-Wan Kenobis legendäres Schwert",
 	"obi_wan_lightsaber_description": "Genau dieses Lichtschwert wurde vom großen Meister Obi-Wan im Duell gegen Darth Vader benutzt. Erkennen Sie die helle Seite der Macht in sich! Lernen Sie, die reine Energie von des Meisters Schwert zu führen und helfen Sie den Jedi-Rittern, Gerechtigkeit in die Galaxie zu bringen.",
 	"energy_info_title": "Energie {0} <span color='#999999'> / {1}</span>",
-	"energy_info_descr": "Wie auch im echten Leben fordern einige Aktionen im Chat Energie und die Wiederherstellung braucht ihre Zeit. Wenn Sie nicht warten möchten, nutzen Sie den «{0}»-Karte, um die Energie sofort wiederaufzufüllen.",
+	"energy_info_descr": "Wie auch im echten Leben fordern einige Aktionen im Chat Energie und die Wiederherstellung braucht ihre Zeit.",
 	"my_stickers": "Meine Karten",
 	"stickers": "Karten",
 	"stickers_shop": "Karten-Store",
@@ -1511,6 +1511,9 @@
 	"tip_sended": "%money% an %userName% gespendet",
 	"tip_chat_message": "%fromUserName% hat %toUserName% freundlicherweise %money% gespendet",
 	"downloading_label" : "Download: %percent%",
-	"installation_label" : "Einstellung"
-
+	"installation_label" : "Einstellung",
+    "your_energy":"Du hast {0} Energiepunkte",
+    "max_energy":"Das maximale Energieniveau beträgt {0}",
+    "restore_energy":"Stelle Energie wieder her für {0} Münzen",
+    "log_energy_restore":"Energie wiederhergestellt"
 }
