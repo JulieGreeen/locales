@@ -738,6 +738,8 @@
 	"whisper": "Murmurer",
 	"sticker_silenes_warning": "Vous ne pouvez pas écrire de message tant que l'carte %sticker1% agit. Utilisez l'carte %sticker2% pour vous en débarrasser",
 	"lacks_energy_warning": "Vous n'avez pas assez d'énergie pour cette action, utilisez l'carte %card% ou attendez de récupérer de l'énergie",
+    "lacks_energy_warning2": "Pas assez d'énergie ! Vous pouvez %restore% ou activer %auto% !",
+    "lack_energy_restore":"restore energy",
 	"sticker_death_warning": "Vous ne pouvez pas utiliser d'carte tant que l'effet de %card% est actif",
 	"sticker_revive_warning": "Vous pouvez uniquement utiliser cet carte pour enlever l'effet %card% ",
 	"sticker_death_warning_to_user": "Tant que l'effet %card% est sur cet utilisateur, aucun carte ne peut être appliqué",

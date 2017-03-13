@@ -706,6 +706,8 @@
 	"whisper": "Whisper",
 	"sticker_silenes_warning": "You cannot write messages while the %sticker1% card is in effect. Use the %sticker2% card to get rid of it",
 	"lacks_energy_warning": "You don't have enough energy for this action, use the %card% card or wait until your energy is recovered",
+    "lacks_energy_warning2": "Not enough energy! You can %restore% or enable %auto%!",
+    "lack_energy_restore":"restore energy",
 	"sticker_death_warning": "You cannot use cards while the %card% effect is active",
 	"sticker_revive_warning": "You can only use this card to remove the %card% effect",
 	"sticker_death_warning_to_user": "While the %card% effect is applied to this user, no cards can be applied",
